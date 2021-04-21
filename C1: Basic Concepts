@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T02:33:29.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="ew8mjng1_qApM3D9bJiL" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T02:41:39.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="kwuCLT1Gb3Medp-ZHknd" version="14.6.1" type="github">
   <diagram id="GxwGH4W0utBrqzH_JeWD" name="Page-1">
-    <mxGraphModel dx="2067" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1033" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="u4l99KCN42WMMYMi7NkH-32" value="ASSESSMENT =&amp;nbsp;procedure by which the income of an assessee is determined by the Assessing officer." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1350" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-34" value="AGRICULTURAL INCOME" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
