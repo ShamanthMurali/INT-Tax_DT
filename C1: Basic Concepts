@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T02:30:52.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="3_qssO7ka6OmusYLI8Vj" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T02:33:29.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="ew8mjng1_qApM3D9bJiL" version="14.6.1" type="github">
   <diagram id="GxwGH4W0utBrqzH_JeWD" name="Page-1">
-    <mxGraphModel dx="709" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2067" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,8 +79,26 @@
         <mxCell id="u4l99KCN42WMMYMi7NkH-24" value="AVERAGE RATE OF TAX =&amp;nbsp;rate arrived at by dividing the amount of tax calculated on the total income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1070" width="440" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-25" target="u4l99KCN42WMMYMi7NkH-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u4l99KCN42WMMYMi7NkH-25" value="MAXIMUM MARGINAL RATE =&amp;nbsp; highest tax leviable on income.&lt;br&gt;&lt;br&gt;The maximum marginal rate for the AY 2021-22 is 42.744%." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1140" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-28" target="u4l99KCN42WMMYMi7NkH-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-28" value="PREVIOUS YEAR = financial year in which the income is earned is referred to as the previous year." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1210" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-29" target="u4l99KCN42WMMYMi7NkH-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-29" value="ASSESSMENT YEAR =&amp;nbsp;The period of 12 months commencing on the 1st day of April every year is known as the assessment year. An assessment year is a financial year which immediately succeeds the relevant previous year." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1280" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-32" value="ASSESSMENT =&amp;nbsp;procedure by which the income of an assessee is determined by the Assessing officer." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1350" width="440" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
