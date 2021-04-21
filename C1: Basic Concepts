@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T03:42:54.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="c9wdEPPH2b2euK3bvt2u" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T03:57:52.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="GlhCngTYT3GxBznmgO5H" version="14.6.1" type="github">
   <diagram id="GxwGH4W0utBrqzH_JeWD" name="Page-1">
-    <mxGraphModel dx="709" dy="277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1440" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,20 +100,23 @@
         <mxCell id="u4l99KCN42WMMYMi7NkH-32" value="ASSESSMENT =&amp;nbsp;procedure by which the income of an assessee is determined by the Assessing officer." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1350" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u4l99KCN42WMMYMi7NkH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-34" target="u4l99KCN42WMMYMi7NkH-35">
+        <mxCell id="u4l99KCN42WMMYMi7NkH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-76" target="u4l99KCN42WMMYMi7NkH-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-34" target="u4l99KCN42WMMYMi7NkH-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u4l99KCN42WMMYMi7NkH-34" value="AGRICULTURAL INCOME" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1440" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="2840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4l99KCN42WMMYMi7NkH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-35" target="u4l99KCN42WMMYMi7NkH-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u4l99KCN42WMMYMi7NkH-35" value="&lt;div&gt;Agricultural income derived in India is exempt from income- tax defines &quot;agricultural income&quot; to mean-&lt;/div&gt;&lt;div&gt;a)&lt;span&gt;	&lt;/span&gt;any rent or revenue derived from land, which is situated in India and is used for agricultural purposes;&lt;/div&gt;&lt;div&gt;b)&lt;span&gt;	&lt;/span&gt;any income derived from such land by agriculture or by the process employed to render the produce fit for the market or by sale of such produce by a cultivator or receiver of rent in kind;&lt;/div&gt;&lt;div&gt;c)&lt;span&gt;	&lt;/span&gt;any income derived from farm building, subject to the following conditions: -&lt;/div&gt;&lt;div&gt;i)&lt;span&gt;	&lt;/span&gt;the building is on or in the immediate vicinity(close to) of the agricultural land;&lt;/div&gt;&lt;div&gt;ii)&lt;span&gt;	&lt;/span&gt;it is occupied by the cultivator or receiver of rent or revenue;&lt;/div&gt;&lt;div&gt;iii)&lt;span&gt;	&lt;/span&gt;it is used as a dwelling house or store-house or out-house; and&lt;/div&gt;&lt;div&gt;iv)&lt;span&gt;	&lt;/span&gt;the land is assessed to land revenue in India or it is situated in rural area.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1500" width="440" height="180" as="geometry" />
+          <mxGeometry x="-40" y="2970" width="440" height="180" as="geometry" />
         </mxCell>
         <mxCell id="u4l99KCN42WMMYMi7NkH-37" value="agricultural land is situated outside India, the character of income derived there from cannot be considered as agricultural income.&amp;nbsp;income arising from agricultural operations carried on outside India is chargeable to tax in India." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1700" width="440" height="50" as="geometry" />
+          <mxGeometry x="-40" y="3170" width="440" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u4l99KCN42WMMYMi7NkH-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-39" target="u4l99KCN42WMMYMi7NkH-46">
           <mxGeometry relative="1" as="geometry" />
@@ -208,6 +211,54 @@
         </mxCell>
         <mxCell id="u4l99KCN42WMMYMi7NkH-73" value="Computation of Total tax liability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="1060" y="2030" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-74" target="u4l99KCN42WMMYMi7NkH-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-74" value="&lt;b&gt;&lt;u&gt;Rounding off&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Total shall be rounded of to nearest ten rupees.&lt;br&gt;note: 5 shall be rounded to next ten rupees&lt;br&gt;(i.e 1 to 4 = previous 10,&lt;br&gt;&amp;nbsp;5 to 9 = next 10)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="2170" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-76" value="&lt;b&gt;Income from agriculture only&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2900" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-34" target="u4l99KCN42WMMYMi7NkH-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420.0588235294117" y="2880" as="sourcePoint" />
+            <mxPoint x="180.0588235294117" y="2960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-78" target="u4l99KCN42WMMYMi7NkH-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-78" target="u4l99KCN42WMMYMi7NkH-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-78" value="&lt;b&gt;Income which is partially agricultural and partially from business&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2910" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-80" target="u4l99KCN42WMMYMi7NkH-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-80" value="Used as input&lt;br&gt;(raw material)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="3000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-81" target="u4l99KCN42WMMYMi7NkH-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-81" value="Sold seperatly" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="3000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-84" value="Taxable income = total income - agricultural income" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452.5" y="3130" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-85" target="u4l99KCN42WMMYMi7NkH-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-85" value="agricultural income = cost of agricultural goods produced at MP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452.5" y="3060" width="175" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-89" value="Taxable income = total income - (agricultural income) - (Expenses for producing agricultural income)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="692.5" y="3060" width="175" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
