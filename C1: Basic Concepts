@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T03:57:52.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="GlhCngTYT3GxBznmgO5H" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T04:02:28.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="QPm3HknBIwyNWm51ZfNY" version="14.6.1" type="github">
   <diagram id="GxwGH4W0utBrqzH_JeWD" name="Page-1">
     <mxGraphModel dx="1440" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -236,29 +236,41 @@
         <mxCell id="u4l99KCN42WMMYMi7NkH-78" value="&lt;b&gt;Income which is partially agricultural and partially from business&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="2910" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u4l99KCN42WMMYMi7NkH-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-80" target="u4l99KCN42WMMYMi7NkH-85">
+        <mxCell id="u4l99KCN42WMMYMi7NkH-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-80" target="u4l99KCN42WMMYMi7NkH-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u4l99KCN42WMMYMi7NkH-80" value="Used as input&lt;br&gt;(raw material)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="3000" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u4l99KCN42WMMYMi7NkH-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-81" target="u4l99KCN42WMMYMi7NkH-89">
+        <mxCell id="u4l99KCN42WMMYMi7NkH-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-81" target="u4l99KCN42WMMYMi7NkH-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u4l99KCN42WMMYMi7NkH-81" value="Sold seperatly" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="3000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4l99KCN42WMMYMi7NkH-84" value="Taxable income = total income - agricultural income" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="452.5" y="3130" width="175" height="40" as="geometry" />
+          <mxGeometry x="692.5" y="3190" width="175" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4l99KCN42WMMYMi7NkH-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-85" target="u4l99KCN42WMMYMi7NkH-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u4l99KCN42WMMYMi7NkH-85" value="agricultural income = cost of agricultural goods produced at MP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="452.5" y="3060" width="175" height="50" as="geometry" />
+          <mxGeometry x="692.5" y="3120" width="175" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u4l99KCN42WMMYMi7NkH-89" value="Taxable income = total income - (agricultural income) - (Expenses for producing agricultural income)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="692.5" y="3060" width="175" height="70" as="geometry" />
+          <mxGeometry x="452.5" y="3120" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-91" target="u4l99KCN42WMMYMi7NkH-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-91" value="if the agricultural goods are used as raw material for non agriculture business." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="3060" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="u4l99KCN42WMMYMi7NkH-94" target="u4l99KCN42WMMYMi7NkH-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4l99KCN42WMMYMi7NkH-94" value="if the agricultural goods are sold seperatly and not used in non agriculture business." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="3060" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
