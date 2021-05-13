@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T19:49:13.649Z" agent="5.0 (X11)" version="14.6.12" etag="JTyfdXVAchEewjnErup2" type="github"><diagram id="K5n5NKEANw-pBPn6umjL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-13T19:57:00.279Z" agent="5.0 (X11)" etag="CNKTfOaSJzxkhdd-IUyO" version="14.6.12" type="github">
+  <diagram id="K5n5NKEANw-pBPn6umjL" name="Page-1">
+    <mxGraphModel dx="859" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KgAVV6lW44p59MItbvFm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KgAVV6lW44p59MItbvFm-1" target="KgAVV6lW44p59MItbvFm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KgAVV6lW44p59MItbvFm-1" target="KgAVV6lW44p59MItbvFm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-1" value="Residential status" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;" edge="1" parent="1" source="KgAVV6lW44p59MItbvFm-2" target="KgAVV6lW44p59MItbvFm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-2" value="Resident" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-3" value="Non Resident" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KgAVV6lW44p59MItbvFm-4" target="KgAVV6lW44p59MItbvFm-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KgAVV6lW44p59MItbvFm-4" target="KgAVV6lW44p59MItbvFm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-4" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-4">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-6" value="1. stays in India for 182 days or more in PY" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-5">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-4">
+          <mxGeometry y="40" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-8" value="&lt;div&gt;2. stays in india for 60 days &lt;br&gt;&lt;/div&gt;&lt;div&gt;and &lt;br&gt;&lt;/div&gt;&lt;div&gt;stays in india for minimum 365 days during 4 preceding PY&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-7">
+          <mxGeometry width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-13" value="&lt;div&gt;resident and&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ordinary resident&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KgAVV6lW44p59MItbvFm-14" target="KgAVV6lW44p59MItbvFm-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-14" value="&lt;div&gt;resident but&lt;/div&gt;&lt;div&gt;not ordinary resident&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KgAVV6lW44p59MItbvFm-13" target="KgAVV6lW44p59MItbvFm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-17" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" vertex="1" parent="1">
+          <mxGeometry y="340" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-17">
+          <mxGeometry width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-19" value="&lt;div&gt;1. stays in India for minimum 730 days(2 years) during 7 preceding PY&lt;/div&gt;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;resident in minimum 2 years out of 10 &lt;br&gt;&lt;/div&gt;&lt;div&gt;preceding PY&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-18">
+          <mxGeometry width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-24" value="who is not ordinary" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
