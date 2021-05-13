@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T20:53:40.225Z" agent="5.0 (X11)" etag="87JhLtcxPZBjDxaqy2vG" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-13T20:58:58.648Z" agent="5.0 (X11)" etag="MGSTutcNsSSsuppVNpr4" version="14.6.12" type="github">
   <diagram id="K5n5NKEANw-pBPn6umjL" name="Page-1">
-    <mxGraphModel dx="2310" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1706" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -398,7 +398,7 @@
           <mxGeometry x="1240" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-174" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="480" width="360" height="640" as="geometry" />
+          <mxGeometry x="1120" y="480" width="360" height="660" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-175" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KgAVV6lW44p59MItbvFm-174">
           <mxGeometry width="360" height="40" as="geometry" />
@@ -613,7 +613,7 @@
         <mxCell id="KgAVV6lW44p59MItbvFm-245" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KgAVV6lW44p59MItbvFm-174">
           <mxGeometry y="560" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-246" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KgAVV6lW44p59MItbvFm-245">
+        <mxCell id="KgAVV6lW44p59MItbvFm-246" value="Income earned out side india for a profession controlled from india" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KgAVV6lW44p59MItbvFm-245">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-247" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KgAVV6lW44p59MItbvFm-245">
@@ -626,19 +626,19 @@
           <mxGeometry x="300" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-240" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KgAVV6lW44p59MItbvFm-174">
-          <mxGeometry y="600" width="360" height="40" as="geometry" />
+          <mxGeometry y="600" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-241" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KgAVV6lW44p59MItbvFm-240">
-          <mxGeometry width="180" height="40" as="geometry" />
+        <mxCell id="KgAVV6lW44p59MItbvFm-241" value="Income earned out side india for a profession controlled outside india" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KgAVV6lW44p59MItbvFm-240">
+          <mxGeometry width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-242" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KgAVV6lW44p59MItbvFm-240">
-          <mxGeometry x="180" width="60" height="40" as="geometry" />
+          <mxGeometry x="180" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-243" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KgAVV6lW44p59MItbvFm-240">
-          <mxGeometry x="240" width="60" height="40" as="geometry" />
+          <mxGeometry x="240" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-244" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KgAVV6lW44p59MItbvFm-240">
-          <mxGeometry x="300" width="60" height="40" as="geometry" />
+          <mxGeometry x="300" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-258" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/check-tick-mark-correct-choose-128.png;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="560" width="40" height="40" as="geometry" />
@@ -678,6 +678,15 @@
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-270" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/check-tick-mark-correct-choose-128.png;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="920" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-272" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/check-tick-mark-correct-choose-128.png;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1040" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-273" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/check-tick-mark-correct-choose-128.png;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="1040" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-274" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/check-tick-mark-correct-choose-128.png;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1080" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
