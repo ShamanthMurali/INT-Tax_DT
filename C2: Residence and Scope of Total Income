@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T21:01:23.022Z" agent="5.0 (X11)" etag="_RqMB1H70Kiab6phu2bz" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-13T21:19:56.492Z" agent="5.0 (X11)" etag="f8A68EBFEf9Gi3dQVtgQ" version="14.6.12" type="github">
   <diagram id="K5n5NKEANw-pBPn6umjL" name="Page-1">
-    <mxGraphModel dx="2091" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1884" dy="1561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,13 +40,13 @@
         <mxCell id="KgAVV6lW44p59MItbvFm-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-4">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-6" value="&lt;b&gt;a&lt;/b&gt;. stays in India for 182 days or more in PY" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-5">
+        <mxCell id="KgAVV6lW44p59MItbvFm-6" value="&lt;b&gt;a&lt;/b&gt;. stays in India for 182 days(6 months) or more in PY" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-5">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-4">
           <mxGeometry y="40" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-8" value="&lt;div&gt;&lt;b&gt;b&lt;/b&gt;. stays in india for 60 days &lt;br&gt;&lt;/div&gt;&lt;div&gt;and &lt;br&gt;&lt;/div&gt;&lt;div&gt;stays in india for minimum 365 days during 4 preceding PY&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-7">
+        <mxCell id="KgAVV6lW44p59MItbvFm-8" value="&lt;div&gt;&lt;b&gt;b&lt;/b&gt;. stays in india for 60* days &lt;br&gt;&lt;/div&gt;&lt;div&gt;and &lt;br&gt;&lt;/div&gt;&lt;div&gt;stays in india for minimum 365 days(1 year) &lt;br&gt;&lt;/div&gt;&lt;div&gt;during 4 preceding PY&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-7">
           <mxGeometry width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-13" value="&lt;div&gt;resident and&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ordinary resident&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
@@ -73,8 +73,8 @@
         <mxCell id="KgAVV6lW44p59MItbvFm-24" value="who is not ordinary" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-27" value="For calculation of days both &lt;u&gt;date of arrival&lt;/u&gt; and &lt;u&gt;date of departure shall be considered&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="30" width="90" height="80" as="geometry" />
+        <mxCell id="KgAVV6lW44p59MItbvFm-27" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. For calculation of days both &lt;u&gt;date of arrival&lt;/u&gt; and &lt;u&gt;date of departure shall be considered&lt;/u&gt;&lt;/div&gt;&lt;div&gt;2. stay need not be continues&lt;br&gt;&lt;u&gt;&lt;/u&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-60" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-35" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="80" width="280" height="220" as="geometry" />
@@ -691,8 +691,8 @@
         <mxCell id="KgAVV6lW44p59MItbvFm-275" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/check-tick-mark-correct-choose-128.png;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="760" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-276" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="-160" width="280" height="200" as="geometry" />
+        <mxCell id="KgAVV6lW44p59MItbvFm-276" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="-210" width="280" height="260" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-277" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-276">
           <mxGeometry width="280" height="40" as="geometry" />
@@ -700,29 +700,35 @@
         <mxCell id="KgAVV6lW44p59MItbvFm-278" value="&lt;b&gt;Amendment Finance act 2020&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-277">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-279" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-276">
+        <mxCell id="KgAVV6lW44p59MItbvFm-287" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-276">
           <mxGeometry y="40" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-280" value="1. indian citizen leaving india during PY as a crew member of indian ship" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-279">
+        <mxCell id="KgAVV6lW44p59MItbvFm-288" value="Applies to - person of indian origin, visiting india." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-287">
+          <mxGeometry width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-279" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-276">
+          <mxGeometry y="100" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-280" value="1. If indian Income is greater than 15 lakhs" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-279">
           <mxGeometry width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-281" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-276">
-          <mxGeometry y="100" width="280" height="40" as="geometry" />
+          <mxGeometry y="160" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-282" value="2. indian citizen leaving india during PY for the purpose of employment outside india" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-281">
+        <mxCell id="KgAVV6lW44p59MItbvFm-282" value="2. is not covered by exception to basic condition &lt;b&gt;b&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-281">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-283" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-276">
-          <mxGeometry y="140" width="280" height="60" as="geometry" />
+          <mxGeometry y="200" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-284" value="3. indian citizen and indian origin coming to india on a visit" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-283">
+        <mxCell id="KgAVV6lW44p59MItbvFm-284" value="3. but in basic condition b use 120 days instead of 60* days" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-283">
           <mxGeometry width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-285" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KgAVV6lW44p59MItbvFm-7" target="KgAVV6lW44p59MItbvFm-281">
+        <mxCell id="KgAVV6lW44p59MItbvFm-285" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0066CC;entryX=1.009;entryY=0.778;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KgAVV6lW44p59MItbvFm-7" target="KgAVV6lW44p59MItbvFm-279">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="60" y="210" />
-              <mxPoint x="60" y="-30" />
+              <mxPoint x="60" y="-63" />
             </Array>
           </mxGeometry>
         </mxCell>
