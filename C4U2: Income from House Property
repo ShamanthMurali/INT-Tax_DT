@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T14:50:50.853Z" agent="5.0 (X11)" etag="P6vev5_ybCwmf9pmHY8Q" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T14:54:41.515Z" agent="5.0 (X11)" etag="SaMXAzlA1TUuMAZ2OTh9" version="14.6.13" type="github">
   <diagram id="XIx5sxYSYG17C3VzDqbZ" name="Page-1">
-    <mxGraphModel dx="4198" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3484" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,54 +59,69 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-17" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="120" width="400" height="410" as="geometry" />
+          <mxGeometry x="140" y="120" width="580" height="410" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-17" vertex="1">
-          <mxGeometry width="400" height="20" as="geometry" />
+          <mxGeometry width="580" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-19" value="Owner" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-18" vertex="1">
           <mxGeometry width="180" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-64" value="Co-owners" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-18">
+          <mxGeometry x="180" width="180" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-20" value="Deemed owner" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-18" vertex="1">
-          <mxGeometry x="180" width="220" height="20" as="geometry" />
+          <mxGeometry x="360" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-17" vertex="1">
-          <mxGeometry y="20" width="400" height="110" as="geometry" />
+          <mxGeometry y="20" width="580" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-22" value="The person in whos name the property is" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-21" vertex="1">
           <mxGeometry width="180" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-65" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;For LOP/DLOP&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Assume as one person and do computation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-divide it b/w co owners in their co owner ratio&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-21">
+          <mxGeometry x="180" width="180" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-23" value="&lt;div&gt;1. individual transfer house property-&lt;/div&gt;&lt;div&gt;a. without consideration&lt;/div&gt;&lt;div&gt;b. inadequate consideration&lt;/div&gt;&lt;div&gt;to-&lt;/div&gt;&lt;div&gt;i. wife&lt;/div&gt;&lt;div&gt;ii. minor children&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-21" vertex="1">
-          <mxGeometry x="180" width="220" height="110" as="geometry" />
+          <mxGeometry x="360" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-17" vertex="1">
-          <mxGeometry y="130" width="400" height="150" as="geometry" />
+          <mxGeometry y="130" width="580" height="150" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-33" vertex="1">
           <mxGeometry width="180" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-66" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;SOP&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;-unit wise calculation&lt;/div&gt;&lt;div&gt;-200k/30k limit is available&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-33">
+          <mxGeometry x="180" width="180" height="150" as="geometry" />
+        </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-35" value="&lt;div&gt;2. tansfer of property act&lt;/div&gt;&lt;div&gt;if-&lt;/div&gt;&lt;div&gt;a. agreement is in writing&lt;/div&gt;&lt;div&gt;b. buyer has made part or full payment &lt;br&gt;&lt;/div&gt;&lt;div&gt;of consideration&lt;/div&gt;&lt;div&gt;c. buyer has possession of property&lt;/div&gt;&lt;div&gt;-if satisfied he shall be the deemed owner&lt;/div&gt;&lt;div&gt;[house sale is almost done]&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-33" vertex="1">
-          <mxGeometry x="180" width="220" height="150" as="geometry" />
+          <mxGeometry x="360" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-17" vertex="1">
-          <mxGeometry y="280" width="400" height="90" as="geometry" />
+          <mxGeometry y="280" width="580" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-31" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-30" vertex="1">
           <mxGeometry width="180" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-67" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-30">
+          <mxGeometry x="180" width="180" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-32" value="&lt;div&gt;3. Any transaction that enables the enjoyment of immovable property&lt;/div&gt;&lt;div&gt;[becoming a member of co-op society/company/aop (i.e to buy apartments etc.)]&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-30" vertex="1">
-          <mxGeometry x="180" width="220" height="90" as="geometry" />
+          <mxGeometry x="360" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-17" vertex="1">
-          <mxGeometry y="370" width="400" height="40" as="geometry" />
+          <mxGeometry y="370" width="580" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-28" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-27" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TjDeqmaA3nFOe0POnVrV-29" value="4. lease for 12 years or more" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-27" vertex="1">
-          <mxGeometry x="180" width="220" height="40" as="geometry" />
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-68" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-27">
+          <mxGeometry x="180" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TjDeqmaA3nFOe0POnVrV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.474;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;" parent="1" source="TjDeqmaA3nFOe0POnVrV-36" target="TjDeqmaA3nFOe0POnVrV-18" edge="1">
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-29" value="4. lease for 12 years or more" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-27" vertex="1">
+          <mxGeometry x="360" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TjDeqmaA3nFOe0POnVrV-36" target="TjDeqmaA3nFOe0POnVrV-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-36" value="Owner" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
