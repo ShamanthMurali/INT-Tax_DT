@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T14:47:47.928Z" agent="5.0 (X11)" etag="anrsqw5_oUDHCfrIX7LR" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T14:50:50.853Z" agent="5.0 (X11)" etag="P6vev5_ybCwmf9pmHY8Q" version="14.6.13" type="github">
   <diagram id="XIx5sxYSYG17C3VzDqbZ" name="Page-1">
-    <mxGraphModel dx="5863" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4198" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -374,6 +374,9 @@
         <mxCell id="ocy-u_kq5uSuEEq_DpbD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocy-u_kq5uSuEEq_DpbD-1" target="ocy-u_kq5uSuEEq_DpbD-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocy-u_kq5uSuEEq_DpbD-1" target="ocy-u_kq5uSuEEq_DpbD-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ocy-u_kq5uSuEEq_DpbD-1" value="Types of property" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
@@ -499,6 +502,21 @@
         </mxCell>
         <mxCell id="ocy-u_kq5uSuEEq_DpbD-57" value="&lt;div&gt;If assesse is in the business of selling properties or part of properties (apartments)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-and they are not occupied&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-ALV shall be taken as Nil&lt;/div&gt;&lt;div&gt;- for 2 years&lt;/div&gt;&lt;div&gt;- from PY in which completion certificate is obtained&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-56">
           <mxGeometry y="20" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-58" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="1400" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-59" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-58">
+          <mxGeometry width="280" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-60" value="Excemption" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-59">
+          <mxGeometry width="280" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-61" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-58">
+          <mxGeometry y="22" width="280" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-62" value="&lt;div&gt;if the loan is take outside india&lt;/div&gt;&lt;div&gt;-if TDS is not charged on such interest paid&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interest deduction shall not be allowed&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-61">
+          <mxGeometry width="280" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
