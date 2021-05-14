@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T06:00:37.595Z" agent="5.0 (X11)" etag="9G5m3Awywl_vY6DRY43L" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T06:13:56.445Z" agent="5.0 (X11)" etag="HuraRgOL58_CyzouJBie" version="14.6.13" type="github">
   <diagram id="XIx5sxYSYG17C3VzDqbZ" name="Page-1">
-    <mxGraphModel dx="713" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="861" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TjDeqmaA3nFOe0POnVrV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TjDeqmaA3nFOe0POnVrV-1" target="TjDeqmaA3nFOe0POnVrV-2">
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TjDeqmaA3nFOe0POnVrV-1" target="TjDeqmaA3nFOe0POnVrV-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-1" value="Income from house property" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
@@ -20,37 +20,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-2" value="Types of property" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TjDeqmaA3nFOe0POnVrV-3" target="TjDeqmaA3nFOe0POnVrV-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-3" value="Let out property" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="170" y="650" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TjDeqmaA3nFOe0POnVrV-4" target="TjDeqmaA3nFOe0POnVrV-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-4" value="Self occupied property" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="570" y="650" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TjDeqmaA3nFOe0POnVrV-5" target="TjDeqmaA3nFOe0POnVrV-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-5" value="Deemed let out property" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="650" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-10" value="House let out for rent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="220" width="160" height="20" as="geometry" />
+          <mxGeometry x="150" y="710" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-12" value="a person is allowed to have only 2 SOP if he has more than that then it will be deemed let out property" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="220" width="160" height="60" as="geometry" />
+          <mxGeometry x="350" y="710" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TjDeqmaA3nFOe0POnVrV-15" value="Use for own residence" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="220" width="160" height="40" as="geometry" />
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-15" value="&lt;div&gt;Use for own residence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[only individual and HUF can claim SOP]&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="710" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TjDeqmaA3nFOe0POnVrV-17" target="TjDeqmaA3nFOe0POnVrV-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-17" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="240" y="300" width="400" height="450" as="geometry" />
+          <mxGeometry x="230" y="120" width="400" height="410" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-17">
           <mxGeometry width="400" height="20" as="geometry" />
@@ -94,17 +97,14 @@
         <mxCell id="TjDeqmaA3nFOe0POnVrV-28" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-27">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TjDeqmaA3nFOe0POnVrV-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-27">
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-29" value="4. lease for 12 years or more" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-27">
           <mxGeometry x="180" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TjDeqmaA3nFOe0POnVrV-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-17">
-          <mxGeometry y="410" width="400" height="40" as="geometry" />
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.474;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TjDeqmaA3nFOe0POnVrV-36" target="TjDeqmaA3nFOe0POnVrV-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TjDeqmaA3nFOe0POnVrV-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-24">
-          <mxGeometry width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TjDeqmaA3nFOe0POnVrV-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-24">
-          <mxGeometry x="180" width="220" height="40" as="geometry" />
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-36" value="Owner" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
