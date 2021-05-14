@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T05:40:42.943Z" agent="5.0 (X11)" version="14.6.13" etag="11kLcR2sLHJywWGelaXQ" type="github"><diagram id="XIx5sxYSYG17C3VzDqbZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-14T05:41:29.337Z" agent="5.0 (X11)" etag="3gM7rGavzp9dCoXrbejk" version="14.6.13" type="github">
+  <diagram id="XIx5sxYSYG17C3VzDqbZ" name="Page-1">
+    <mxGraphModel dx="861" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-1" value="Income from house property" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="320" width="200" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
