@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T06:46:25.224Z" agent="5.0 (X11)" etag="aigobQJrd8WJJ8RJwkEo" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T06:52:13.679Z" agent="5.0 (X11)" etag="7f_0rsOtASG_3MLcOJwN" version="14.6.13" type="github">
   <diagram id="XIx5sxYSYG17C3VzDqbZ" name="Page-1">
-    <mxGraphModel dx="2118" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2661" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -343,6 +343,24 @@
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-108" value="GAV = Nil" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-117" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="810" width="200" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-118" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-117">
+          <mxGeometry width="200" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-119" value="rule 4 for unrealized rent**" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-118">
+          <mxGeometry width="200" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-120" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-117">
+          <mxGeometry y="46" width="200" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-121" value="&lt;div&gt;1. tenancy is bonafide&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Defaulting tenant has vacated or owner has take necessary steps to get rid of him&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. defaulting tenant does not have any other property of the assessee&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. assessee has initiated legal proceedings&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-120">
+          <mxGeometry width="200" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TjDeqmaA3nFOe0POnVrV-83" target="TjDeqmaA3nFOe0POnVrV-117">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
