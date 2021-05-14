@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T14:20:53.003Z" agent="5.0 (X11)" etag="D_hZ7Igq6o1fmUWyvaeF" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T14:30:01.584Z" agent="5.0 (X11)" etag="8neqB7GQy_RvR2EEq-w_" version="14.6.13" type="github">
   <diagram id="XIx5sxYSYG17C3VzDqbZ" name="Page-1">
-    <mxGraphModel dx="2741" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -438,19 +438,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocy-u_kq5uSuEEq_DpbD-33" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="1840" width="280" height="160" as="geometry" />
+          <mxGeometry x="-480" y="1820" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ocy-u_kq5uSuEEq_DpbD-34" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-33">
-          <mxGeometry width="280" height="34" as="geometry" />
+          <mxGeometry width="280" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ocy-u_kq5uSuEEq_DpbD-35" value="Conditions" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-34">
-          <mxGeometry width="280" height="34" as="geometry" />
+          <mxGeometry width="280" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ocy-u_kq5uSuEEq_DpbD-36" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-33">
-          <mxGeometry y="34" width="280" height="126" as="geometry" />
+          <mxGeometry y="43" width="280" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-37" value="&lt;div&gt;1. Loan is taken on or after 01/04/1999&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. loan is taken for acquisition /&amp;nbsp; construction&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. such acquisition /&amp;nbsp; construction should be completed within 5 year from the end of PY in &lt;br&gt;&lt;/div&gt;&lt;div&gt;which loan is taken&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-36">
-          <mxGeometry width="280" height="126" as="geometry" />
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-37" value="&lt;div&gt;1.&lt;b&gt;start&lt;/b&gt; - date of loan&amp;nbsp; or date of starting &lt;br&gt;&lt;/div&gt;&lt;div&gt;construction which ever is later&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;b&gt;Ends&lt;/b&gt; - year before the PY on which the construction ends&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;b&gt;Deduction allowed from&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- the PY in which construction is completed&lt;/div&gt;&lt;div&gt;- for a period of 5 years&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;b&gt;LOP/DLOP&lt;/b&gt; - 100% of pre + Post&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;b&gt;SOP&lt;/b&gt; - 200k/30k of pre + Post&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-36">
+          <mxGeometry width="280" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-42" value="" style="swimlane;startSize=20;sketch=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="1983" width="200" height="200" as="geometry">
+            <mxRectangle x="-275" y="1983" width="20" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-42">
+          <mxGeometry y="20" width="200" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
