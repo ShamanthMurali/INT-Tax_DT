@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T18:42:58.205Z" agent="5.0 (X11)" etag="fu33OxTtHGOzECmMTDKx" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T18:45:37.716Z" agent="5.0 (X11)" etag="wIYvCp6n9ZUWyf4DuoA3" version="14.7.0" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="2835" dy="563" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="9267" dy="3753" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -879,9 +879,6 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-146" value="&lt;div&gt;Deduction = Amount paid as professional tax&lt;/div&gt;&lt;div&gt;(it is on paid basics)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="267.5" y="1775" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-155" value="Voluntary retirement scheme computation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5280" y="1240" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-156" value="Voluntary retirement scheme computation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5520" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
@@ -1757,6 +1754,29 @@
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-419" value="b. Max = 5,00,000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4720" y="1380" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-423" value="&lt;div&gt;&amp;nbsp; Voluntary retirement &lt;br&gt;&lt;/div&gt;&lt;div&gt;scheme computation&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5240" y="1240" width="160" height="40" as="geometry">
+            <mxRectangle x="5330" y="1310" width="160" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-424" value="compensation paid to the employee for retiring for the organization before attaining his age of retirement " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-423">
+          <mxGeometry y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-425" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="c50GbscPvQbGEtNQcPzo-426" target="c50GbscPvQbGEtNQcPzo-427" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-426" value="&lt;div&gt;Exception =&lt;/div&gt;&lt;div&gt;least of 4&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5260" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-427" value="a. Actual compansation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5180" y="1340" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-428" value="&lt;div&gt;c. `15/26` * average salary * number of year completed service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Average salary = 3 months * (Basic salary + DA(both))&lt;/div&gt;&lt;div&gt;(number of years to be rounded off)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5140" y="1420" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-429" value="b. Max = 5,00,000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5180" y="1380" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
