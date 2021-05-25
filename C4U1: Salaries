@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T07:05:29.594Z" agent="5.0 (Windows)" etag="_aqAvK86y1X3v995417O" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T07:20:44.270Z" agent="5.0 (Windows)" etag="Hl81wNwMdRu-vI32JVg8" version="14.7.0" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="1722" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2754" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,6 +192,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-114" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-103" target="3hAHZB_PdIfAT_Wt45N5-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-103" target="3hAHZB_PdIfAT_Wt45N5-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-103" target="3hAHZB_PdIfAT_Wt45N5-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-103" value="Allowances" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-360" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
@@ -215,8 +224,155 @@
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-107" value="Prerequisites " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3hAHZB_PdIfAT_Wt45N5-109" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Abbrivations&lt;/b&gt;&lt;/u&gt;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. FT - Fully&amp;nbsp; taxable&lt;/div&gt;&lt;div&gt;2. ^^^^ - take it to the table / taxable&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-109" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Abbrivations&lt;/b&gt;&lt;/u&gt;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. FT - Fully&amp;nbsp; taxable&lt;/div&gt;&lt;div&gt;2. FE - Fully exempt&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. ^^^^ - take it to the table / taxable&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-111" target="3hAHZB_PdIfAT_Wt45N5-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-111" value="Fully taxable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="1200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-112" value="Partially taxable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-113" value="Fully&amp;nbsp; exempt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-117" target="3hAHZB_PdIfAT_Wt45N5-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-117" target="3hAHZB_PdIfAT_Wt45N5-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-117" target="3hAHZB_PdIfAT_Wt45N5-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-117" value="&lt;div&gt;Dearness &lt;br&gt;&lt;/div&gt;&lt;div&gt;allowance&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="1310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-118" target="3hAHZB_PdIfAT_Wt45N5-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-118" value="Entertainment allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="1370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-119" value="any&amp;nbsp; other&amp;nbsp; cash allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="2160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-120" target="3hAHZB_PdIfAT_Wt45N5-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-120" target="3hAHZB_PdIfAT_Wt45N5-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-120" target="3hAHZB_PdIfAT_Wt45N5-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-120" value="transport allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="2100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-121" target="3hAHZB_PdIfAT_Wt45N5-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-121" value="non - practicing allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="2040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-122" target="3hAHZB_PdIfAT_Wt45N5-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-122" value="Warden allownace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="1980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-123" target="3hAHZB_PdIfAT_Wt45N5-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-123" value="Interim allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="1920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-124" target="3hAHZB_PdIfAT_Wt45N5-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-124" value="project allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="1860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-125" target="3hAHZB_PdIfAT_Wt45N5-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-125" value="servant allownace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="1800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-126" target="3hAHZB_PdIfAT_Wt45N5-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-126" value="family&amp;nbsp; allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="1740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-127" target="3hAHZB_PdIfAT_Wt45N5-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-127" value="tiffin / lunch / dinner / all other meal allownace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="1670" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-128" target="3hAHZB_PdIfAT_Wt45N5-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-128" value="night duty allownace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="1610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-129" target="3hAHZB_PdIfAT_Wt45N5-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-129" value="overtime allownace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="1550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-130" target="3hAHZB_PdIfAT_Wt45N5-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-130" value="City compensatory allownace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="1490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-131" target="3hAHZB_PdIfAT_Wt45N5-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-131" value="Fixed medical allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="1430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-132" target="3hAHZB_PdIfAT_Wt45N5-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-132" value="Not&amp;nbsp; in terms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="1340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-133" target="3hAHZB_PdIfAT_Wt45N5-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-133" value="In-terms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-136" value="Forming a part of retirement benefits" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="1280" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-137" value="Not Forming a part of retirement benefits" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="1340" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="3hAHZB_PdIfAT_Wt45N5-141" target="3hAHZB_PdIfAT_Wt45N5-145" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-141" value="Other employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="2130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="3hAHZB_PdIfAT_Wt45N5-143" target="3hAHZB_PdIfAT_Wt45N5-144" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-143" value="For disabled employees" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="2070" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-144" value="Partly taxable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="2070" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-145" value="FT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="2130" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
