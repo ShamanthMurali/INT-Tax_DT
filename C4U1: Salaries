@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T20:22:35.808Z" agent="5.0 (X11)" etag="uBVUTC9HDAnf6PTWk_Bu" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T20:35:32.734Z" agent="5.0 (X11)" etag="K6D3h4NnLLZld2VbxXX9" version="14.7.0" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="3970" dy="1126" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="9267" dy="3753" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="c50GbscPvQbGEtNQcPzo-514" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1150" width="4960" height="1120" as="geometry" />
+        </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3hAHZB_PdIfAT_Wt45N5-1" target="3hAHZB_PdIfAT_Wt45N5-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1796,6 +1799,12 @@
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-432" value="Others" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-512" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-433" target="c50GbscPvQbGEtNQcPzo-494">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-513" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-433" target="c50GbscPvQbGEtNQcPzo-495">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-433" value="Hotel accommodation " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1960" y="160" width="120" height="40" as="geometry" />
