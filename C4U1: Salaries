@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T17:57:45.516Z" agent="5.0 (X11)" etag="HFToP9_17fFSid77HzCM" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T18:07:42.589Z" agent="5.0 (X11)" etag="dIGOniVypYzQsdlx9B-l" version="14.7.0" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="9267" dy="3753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2835" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -967,14 +967,6 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-171" value="&lt;div&gt;Covered under&lt;/div&gt;&lt;div&gt;Payment of Gratuity Act&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="1480" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-157" value="Gratuity" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="820" y="1240" width="120" height="40" as="geometry">
-            <mxRectangle x="820" y="1240" width="200" height="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-158" value="1. amt paid as a token of appreciation for service of the employee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-157">
-          <mxGeometry y="40" width="200" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-175" target="c50GbscPvQbGEtNQcPzo-177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1030,14 +1022,6 @@
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-190" target="c50GbscPvQbGEtNQcPzo-193">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-190" value="Pension" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1810" y="1240" width="120" height="40" as="geometry">
-            <mxRectangle x="1830" y="1360" width="230" height="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-191" value="Fixed amount paid monthly to the employee after his retirement to support his post retirement expenses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-190">
-          <mxGeometry y="40" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-192" target="c50GbscPvQbGEtNQcPzo-196">
           <mxGeometry relative="1" as="geometry" />
@@ -1101,14 +1085,6 @@
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-215" target="c50GbscPvQbGEtNQcPzo-218">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-215" value="Leave salary" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="2430" y="1240" width="120" height="40" as="geometry">
-            <mxRectangle x="2400" y="1240" width="200" height="100" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-216" value="it is paid against the accumulated paid leave of the employee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-215">
-          <mxGeometry y="40" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-217" target="c50GbscPvQbGEtNQcPzo-222">
           <mxGeometry relative="1" as="geometry" />
@@ -1188,46 +1164,6 @@
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-238" value="&lt;u&gt;&lt;b&gt;Types&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3280" y="1300" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-240" value="Public PF" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="3450" y="1360" width="120" height="40" as="geometry">
-            <mxRectangle x="3050" y="1440" width="120" height="80" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-247" value="1. PF available to general public" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-240">
-          <mxGeometry y="40" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-241" value="Statutory PF" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="3310" y="1360" width="120" height="40" as="geometry">
-            <mxRectangle x="3090" y="1360" width="170" height="100" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-246" value="&lt;div&gt;1. A fund set up under PF act.&lt;/div&gt;&lt;div&gt;2. this is applicable to govt. organizations&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-241">
-          <mxGeometry y="40" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-242" value="Unrecognized PF" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="3170" y="1360" width="120" height="40" as="geometry">
-            <mxRectangle x="2950" y="1360" width="195" height="80" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-245" value="1. PF which is not recognized by the commissioner of tax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-242">
-          <mxGeometry y="40" width="194" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-243" value="Recognized PF" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="3030" y="1360" width="120" height="40" as="geometry">
-            <mxRectangle x="2810" y="1360" width="200" height="80" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-244" value="&lt;div&gt;1. PF which is recognized by the commissioner of tax&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-243">
-          <mxGeometry y="40" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-236" value="Provident fund" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="3240" y="1240" width="120" height="40" as="geometry">
-            <mxRectangle x="2960" y="1240" width="200" height="110" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-237" value="Fund which is created by the employer to give financial security at the time of retirement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-236">
-          <mxGeometry y="40" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-253" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1347,11 +1283,135 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-283" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="3208.75" y="1662.5" width="42.5" height="42.5" as="geometry" />
         </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-284" target="c50GbscPvQbGEtNQcPzo-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-284" target="c50GbscPvQbGEtNQcPzo-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-284" value="&lt;div&gt;Maturity proceeds&lt;/div&gt;&lt;div&gt;of&amp;nbsp; Recognized PF&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2800" y="1800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-285" value="&lt;div&gt;Maturity proceeds&lt;/div&gt;&lt;div&gt;of&amp;nbsp; UnRecognized PF&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3360" y="1800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-240" value="Public PF" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3450" y="1360" width="120" height="40" as="geometry">
+            <mxRectangle x="3050" y="1440" width="120" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-247" value="1. PF available to general public" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-240">
+          <mxGeometry y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-241" value="Statutory PF" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3310" y="1360" width="120" height="40" as="geometry">
+            <mxRectangle x="3090" y="1360" width="170" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-246" value="&lt;div&gt;1. A fund set up under PF act.&lt;/div&gt;&lt;div&gt;2. this is applicable to govt. organizations&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-241">
+          <mxGeometry y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-242" value="Unrecognized PF" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3170" y="1360" width="120" height="40" as="geometry">
+            <mxRectangle x="2950" y="1360" width="195" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-245" value="1. PF which is not recognized by the commissioner of tax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-242">
+          <mxGeometry y="40" width="194" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-243" value="Recognized PF" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3030" y="1360" width="120" height="40" as="geometry">
+            <mxRectangle x="3030" y="1360" width="200" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-244" value="&lt;div&gt;1. PF which is recognized by the commissioner of tax&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-243">
+          <mxGeometry y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-236" value="Provident fund" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3240" y="1240" width="120" height="40" as="geometry">
+            <mxRectangle x="2960" y="1240" width="200" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-237" value="Fund which is created by the employer to give financial security at the time of retirement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-236">
+          <mxGeometry y="40" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-215" value="Leave salary" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2430" y="1240" width="120" height="40" as="geometry">
+            <mxRectangle x="2400" y="1240" width="200" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-216" value="it is paid against the accumulated paid leave of the employee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-215">
+          <mxGeometry y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-190" value="Pension" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1810" y="1240" width="120" height="40" as="geometry">
+            <mxRectangle x="1830" y="1360" width="230" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-191" value="Fixed amount paid monthly to the employee after his retirement to support his post retirement expenses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-190">
+          <mxGeometry y="40" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-157" value="Gratuity" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="820" y="1240" width="120" height="40" as="geometry">
+            <mxRectangle x="820" y="1240" width="200" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-158" value="1. amt paid as a token of appreciation for service of the employee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-157">
+          <mxGeometry y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-288" target="c50GbscPvQbGEtNQcPzo-292">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-288" value="&lt;div&gt;If received after&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;gt;= 5 years&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="1870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-289" target="c50GbscPvQbGEtNQcPzo-295">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-289" target="c50GbscPvQbGEtNQcPzo-296">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-289" value="&lt;div&gt;if received after&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;lt; 5 years&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="1881" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-292" value="FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="1930" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-295" target="c50GbscPvQbGEtNQcPzo-301">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-295" value="&lt;div&gt;Received due to &lt;br&gt;&lt;/div&gt;&lt;div&gt;ill health, closure of biz, any other reason beyond the control of the employee&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="1957.5" width="120" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-296" target="c50GbscPvQbGEtNQcPzo-300">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-296" target="c50GbscPvQbGEtNQcPzo-299">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-296" value="received due to other reasons" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="1957.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-299" target="c50GbscPvQbGEtNQcPzo-307">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-299" value="other case" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3111.25" y="2043.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-300" target="c50GbscPvQbGEtNQcPzo-305">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-300" value="Transfer of the maturity proceeds to a new RPF maintained by new employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2960" y="2042.5" width="120" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-301" value="FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="2062.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-305" value="FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2960" y="2160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-307" value="FT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3111.25" y="2103.5" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
