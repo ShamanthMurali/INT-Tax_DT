@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T07:37:23.791Z" agent="5.0 (Windows)" etag="nWUpRzV6WwF658xgAdF5" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T07:42:26.945Z" agent="5.0 (Windows)" etag="Z7hW-uNuihWfEVxVp7xw" version="14.7.0" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="2965" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2217" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,25 +204,11 @@
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-103" value="Allowances" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-360" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3hAHZB_PdIfAT_Wt45N5-106" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-105" target="3hAHZB_PdIfAT_Wt45N5-50">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-140" y="955" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-105" value="Prerequisites " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1080" width="120" height="40" as="geometry" />
+          <mxGeometry x="810" y="960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3hAHZB_PdIfAT_Wt45N5-108" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-107" target="3hAHZB_PdIfAT_Wt45N5-50">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="20" y="987" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3hAHZB_PdIfAT_Wt45N5-107" value="Prerequisites " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1080" width="120" height="40" as="geometry" />
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-107" value="retirement benefits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-109" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Abbrivations&lt;/b&gt;&lt;/u&gt;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. FT - Fully&amp;nbsp; taxable&lt;/div&gt;&lt;div&gt;2. FE - Fully exempt&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. ^^^^ - take it to the table / taxable&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" width="240" height="200" as="geometry" />
@@ -374,80 +360,98 @@
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-145" value="FT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-820" y="2130" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-163" target="3hAHZB_PdIfAT_Wt45N5-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-163" value="House rent allowance (HRA)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="1320" width="120" height="40" as="geometry" />
+          <mxGeometry x="-480" y="1320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-164" value="&lt;div&gt;Allowances for &lt;br&gt;&lt;/div&gt;&lt;div&gt;official purposes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1320" width="120" height="40" as="geometry" />
+          <mxGeometry y="1315" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-165" value="Travel allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1380" width="120" height="40" as="geometry" />
+          <mxGeometry y="1375" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-166" value="Tour allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1440" width="120" height="40" as="geometry" />
+          <mxGeometry y="1435" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-167" value="Transfer allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1500" width="120" height="40" as="geometry" />
+          <mxGeometry y="1495" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-168" value="Daily allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1560" width="120" height="40" as="geometry" />
+          <mxGeometry y="1555" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-169" value="Conveyance allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1620" width="120" height="40" as="geometry" />
+          <mxGeometry y="1615" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-170" value="Conveyance allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1680" width="120" height="40" as="geometry" />
+          <mxGeometry y="1675" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-171" value="Helper allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1740" width="120" height="40" as="geometry" />
+          <mxGeometry y="1735" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-172" value="Research and academic allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1800" width="120" height="40" as="geometry" />
+          <mxGeometry y="1795" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-173" value="Uniform allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1860" width="120" height="40" as="geometry" />
+          <mxGeometry y="1855" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-174" value="Allowances for other purposes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1320" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1315" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-175" value="Children education allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1380" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1375" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-176" value="Hostel expenditure allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1440" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1435" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-177" value="Special allowance by transport company to employee " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1500" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1495" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-178" value="Tribal area / Scheduled area allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1580" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1575" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-179" value="Under ground or mining allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1665" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-181" value="High altitude allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1750" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1745" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-182" value="Highly active field area allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1810" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1805" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-183" value="Island allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1870" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1865" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-184" value="border area allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1930" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1925" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-185" value="Hilly area allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1990" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1985" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-186" value="Counter insurgency allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="2050" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="2045" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-187" value="Compensatory field area allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="2110" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="2105" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-188" value="Modified field area allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="2170" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="2165" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-190" target="3hAHZB_PdIfAT_Wt45N5-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-190" value="Exemption u/s 10(13A)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="1380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-193" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-570" y="1390" as="sourcePoint" />
+            <mxPoint x="-515" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-194" value="Lowest of the 3 limits" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1440" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
