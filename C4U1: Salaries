@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T07:42:26.945Z" agent="5.0 (Windows)" etag="Z7hW-uNuihWfEVxVp7xw" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T08:08:46.254Z" agent="5.0 (Windows)" etag="0D1vu2elrDFtPJL7ERNO" version="14.7.0" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="2217" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2321" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,7 +219,10 @@
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-111" value="Fully taxable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1120" y="1200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3hAHZB_PdIfAT_Wt45N5-112" value="Partially taxable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-112" target="3hAHZB_PdIfAT_Wt45N5-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-112" value="Partially&amp;nbsp; taxable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="1200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-113" value="Fully&amp;nbsp; exempt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -360,7 +363,7 @@
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-145" value="FT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-820" y="2130" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3hAHZB_PdIfAT_Wt45N5-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-163" target="3hAHZB_PdIfAT_Wt45N5-190">
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.519;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-163" target="3hAHZB_PdIfAT_Wt45N5-205">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-163" value="House rent allowance (HRA)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -442,16 +445,75 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-190" value="Exemption u/s 10(13A)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="1380" width="120" height="40" as="geometry" />
+          <mxGeometry x="-485" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-193" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-570" y="1390" as="sourcePoint" />
-            <mxPoint x="-515" y="1320" as="targetPoint" />
+            <mxPoint x="-555" y="1610" as="sourcePoint" />
+            <mxPoint x="-555" y="1850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-194" target="3hAHZB_PdIfAT_Wt45N5-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-194" value="Lowest of the 3 limits" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="1440" width="200" height="20" as="geometry" />
+          <mxGeometry x="-525" y="1560" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-196" target="3hAHZB_PdIfAT_Wt45N5-199">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-425.0000000000002" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-196" value="&lt;div&gt;&lt;b&gt;1. 50% or 40% of (A)salary&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;use 50% if rent is paid in:&lt;/div&gt;&lt;div&gt;1. mumbai&lt;/div&gt;&lt;div&gt;2. delhi&lt;/div&gt;&lt;div&gt;3. Chennai&lt;/div&gt;&lt;div&gt;4. Kolkata&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-525" y="1600" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-199" target="3hAHZB_PdIfAT_Wt45N5-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-199" value="&lt;div&gt;&lt;b&gt;2. Rent paid - 10% of (A)Salary&lt;/b&gt;&lt;/div&gt;[excess of rent paid over 10% of (A)Salary]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-525" y="1730" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-200" value="&lt;b&gt;3. Actual HRA Received&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-525" y="1815" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-204" target="3hAHZB_PdIfAT_Wt45N5-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-204" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-565" y="1380" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-205" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3hAHZB_PdIfAT_Wt45N5-204">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-206" value="Allowance Received" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="3hAHZB_PdIfAT_Wt45N5-205">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-207" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="3hAHZB_PdIfAT_Wt45N5-205">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-208" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3hAHZB_PdIfAT_Wt45N5-204">
+          <mxGeometry y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-209" value="(-) excemptions u/s 10(13A)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="3hAHZB_PdIfAT_Wt45N5-208">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-210" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="3hAHZB_PdIfAT_Wt45N5-208">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-211" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3hAHZB_PdIfAT_Wt45N5-204">
+          <mxGeometry y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-212" value="Taxable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1" vertex="1" parent="3hAHZB_PdIfAT_Wt45N5-211">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-213" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1" vertex="1" parent="3hAHZB_PdIfAT_Wt45N5-211">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-217" value="(A)Salary = Basic salary + DA(interms only) + Commission on % of turnover " style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-990" y="110" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-218" value="Types of tax&amp;nbsp; salary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-815" y="40" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
