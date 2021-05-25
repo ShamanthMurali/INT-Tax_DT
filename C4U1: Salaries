@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T06:52:36.645Z" agent="5.0 (Windows)" etag="mvWGVmdV_QEcaHIGN4ej" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T07:01:07.476Z" agent="5.0 (Windows)" etag="kLdXSGy8lPyHI_bjOxFM" version="14.7.0" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="2312" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,6 +116,77 @@
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-78" value="&lt;div&gt;If tax rates have changed during the years&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Relief = Tax on arrears as per PY - Tax on arrears as per PY of arrears&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3hAHZB_PdIfAT_Wt45N5-72">
           <mxGeometry y="40" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-81" value="" style="swimlane;startSize=20;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="210" y="850" width="20" height="20" as="geometry">
+            <mxRectangle x="210" y="850" width="170" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-82" value="&lt;div&gt;1.&amp;nbsp; it is charged on receipt basics.&lt;/div&gt;&lt;div&gt;2. FT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3hAHZB_PdIfAT_Wt45N5-81">
+          <mxGeometry y="20" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-88" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-83" target="3hAHZB_PdIfAT_Wt45N5-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-83" target="3hAHZB_PdIfAT_Wt45N5-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-440" y="700" />
+              <mxPoint x="-580" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-83" target="3hAHZB_PdIfAT_Wt45N5-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-440" y="700" />
+              <mxPoint x="-300" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-83" value="Commission " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-85" target="3hAHZB_PdIfAT_Wt45N5-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-300" y="780" />
+              <mxPoint x="-440" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-85" value="Commission based as a % of net profit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-86" target="3hAHZB_PdIfAT_Wt45N5-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-86" value="&lt;div&gt;Commission on % &lt;br&gt;&lt;/div&gt;&lt;div&gt;of turnover&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-87" target="3hAHZB_PdIfAT_Wt45N5-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-580" y="780" />
+              <mxPoint x="-440" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-87" value="Commission as a fixed amount" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-102" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.377;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-98" target="3hAHZB_PdIfAT_Wt45N5-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-440" y="891" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-98" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="800" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-103" value="Allowances" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
