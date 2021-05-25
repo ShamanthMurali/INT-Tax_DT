@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T20:22:01.395Z" agent="5.0 (X11)" etag="3foKTCNpITsaj07VIsHB" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T20:22:35.808Z" agent="5.0 (X11)" etag="uBVUTC9HDAnf6PTWk_Bu" version="14.7.0" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="3592" dy="938" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3970" dy="1126" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1896,10 +1896,10 @@
           <mxGeometry x="1180" y="320" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-472" value="&lt;div&gt;2. population &lt;b&gt;&amp;lt;= 10,00,000&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Value of accommodation = &lt;b&gt;7.5% of salary&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="480" width="240" height="40" as="geometry" />
+          <mxGeometry x="1180" y="400" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-475" value="&lt;div&gt;1. 10,00k&amp;lt; population &lt;b&gt;&amp;lt;= 25,00,000&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Value of accommodation = &lt;b&gt;10% of salary&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="440" width="240" height="40" as="geometry" />
+          <mxGeometry x="1180" y="360" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-476" value="&lt;div&gt;Value of accommodation = &lt;br&gt;&lt;/div&gt;&lt;div&gt;15% of salary&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;actual hire charges&lt;/div&gt;&lt;div&gt;(which ever is less)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="320" width="200" height="90" as="geometry" />
