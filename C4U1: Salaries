@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T15:05:07.626Z" agent="5.0 (X11)" etag="erkjq6lWdmmK0DpYRE6b" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T15:07:31.948Z" agent="5.0 (X11)" etag="DDgofdsRMBuqFaMKP-O8" version="14.7.0" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="2416" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2953" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,6 +222,9 @@
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3hAHZB_PdIfAT_Wt45N5-112" target="3hAHZB_PdIfAT_Wt45N5-163" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-112" target="3hAHZB_PdIfAT_Wt45N5-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-112" value="Partially&amp;nbsp; taxable" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="1200" width="120" height="40" as="geometry" />
         </mxCell>
@@ -424,46 +427,82 @@
           <mxGeometry x="-160" y="2057.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-174" value="Allowances for other purposes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1315" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1317" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-175" target="3hAHZB_PdIfAT_Wt45N5-176">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-175" value="Children education allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1375" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1572.5" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-176" target="3hAHZB_PdIfAT_Wt45N5-177">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-176" value="Hostel expenditure allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1435" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1632.5" width="120" height="43" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-177" value="Special allowance by transport company to employee " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1495" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1692.5" width="120" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-177" target="3hAHZB_PdIfAT_Wt45N5-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-178" target="3hAHZB_PdIfAT_Wt45N5-179">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-178" value="Tribal area / Scheduled area allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1575" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1772.5" width="120" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-179" target="3hAHZB_PdIfAT_Wt45N5-181">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-179" value="Under ground or mining allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1660" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1854.5" width="120" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-181" target="3hAHZB_PdIfAT_Wt45N5-182">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-181" value="High altitude allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1745" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1934.5" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-182" target="3hAHZB_PdIfAT_Wt45N5-183">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-182" value="Highly active field area allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1805" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1997.5" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-183" target="3hAHZB_PdIfAT_Wt45N5-184">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-183" value="Island allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1865" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="2057.5" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-184" target="3hAHZB_PdIfAT_Wt45N5-185">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-184" value="border area allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1925" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="2117.5" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-185" target="3hAHZB_PdIfAT_Wt45N5-186">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-185" value="Hilly area allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1985" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="2177.5" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-186" target="3hAHZB_PdIfAT_Wt45N5-187">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-186" value="Counter insurgency allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="2045" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="2237.5" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-187" target="3hAHZB_PdIfAT_Wt45N5-188">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-187" value="Compensatory field area allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="2105" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="2297.5" width="120" height="43" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-188" value="Modified field area allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="2165" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="2357.5" width="120" height="43" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3hAHZB_PdIfAT_Wt45N5-190" target="3hAHZB_PdIfAT_Wt45N5-194" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -551,7 +590,7 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-2" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-1">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-3" value="Allowance Received" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-2">
+        <mxCell id="c50GbscPvQbGEtNQcPzo-3" value="&lt;b&gt;Allowance Received&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-2">
           <mxGeometry width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-4" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-2">
@@ -560,7 +599,7 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-1">
           <mxGeometry y="40" width="280" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-6" value="&lt;div&gt;(-) exemptions u/s 10(13A)&lt;/div&gt;&lt;div&gt;Allowance received&lt;/div&gt;&lt;div&gt;or &lt;br&gt;&lt;/div&gt;&lt;div&gt;amount spent for official purpose&lt;/div&gt;&lt;div&gt;(which ever is less)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-5">
+        <mxCell id="c50GbscPvQbGEtNQcPzo-6" value="&lt;div&gt;&lt;b&gt;(-) exemptions u/s 10(13A)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Allowance received&lt;/div&gt;&lt;div&gt;or &lt;br&gt;&lt;/div&gt;&lt;div&gt;amount spent for official purpose&lt;/div&gt;&lt;div&gt;(which ever is less)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-5">
           <mxGeometry width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-7" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-5">
@@ -573,6 +612,42 @@
           <mxGeometry width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-10" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1" vertex="1" parent="c50GbscPvQbGEtNQcPzo-8">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-174" target="c50GbscPvQbGEtNQcPzo-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-22" target="3hAHZB_PdIfAT_Wt45N5-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-22" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1380" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-23" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-22">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-24" value="&lt;b&gt;Allowance Received&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-23">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-25" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-23">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-22">
+          <mxGeometry y="40" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-27" value="&lt;div&gt;&lt;b&gt;(-) exemptions u/s 10(13A)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Allowance received&lt;/div&gt;&lt;div&gt;or &lt;br&gt;&lt;/div&gt;&lt;div&gt;amount spent for official purpose&lt;/div&gt;&lt;div&gt;(which ever is less)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-26">
+          <mxGeometry width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-28" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-26">
+          <mxGeometry x="220" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-29" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="c50GbscPvQbGEtNQcPzo-22">
+          <mxGeometry y="130" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-30" value="Taxable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1" vertex="1" parent="c50GbscPvQbGEtNQcPzo-29">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-31" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1" vertex="1" parent="c50GbscPvQbGEtNQcPzo-29">
           <mxGeometry x="220" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
