@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T15:43:12.668Z" agent="5.0 (X11)" etag="4JPjyii90qWFRpuaU0ex" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T15:46:52.407Z" agent="5.0 (X11)" etag="8prvANIXXmeRRNpZFk-P" version="14.7.0" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="3327" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2839" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3hAHZB_PdIfAT_Wt45N5-56" target="3hAHZB_PdIfAT_Wt45N5-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3hAHZB_PdIfAT_Wt45N5-56" value="&lt;div&gt;Already tax paid &lt;br&gt;&lt;/div&gt;&lt;div&gt;on it?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-56" value="&lt;div&gt;Already tax paid &lt;br&gt;&lt;/div&gt;&lt;div&gt;on it.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-520" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3hAHZB_PdIfAT_Wt45N5-57" target="3hAHZB_PdIfAT_Wt45N5-62" edge="1">
@@ -111,10 +111,10 @@
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-72" value="Relief u/s 89" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-280" y="560" width="120" height="40" as="geometry">
-            <mxRectangle x="-230" y="680" width="290" height="120" as="alternateBounds" />
+            <mxRectangle x="-280" y="560" width="290" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3hAHZB_PdIfAT_Wt45N5-78" value="&lt;div&gt;If tax rates have changed during the years&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Relief = Tax on arrears as per PY - Tax on arrears as per PY of arrears&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="3hAHZB_PdIfAT_Wt45N5-72" vertex="1">
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-78" value="&lt;div&gt;If tax rates have changed during the years&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Relief = Tax on arrears as per PY - Tax on arrears as per PY of &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="3hAHZB_PdIfAT_Wt45N5-72" vertex="1">
           <mxGeometry y="40" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-81" value="" style="swimlane;startSize=20;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
