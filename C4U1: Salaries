@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T06:23:03.509Z" agent="5.0 (Windows)" etag="ZpYue1licIu6UFxZwjhs" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T06:32:09.121Z" agent="5.0 (Windows)" etag="QXVPJpJBMKlPe0HY25ml" version="14.7.0" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="1243" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="710" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,20 @@
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-1" value="Salaries" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3hAHZB_PdIfAT_Wt45N5-3" value="&lt;div&gt;1. salary is taxable on due basics&lt;/div&gt;&lt;div&gt;2. salary once taxed need not be taxed again&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="60" width="280" height="40" as="geometry" />
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-3" target="3hAHZB_PdIfAT_Wt45N5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-3" target="3hAHZB_PdIfAT_Wt45N5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-3" value="&lt;div&gt;1. salary is taxable on &lt;b&gt;&lt;u&gt;due basics or receipt basics which ever is earlier.&lt;/u&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;2. salary once taxed need not be taxed again&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. in order salary to be taxed &lt;u&gt;&lt;b&gt;Employer-employee relationship must exist&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-5" value="&lt;div&gt;Employer-employer relation ship&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. it is established by contract of employment&lt;/div&gt;&lt;div&gt;2. is payer has the complete control of the payee and is bound by the directions&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-6" value="&lt;div&gt;Not Employer-employer relation ship&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. agency - it is charged under Pofits and gains&lt;/div&gt;&lt;div&gt;2. directors of company&lt;/div&gt;&lt;div&gt;3. salaries of MP and MLAs&lt;/div&gt;&lt;div&gt;4. Partners in partnership&lt;/div&gt;&lt;div&gt;5. pension received by family member (not the actual person)&lt;/div&gt;&lt;div&gt;6. professions working in they own capacity&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="240" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
