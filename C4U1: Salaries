@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T19:47:10.911Z" agent="5.0 (X11)" etag="rZguWS3B17rKaYdjb1gi" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T19:52:19.507Z" agent="5.0 (X11)" etag="C7-ZvivoM0nOl-A2zMm7" version="14.7.0" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="2835" dy="563" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2349" dy="322" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1778,6 +1778,12 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-431" value="&lt;div&gt;d. Last drawn (A)Salary * months pending for super annuation&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Completed years of service to be rounded off)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5140" y="1510" width="360" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-448" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-432" target="c50GbscPvQbGEtNQcPzo-443">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-449" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-432" target="c50GbscPvQbGEtNQcPzo-444">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-432" value="Rent free accomodation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="160" width="120" height="40" as="geometry" />
         </mxCell>
@@ -1801,6 +1807,18 @@
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-439" value="Gas / electricity / water facility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2270" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-441" value="Ownership" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-443" value="&lt;div&gt;Furnished&lt;/div&gt;&lt;div&gt;accomodation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-447" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-444" target="c50GbscPvQbGEtNQcPzo-441">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-444" value="&lt;div&gt;UnFurnished&lt;/div&gt;&lt;div&gt;accomodation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
