@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T07:01:07.476Z" agent="5.0 (Windows)" etag="kLdXSGy8lPyHI_bjOxFM" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T07:05:29.594Z" agent="5.0 (Windows)" etag="_aqAvK86y1X3v995417O" version="14.7.0" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="1720" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1722" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,8 +185,38 @@
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-98" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-460" y="800" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3hAHZB_PdIfAT_Wt45N5-103" value="Allowances" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="1000" width="120" height="40" as="geometry" />
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-104" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.453;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-103" target="3hAHZB_PdIfAT_Wt45N5-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-300" y="921" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-103" value="Allowances" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-106" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-105" target="3hAHZB_PdIfAT_Wt45N5-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-140" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-105" value="Prerequisites " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-108" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-107" target="3hAHZB_PdIfAT_Wt45N5-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="987" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-107" value="Prerequisites " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3hAHZB_PdIfAT_Wt45N5-109" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Abbrivations&lt;/b&gt;&lt;/u&gt;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. FT - Fully&amp;nbsp; taxable&lt;/div&gt;&lt;div&gt;2. ^^^^ - take it to the table / taxable&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" width="240" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
