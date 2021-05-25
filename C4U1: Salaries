@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T18:42:34.335Z" agent="5.0 (X11)" etag="bzxycrNKoaoo9OOXrG3Z" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T18:42:45.181Z" agent="5.0 (X11)" etag="gfEhZDEkvH5x5hWSe0Mq" version="14.7.0" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="3321" dy="804" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3592" dy="938" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1720,7 +1720,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-414" value="&lt;div&gt;Retrenchment &lt;br&gt;&lt;/div&gt;&lt;div&gt;compensation&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="5040" y="1240" width="120" height="40" as="geometry">
+          <mxGeometry x="4800" y="1240" width="120" height="40" as="geometry">
             <mxRectangle x="5040" y="1240" width="160" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1747,16 +1747,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-416" value="&lt;div&gt;Exception =&lt;/div&gt;&lt;div&gt;least of 3&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5040" y="1280" width="120" height="40" as="geometry" />
+          <mxGeometry x="4800" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-417" value="a. Actual compansation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4960" y="1340" width="280" height="40" as="geometry" />
+          <mxGeometry x="4720" y="1340" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-418" value="&lt;div&gt;c. `15/26` * average salary * number of year completed service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Average salary = 3 months * (Basic salary + DA(both))&lt;/div&gt;&lt;div&gt;(number of years to be rounded off)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4920" y="1420" width="360" height="90" as="geometry" />
+          <mxGeometry x="4680" y="1420" width="360" height="90" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-419" value="b. Max = 5,00,000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4960" y="1380" width="280" height="40" as="geometry" />
+          <mxGeometry x="4720" y="1380" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
