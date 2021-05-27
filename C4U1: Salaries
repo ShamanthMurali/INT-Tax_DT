@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T17:45:22.933Z" agent="5.0 (X11)" etag="qxFq0l2DfzRvAMPcTlzE" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T17:56:47.837Z" agent="5.0 (X11)" etag="DOtbtEW3ssOatcloDvJP" version="14.7.2" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
     <mxGraphModel dx="3593" dy="1623" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1803,7 +1803,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-435" value="Medical facility" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5800" y="-400" width="120" height="40" as="geometry" />
+          <mxGeometry x="5920" y="-400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-436" value="Use of moveable assets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6700" y="-540" width="120" height="40" as="geometry" />
@@ -2639,11 +2639,68 @@
         <mxCell id="EV99y4R6qcVC1a67K6Jq-4" value="the 2nd will be fully taxable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3720" y="630" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-7" target="EV99y4R6qcVC1a67K6Jq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-7" value="Outside india" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5880" y="-320" width="120" height="40" as="geometry" />
+          <mxGeometry x="6120" y="-320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-8" target="EV99y4R6qcVC1a67K6Jq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-8" target="EV99y4R6qcVC1a67K6Jq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-8" target="EV99y4R6qcVC1a67K6Jq-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-8" value="In india" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5720" y="-320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-11" target="EV99y4R6qcVC1a67K6Jq-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-11" value="hospital maintained by employer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5720" y="-240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-12" target="EV99y4R6qcVC1a67K6Jq-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-12" value="Govt. hospital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5580" y="-240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-13" target="EV99y4R6qcVC1a67K6Jq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-13" value="other" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5860" y="-240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-18" value="FT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5860" y="-180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-20" value="FT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5580" y="-180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-22" value="Not a prerequisite" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5720" y="-180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-24" target="EV99y4R6qcVC1a67K6Jq-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-24" target="EV99y4R6qcVC1a67K6Jq-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-24" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Allowed persons&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;cost of travel = 1 patient + 1 attendant&lt;/div&gt;&lt;div&gt;cost of stay = 1 patient + 1 attendant&lt;/div&gt;&lt;div&gt;cost of treatment = 1 patient&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6060" y="-240" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-26" value="Cost of travel / stay" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6040" y="-130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-27" value="cost of treatment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6200" y="-130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-30" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Allowed persons&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;cost of travel = 1 patient + 1 attendant&lt;/div&gt;&lt;div&gt;cost of stay = 1 patient + 1 attendant&lt;/div&gt;&lt;div&gt;cost of treatment = 1 patient&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6280" y="-430" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
