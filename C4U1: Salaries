@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T18:53:00.363Z" agent="5.0 (X11)" etag="4M6Dfo9vMGeUeS1d36nE" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T18:54:55.471Z" agent="5.0 (X11)" etag="362ebRkJMRMUDGe8fq9U" version="14.7.2" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="4635" dy="2145" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="7554" dy="3608" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-241" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-640" width="9160" height="1360" as="geometry" />
+        </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-520" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="150" y="1160" width="490" height="680" as="geometry" />
         </mxCell>
@@ -193,9 +196,6 @@
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-98" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="-460" y="800" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3hAHZB_PdIfAT_Wt45N5-105" value="Prerequisites " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3050" y="-600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-109" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Abbrivations&lt;/b&gt;&lt;/u&gt;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. FT - Fully&amp;nbsp; taxable&lt;/div&gt;&lt;div&gt;2. FE - Fully exempt&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. ^^^^ - take it to the table / taxable&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-480" width="240" height="200" as="geometry" />
@@ -1832,9 +1832,6 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-438" value="Education facility" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8460" y="-420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-439" value="Gas / electricity / water facility" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="7180" y="-540" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-443" value="&lt;div&gt;Furnished&lt;/div&gt;&lt;div&gt;accomodation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="-260" width="120" height="40" as="geometry" />
         </mxCell>
@@ -3257,6 +3254,9 @@
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-239" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-237">
           <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-242" value="&lt;font style=&quot;font-size: 72px&quot;&gt;Prerequisites&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-640" width="1900" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
