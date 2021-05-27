@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T18:49:35.805Z" agent="5.0 (X11)" etag="M0sdTT9n7gOH2G3VQfuV" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T18:53:00.363Z" agent="5.0 (X11)" etag="4M6Dfo9vMGeUeS1d36nE" version="14.7.2" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="4337" dy="1996" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4635" dy="2145" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3175,6 +3175,87 @@
           <mxGeometry width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-211" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-209">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-213" target="EV99y4R6qcVC1a67K6Jq-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-213" target="EV99y4R6qcVC1a67K6Jq-216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-213" value="Gas / electricity / water" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9480" y="-420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-214" value="employer is in the business of Gas / electricity / water" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9340" y="-360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-216" value="acquired from third party" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9640" y="-360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-214" target="EV99y4R6qcVC1a67K6Jq-219">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-219" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="9260" y="-290" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-220" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-219">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-221" value="Manufacturing cost to the employer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-220">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-222" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-220">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-223" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-219">
+          <mxGeometry y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-224" value="(-) recovery from employee" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-223">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-225" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-223">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-226" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-219">
+          <mxGeometry y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-227" value="Taxable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-226">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-228" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-226">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-216" target="EV99y4R6qcVC1a67K6Jq-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-230" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="9560" y="-290" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-231" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-230">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-232" value="Amount paid / reimbursed by employer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-231">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-233" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-231">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-234" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-230">
+          <mxGeometry y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-235" value="(-) recovery from employee" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-234">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-236" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-234">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-237" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-230">
+          <mxGeometry y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-238" value="Taxable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-237">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-239" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="EV99y4R6qcVC1a67K6Jq-237">
           <mxGeometry x="220" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
