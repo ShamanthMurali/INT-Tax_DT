@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T18:03:16.434Z" agent="5.0 (X11)" etag="3W4cqUGW08PWyO5QsFSF" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T18:10:18.620Z" agent="5.0 (X11)" etag="hs34cZR_wpkjTcJ-A_oi" version="14.7.2" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="4022" dy="1838" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3593" dy="1623" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1796,17 +1796,17 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-434" value="Motor car facility" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3610" y="-420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EV99y4R6qcVC1a67K6Jq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-435" target="EV99y4R6qcVC1a67K6Jq-8">
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-435" target="EV99y4R6qcVC1a67K6Jq-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EV99y4R6qcVC1a67K6Jq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-435" target="EV99y4R6qcVC1a67K6Jq-7">
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-435" target="EV99y4R6qcVC1a67K6Jq-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-435" value="Medical facility" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5920" y="-400" width="120" height="40" as="geometry" />
+          <mxGeometry x="5850" y="-430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-436" value="Use of moveable assets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="6700" y="-540" width="120" height="40" as="geometry" />
+          <mxGeometry x="6530" y="-450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-437" value="Gifts" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6860" y="-540" width="120" height="40" as="geometry" />
@@ -2639,11 +2639,11 @@
         <mxCell id="EV99y4R6qcVC1a67K6Jq-4" value="the 2nd will be fully taxable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3720" y="630" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EV99y4R6qcVC1a67K6Jq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-7" target="EV99y4R6qcVC1a67K6Jq-24">
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-7" target="EV99y4R6qcVC1a67K6Jq-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-7" value="Outside india" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6140" y="-320" width="120" height="40" as="geometry" />
+          <mxGeometry x="5960" y="-110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-8" target="EV99y4R6qcVC1a67K6Jq-11">
           <mxGeometry relative="1" as="geometry" />
@@ -2655,34 +2655,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-8" value="In india" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5720" y="-320" width="120" height="40" as="geometry" />
+          <mxGeometry x="5540" y="-110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-11" target="EV99y4R6qcVC1a67K6Jq-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-11" value="hospital maintained by employer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5720" y="-240" width="120" height="40" as="geometry" />
+          <mxGeometry x="5540" y="-30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-12" target="EV99y4R6qcVC1a67K6Jq-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-12" value="Govt. hospital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5580" y="-240" width="120" height="40" as="geometry" />
+          <mxGeometry x="5400" y="-30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-13" target="EV99y4R6qcVC1a67K6Jq-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-13" value="other" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5860" y="-240" width="120" height="40" as="geometry" />
+          <mxGeometry x="5680" y="-30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-18" value="FT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5860" y="-180" width="120" height="40" as="geometry" />
+          <mxGeometry x="5680" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-20" value="FT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5580" y="-180" width="120" height="40" as="geometry" />
+          <mxGeometry x="5400" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-22" value="Not a prerequisite" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5720" y="-180" width="120" height="40" as="geometry" />
+          <mxGeometry x="5540" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-24" target="EV99y4R6qcVC1a67K6Jq-26">
           <mxGeometry relative="1" as="geometry" />
@@ -2691,13 +2691,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-24" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Allowed persons&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;cost of travel = 1 patient + 1 attendant&lt;/div&gt;&lt;div&gt;cost of stay = 1 patient + 1 attendant&lt;/div&gt;&lt;div&gt;cost of treatment = 1 patient&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6080" y="-240" width="240" height="70" as="geometry" />
+          <mxGeometry x="5900" y="-30" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-26" target="EV99y4R6qcVC1a67K6Jq-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-26" value="Cost of travel / stay" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6000" y="-130" width="120" height="40" as="geometry" />
+          <mxGeometry x="5820" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-27" target="EV99y4R6qcVC1a67K6Jq-36">
           <mxGeometry relative="1" as="geometry" />
@@ -2706,31 +2706,62 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-27" value="cost of treatment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6280" y="-130" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EV99y4R6qcVC1a67K6Jq-30" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Allowed persons&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;cost of travel = 1 patient + 1 attendant&lt;/div&gt;&lt;div&gt;cost of stay = 1 patient + 1 attendant&lt;/div&gt;&lt;div&gt;cost of treatment = 1 patient&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6280" y="-430" width="240" height="70" as="geometry" />
+          <mxGeometry x="6100" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-32" value="Exemption limit set by RBI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6000" y="-70" width="120" height="40" as="geometry" />
+          <mxGeometry x="5820" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-36" target="EV99y4R6qcVC1a67K6Jq-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-36" value="&lt;div&gt;If &lt;br&gt;&lt;/div&gt;&lt;div&gt;gross total income&amp;nbsp;&lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;&lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;≤&lt;/span&gt;&lt;/span&gt; Rs.2,00,000&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6140" y="-50" width="190" height="40" as="geometry" />
+          <mxGeometry x="5960" y="160" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-37" target="EV99y4R6qcVC1a67K6Jq-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-37" value="&lt;div&gt;If &lt;br&gt;&lt;/div&gt;&lt;div&gt;gross total income &lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;&amp;gt; Rs.2,00,000&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6350" y="-50" width="190" height="40" as="geometry" />
+          <mxGeometry x="6170" y="160" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-41" value="FT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6385" y="9" width="120" height="40" as="geometry" />
+          <mxGeometry x="6205" y="219" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-43" value="FE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6175" y="9" width="120" height="40" as="geometry" />
+          <mxGeometry x="5995" y="219" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-49" target="EV99y4R6qcVC1a67K6Jq-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-49" value="employee and his Famaliy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5750" y="-350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-50" target="EV99y4R6qcVC1a67K6Jq-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-50" value="Other" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5950" y="-350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-53" target="EV99y4R6qcVC1a67K6Jq-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5810" y="-130" />
+              <mxPoint x="5600" y="-130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV99y4R6qcVC1a67K6Jq-53" target="EV99y4R6qcVC1a67K6Jq-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5810" y="-130" />
+              <mxPoint x="6020" y="-130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-53" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Dependent and independent&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. spouse&lt;/div&gt;&lt;div&gt;2. children (step/adopted also)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;dependent only&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(only if they have no other income)&lt;/div&gt;&lt;div&gt;1. parents&lt;/div&gt;&lt;div&gt;2. brothers and sisters&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5710" y="-290" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-55" value="FT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5950" y="-290" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
