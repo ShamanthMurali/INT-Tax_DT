@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T02:24:36.728Z" agent="5.0 (Windows)" etag="Ucy0-KRMURLxjaKdTjob" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T02:54:46.374Z" agent="5.0 (Windows)" etag="TfhnpAN8uH_i_Ldeiagr" version="14.7.2" type="github">
   <diagram id="XIx5sxYSYG17C3VzDqbZ" name="Page-1">
     <mxGraphModel dx="2808" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
         <mxCell id="TjDeqmaA3nFOe0POnVrV-47" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-40" vertex="1">
           <mxGeometry y="80" width="370" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TjDeqmaA3nFOe0POnVrV-48" value="&lt;div&gt;(-) Municipal taxes Paid&lt;/div&gt;(on paid basics)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-47" vertex="1">
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-48" value="&lt;div&gt;(-) Municipal taxes Paid&lt;/div&gt;(on paid basics) (&lt;b&gt;Not available for SOP&lt;/b&gt;)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-47" vertex="1">
           <mxGeometry width="285" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-49" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-47" vertex="1">
