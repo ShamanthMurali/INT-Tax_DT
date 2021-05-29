@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T18:47:52.161Z" agent="5.0 (X11)" etag="3rzRSoa8YSudz3oIGulG" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T18:52:49.924Z" agent="5.0 (X11)" etag="u1Q-2oED7i2MAqazv0-j" version="14.7.3" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
     <mxGraphModel dx="3183" dy="1439" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="-1870" y="1040" width="1870" height="1940" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-514" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="800" y="1130" width="4960" height="1280" as="geometry" />
+          <mxGeometry x="1490" y="1470" width="4960" height="1280" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3hAHZB_PdIfAT_Wt45N5-1" target="3hAHZB_PdIfAT_Wt45N5-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1098,8 +1098,8 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-229" value="&lt;div&gt;Exemption = &lt;br&gt;&lt;/div&gt;&lt;div&gt;Least of 4&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2810" y="1600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-231" value="a.)&amp;nbsp; Leave credit * (A)salary" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2790" y="1660" width="160" height="40" as="geometry" />
+        <mxCell id="c50GbscPvQbGEtNQcPzo-231" value="&lt;div&gt;a.)&amp;nbsp; Leave credit * (A)salary&lt;/div&gt;(Leave credit = Leaves allowed - leaves availed)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2740" y="1660" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-232" value="b.)&amp;nbsp; 10 * (A)salary" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2790" y="1700" width="160" height="40" as="geometry" />
