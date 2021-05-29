@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T14:54:56.379Z" agent="5.0 (X11)" etag="f1StrCSjr_MT9dY31bRL" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T02:24:36.728Z" agent="5.0 (Windows)" etag="Ucy0-KRMURLxjaKdTjob" version="14.7.2" type="github">
   <diagram id="XIx5sxYSYG17C3VzDqbZ" name="Page-1">
-    <mxGraphModel dx="4198" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2808" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
         <mxCell id="TjDeqmaA3nFOe0POnVrV-19" value="Owner" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-18" vertex="1">
           <mxGeometry width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-64" value="Co-owners" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-18">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-64" value="Co-owners" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-18" vertex="1">
           <mxGeometry x="180" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-20" value="Deemed owner" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-18" vertex="1">
@@ -79,7 +79,7 @@
         <mxCell id="TjDeqmaA3nFOe0POnVrV-22" value="The person in whos name the property is" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-21" vertex="1">
           <mxGeometry width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-65" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;For LOP/DLOP&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Assume as one person and do computation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-divide it b/w co owners in their co owner ratio&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-21">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-65" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;For LOP/DLOP&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Assume as one person and do computation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-divide it b/w co owners in their co owner ratio&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-21" vertex="1">
           <mxGeometry x="180" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-23" value="&lt;div&gt;1. individual transfer house property-&lt;/div&gt;&lt;div&gt;a. without consideration&lt;/div&gt;&lt;div&gt;b. inadequate consideration&lt;/div&gt;&lt;div&gt;to-&lt;/div&gt;&lt;div&gt;i. wife&lt;/div&gt;&lt;div&gt;ii. minor children&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-21" vertex="1">
@@ -91,7 +91,7 @@
         <mxCell id="TjDeqmaA3nFOe0POnVrV-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-33" vertex="1">
           <mxGeometry width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-66" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;SOP&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;-unit wise calculation&lt;/div&gt;&lt;div&gt;-200k/30k limit is available&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-33">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-66" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;SOP&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;-unit wise calculation&lt;/div&gt;&lt;div&gt;-200k/30k limit is available&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-33" vertex="1">
           <mxGeometry x="180" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-35" value="&lt;div&gt;2. tansfer of property act&lt;/div&gt;&lt;div&gt;if-&lt;/div&gt;&lt;div&gt;a. agreement is in writing&lt;/div&gt;&lt;div&gt;b. buyer has made part or full payment &lt;br&gt;&lt;/div&gt;&lt;div&gt;of consideration&lt;/div&gt;&lt;div&gt;c. buyer has possession of property&lt;/div&gt;&lt;div&gt;-if satisfied he shall be the deemed owner&lt;/div&gt;&lt;div&gt;[house sale is almost done]&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-33" vertex="1">
@@ -103,7 +103,7 @@
         <mxCell id="TjDeqmaA3nFOe0POnVrV-31" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-30" vertex="1">
           <mxGeometry width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-67" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-30">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-67" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-30" vertex="1">
           <mxGeometry x="180" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-32" value="&lt;div&gt;3. Any transaction that enables the enjoyment of immovable property&lt;/div&gt;&lt;div&gt;[becoming a member of co-op society/company/aop (i.e to buy apartments etc.)]&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-30" vertex="1">
@@ -115,13 +115,13 @@
         <mxCell id="TjDeqmaA3nFOe0POnVrV-28" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-27" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-68" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-27">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-68" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-27" vertex="1">
           <mxGeometry x="180" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-29" value="4. lease for 12 years or more" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-27" vertex="1">
           <mxGeometry x="360" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TjDeqmaA3nFOe0POnVrV-36" target="TjDeqmaA3nFOe0POnVrV-18">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TjDeqmaA3nFOe0POnVrV-36" target="TjDeqmaA3nFOe0POnVrV-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-36" value="Owner" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
@@ -205,13 +205,13 @@
         <mxCell id="TjDeqmaA3nFOe0POnVrV-55" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-53" vertex="1">
           <mxGeometry x="285" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="TjDeqmaA3nFOe0POnVrV-40">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-40" vertex="1">
           <mxGeometry y="200" width="370" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-45" value="(+) Arrears of rent - 30%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-44">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-45" value="(+) Arrears of rent - 30%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-44" vertex="1">
           <mxGeometry width="285" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-46" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-44">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-46" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-44" vertex="1">
           <mxGeometry x="285" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-56" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-40" vertex="1">
@@ -383,73 +383,73 @@
         <mxCell id="TjDeqmaA3nFOe0POnVrV-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;" parent="1" source="TjDeqmaA3nFOe0POnVrV-83" target="TjDeqmaA3nFOe0POnVrV-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocy-u_kq5uSuEEq_DpbD-1" target="ocy-u_kq5uSuEEq_DpbD-2">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ocy-u_kq5uSuEEq_DpbD-1" target="ocy-u_kq5uSuEEq_DpbD-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocy-u_kq5uSuEEq_DpbD-1" target="ocy-u_kq5uSuEEq_DpbD-3">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ocy-u_kq5uSuEEq_DpbD-1" target="ocy-u_kq5uSuEEq_DpbD-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocy-u_kq5uSuEEq_DpbD-1" target="ocy-u_kq5uSuEEq_DpbD-61">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ocy-u_kq5uSuEEq_DpbD-1" target="ocy-u_kq5uSuEEq_DpbD-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-1" value="Types of property" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-1" value="Types of property" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocy-u_kq5uSuEEq_DpbD-2" target="ocy-u_kq5uSuEEq_DpbD-6">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ocy-u_kq5uSuEEq_DpbD-2" target="ocy-u_kq5uSuEEq_DpbD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-2" value="LOP/DLOP" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-2" value="LOP/DLOP" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-280" y="1560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocy-u_kq5uSuEEq_DpbD-3" target="ocy-u_kq5uSuEEq_DpbD-9">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ocy-u_kq5uSuEEq_DpbD-3" target="ocy-u_kq5uSuEEq_DpbD-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocy-u_kq5uSuEEq_DpbD-3" target="ocy-u_kq5uSuEEq_DpbD-10">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ocy-u_kq5uSuEEq_DpbD-3" target="ocy-u_kq5uSuEEq_DpbD-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-3" value="SOP" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-3" value="SOP" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-520" y="1560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocy-u_kq5uSuEEq_DpbD-6" target="TjDeqmaA3nFOe0POnVrV-63">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ocy-u_kq5uSuEEq_DpbD-6" target="TjDeqmaA3nFOe0POnVrV-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-6" value="100% of the interest is allowed" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-6" value="100% of the interest is allowed" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-280" y="1640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocy-u_kq5uSuEEq_DpbD-9" target="TjDeqmaA3nFOe0POnVrV-63">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ocy-u_kq5uSuEEq_DpbD-9" target="TjDeqmaA3nFOe0POnVrV-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocy-u_kq5uSuEEq_DpbD-9" target="ocy-u_kq5uSuEEq_DpbD-28">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ocy-u_kq5uSuEEq_DpbD-9" target="ocy-u_kq5uSuEEq_DpbD-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-9" value="Maximum 200k" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-9" value="Maximum 200k" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-600" y="1640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocy-u_kq5uSuEEq_DpbD-10" target="TjDeqmaA3nFOe0POnVrV-63">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ocy-u_kq5uSuEEq_DpbD-10" target="TjDeqmaA3nFOe0POnVrV-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-10" value="&lt;div&gt;Maximum 30k&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-10" value="&lt;div&gt;Maximum 30k&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-440" y="1640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-25" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-25" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-950" y="1540" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-25">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-25" vertex="1">
           <mxGeometry width="280" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-27" value="Conditions" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-26">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-27" value="Conditions" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-26" vertex="1">
           <mxGeometry width="280" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-25">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-25" vertex="1">
           <mxGeometry y="34" width="280" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-29" value="&lt;div&gt;1. Loan is taken on or after 01/04/1999&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. loan is taken for acquisition /&amp;nbsp; construction&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. such acquisition /&amp;nbsp; construction should be completed within 5 year from the end of PY in &lt;br&gt;&lt;/div&gt;&lt;div&gt;which loan is taken&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-28">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-29" value="&lt;div&gt;1. Loan is taken on or after 01/04/1999&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. loan is taken for acquisition /&amp;nbsp; construction&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. such acquisition /&amp;nbsp; construction should be completed within 5 year from the end of PY in &lt;br&gt;&lt;/div&gt;&lt;div&gt;which loan is taken&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-28" vertex="1">
           <mxGeometry width="280" height="126" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TjDeqmaA3nFOe0POnVrV-63" target="TjDeqmaA3nFOe0POnVrV-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocy-u_kq5uSuEEq_DpbD-31">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ocy-u_kq5uSuEEq_DpbD-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-90" y="1720" as="targetPoint" />
             <Array as="points">
@@ -458,80 +458,80 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-31" value="Pre-construction interest" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-31" value="Pre-construction interest" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="1760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocy-u_kq5uSuEEq_DpbD-33" target="ocy-u_kq5uSuEEq_DpbD-31">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ocy-u_kq5uSuEEq_DpbD-33" target="ocy-u_kq5uSuEEq_DpbD-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-33" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-33" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-480" y="1820" width="280" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-34" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-33">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-34" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-33" vertex="1">
           <mxGeometry width="280" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-35" value="Conditions" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-34">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-35" value="Conditions" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-34" vertex="1">
           <mxGeometry width="280" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-36" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-33">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-36" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-33" vertex="1">
           <mxGeometry y="43" width="280" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-37" value="&lt;div&gt;1.&lt;b&gt;start&lt;/b&gt; - date of loan&amp;nbsp; or date of starting &lt;br&gt;&lt;/div&gt;&lt;div&gt;construction which ever is later&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;b&gt;Ends&lt;/b&gt; - year before the PY on which the construction ends&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;b&gt;Deduction allowed from&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- the PY in which construction is completed&lt;/div&gt;&lt;div&gt;- for a period of 5 years&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;b&gt;LOP/DLOP&lt;/b&gt; - 100% of pre + Post&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;b&gt;SOP&lt;/b&gt; - 200k/30k of pre + Post&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-36">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-37" value="&lt;div&gt;1.&lt;b&gt;start&lt;/b&gt; - date of loan&amp;nbsp; or date of starting &lt;br&gt;&lt;/div&gt;&lt;div&gt;construction which ever is later&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;b&gt;Ends&lt;/b&gt; - year before the PY on which the construction ends&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;b&gt;Deduction allowed from&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- the PY in which construction is completed&lt;/div&gt;&lt;div&gt;- for a period of 5 years&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;b&gt;LOP/DLOP&lt;/b&gt; - 100% of pre + Post&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;b&gt;SOP&lt;/b&gt; - 200k/30k of pre + Post&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-36" vertex="1">
           <mxGeometry width="280" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-42" value="" style="swimlane;startSize=20;sketch=1;strokeColor=#000000;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-42" value="" style="swimlane;startSize=20;sketch=1;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-275" y="1983" width="20" height="20" as="geometry">
             <mxRectangle x="-275" y="1983" width="200" height="137" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-43" value="&lt;div&gt;Example&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Total pre construction interest = 100k&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;therefore, 100k/5years = 20k&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;20k shall be allowed as deduction for next 5 years&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-42">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-43" value="&lt;div&gt;Example&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Total pre construction interest = 100k&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;therefore, 100k/5years = 20k&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;20k shall be allowed as deduction for next 5 years&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ocy-u_kq5uSuEEq_DpbD-42" vertex="1">
           <mxGeometry y="20" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-47" value="" style="swimlane;startSize=20;sketch=1;strokeColor=#000000;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="470" y="1740" width="20" height="20" as="geometry">
-            <mxRectangle x="470" y="1740" width="200" height="137" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-48" value="&lt;div&gt;&lt;b&gt;Also includes recovery of rent&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. o/s rent received after some time&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. taxable on receipt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. whether or not the assessse was to owner at that time or not&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-47">
-          <mxGeometry y="20" width="200" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-49" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-49" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="295" y="1840" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-50" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-49">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-50" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-49" vertex="1">
           <mxGeometry width="280" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-51" value="&lt;b&gt;Other concepts&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-50">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-51" value="&lt;b&gt;Other concepts&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-50" vertex="1">
           <mxGeometry width="280" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-52" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-49">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-52" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-49" vertex="1">
           <mxGeometry y="27" width="280" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-53" value="&lt;div&gt;1. if assesse is in the business of letting property on rent the it shall be business income no IHP&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Only individual and&amp;nbsp; HUF can claim SOP&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-52">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-53" value="&lt;div&gt;1. if assesse is in the business of letting property on rent the it shall be business income no IHP&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Only individual and&amp;nbsp; HUF can claim SOP&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-52" vertex="1">
           <mxGeometry width="280" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-56" value="" style="swimlane;startSize=20;sketch=1;strokeColor=#000000;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-56" value="" style="swimlane;startSize=20;sketch=1;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="510" y="730" width="20" height="20" as="geometry">
             <mxRectangle x="510" y="730" width="200" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-57" value="&lt;div&gt;If assesse is in the business of selling properties or part of properties (apartments)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-and they are not occupied&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-ALV shall be taken as Nil&lt;/div&gt;&lt;div&gt;- for 2 years&lt;/div&gt;&lt;div&gt;- from PY in which completion certificate is obtained&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-56">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-57" value="&lt;div&gt;If assesse is in the business of selling properties or part of properties (apartments)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-and they are not occupied&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-ALV shall be taken as Nil&lt;/div&gt;&lt;div&gt;- for 2 years&lt;/div&gt;&lt;div&gt;- from PY in which completion certificate is obtained&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ocy-u_kq5uSuEEq_DpbD-56" vertex="1">
           <mxGeometry y="20" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-58" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" vertex="1" parent="1">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-58" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-760" y="1400" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-59" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-58">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-59" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-58" vertex="1">
           <mxGeometry width="280" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-60" value="Excemption" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-59">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-60" value="Excemption" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-59" vertex="1">
           <mxGeometry width="280" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-61" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-58">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-61" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-58" vertex="1">
           <mxGeometry y="22" width="280" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="ocy-u_kq5uSuEEq_DpbD-62" value="&lt;div&gt;if the loan is take outside india&lt;/div&gt;&lt;div&gt;-if TDS is not charged on such interest paid&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interest deduction shall not be allowed&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="ocy-u_kq5uSuEEq_DpbD-61">
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-62" value="&lt;div&gt;if the loan is take outside india&lt;/div&gt;&lt;div&gt;-if TDS is not charged on such interest paid&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interest deduction shall not be allowed&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-61" vertex="1">
           <mxGeometry width="280" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-47" value="" style="swimlane;startSize=20;sketch=1;strokeColor=#000000;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="470" y="1740" width="20" height="20" as="geometry">
+            <mxRectangle x="470" y="1740" width="200" height="137" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ocy-u_kq5uSuEEq_DpbD-48" value="&lt;div&gt;&lt;b&gt;Also includes recovery of rent&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. o/s rent received after some time&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. taxable on receipt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. whether or not the assessse was to owner at that time or not&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ocy-u_kq5uSuEEq_DpbD-47" vertex="1">
+          <mxGeometry y="20" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
