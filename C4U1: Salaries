@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T18:20:41.469Z" agent="5.0 (X11)" etag="2kweNQkLRBeTgFgY4uTD" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T18:20:49.114Z" agent="5.0 (X11)" etag="CcqtdjU8D1uEpByBDQsm" version="14.7.3" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
     <mxGraphModel dx="3183" dy="1439" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -673,7 +673,7 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-31" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1" parent="c50GbscPvQbGEtNQcPzo-29" vertex="1">
           <mxGeometry x="220" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-49" value="&lt;div&gt;&lt;b&gt;Max limit = rs.100 / P.m / child&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;1. max 2 children allowed.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;2. child includes step/adopted child&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;3. need not be first child&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="c50GbscPvQbGEtNQcPzo-49" value="&lt;div&gt;&lt;b&gt;Max limit = Rs.100 / P.m / child&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;1. max 2 children allowed.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;2. child includes step/adopted child&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;3. need not be first child&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-496" y="1585" width="186" height="70" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-54" value="Max = 300 p.m" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
