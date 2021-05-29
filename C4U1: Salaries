@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T15:01:52.710Z" agent="5.0 (X11)" etag="FK3Qi3W6AIbLnp9fMQzz" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T18:12:48.432Z" agent="5.0 (X11)" etag="LvTqZEZ0DU8JcCdpSEcx" version="14.7.2" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="3413" dy="1437" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3593" dy="1507" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -864,7 +864,7 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-145" value="3. Professional tax" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="345" y="1717.5" width="165" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-146" value="&lt;div&gt;Deduction = Amount paid as professional tax&lt;/div&gt;&lt;div&gt;(it is on paid basics)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="c50GbscPvQbGEtNQcPzo-146" value="&lt;div&gt;Deduction = Amount paid as professional tax&lt;/div&gt;&lt;div&gt;(it is on paid basics) (See perquisites)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="267.5" y="1775" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c50GbscPvQbGEtNQcPzo-157" target="c50GbscPvQbGEtNQcPzo-159" edge="1">
@@ -3262,11 +3262,260 @@
         <mxCell id="EV99y4R6qcVC1a67K6Jq-239" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="EV99y4R6qcVC1a67K6Jq-237" vertex="1">
           <mxGeometry x="220" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EV99y4R6qcVC1a67K6Jq-242" value="&lt;font style=&quot;font-size: 72px&quot;&gt;Prerequisites&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+        <mxCell id="EV99y4R6qcVC1a67K6Jq-242" value="&lt;font style=&quot;font-size: 72px&quot;&gt;Perquisites&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="710" y="-640" width="1900" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Jd-gLuJi4j8HBSExbjtY-1" value="Gas / electricity / water" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10310" y="-420" width="120" height="40" as="geometry" />
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-2" target="Jd-gLuJi4j8HBSExbjtY-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-2" value="Life insurance premium paid by employer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12180" y="-440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-3" value="Note" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12720" y="-440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-4" value="Professional tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12400" y="-440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-5" value="Free / concessional ticket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11960" y="-440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-6" value="club facility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11640" y="-440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-7" value="Credit card facility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11320" y="-440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-8" value="ESOP and sweat equity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10000" y="-420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-9" target="Jd-gLuJi4j8HBSExbjtY-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-9" target="Jd-gLuJi4j8HBSExbjtY-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-9" value="Interest free / concessional loans" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10360" y="-440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-10" target="Jd-gLuJi4j8HBSExbjtY-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-10" target="Jd-gLuJi4j8HBSExbjtY-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-10" value="meal facility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10860" y="-440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-11" value="Employers contributions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12560" y="-440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-8" target="Jd-gLuJi4j8HBSExbjtY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-15" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="9920" y="-340" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-15">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-17" value="Market value of shares of the date of exercising&amp;nbsp; " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-16">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-18" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-16">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-15">
+          <mxGeometry y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-20" value="(-) Exercise price" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-19">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-21" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-19">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-15">
+          <mxGeometry y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-23" value="Taxable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-22">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-24" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-22">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-27" target="Jd-gLuJi4j8HBSExbjtY-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-27" value="For treatment for specific disease" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10240" y="-360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-29" value="Not a perquisite" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10240" y="-300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-31" target="Jd-gLuJi4j8HBSExbjtY-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-31" target="Jd-gLuJi4j8HBSExbjtY-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-31" value="Other" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10480" y="-360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-33" value="&amp;gt; Rs.20,000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10560" y="-280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-34" target="Jd-gLuJi4j8HBSExbjtY-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-34" value="&amp;lt; Rs.20,000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10400" y="-280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-37" value="Not a perquisite" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10400" y="-220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-39" target="Jd-gLuJi4j8HBSExbjtY-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-39" value="Refreshment given during office hours" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10740" y="-360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-40" target="Jd-gLuJi4j8HBSExbjtY-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-40" target="Jd-gLuJi4j8HBSExbjtY-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-40" value="Other" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10980" y="-360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-41" value="FE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10740" y="-300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-43" target="Jd-gLuJi4j8HBSExbjtY-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-43" value="Meal &amp;gt; Rs.50" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10900" y="-280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-44" target="Jd-gLuJi4j8HBSExbjtY-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-44" value="Meal &amp;lt; Rs.50" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11060" y="-280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-49" value="FE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10900" y="-220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-51" value="Excess of 50 taxable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11060" y="-220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-7" target="Jd-gLuJi4j8HBSExbjtY-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-53" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="11240" y="-360" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-54" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-53">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-55" value="Amt paid by employer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-54">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-56" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-54">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-57" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-53">
+          <mxGeometry y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-58" value="(-) recovery from employee" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-57">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-59" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-57">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-60" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-53">
+          <mxGeometry y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-61" value="Taxable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-60">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-62" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-60">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-6" target="Jd-gLuJi4j8HBSExbjtY-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-64" target="Jd-gLuJi4j8HBSExbjtY-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-64" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="11560" y="-360" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-65" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-64">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-66" value="&lt;div&gt;Amt paid by employer&lt;/div&gt;(will not include any for official purposes)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-65">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-67" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-65">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-68" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-64">
+          <mxGeometry y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-69" value="(-) recovery from employee" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-68">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-70" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-68">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-71" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-64">
+          <mxGeometry y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-72" value="Taxable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-71">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-73" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-71">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-75" value="If this facility is provided for all the employees equally then it is not taxable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11560" y="-220" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-5" target="Jd-gLuJi4j8HBSExbjtY-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-77" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="11880" y="-360" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-78" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-77">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-79" value="Fair value of ticket for other employees" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-78">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-80" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-78">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-81" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-77">
+          <mxGeometry y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-82" value="(-) recovery from employee" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-81">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-83" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-81">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-84" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-77">
+          <mxGeometry y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-85" value="Taxable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-84">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-86" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Jd-gLuJi4j8HBSExbjtY-84">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jd-gLuJi4j8HBSExbjtY-88" value="FE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12200" y="-360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
