@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T02:58:50.364Z" agent="5.0 (Windows)" etag="0uFH9KDooQQubTrOrx7a" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T04:06:28.070Z" agent="5.0 (Windows)" etag="s50ISo1RyYWyslKRX5Vx" version="14.7.2" type="github">
   <diagram id="XIx5sxYSYG17C3VzDqbZ" name="Page-1">
-    <mxGraphModel dx="3283" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2228" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-40" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;strokeColor=#FFFF33;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1530" width="370" height="280" as="geometry" />
+          <mxGeometry x="250" y="1530" width="370" height="290" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-41" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-40" vertex="1">
           <mxGeometry width="370" height="40" as="geometry" />
@@ -179,16 +179,16 @@
           <mxGeometry x="285" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-47" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-40" vertex="1">
-          <mxGeometry y="80" width="370" height="40" as="geometry" />
+          <mxGeometry y="80" width="370" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TjDeqmaA3nFOe0POnVrV-48" value="&lt;div&gt;(-) Municipal taxes Paid&lt;/div&gt;(on paid basics) (&lt;b&gt;Not available for SOP&lt;/b&gt;)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-47" vertex="1">
-          <mxGeometry width="285" height="40" as="geometry" />
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-48" value="&lt;div&gt;(-) Municipal taxes Paid&lt;/div&gt;&lt;div&gt;(on paid basics) (&lt;b&gt;Not available for SOP&lt;/b&gt;)&lt;/div&gt;&lt;div&gt;(if paid by tenant don&#39;t deduct)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-47" vertex="1">
+          <mxGeometry width="285" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-49" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-47" vertex="1">
-          <mxGeometry x="285" width="85" height="40" as="geometry" />
+          <mxGeometry x="285" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-50" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-40" vertex="1">
-          <mxGeometry y="120" width="370" height="40" as="geometry" />
+          <mxGeometry y="130" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-51" value="Net annual value (NAV)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-50" vertex="1">
           <mxGeometry width="285" height="40" as="geometry" />
@@ -197,7 +197,7 @@
           <mxGeometry x="285" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-53" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-40" vertex="1">
-          <mxGeometry y="160" width="370" height="40" as="geometry" />
+          <mxGeometry y="170" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-54" value="(-) deductions u/s 24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-53" vertex="1">
           <mxGeometry width="285" height="40" as="geometry" />
@@ -206,7 +206,7 @@
           <mxGeometry x="285" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ocy-u_kq5uSuEEq_DpbD-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-40" vertex="1">
-          <mxGeometry y="200" width="370" height="40" as="geometry" />
+          <mxGeometry y="210" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ocy-u_kq5uSuEEq_DpbD-45" value="(+) Arrears of rent - 30%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="ocy-u_kq5uSuEEq_DpbD-44" vertex="1">
           <mxGeometry width="285" height="40" as="geometry" />
@@ -215,7 +215,7 @@
           <mxGeometry x="285" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-56" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-40" vertex="1">
-          <mxGeometry y="240" width="370" height="40" as="geometry" />
+          <mxGeometry y="250" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-57" value="Income from house property" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-56" vertex="1">
           <mxGeometry width="285" height="40" as="geometry" />
@@ -238,7 +238,7 @@
         <mxCell id="TjDeqmaA3nFOe0POnVrV-63" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-59" vertex="1">
           <mxGeometry y="40" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TjDeqmaA3nFOe0POnVrV-64" value="&lt;div&gt;Interest on loan&lt;/div&gt;(max 30k or 200k)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-63" vertex="1">
+        <mxCell id="TjDeqmaA3nFOe0POnVrV-64" value="&lt;div&gt;Interest on loan&lt;/div&gt;(max 30k or 200k)(on due basics)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-63" vertex="1">
           <mxGeometry width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjDeqmaA3nFOe0POnVrV-65" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="TjDeqmaA3nFOe0POnVrV-63" vertex="1">
@@ -530,7 +530,7 @@
         <mxCell id="ocy-u_kq5uSuEEq_DpbD-48" value="&lt;div&gt;&lt;b&gt;Also includes recovery of rent&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. o/s rent received after some time&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. taxable on receipt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. whether or not the assessse was to owner at that time or not&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ocy-u_kq5uSuEEq_DpbD-47" vertex="1">
           <mxGeometry y="20" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QfctqxqdqIfGZTG1DmPh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TjDeqmaA3nFOe0POnVrV-120" target="TjDeqmaA3nFOe0POnVrV-44">
+        <mxCell id="QfctqxqdqIfGZTG1DmPh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TjDeqmaA3nFOe0POnVrV-120" target="TjDeqmaA3nFOe0POnVrV-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
