@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T19:21:38.015Z" agent="5.0 (X11)" etag="bqpz-Nb5piq4JrAsD0hX" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-30T19:22:57.043Z" agent="5.0 (X11)" etag="eDKW44LxEbEvvuuMnYRE" version="14.7.3" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="3798" dy="1727" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4018" dy="1838" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -999,7 +999,7 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c50GbscPvQbGEtNQcPzo-192" target="c50GbscPvQbGEtNQcPzo-196" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-192" value="&lt;div&gt;Commuted pension&lt;/div&gt;(monthly)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="c50GbscPvQbGEtNQcPzo-192" value="UnCommuted pension(monthly)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1810" y="1460" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c50GbscPvQbGEtNQcPzo-193" target="c50GbscPvQbGEtNQcPzo-198" edge="1">
@@ -1008,7 +1008,7 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c50GbscPvQbGEtNQcPzo-193" target="c50GbscPvQbGEtNQcPzo-199" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-193" value="&lt;div&gt;UnCommuted pension&lt;/div&gt;(Lumpsum)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="c50GbscPvQbGEtNQcPzo-193" value="&lt;div&gt;Commuted pension&lt;/div&gt;(Lumpsum)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2100" y="1460" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-196" value="FT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
