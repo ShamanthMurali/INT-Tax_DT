@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-06T05:30:38.010Z" agent="5.0 (X11)" etag="95DGaMW2DoEiPs2RIV5y" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-06T05:39:53.252Z" agent="5.0 (X11)" etag="NdVF_0hsgfTfon7br6ee" version="14.7.6" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="1035" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3105" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,8 +85,116 @@
         <mxCell id="-zYEXvrkMSiMh9yU-zIp-23" value="&lt;div&gt;mercantile basics&lt;/div&gt;&lt;div&gt;(accrual basics)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-zYEXvrkMSiMh9yU-zIp-26" value="&lt;div&gt;1. follow any method (not compulsory)&lt;/div&gt;&lt;div&gt;2. for once chosen cannot change.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-26" value="&lt;div&gt;1. follow any method (not compulsory)&lt;/div&gt;&lt;div&gt;2. but once chosen cannot change.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="560" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="-zYEXvrkMSiMh9yU-zIp-32" target="-zYEXvrkMSiMh9yU-zIp-34" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="-zYEXvrkMSiMh9yU-zIp-32" target="-zYEXvrkMSiMh9yU-zIp-36" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-32" value="Computation of biz income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-34" value="Direct method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-36" value="indirect method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-zYEXvrkMSiMh9yU-zIp-34" target="-zYEXvrkMSiMh9yU-zIp-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-38" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry y="820" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-39" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-38">
+          <mxGeometry width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-40" value="&lt;div&gt;Receipts as per IT&lt;/div&gt;(income taxable as per IT)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-39">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-41" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-39">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-42" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-38">
+          <mxGeometry y="40" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-43" value="(-) Expenses / payments allowed as per IT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-42">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-44" value="(xx)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-42">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-45" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-38">
+          <mxGeometry y="80" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-46" value="Taxable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-45">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-47" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-45">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-zYEXvrkMSiMh9yU-zIp-36" target="-zYEXvrkMSiMh9yU-zIp-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-48" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2040" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-49" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-48">
+          <mxGeometry width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-50" value="Net profit as per Profit and loss a/c / Income and expenditure a/c" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-49">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-51" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-49">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-52" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-48">
+          <mxGeometry y="40" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-53" value="&lt;div&gt;(+) Amounts debited to P/L, but not allowed &lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-52">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-54" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-52">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-70" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-48">
+          <mxGeometry y="80" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-71" value="(+) Incomes not credited to P/L, but taxable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-70">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-72" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-70">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-67" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-48">
+          <mxGeometry y="120" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-68" value="(-) Expenses not debited to P/L, but allowed" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-67">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-69" value="(xx)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-67">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-48">
+          <mxGeometry y="160" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-65" value="(-) Incomes credited to P/L, but not taxable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-64">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-66" value="(xx)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-64">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-55" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-48">
+          <mxGeometry y="200" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-56" value="Business income as IT act" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-55">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-zYEXvrkMSiMh9yU-zIp-57" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-zYEXvrkMSiMh9yU-zIp-55">
+          <mxGeometry x="280" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
