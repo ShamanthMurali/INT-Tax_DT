@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-06T17:15:15.085Z" agent="5.0 (X11)" etag="As22OTyjxf5xllxxGb3j" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-06T17:51:25.410Z" agent="5.0 (X11)" etag="5CAzONXtdRAS8xFPyaNd" version="14.7.6" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="1886" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2093" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -786,7 +786,7 @@
         <mxCell id="2SGUlK4wuWDhd8j0ueTg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGUlK4wuWDhd8j0ueTg-17" target="2SGUlK4wuWDhd8j0ueTg-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2SGUlK4wuWDhd8j0ueTg-17" value="&lt;div&gt;1. available only to &lt;u&gt;&lt;b&gt;manufacturing&lt;/b&gt;&lt;/u&gt; and &lt;u&gt;&lt;b&gt;power generation&lt;/b&gt;&lt;/u&gt; and distribution units&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. allowed &lt;u&gt;&lt;b&gt;only once&lt;/b&gt;&lt;/u&gt; in the year of purchase&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. only plant and machinery&lt;/div&gt;&lt;div&gt;except(not available for these assets)&lt;/div&gt;&lt;div&gt;a. Ships&lt;/div&gt;&lt;div&gt;b. aircraft&lt;/div&gt;&lt;div&gt;c. motor vehicles&lt;/div&gt;&lt;div&gt;d. second hand plant and machinery&lt;/div&gt;&lt;div&gt;e. installed in office premises and residential premises.&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=1;" vertex="1" parent="1">
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-17" value="&lt;div&gt;1. available only to &lt;u&gt;&lt;b&gt;manufacturing&lt;/b&gt;&lt;/u&gt; and &lt;u&gt;&lt;b&gt;power generation&lt;/b&gt;&lt;/u&gt; and distribution units&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. allowed &lt;u&gt;&lt;b&gt;only once&lt;/b&gt;&lt;/u&gt; in the year of purchase&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. only plant and machinery&lt;/div&gt;&lt;div&gt;except(not available for these assets)&lt;/div&gt;&lt;div&gt;a. Ships&lt;/div&gt;&lt;div&gt;b. aircraft&lt;/div&gt;&lt;div&gt;c. motor vehicles&lt;/div&gt;&lt;div&gt;d. second hand plant and machinery (India + outside)&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. installed in office premises and residential premises.&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=1;" vertex="1" parent="1">
           <mxGeometry x="2855" y="2800" width="350" height="180" as="geometry" />
         </mxCell>
         <mxCell id="2SGUlK4wuWDhd8j0ueTg-19" value="20%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1131,8 +1131,77 @@
         <mxCell id="2SGUlK4wuWDhd8j0ueTg-141" value="Deductions for specified biz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4960" y="1100" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2SGUlK4wuWDhd8j0ueTg-144" value="&lt;div&gt;&lt;u&gt;Only for new biz started in (i.e not acquired)&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Hospitals with &amp;gt;100 beds&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. hotels &amp;gt; 2 star rating&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. housing projects at low cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. honey production&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. pipeline for national gas / crude oil / petroleum oil&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. pipeline for iron ore&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. facility of cold chain (cold storage for food items)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. fertilizer production&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. warehousing of sugar&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10. warehousing of agricultural produce&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;11. slum redevelopment&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;12. semi conductor wafer fabrication manufacturing unit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;13. inland container depot / container freight station&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;14. infrastructure facility&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4880" y="1160" width="360" height="480" as="geometry" />
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGUlK4wuWDhd8j0ueTg-144" target="2SGUlK4wuWDhd8j0ueTg-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-144" value="&lt;div&gt;&lt;u&gt;Only for new biz started in (i.e not acquired)&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Hospitals with &amp;gt;100 beds&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. hotels &amp;gt; 2 star rating&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. housing projects at low cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. honey production&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. pipeline for national gas / crude oil / petroleum oil&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. pipeline for iron ore&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. facility of cold chain (cold storage for food items)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. fertilizer production&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. warehousing of sugar&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10. warehousing of agricultural produce&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;11. slum redevelopment&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;12. semi conductor wafer fabrication manufacturing unit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;13. inland container depot / container freight station&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;14. infrastructure facility&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4880" y="1160" width="360" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGUlK4wuWDhd8j0ueTg-146" target="2SGUlK4wuWDhd8j0ueTg-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGUlK4wuWDhd8j0ueTg-146" target="2SGUlK4wuWDhd8j0ueTg-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-146" value="Expenses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5000" y="1640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGUlK4wuWDhd8j0ueTg-148" target="2SGUlK4wuWDhd8j0ueTg-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-148" value="capital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5080" y="1720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2SGUlK4wuWDhd8j0ueTg-149" target="2SGUlK4wuWDhd8j0ueTg-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-149" value="revenue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4920" y="1720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2SGUlK4wuWDhd8j0ueTg-152" target="2SGUlK4wuWDhd8j0ueTg-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-152" value="Only post commencement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4920" y="1780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2SGUlK4wuWDhd8j0ueTg-153" target="2SGUlK4wuWDhd8j0ueTg-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-153" value="Pre + Post commencement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5080" y="1780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-156" value="AE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4920" y="1840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-157" value="&lt;div&gt;AE&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Except&lt;/b&gt;&lt;/u&gt;,&lt;/div&gt;&lt;div&gt;a. cost of land&lt;/div&gt;&lt;div&gt;b. cost of goodwill&lt;/div&gt;&lt;div&gt;c. cost of financial instruments&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5080" y="1840" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-161" value="&lt;div&gt;no pre commencement time limit&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5130" y="1630" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGUlK4wuWDhd8j0ueTg-157" target="2SGUlK4wuWDhd8j0ueTg-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-162" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="5045" y="1950" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-163" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-162">
+          <mxGeometry width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-164" value="&lt;div&gt;will not include&lt;/div&gt;&lt;div&gt;(these will be deducted expenditure)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-163">
+          <mxGeometry width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-165" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-162">
+          <mxGeometry y="50" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-166" value="1. cash payment &amp;gt;10,000 per day" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-165">
+          <mxGeometry width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-167" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-162">
+          <mxGeometry y="90" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-168" value="2. barer cheque &amp;gt;10,000 per day" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-167">
+          <mxGeometry width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
