@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-06T16:27:16.986Z" agent="5.0 (X11)" etag="ITwoZMIoGAMZB_ntXuPt" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-06T16:34:18.644Z" agent="5.0 (X11)" etag="gEjiJOTylC9o8dcmFg9O" version="14.7.6" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="1886" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2922" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -806,6 +806,60 @@
         </mxCell>
         <mxCell id="2SGUlK4wuWDhd8j0ueTg-23" value="&lt;div&gt;10% in CY&lt;/div&gt;&lt;div&gt;10% in carried forward to next year&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3065" y="3090" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-30" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="2920" width="200" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-31" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-30">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-32" value="&lt;u&gt;&lt;b&gt;Ammendment&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-31">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-33" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-31">
+          <mxGeometry x="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-34" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-30">
+          <mxGeometry y="40" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-35" value="&lt;div&gt;When manufacturing units are set up in notified backward areas i.e.&lt;/div&gt;&lt;div&gt;1. Andrapradesh&lt;/div&gt;&lt;div&gt;2. bihar&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Telangana&lt;/div&gt;&lt;div&gt;4. West bengal&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-34">
+          <mxGeometry width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-36" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-34">
+          <mxGeometry x="160" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-37" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-30">
+          <mxGeometry y="150" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-38" value="&lt;div&gt;b/w &lt;b&gt;01/04/15 to 31/03/20&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Then additional dep will be&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-37">
+          <mxGeometry width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-39" value="&lt;b&gt;(5yrs)&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-37">
+          <mxGeometry x="160" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-30">
+          <mxGeometry y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-45" value="&amp;gt;180 days" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-44">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-46" value="35%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-44">
+          <mxGeometry x="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-41" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-30">
+          <mxGeometry y="240" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-42" value="&lt;div&gt;&amp;lt;180 days&lt;/div&gt;&lt;div&gt;(balance 17.5% next year)&lt;br&gt;&lt;/div&gt;&lt;div&gt;(only this part is relevant of nov 2021)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-41">
+          <mxGeometry width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-43" value="17.5%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-41">
+          <mxGeometry x="160" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=0.025;entryDx=0;entryDy=0;strokeColor=#3399FF;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2SGUlK4wuWDhd8j0ueTg-17" target="2SGUlK4wuWDhd8j0ueTg-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3140" y="2505" as="sourcePoint" />
+            <mxPoint x="3398.6000000000004" y="2539.04" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
