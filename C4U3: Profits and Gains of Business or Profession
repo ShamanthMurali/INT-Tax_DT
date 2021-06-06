@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-06T16:51:35.713Z" agent="5.0 (X11)" etag="g0oFndiy4D3o8T8PdDSz" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-06T16:52:22.959Z" agent="5.0 (X11)" etag="QbbmS8qxbFqe33oQQ1PZ" version="14.7.6" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
     <mxGraphModel dx="1886" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -938,6 +938,9 @@
         </mxCell>
         <mxCell id="2SGUlK4wuWDhd8j0ueTg-72" value="2. barer cheque &amp;gt;10,000 per day" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SGUlK4wuWDhd8j0ueTg-71">
           <mxGeometry width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-74" value="Amalgamation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="1100" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
