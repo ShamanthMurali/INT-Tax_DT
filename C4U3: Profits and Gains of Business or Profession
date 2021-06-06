@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-06T16:01:49.651Z" agent="5.0 (X11)" etag="4-oO-0PEf6kbpOfeXGuS" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-06T16:07:35.856Z" agent="5.0 (X11)" etag="OPsyb8k1sR5IbguZF7pC" version="14.7.6" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="4326" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3586" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -790,11 +790,20 @@
         <mxCell id="2SGUlK4wuWDhd8j0ueTg-5" value="&lt;div&gt;&amp;lt;180 days&lt;/div&gt;&lt;div&gt;(after 3rd october)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-1090" y="3950" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGUlK4wuWDhd8j0ueTg-8" target="2SGUlK4wuWDhd8j0ueTg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2SGUlK4wuWDhd8j0ueTg-8" value="Full depreciation" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-1250" y="4010" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGUlK4wuWDhd8j0ueTg-10" target="2SGUlK4wuWDhd8j0ueTg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2SGUlK4wuWDhd8j0ueTg-10" value="half depreciation" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-1090" y="4010" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-12" value="Additional depreciation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="4090" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
