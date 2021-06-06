@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-06T17:07:57.890Z" agent="5.0 (X11)" etag="QCfJP7bS_blduy40XPUt" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-06T17:15:15.085Z" agent="5.0 (X11)" etag="As22OTyjxf5xllxxGb3j" version="14.7.6" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="1707" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1125,8 +1125,14 @@
         <mxCell id="2SGUlK4wuWDhd8j0ueTg-138" value="AE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4640" y="1450" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGUlK4wuWDhd8j0ueTg-141" target="2SGUlK4wuWDhd8j0ueTg-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2SGUlK4wuWDhd8j0ueTg-141" value="Deductions for specified biz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4960" y="1100" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-144" value="&lt;div&gt;&lt;u&gt;Only for new biz started in (i.e not acquired)&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Hospitals with &amp;gt;100 beds&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. hotels &amp;gt; 2 star rating&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. housing projects at low cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. honey production&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. pipeline for national gas / crude oil / petroleum oil&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. pipeline for iron ore&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. facility of cold chain (cold storage for food items)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. fertilizer production&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. warehousing of sugar&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10. warehousing of agricultural produce&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;11. slum redevelopment&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;12. semi conductor wafer fabrication manufacturing unit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;13. inland container depot / container freight station&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;14. infrastructure facility&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4880" y="1160" width="360" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
