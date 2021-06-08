@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T20:10:38.410Z" agent="5.0 (X11)" etag="zyyqPyymv8N2oPrKnSYy" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-08T20:19:07.787Z" agent="5.0 (X11)" etag="z-B1Bgau435sUm_ezFzh" version="14.7.6" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="1444" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1468" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,7 +227,7 @@
           <mxGeometry x="860" y="1500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-zYEXvrkMSiMh9yU-zIp-79" value="&lt;div&gt;AE = Allowed expense&lt;br&gt;&lt;/div&gt;&lt;div&gt;AI = Allowed income&lt;br&gt;&lt;/div&gt;&lt;div&gt;NE = not allowed expense&lt;br&gt;&lt;/div&gt;&lt;div&gt;NI = not allowed income&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-320" width="160" height="80" as="geometry" />
+          <mxGeometry width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-zYEXvrkMSiMh9yU-zIp-84" value="AE in proportion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="1560" width="120" height="40" as="geometry" />
@@ -1538,7 +1538,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-89" value="Employee contribution to various funds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7940" y="1100" width="130" height="40" as="geometry" />
+          <mxGeometry x="7945" y="1100" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-90" value="NE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7870" y="1240" width="120" height="40" as="geometry" />
@@ -1557,14 +1557,53 @@
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-94" value="paid by the employer after due date" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8030" y="1180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-96" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="8017" y="1255.0000000000002" as="sourcePoint" />
-            <mxPoint x="8017" y="1300.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-97" value="NE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-97" value="AE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8030" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-99" value="Allowances for animals / live stock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8195" y="1100" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-99" target="mLM-LtL2Q0xHhIj2BZRu-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-100" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="8170" y="1160" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-101" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mLM-LtL2Q0xHhIj2BZRu-100">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-102" value="Actual cost" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="mLM-LtL2Q0xHhIj2BZRu-101">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-103" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="mLM-LtL2Q0xHhIj2BZRu-101">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-104" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mLM-LtL2Q0xHhIj2BZRu-100">
+          <mxGeometry y="40" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-105" value="(-) Sale proceeds" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="mLM-LtL2Q0xHhIj2BZRu-104">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-106" value="(xx)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="mLM-LtL2Q0xHhIj2BZRu-104">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-107" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mLM-LtL2Q0xHhIj2BZRu-100">
+          <mxGeometry y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-108" value="AE" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="mLM-LtL2Q0xHhIj2BZRu-107">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-109" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="mLM-LtL2Q0xHhIj2BZRu-107">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-112" target="mLM-LtL2Q0xHhIj2BZRu-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-112" value="Bad debts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8370" y="1100" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-113" value="7/6/21 1h:46m" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="8375" y="1160" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
