@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T19:43:31.978Z" agent="5.0 (X11)" etag="PNnd3zKbTpPistRSlFFo" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-08T19:47:37.955Z" agent="5.0 (X11)" etag="rhsdCvIcsTZgjv6PxP-G" version="14.7.6" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
     <mxGraphModel dx="1703" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1411,11 +1411,23 @@
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-45" value="Bonus and commission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6610" y="1100" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-46" target="mLM-LtL2Q0xHhIj2BZRu-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-46" value="to employee who are also shareholders, in lieu of dividend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6680" y="1180" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-47" target="mLM-LtL2Q0xHhIj2BZRu-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-47" value="&lt;div&gt;Paid in normal course of biz&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6540" y="1180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-50" value="NE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6680" y="1250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-51" value="AE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6540" y="1250" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
