@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T20:19:07.787Z" agent="5.0 (X11)" etag="z-B1Bgau435sUm_ezFzh" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-08T20:24:23.716Z" agent="5.0 (X11)" etag="GaIkk50M_JQHrW9nagLt" version="14.7.6" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="1468" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="6240" dy="3135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1604,6 +1604,39 @@
         </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-113" value="7/6/21 1h:46m" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" parent="1">
           <mxGeometry x="8375" y="1160" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-115" target="mLM-LtL2Q0xHhIj2BZRu-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-115" value="Family planing&amp;nbsp;&amp;nbsp; expense" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8590" y="1110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-116" target="mLM-LtL2Q0xHhIj2BZRu-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-116" target="mLM-LtL2Q0xHhIj2BZRu-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-116" value="expenses incurred by company for training and awareness programs for employees for promoting family planing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8550" y="1170" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-118" target="mLM-LtL2Q0xHhIj2BZRu-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-118" value="capital expenditure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8670" y="1270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-119" target="mLM-LtL2Q0xHhIj2BZRu-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-119" value="Revenue expenditure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8510" y="1270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-122" value="AE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8510" y="1330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-124" value="Expenses to be deferred in 5 years" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8670" y="1330" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
