@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T20:09:02.150Z" agent="5.0 (X11)" etag="2YsAcC1Cryc4L-q8vuOn" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-08T20:10:38.410Z" agent="5.0 (X11)" etag="zyyqPyymv8N2oPrKnSYy" version="14.7.6" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="1711" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1444" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1530,6 +1530,41 @@
             <mxPoint x="7697" y="1255" as="sourcePoint" />
             <mxPoint x="7697" y="1300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="mLM-LtL2Q0xHhIj2BZRu-89" target="mLM-LtL2Q0xHhIj2BZRu-92" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="mLM-LtL2Q0xHhIj2BZRu-89" target="mLM-LtL2Q0xHhIj2BZRu-94" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-89" value="Employee contribution to various funds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7940" y="1100" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-90" value="NE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7870" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="mLM-LtL2Q0xHhIj2BZRu-92" target="mLM-LtL2Q0xHhIj2BZRu-90" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-92" value="Paid by the employer before due date" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7870" y="1180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="mLM-LtL2Q0xHhIj2BZRu-94" target="mLM-LtL2Q0xHhIj2BZRu-97" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8090.034482758621" y="1240.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-94" value="paid by the employer after due date" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8030" y="1180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-96" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8017" y="1255.0000000000002" as="sourcePoint" />
+            <mxPoint x="8017" y="1300.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-97" value="NE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8030" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
