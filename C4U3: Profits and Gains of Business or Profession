@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T20:00:52.747Z" agent="5.0 (X11)" etag="NTOfPrQnblaQI8BMWEXR" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-08T20:09:02.150Z" agent="5.0 (X11)" etag="2YsAcC1Cryc4L-q8vuOn" version="14.7.6" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="1703" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1711" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1489,8 +1489,47 @@
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-72" value="AE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7150" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-74" target="mLM-LtL2Q0xHhIj2BZRu-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-74" value="Zero coupon bond" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7350" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-75" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(deduction will be deferred for the life of bond)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;deduction = `\text{Redemption value - issue price}/\text{life of the bond}`&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Starting from year of issue&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7290" y="1160" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-77" target="mLM-LtL2Q0xHhIj2BZRu-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-77" target="mLM-LtL2Q0xHhIj2BZRu-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-77" value="Employer contribution to various funds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7620" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-78" value="AE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7550" y="1260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-79" target="mLM-LtL2Q0xHhIj2BZRu-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-79" value="&lt;div&gt;PF&lt;/div&gt;&lt;div&gt;Superannuation fund&lt;/div&gt;&lt;div&gt;Gratuity fund&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7550" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-80" target="mLM-LtL2Q0xHhIj2BZRu-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-80" value="&lt;div&gt;Pension fund &lt;br&gt;&lt;/div&gt;&lt;div&gt;u/s 80ccd&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7710" y="1180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-84" value="&lt;div&gt;1. actual contribution&lt;/div&gt;&lt;div&gt;or &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. max 10% of (A)Salary&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7690" y="1240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-86" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7697" y="1255" as="sourcePoint" />
+            <mxPoint x="7697" y="1300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
