@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T19:51:54.804Z" agent="5.0 (X11)" etag="jmqQgNLsYSmT5ZAi-3PB" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-08T19:55:30.106Z" agent="5.0 (X11)" etag="90YerwDhry95ELePBKN3" version="14.7.6" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
     <mxGraphModel dx="2305" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1433,7 +1433,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-54" value="Interest on borrowed capital" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6950" y="1100" width="120" height="40" as="geometry" />
+          <mxGeometry x="6900" y="1100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-55" target="mLM-LtL2Q0xHhIj2BZRu-58">
           <mxGeometry relative="1" as="geometry" />
@@ -1442,25 +1442,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-55" value="&lt;div&gt;1. there must be a legitimate liability to pay interest&lt;/div&gt;&lt;div&gt;2. interest cannot be paid to self&lt;/div&gt;&lt;div&gt;3. procession fee, brokerage and penalty on loan is not covered here&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6910" y="1160" width="200" height="90" as="geometry" />
+          <mxGeometry x="6860" y="1160" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-57" value="NE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7030" y="1360" width="120" height="40" as="geometry" />
+          <mxGeometry x="6980" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-58" target="mLM-LtL2Q0xHhIj2BZRu-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-58" value="&lt;div&gt;Loan for&lt;/div&gt;&lt;div&gt;Biz and profession&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6870" y="1290" width="120" height="50" as="geometry" />
+          <mxGeometry x="6820" y="1290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-60" target="mLM-LtL2Q0xHhIj2BZRu-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-60" value="&lt;div&gt;Loan for&lt;/div&gt;&lt;div&gt;other purpose&lt;/div&gt;&lt;div&gt;(i.e personal)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7030" y="1290" width="120" height="50" as="geometry" />
+          <mxGeometry x="6980" y="1290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-63" value="AE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6870" y="1360" width="120" height="40" as="geometry" />
+          <mxGeometry x="6820" y="1360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-65" target="mLM-LtL2Q0xHhIj2BZRu-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-65" target="mLM-LtL2Q0xHhIj2BZRu-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-65" value="Loans taken for acquisition of capital assets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7200" y="1100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-66" target="mLM-LtL2Q0xHhIj2BZRu-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-66" value="Interest paid from date of borrowing upto date of put to use" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7130" y="1190" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-67" target="mLM-LtL2Q0xHhIj2BZRu-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-67" value="Interest paid from date of put to use" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7270" y="1190" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-70" value="&lt;div&gt;Capitalize to the cost of the asset&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7130" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-72" value="AE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7270" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
