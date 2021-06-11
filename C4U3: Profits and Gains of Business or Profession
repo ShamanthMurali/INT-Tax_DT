@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T09:03:42.486Z" agent="5.0 (X11)" etag="X2xN2Var6wzaXoc1mmTg" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-11T09:04:50.326Z" agent="5.0 (X11)" etag="651wr5u3Ev8QgfK6yp7O" version="14.7.7" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="1794" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="6300" dy="3135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1830,111 +1830,111 @@
         <mxCell id="F35uVYqHLGuweMzUuJkv-94" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-77" target="F35uVYqHLGuweMzUuJkv-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="11030" y="1340" />
-              <mxPoint x="11480" y="1340" />
+              <mxPoint x="10980" y="1340" />
+              <mxPoint x="11430" y="1340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-77" value="Employee contribution to various funds" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10950" y="1100" width="160" height="40" as="geometry" />
+          <mxGeometry x="10900" y="1100" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-78" target="F35uVYqHLGuweMzUuJkv-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-78" value="paid before the due date of filing of income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="11340" y="1440" width="120" height="60" as="geometry" />
+          <mxGeometry x="11290" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-79" target="F35uVYqHLGuweMzUuJkv-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-79" value="paid after the due date of filing of income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="11500" y="1440" width="120" height="60" as="geometry" />
+          <mxGeometry x="11450" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-82" value="AE in the same year" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="11340" y="1520" width="120" height="40" as="geometry" />
+          <mxGeometry x="11290" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-84" value="AE in the year of payment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="11500" y="1520" width="120" height="40" as="geometry" />
+          <mxGeometry x="11450" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-97" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-86" target="F35uVYqHLGuweMzUuJkv-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="11390" y="1300" />
-              <mxPoint x="11480" y="1300" />
+              <mxPoint x="11340" y="1300" />
+              <mxPoint x="11430" y="1300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-86" value="Tax, duty or cess paid to govt." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="11310" y="1100" width="160" height="40" as="geometry" />
+          <mxGeometry x="11260" y="1100" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-95" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-87" target="F35uVYqHLGuweMzUuJkv-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="11210" y="1320" />
-              <mxPoint x="11480" y="1320" />
+              <mxPoint x="11160" y="1320" />
+              <mxPoint x="11430" y="1320" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-87" value="Bonus and commission to employees" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="11130" y="1100" width="160" height="40" as="geometry" />
+          <mxGeometry x="11080" y="1100" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-88" target="F35uVYqHLGuweMzUuJkv-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-88" value="Interest on borrowed capital paid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="11490" y="1100" width="160" height="40" as="geometry" />
+          <mxGeometry x="11440" y="1100" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-98" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-89" target="F35uVYqHLGuweMzUuJkv-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="11570" y="1300" />
-              <mxPoint x="11480" y="1300" />
+              <mxPoint x="11520" y="1300" />
+              <mxPoint x="11430" y="1300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-89" value="&lt;div&gt;From,&lt;/div&gt;&lt;div&gt;a. public financial institution &lt;br&gt;&lt;/div&gt;&lt;div&gt;b. state financial corporation&lt;/div&gt;&lt;div&gt;c. state industrial investment corporation&lt;/div&gt;&lt;div&gt;d. deposit taking NBFC or systemically important non-deposit taking NBFC&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="11470" y="1160" width="200" height="120" as="geometry" />
+          <mxGeometry x="11420" y="1160" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-99" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-91" target="F35uVYqHLGuweMzUuJkv-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="11730" y="1320" />
-              <mxPoint x="11480" y="1320" />
+              <mxPoint x="11680" y="1320" />
+              <mxPoint x="11430" y="1320" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-91" value="Leave salary paid to employees" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="11670" y="1100" width="120" height="40" as="geometry" />
+          <mxGeometry x="11620" y="1100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-100" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-92" target="F35uVYqHLGuweMzUuJkv-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="11870" y="1340" />
-              <mxPoint x="11480" y="1340" />
+              <mxPoint x="11820" y="1340" />
+              <mxPoint x="11430" y="1340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-92" value="&lt;div&gt;Payment to Indian railways&lt;/div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(for use of railway assets)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="11810" y="1100" width="120" height="60" as="geometry" />
+          <mxGeometry x="11760" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-93" target="F35uVYqHLGuweMzUuJkv-78">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="11480" y="1420" />
-              <mxPoint x="11400" y="1420" />
+              <mxPoint x="11430" y="1420" />
+              <mxPoint x="11350" y="1420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-93" target="F35uVYqHLGuweMzUuJkv-79">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="11480" y="1420" />
-              <mxPoint x="11560" y="1420" />
+              <mxPoint x="11430" y="1420" />
+              <mxPoint x="11510" y="1420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-93" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="11475" y="1395" width="10" height="10" as="geometry" />
+          <mxGeometry x="11425" y="1395" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
