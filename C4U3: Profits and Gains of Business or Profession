@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T07:05:26.758Z" agent="5.0 (X11)" etag="S2omSGYFUhg2ay8OJSHx" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-11T07:12:22.769Z" agent="5.0 (X11)" etag="OgqgAF0rngNqo9YrWsiw" version="14.7.7" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="1304" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="633" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1697,6 +1697,27 @@
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-21" value="NE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9800" y="1630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-23" target="F35uVYqHLGuweMzUuJkv-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-23" value="Specific disallowance&amp;nbsp; " style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="9970" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-25" target="F35uVYqHLGuweMzUuJkv-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-25" value="donation / contribution to political party" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9960" y="1160" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-27" target="F35uVYqHLGuweMzUuJkv-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-27" value="NE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9970" y="1220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-29" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;however, u/s &lt;br&gt;&lt;/div&gt;80GGB and 80GGC allow deductions from gross total income" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="1">
+          <mxGeometry x="10110" y="1185" width="90" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
