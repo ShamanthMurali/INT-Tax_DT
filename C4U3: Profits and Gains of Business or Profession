@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T08:06:56.405Z" agent="5.0 (X11)" etag="W9STlg5K6MfCE9eq0YmL" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-11T08:23:13.868Z" agent="5.0 (X11)" etag="1MYqcLSpmmbASjv5XMuL" version="14.7.7" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
     <mxGraphModel dx="857" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1826,6 +1826,33 @@
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-73" value="such amount in excess of 10,000 is NE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10590" y="1310" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-77" target="F35uVYqHLGuweMzUuJkv-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-77" target="F35uVYqHLGuweMzUuJkv-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-77" value="Employee contribution to various funds" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11040" y="1100" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-78" target="F35uVYqHLGuweMzUuJkv-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-78" value="paid before the due date of filing of income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10980" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F35uVYqHLGuweMzUuJkv-79" target="F35uVYqHLGuweMzUuJkv-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-79" value="paid after the due date of filing of income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11140" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-82" value="AE in the same year" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10980" y="1260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F35uVYqHLGuweMzUuJkv-84" value="AE in the year of payment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11140" y="1260" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
