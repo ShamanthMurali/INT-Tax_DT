@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T23:29:11.458Z" agent="5.0 (X11)" etag="3WmcPQonmpf9tVOxfA-l" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-06T00:01:18.342Z" agent="5.0 (X11)" etag="wtytEP7_mPC81Yz2qgLq" version="14.9.4" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="2506" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1474" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2483,11 +2483,23 @@
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-56" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;Applicable even if business if closed / transfered&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="15990" y="1080" width="270" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-57" target="LtmzHBzeiKG4Y2Plw9Tw-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-57" target="LtmzHBzeiKG4Y2Plw9Tw-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-57" value="&lt;div&gt;S44AA&lt;/div&gt;&lt;div&gt;Maintenance of books of accounts&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16720" y="1080" width="150" height="50" as="geometry" />
+          <mxGeometry x="16865" y="1070" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-58" target="LtmzHBzeiKG4Y2Plw9Tw-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-58" target="LtmzHBzeiKG4Y2Plw9Tw-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-58" value="&lt;div&gt;Businesses / Other professionals&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16870" y="1170" width="120" height="40" as="geometry" />
+          <mxGeometry x="17145" y="1179" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-59" target="LtmzHBzeiKG4Y2Plw9Tw-62">
           <mxGeometry relative="1" as="geometry" />
@@ -2513,17 +2525,126 @@
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-63" value="&lt;div&gt;Applicable if Gross receipts for &lt;u&gt;&lt;b&gt;all&lt;/b&gt;&lt;/u&gt; 3 preceding previous years &lt;br&gt;&lt;/div&gt;&lt;div&gt;is &lt;b&gt;&amp;gt; 1,50,000 P.a&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(i.e each of individual last 3 PPY should have &amp;gt; 150k)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Note: In case of first year, applicable only if the Gross receipts is likely to exceed 150k&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="16490" y="1310" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-66" value="&lt;div&gt;Applicable if Gross receipts for &lt;u&gt;&lt;b&gt;all / any&lt;/b&gt;&lt;/u&gt; 3 preceding previous years &lt;br&gt;&lt;/div&gt;&lt;div&gt;is &lt;u&gt;&amp;lt;&lt;/u&gt; 1,50,000 P.a&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-66" value="&lt;div&gt;Applicable if Gross receipts for &lt;u&gt;&lt;b&gt;all / any&lt;/b&gt;&lt;/u&gt; 3 preceding previous years &lt;br&gt;&lt;/div&gt;&lt;div&gt;is &lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt; 1,50,000 P.a&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="16670" y="1310" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-70" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Specified Professionals&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Accountancy Professionals&lt;/div&gt;&lt;div&gt;2. Lawyers&lt;/div&gt;&lt;div&gt;3. Doctors&lt;/div&gt;&lt;div&gt;4. Engineers&lt;/div&gt;&lt;div&gt;5. &lt;span style=&quot;white-space: pre&quot;&gt;Architects&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;6. Interior Decorators&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;7. CS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;8. Film artists&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;9. Technical consultants&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;10. IT professionals&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16485" y="1520" width="180" height="190" as="geometry" />
+          <mxGeometry x="16752.5" y="1645" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-71" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Specified Books&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Cash / bank book&lt;/div&gt;&lt;div&gt;2. Journals&lt;/div&gt;&lt;div&gt;3. Ledgers&lt;/div&gt;&lt;div&gt;4. bills received / Purchase register&lt;/div&gt;&lt;div&gt;5. Bills Issued / Sales Register&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16690" y="1520" width="160" height="140" as="geometry" />
+          <mxGeometry x="16957.5" y="1645" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-72" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Other books&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Are Those Which will enable the IT dept to calculate the income of assessee.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16870" y="1520" width="160" height="100" as="geometry" />
+          <mxGeometry x="17137.5" y="1645" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-74" target="LtmzHBzeiKG4Y2Plw9Tw-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-74" target="LtmzHBzeiKG4Y2Plw9Tw-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-74" value="&lt;div&gt;Other Assessee&lt;/div&gt;(Firm, AOP, BOI Etc.)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17325" y="1266.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-75" target="LtmzHBzeiKG4Y2Plw9Tw-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-75" target="LtmzHBzeiKG4Y2Plw9Tw-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-75" value="Individual / HUF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16965" y="1269" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-78" target="LtmzHBzeiKG4Y2Plw9Tw-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-78" value="No Books" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17055" y="1349" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-79" target="LtmzHBzeiKG4Y2Plw9Tw-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-79" value="Other Books" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16875" y="1349" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-80" value="&lt;div&gt;Applicable if Gross receipts for &lt;u&gt;&lt;b&gt;Any&lt;/b&gt;&lt;/u&gt; 3 preceding previous years &lt;br&gt;&lt;/div&gt;&lt;div&gt;is &lt;b&gt;&amp;gt; 25,00,000 P.a&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;or&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;I&lt;/b&gt;f PGBP Income for &lt;u&gt;&lt;b&gt;Any&lt;/b&gt;&lt;/u&gt; of 3 PPY &lt;br&gt;&lt;/div&gt;&lt;div&gt;is &lt;b&gt;&amp;gt; 2,50,000&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Note: In case of first year, applicable only if the Gross receipts is likely to exceed 25L&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16855" y="1409" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-84" value="&lt;div&gt;Applicable if Gross receipts for &lt;u&gt;&lt;b&gt;ALL&lt;/b&gt;&lt;/u&gt; 3 preceding previous years &lt;br&gt;&lt;/div&gt;&lt;div&gt;is &lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt; 25,00,000 P.a&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;or&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;I&lt;/b&gt;f PGBP Income for &lt;u&gt;&lt;b&gt;ALL&lt;/b&gt;&lt;/u&gt; of 3 PPY &lt;br&gt;&lt;/div&gt;&lt;div&gt;is &lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt; 2,50,000&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17035" y="1409" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-86" target="LtmzHBzeiKG4Y2Plw9Tw-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-86" value="No Books" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17415" y="1349" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-87" target="LtmzHBzeiKG4Y2Plw9Tw-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-87" value="Other Books" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17235" y="1349" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-90" value="&lt;div&gt;Applicable if Gross receipts for &lt;u&gt;&lt;b&gt;Any&lt;/b&gt;&lt;/u&gt; 3 preceding previous years &lt;br&gt;&lt;/div&gt;&lt;div&gt;is &lt;b&gt;&amp;gt; 10,00,000 P.a&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;or&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;I&lt;/b&gt;f PGBP Income for &lt;u&gt;&lt;b&gt;Any&lt;/b&gt;&lt;/u&gt; of 3 PPY &lt;br&gt;&lt;/div&gt;&lt;div&gt;is &lt;b&gt;&amp;gt; 1,20,000&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Note: In case of first year, applicable only if the Gross receipts is likely to exceed 10L&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17215" y="1409" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-92" value="&lt;div&gt;Applicable if Gross receipts for &lt;u&gt;&lt;b&gt;ALL&lt;/b&gt;&lt;/u&gt; 3 preceding previous years &lt;br&gt;&lt;/div&gt;&lt;div&gt;is &lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt; 10,00,000 P.a&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;or&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;I&lt;/b&gt;f PGBP Income for &lt;u&gt;&lt;b&gt;ALL&lt;/b&gt;&lt;/u&gt; of 3 PPY &lt;br&gt;&lt;/div&gt;&lt;div&gt;is &lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt; 1,20,000&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17395" y="1409" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-96" target="LtmzHBzeiKG4Y2Plw9Tw-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-96" value="&lt;div&gt;S44AB&lt;/div&gt;&lt;div&gt;Tax Audit&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17880" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-97" target="LtmzHBzeiKG4Y2Plw9Tw-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-97" value="1. It is audit by CA as per provisions of IT act&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17800" y="1140" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-98" target="LtmzHBzeiKG4Y2Plw9Tw-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-98" value="2. Applicable to - " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17800" y="1200" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-101" target="LtmzHBzeiKG4Y2Plw9Tw-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-101" value="Business" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17760" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-102" target="LtmzHBzeiKG4Y2Plw9Tw-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="17618" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-102" value="&lt;div&gt;Only if&lt;/div&gt;&lt;div&gt;t/o &amp;gt; 1 Cr P.a&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17760" y="1340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-105" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="17500" y="1145" width="240" height="139.99999999999977" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-106" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-105">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-107" value="&lt;b&gt;Amendment&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#007FFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-106">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-108" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-105">
+          <mxGeometry y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-109" value="&lt;div&gt;Tax audit is not required if all the &lt;br&gt;&lt;/div&gt;&lt;div&gt;following 3 conditions are met -&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-108">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-110" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-105">
+          <mxGeometry y="80" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-111" value="&lt;div&gt;a. 1 Cr &amp;lt; t/o &lt;u&gt;&amp;lt;&lt;/u&gt; 5 Cr&lt;/div&gt;&lt;div&gt;b. Cash receipts &lt;u&gt;&amp;lt;&lt;/u&gt; 5% Total receipts&lt;/div&gt;&lt;div&gt;c.Cash payments &lt;u&gt;&amp;lt;&lt;/u&gt; 5% of Total payments&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-110">
+          <mxGeometry width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
