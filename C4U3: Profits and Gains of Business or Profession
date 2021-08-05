@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T00:01:18.342Z" agent="5.0 (X11)" etag="wtytEP7_mPC81Yz2qgLq" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-06T00:13:44.889Z" agent="5.0 (X11)" etag="M15oQksFEGULVgSZE7kQ" version="14.9.4" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="1474" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="25060" dy="12540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2606,6 +2606,9 @@
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-98" target="LtmzHBzeiKG4Y2Plw9Tw-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-98" target="LtmzHBzeiKG4Y2Plw9Tw-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-98" value="2. Applicable to - " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="17800" y="1200" width="280" height="40" as="geometry" />
         </mxCell>
@@ -2645,6 +2648,15 @@
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-111" value="&lt;div&gt;a. 1 Cr &amp;lt; t/o &lt;u&gt;&amp;lt;&lt;/u&gt; 5 Cr&lt;/div&gt;&lt;div&gt;b. Cash receipts &lt;u&gt;&amp;lt;&lt;/u&gt; 5% Total receipts&lt;/div&gt;&lt;div&gt;c.Cash payments &lt;u&gt;&amp;lt;&lt;/u&gt; 5% of Total payments&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-110">
           <mxGeometry width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-114" target="LtmzHBzeiKG4Y2Plw9Tw-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-114" value="Professionals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18000" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-115" value="&lt;div&gt;Only if&lt;/div&gt;&lt;div&gt;Gross receipts &amp;gt; 50 lakhs P.a&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17975" y="1340" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
