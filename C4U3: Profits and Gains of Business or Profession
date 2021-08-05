@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T01:01:33.461Z" agent="5.0 (X11)" etag="vivP6okoWxOFVQZ_98_f" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T23:12:01.505Z" agent="5.0 (X11)" etag="uPeVofDe5UNWEH9pmdk-" version="14.9.4" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="864" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2506" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2176,131 +2176,312 @@
         <mxCell id="Z4AgTP84B0uhGNgYdBm4-82" value="&lt;div&gt;AE in the year of &lt;br&gt;&lt;/div&gt;&lt;div&gt;filing return&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="11980" y="1802.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z4AgTP84B0uhGNgYdBm4-87" target="Z4AgTP84B0uhGNgYdBm4-4">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Z4AgTP84B0uhGNgYdBm4-87" target="Z4AgTP84B0uhGNgYdBm4-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z4AgTP84B0uhGNgYdBm4-87" value="if payee is resident" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13040" y="1262.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-2" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-2" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="11630" y="920" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-3" target="Yb-PHib6-4cjPT73myfT-4">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yb-PHib6-4cjPT73myfT-3" target="Yb-PHib6-4cjPT73myfT-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-3" value="Section 40 b" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-3" value="S40 b" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14080" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-4" value="This section is applicable to partnership firms and LLPs only." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-4" target="Yb-PHib6-4cjPT73myfT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-4" target="Yb-PHib6-4cjPT73myfT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb-PHib6-4cjPT73myfT-4" value="This section is applicable to partnership firms and LLPs only." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14000" y="1140" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-6" target="Yb-PHib6-4cjPT73myfT-22">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yb-PHib6-4cjPT73myfT-6" target="Yb-PHib6-4cjPT73myfT-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-6" value="&lt;div&gt;&lt;b&gt;salary&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(remuneration, commission, professional fees or any other name)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-6" value="&lt;div&gt;&lt;b&gt;salary&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(remuneration, commission, professional fees or any other name)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14160" y="1240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-7" target="Yb-PHib6-4cjPT73myfT-10">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yb-PHib6-4cjPT73myfT-7" target="Yb-PHib6-4cjPT73myfT-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-7" value="Interest on capital / loan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-7" value="Interest on capital / loan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13800" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-10" target="Yb-PHib6-4cjPT73myfT-12">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yb-PHib6-4cjPT73myfT-10" target="Yb-PHib6-4cjPT73myfT-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-10" value="a. Must be authorized by Deed, else NE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-10" value="a. Must be authorized by Deed, else NE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13760" y="1300" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-12" target="Yb-PHib6-4cjPT73myfT-14">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yb-PHib6-4cjPT73myfT-12" target="Yb-PHib6-4cjPT73myfT-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-12" target="Yb-PHib6-4cjPT73myfT-18">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yb-PHib6-4cjPT73myfT-12" target="Yb-PHib6-4cjPT73myfT-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-12" value="b. Interest on loan maximum 12%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-12" value="b. Interest on loan maximum 12%" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13760" y="1362.5" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-14" target="Yb-PHib6-4cjPT73myfT-16">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yb-PHib6-4cjPT73myfT-14" target="Yb-PHib6-4cjPT73myfT-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-14" value="&amp;lt; 12%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-14" value="&amp;lt; 12%" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13720" y="1440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-16" value="AE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-16" value="AE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13720" y="1500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-18" target="Yb-PHib6-4cjPT73myfT-19">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yb-PHib6-4cjPT73myfT-18" target="Yb-PHib6-4cjPT73myfT-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-18" value="&amp;gt; 12%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-18" value="&amp;gt; 12%" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13880" y="1440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-19" value="&lt;div&gt;Upto 12% AE&lt;/div&gt;&lt;div&gt;Rest NE&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-19" value="&lt;div&gt;Upto 12% AE&lt;/div&gt;&lt;div&gt;Rest NE&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13880" y="1500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-22" target="Yb-PHib6-4cjPT73myfT-24">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yb-PHib6-4cjPT73myfT-22" target="Yb-PHib6-4cjPT73myfT-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-22" value="a. Must be authorized by Deed, else NE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-22" value="a. Must be authorized by Deed, else NE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14120" y="1340" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-24" target="Yb-PHib6-4cjPT73myfT-26">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yb-PHib6-4cjPT73myfT-24" target="Yb-PHib6-4cjPT73myfT-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-24" target="Yb-PHib6-4cjPT73myfT-27">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yb-PHib6-4cjPT73myfT-24" target="Yb-PHib6-4cjPT73myfT-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-24" value="&lt;div&gt;b. must be paid to working partners&lt;/div&gt;&lt;div&gt;(minor / sleeping partners NE)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-24" value="&lt;div&gt;b. must be paid to working partners&lt;/div&gt;&lt;div&gt;(minor / sleeping partners NE)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14120" y="1400" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-26" target="Yb-PHib6-4cjPT73myfT-28">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yb-PHib6-4cjPT73myfT-26" target="Yb-PHib6-4cjPT73myfT-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-26" value="Paid to non working partner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-26" value="Paid to non working partner" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14320" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-27" target="Yb-PHib6-4cjPT73myfT-32">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yb-PHib6-4cjPT73myfT-27" target="Yb-PHib6-4cjPT73myfT-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-27" value="Paid to working partner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-27" value="Paid to working partner" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14080" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-28" value="NE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-28" value="NE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14320" y="1542.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-32" target="Yb-PHib6-4cjPT73myfT-43">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yb-PHib6-4cjPT73myfT-32" target="Yb-PHib6-4cjPT73myfT-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-32" value="a. must not be paid for prior period" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-32" value="a. must not be paid for prior period" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14040" y="1542.5" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-35" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-35" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="14010" y="1740" width="260" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-36" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Yb-PHib6-4cjPT73myfT-35">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-36" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yb-PHib6-4cjPT73myfT-35" vertex="1">
           <mxGeometry width="260" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-37" value="&lt;u&gt;&amp;lt;&lt;/u&gt; 3 Lakh" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Yb-PHib6-4cjPT73myfT-36">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-37" value="&lt;u&gt;&amp;lt;&lt;/u&gt; 3 Lakh" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yb-PHib6-4cjPT73myfT-36" vertex="1">
           <mxGeometry width="63" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-38" value="&lt;div&gt;AE =&lt;/div&gt;&lt;div&gt;90 % of BP&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Rs.1,50,000&lt;br&gt;&lt;/div&gt;&lt;div&gt;[&lt;u&gt;&lt;b&gt;Which ever is higher&lt;/b&gt;&lt;/u&gt;]&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Yb-PHib6-4cjPT73myfT-36">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-38" value="&lt;div&gt;AE =&lt;/div&gt;&lt;div&gt;90 % of BP&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Rs.1,50,000&lt;br&gt;&lt;/div&gt;&lt;div&gt;[&lt;u&gt;&lt;b&gt;Which ever is higher&lt;/b&gt;&lt;/u&gt;]&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yb-PHib6-4cjPT73myfT-36" vertex="1">
           <mxGeometry x="63" width="197" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-39" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Yb-PHib6-4cjPT73myfT-35">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-39" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yb-PHib6-4cjPT73myfT-35" vertex="1">
           <mxGeometry y="92" width="260" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-40" value="&amp;gt; 3 Lakh" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Yb-PHib6-4cjPT73myfT-39">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-40" value="&amp;gt; 3 Lakh" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yb-PHib6-4cjPT73myfT-39" vertex="1">
           <mxGeometry width="63" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-41" value="&lt;div&gt;AE =&lt;/div&gt;&lt;div&gt;90% of BP upto 3 lakh&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;60% of BP in excess of 3 lakh&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Yb-PHib6-4cjPT73myfT-39">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-41" value="&lt;div&gt;AE =&lt;/div&gt;&lt;div&gt;90% of BP upto 3 lakh&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;60% of BP in excess of 3 lakh&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yb-PHib6-4cjPT73myfT-39" vertex="1">
           <mxGeometry x="63" width="197" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-43" value="b. AE = &lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;Actual remuneration paid&lt;/b&gt;&lt;/u&gt;&lt;br&gt;or&lt;br&gt; &lt;u&gt;&lt;b&gt;Maximum* remuneration allowed&lt;/b&gt;&lt;/u&gt;&lt;br&gt;[Which ever is &lt;u&gt;&lt;b&gt;Lower&lt;/b&gt;&lt;/u&gt;]&lt;br&gt;&lt;br&gt;* Maximum remuneration =&lt;br&gt;if &lt;u&gt;Book profit&lt;/u&gt;`.^((1))`(BP) for year is - " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-43" value="b. AE = &lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;Actual remuneration paid&lt;/b&gt;&lt;/u&gt;&lt;br&gt;or&lt;br&gt; &lt;u&gt;&lt;b&gt;Maximum* remuneration allowed&lt;/b&gt;&lt;/u&gt;&lt;br&gt;[Which ever is &lt;u&gt;&lt;b&gt;Lower&lt;/b&gt;&lt;/u&gt;]&lt;br&gt;&lt;br&gt;* Maximum remuneration =&lt;br&gt;if &lt;u&gt;Book profit&lt;/u&gt;`.^((1))`(BP) for year is - " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14010" y="1600" width="260" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Yb-PHib6-4cjPT73myfT-45" value="(1) Book profit here means -" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yb-PHib6-4cjPT73myfT-45" value="(1) Book profit here means -" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13950" y="1920" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-3" target="LtmzHBzeiKG4Y2Plw9Tw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-3" target="LtmzHBzeiKG4Y2Plw9Tw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-3" value="&lt;div&gt;S40 A(7)&lt;/div&gt;Provisions for Gratuity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14770" y="1080" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-5" target="LtmzHBzeiKG4Y2Plw9Tw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-5" value="Gratuity fund maintained by employer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14640" y="1160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-6" target="LtmzHBzeiKG4Y2Plw9Tw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-6" value="Gratuity fund &lt;u&gt;&lt;b&gt;not&lt;/b&gt;&lt;/u&gt; maintained by employer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14880" y="1160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-9" target="LtmzHBzeiKG4Y2Plw9Tw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-9" value="&lt;div&gt;a. Annual employers contribution is AE&lt;/div&gt;&lt;div&gt;b. Gratuity paid at the time of retirement is NE&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14610" y="1220" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-11" target="LtmzHBzeiKG4Y2Plw9Tw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-11" value="a. when the liability to pay gratuity arises it will be AE (i.e at the time of retirement&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14850" y="1220" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-13" value="Apart from the above 2 no other provision for gratuity allowed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14730" y="1305" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-16" target="LtmzHBzeiKG4Y2Plw9Tw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-16" value="Other disallowances" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15175" y="1080" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-18" value="&lt;div&gt;1. Income Tax&lt;/div&gt;&lt;div&gt;2. contribution to unrecognized funds&lt;/div&gt;&lt;div&gt;3. Tax paid by employer on non-monetary perquisites&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15090" y="1142.5" width="320" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-20" target="LtmzHBzeiKG4Y2Plw9Tw-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-20" target="LtmzHBzeiKG4Y2Plw9Tw-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-20" target="LtmzHBzeiKG4Y2Plw9Tw-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="16020" y="1140" />
+              <mxPoint x="16405" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-20" target="LtmzHBzeiKG4Y2Plw9Tw-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="16020" y="1140" />
+              <mxPoint x="15570" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-20" value="&lt;div&gt;S41&lt;/div&gt;&lt;div&gt;Recoveries etc&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15945" y="1080" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-21" target="LtmzHBzeiKG4Y2Plw9Tw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-21" value="&lt;div&gt;S41(1)&lt;/div&gt;&lt;div&gt;Remission / Cessation of any Trading liability&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15495" y="1160" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-22" value="&lt;div&gt;If deduction for any loss or expenditure was claimed in a year and such loss is recovered or expenditure ceases to exist&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&lt;u&gt; Amount becomes Taxable in such year.&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15430" y="1230" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-24" value="&lt;div&gt;S41(2)&lt;/div&gt;&lt;div&gt;Balancing Charge&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15795" y="1160" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LtmzHBzeiKG4Y2Plw9Tw-24" target="LtmzHBzeiKG4Y2Plw9Tw-26" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-26" target="LtmzHBzeiKG4Y2Plw9Tw-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-26" value="applicable only to power generation and distribution units. since they have SLM depreciation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15730" y="1230" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-27" value="Example to &#xa;understand" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="15810" y="1300" width="120" height="40" as="geometry">
+            <mxRectangle x="15820" y="1340" width="570" height="420" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-29" target="LtmzHBzeiKG4Y2Plw9Tw-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-29" value="&lt;div&gt;There is a machinery &lt;br&gt;&lt;/div&gt;&lt;div&gt;e.g. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Cost = 100L&lt;/div&gt;&lt;div&gt;depn = 20L&lt;/div&gt;&lt;div&gt;WDV = 80L&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-27">
+          <mxGeometry x="215" y="60" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-30" target="LtmzHBzeiKG4Y2Plw9Tw-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-30" target="LtmzHBzeiKG4Y2Plw9Tw-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="220" />
+              <mxPoint x="80" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-30" target="LtmzHBzeiKG4Y2Plw9Tw-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="220" />
+              <mxPoint x="480" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-30" value="Sold in third year" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-27">
+          <mxGeometry x="225" y="162.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-32" target="LtmzHBzeiKG4Y2Plw9Tw-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-32" value="&lt;div&gt;Selling price &amp;lt; WDV&lt;/div&gt;75L" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-27">
+          <mxGeometry x="20" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-33" target="LtmzHBzeiKG4Y2Plw9Tw-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-33" value="&lt;div&gt;SP = WDV&lt;/div&gt;80L" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-27">
+          <mxGeometry x="225" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-34" value="&lt;div&gt;SP &amp;gt; WDV&lt;/div&gt;90L" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-27">
+          <mxGeometry x="420" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-38" value="&lt;div&gt;AE&lt;/div&gt;&lt;div&gt;Dr. to P/L as terminal depreciation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-27">
+          <mxGeometry x="20" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-40" value="Ignore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-27">
+          <mxGeometry x="225" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-42" value="&lt;div&gt;10L depreciation will be offset with 10L profit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; if there is excess it will be AI as capital gains&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-27">
+          <mxGeometry x="420" y="300" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-44" target="LtmzHBzeiKG4Y2Plw9Tw-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-44" value="&lt;div&gt;S41(3)&lt;/div&gt;&lt;div&gt;Assets use for scientific reasearch&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16095" y="1160" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-45" target="LtmzHBzeiKG4Y2Plw9Tw-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-45" value="If such assets is sold after using it for scientific research but before using it for any other purpose" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16030" y="1230" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-46" value="&lt;div&gt;AI =&lt;/div&gt;&lt;div&gt;Sale proceeds&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Deduction claimed u/s 35&lt;/div&gt;&lt;div&gt;[Which ever is less]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16095" y="1300" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-48" target="LtmzHBzeiKG4Y2Plw9Tw-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-48" value="&lt;div&gt;S41(4)&lt;/div&gt;&lt;div&gt;Recovery of Bad debts&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16330" y="1160" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-49" value="Taxable in the year of recovery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16330" y="1227.5" width="150" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-56" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;Applicable even if business if closed / transfered&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16120" y="1080" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
