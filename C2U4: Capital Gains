@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T14:17:01.520Z" agent="5.0 (X11)" etag="xRnqCL9-6IoVDY6Va92l" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-06T14:32:59.580Z" agent="5.0 (X11)" etag="ZG_sD_X1Kmm5xoFYBswz" version="14.9.4" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="861" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1784" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,20 +10,17 @@
         <mxCell id="6tTLR_FKDy42-OiPKujR-1" value="Capital Gains" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6tTLR_FKDy42-OiPKujR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tTLR_FKDy42-OiPKujR-2" target="6tTLR_FKDy42-OiPKujR-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6tTLR_FKDy42-OiPKujR-2" value="&lt;div&gt;&lt;u&gt;charging s45&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Any profit and gains from transfer of a capital asset* during P.Y shall be chargeable to tax under capital gains, provided it should not be exempted under the Act.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="60" width="440" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6tTLR_FKDy42-OiPKujR-4" value="&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Includes -&lt;/div&gt;&lt;div&gt;1. Property of any kind held by assessee for business or personal&lt;/div&gt;&lt;div&gt;(movable/immovable/tangible/intangible)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Securities held by FII&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Other items -&lt;/div&gt;&lt;div&gt;a. Jewellery&lt;/div&gt;&lt;div&gt;b. Drawing / Painting&lt;/div&gt;&lt;div&gt;c. Archeological collections&lt;/div&gt;&lt;div&gt;d. Sculptures&lt;/div&gt;&lt;div&gt;e. Any other work of art&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Except&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Stock in trade (Except Securities held by FII)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Personal effects &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i.e movable assets held by assessee or his family for personal purpose. E.g.Tv, AC) &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Except : other items mentioned above)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="150" width="360" height="350" as="geometry" />
+          <mxGeometry x="50" y="210" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="6tTLR_FKDy42-OiPKujR-6" value="&lt;div&gt;S2(14)&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Capital asset&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6tTLR_FKDy42-OiPKujR-7" value="&lt;div&gt;&lt;u&gt;Does not include (Except)&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Stock in trade (Except Securities held by FII)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Personal effects &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i.e movable assets held by assessee or his family for personal purpose. E.g.Tv, AC) &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Except : other items mentioned above)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="150" width="330" height="340" as="geometry" />
+          <mxGeometry x="430" y="210" width="330" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
