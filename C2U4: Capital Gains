@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-07T12:07:39.302Z" agent="5.0 (X11)" etag="gABnv11nWyX6FiHJ7qm1" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-07T12:07:54.928Z" agent="5.0 (X11)" etag="WLI4J_1A7XFW-yyfc9_H" version="14.9.5" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
     <mxGraphModel dx="1352" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -315,8 +315,14 @@
         <mxCell id="qMrhOpDwRkPrCX5FWaJR-130" value="&lt;div&gt;Any transfer by&lt;/div&gt;&lt;div&gt; way of &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="290" y="2600" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qMrhOpDwRkPrCX5FWaJR-131" target="qMrhOpDwRkPrCX5FWaJR-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qMrhOpDwRkPrCX5FWaJR-131" value="Irrevocable Trust" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="420" y="2680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qMrhOpDwRkPrCX5FWaJR-132" target="qMrhOpDwRkPrCX5FWaJR-139">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMrhOpDwRkPrCX5FWaJR-132" value="Will / Inherentance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="290" y="2680" width="120" height="40" as="geometry" />
@@ -329,6 +335,12 @@
         </mxCell>
         <mxCell id="qMrhOpDwRkPrCX5FWaJR-137" value="&lt;div&gt;NT&lt;/div&gt;*capg is attracted on further transfer by sale /- by receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="160" y="2740" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-139" value="&lt;div&gt;NT&lt;/div&gt;*capg is attracted on further transfer by sale /- by receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="290" y="2740" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-141" value="&lt;div&gt;NT&lt;/div&gt;*capg is attracted on further transfer by sale /- by receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2740" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
