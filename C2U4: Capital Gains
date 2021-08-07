@@ -1,26 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T14:32:59.580Z" agent="5.0 (X11)" etag="ZG_sD_X1Kmm5xoFYBswz" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-07T09:11:43.615Z" agent="5.0 (X11)" etag="7D__TLd3YJkfFsOhrZCu" version="14.9.5" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="1784" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2300" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6tTLR_FKDy42-OiPKujR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tTLR_FKDy42-OiPKujR-1" target="6tTLR_FKDy42-OiPKujR-2">
+        <mxCell id="6tTLR_FKDy42-OiPKujR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6tTLR_FKDy42-OiPKujR-1" target="6tTLR_FKDy42-OiPKujR-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6tTLR_FKDy42-OiPKujR-1" value="Capital Gains" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6tTLR_FKDy42-OiPKujR-1" value="Capital Gains" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6tTLR_FKDy42-OiPKujR-2" value="&lt;div&gt;&lt;u&gt;charging s45&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Any profit and gains from transfer of a capital asset* during P.Y shall be chargeable to tax under capital gains, provided it should not be exempted under the Act.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6tTLR_FKDy42-OiPKujR-2" value="&lt;div&gt;&lt;u&gt;charging s45&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Any profit and gains from transfer of a capital asset* during P.Y shall be chargeable to tax under capital gains, provided it should not be exempted under the Act.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="60" width="440" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6tTLR_FKDy42-OiPKujR-4" value="&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Includes -&lt;/div&gt;&lt;div&gt;1. Property of any kind held by assessee for business or personal&lt;/div&gt;&lt;div&gt;(movable/immovable/tangible/intangible)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Securities held by FII&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Other items -&lt;/div&gt;&lt;div&gt;a. Jewellery&lt;/div&gt;&lt;div&gt;b. Drawing / Painting&lt;/div&gt;&lt;div&gt;c. Archeological collections&lt;/div&gt;&lt;div&gt;d. Sculptures&lt;/div&gt;&lt;div&gt;e. Any other work of art&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Except&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Stock in trade (Except Securities held by FII)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Personal effects &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i.e movable assets held by assessee or his family for personal purpose. E.g.Tv, AC) &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Except : other items mentioned above)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="210" width="360" height="350" as="geometry" />
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tTLR_FKDy42-OiPKujR-6" target="qMrhOpDwRkPrCX5FWaJR-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6tTLR_FKDy42-OiPKujR-6" value="&lt;div&gt;S2(14)&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Capital asset&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="150" width="120" height="40" as="geometry" />
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tTLR_FKDy42-OiPKujR-6" target="qMrhOpDwRkPrCX5FWaJR-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6tTLR_FKDy42-OiPKujR-7" value="&lt;div&gt;&lt;u&gt;Does not include (Except)&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Stock in trade (Except Securities held by FII)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Personal effects &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i.e movable assets held by assessee or his family for personal purpose. E.g.Tv, AC) &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Except : other items mentioned above)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="210" width="330" height="340" as="geometry" />
+        <mxCell id="6tTLR_FKDy42-OiPKujR-6" value="&lt;div&gt;S2(14)&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Capital asset&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-6" value="&lt;u&gt;Does not include (Except)&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-7" value="1. Stock in trade (Except Securities held by FII)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-8" value="2. Personal effects&lt;br&gt;(i.e movable assets held by assessee or his family for personal purpose. E.g.Tv, AC)&lt;br&gt;(Except : other items mentioned above)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMrhOpDwRkPrCX5FWaJR-9" target="qMrhOpDwRkPrCX5FWaJR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-9" value="3. Rural Agricultural land&lt;br&gt;(which is not urban agricultural land which is defined below)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="450" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qMrhOpDwRkPrCX5FWaJR-11" target="qMrhOpDwRkPrCX5FWaJR-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-11" value="Urban land" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-15" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="660" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-16" value="2KM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="680" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-19" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="660" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-21" value="6KM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565" y="680" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-22" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="660" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-24" value="8KM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="680" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMrhOpDwRkPrCX5FWaJR-25" target="qMrhOpDwRkPrCX5FWaJR-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qMrhOpDwRkPrCX5FWaJR-25" target="qMrhOpDwRkPrCX5FWaJR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMrhOpDwRkPrCX5FWaJR-25" target="qMrhOpDwRkPrCX5FWaJR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-25" value="Land with in Jurisdiction of such municipality is urban land the rest is rural land " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="580" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-30" value="&lt;div&gt;4. Specified Gold Bonds&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. 6.5% Gold bonds, 1977.&lt;/div&gt;&lt;div&gt;b. 7% Gold bonds, 1980.&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. National defense gold bond, 1980.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="431.25" y="810" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-31" value="5. Special Bearer Bonds, 1991" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="910" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-32" value="&lt;div&gt;6. Gold deposit certificates / Gold deposit bonds&lt;/div&gt;&lt;div&gt;(Sovereign Gold bonds not included i.e they are capital assets)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="431.25" y="970" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-33" value="&lt;u&gt;&lt;b&gt;Includes&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-34" value="1. Property of any kind held by assessee for business or personal&lt;br&gt;(movable/immovable/tangible/intangible)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-35" value="2. Securities held by FII" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-36" value="&lt;div&gt;3. Other items -&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;a. Jewellery*&lt;br&gt;b. Drawing / Painting&lt;br&gt;c. Archeological collections&lt;br&gt;d. Sculptures&lt;br&gt;e. Any other work of art&lt;br&gt;&lt;br&gt;*jewels in Jewellery shop is stock in trade and taxable under PGBP&lt;br&gt;*Jewellery includes gold, silver, diamonds etc. and ornaments made out of it&lt;br&gt;whether or not sewn into wearing apparel(Dress) or furniture/utensils " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="430" width="330" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-39" value="&lt;font style=&quot;font-size: 8px&quot;&gt;`Pop^n`&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;u&gt;&amp;gt;&lt;/u&gt; 10,000&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="705" width="58.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-40" value="&lt;font style=&quot;font-size: 8px&quot;&gt;`Pop^n`&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;u&gt;&amp;gt;&lt;/u&gt; 1,00,000&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565" y="705" width="58.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-41" value="&lt;font style=&quot;font-size: 8px&quot;&gt;`Pop^n`&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;u&gt;&amp;gt;&lt;/u&gt; 10,00,000&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="705" width="58.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
