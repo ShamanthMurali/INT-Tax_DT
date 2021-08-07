@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-07T12:07:54.928Z" agent="5.0 (X11)" etag="WLI4J_1A7XFW-yyfc9_H" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-07T14:30:14.126Z" agent="5.0 (X11)" etag="XM6mHvCwtN9CroY0LUSq" version="14.9.5" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="1352" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1567" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -313,34 +313,61 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMrhOpDwRkPrCX5FWaJR-130" value="&lt;div&gt;Any transfer by&lt;/div&gt;&lt;div&gt; way of &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="290" y="2600" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="2600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qMrhOpDwRkPrCX5FWaJR-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qMrhOpDwRkPrCX5FWaJR-131" target="qMrhOpDwRkPrCX5FWaJR-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMrhOpDwRkPrCX5FWaJR-131" value="Irrevocable Trust" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="420" y="2680" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="2680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qMrhOpDwRkPrCX5FWaJR-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qMrhOpDwRkPrCX5FWaJR-132" target="qMrhOpDwRkPrCX5FWaJR-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMrhOpDwRkPrCX5FWaJR-132" value="Will / Inherentance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="290" y="2680" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="2680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qMrhOpDwRkPrCX5FWaJR-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMrhOpDwRkPrCX5FWaJR-133" target="qMrhOpDwRkPrCX5FWaJR-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMrhOpDwRkPrCX5FWaJR-133" value="Gift" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2680" width="120" height="40" as="geometry" />
+          <mxGeometry x="165" y="2680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qMrhOpDwRkPrCX5FWaJR-137" value="&lt;div&gt;NT&lt;/div&gt;*capg is attracted on further transfer by sale /- by receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2740" width="120" height="70" as="geometry" />
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-137" value="&lt;div&gt;NT&lt;/div&gt;*capg is attracted on further transfer by sale /- by receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2740" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qMrhOpDwRkPrCX5FWaJR-139" value="&lt;div&gt;NT&lt;/div&gt;*capg is attracted on further transfer by sale /- by receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="290" y="2740" width="120" height="70" as="geometry" />
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-139" value="&lt;div&gt;NT&lt;/div&gt;*capg is attracted on further transfer by sale /- by receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2740" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qMrhOpDwRkPrCX5FWaJR-141" value="&lt;div&gt;NT&lt;/div&gt;*capg is attracted on further transfer by sale /- by receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="420" y="2740" width="120" height="70" as="geometry" />
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-141" value="&lt;div&gt;NT&lt;/div&gt;&lt;div&gt;*capg is attracted on further transfer by sale /- by receiver&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* only if no benefit is received to transfer-er&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Not available for recoverable trust&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* T/f of ESOP by gift/irrevocable trust is taxable&lt;/div&gt;&lt;div&gt;(However ESOP t/fed by will/inheritance if NT)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="2740" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMrhOpDwRkPrCX5FWaJR-143" target="qMrhOpDwRkPrCX5FWaJR-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMrhOpDwRkPrCX5FWaJR-143" target="qMrhOpDwRkPrCX5FWaJR-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-143" value="&lt;div&gt;Transfer B/w Holding company and 100% subsidiary company&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="838.75" y="2600" width="241.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qMrhOpDwRkPrCX5FWaJR-146" target="qMrhOpDwRkPrCX5FWaJR-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-146" value="Holding to subsidiary" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="806.18" y="2680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMrhOpDwRkPrCX5FWaJR-147" target="qMrhOpDwRkPrCX5FWaJR-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-147" value="Subsidiary to holding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="996.18" y="2680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-148" value="&lt;div&gt;NT if:&lt;/div&gt;&lt;div&gt;&lt;div&gt;1. Holding co or its nominees&amp;nbsp; owns 100% share capital of Subsidiary co&lt;br&gt;&lt;/div&gt;2. &lt;u&gt;Subsidiary&lt;/u&gt; is a Indian company&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;*if capital asset is stock in trade then it is taxable&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="772.56" y="2740" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-149" value="&lt;div&gt;NT if:&lt;/div&gt;&lt;div&gt;&lt;div&gt;1. Holding co or its nominees&amp;nbsp; owns 100% share capital of Subsidiary co&lt;br&gt;&lt;/div&gt;2. &lt;u&gt;Holding&lt;/u&gt; is a Indian company&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;*if capital asset is stock in trade then it is taxable&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="966.18" y="2740" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
