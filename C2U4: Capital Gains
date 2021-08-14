@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-14T16:04:50.214Z" agent="5.0 (X11)" etag="QRCTQTeVBEsqUiHQXF3v" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-14T16:52:46.824Z" agent="5.0 (X11)" etag="TiHjDPK7IVYfCZxfyVFO" version="14.9.6" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="2751" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3184" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -604,6 +604,66 @@
         </mxCell>
         <mxCell id="4toc84XJHAsPXifJmLsm-90" value="PGBP income = sale value - FMV on date of conversion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1010" y="6240" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-94" value="3.) compulsory acquisition of capital asset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="6580" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-95" value="when capital asset compulsory acquired by the govt. it will be taxable as follows" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="6640" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-96" value="&lt;div&gt;FVOC =&lt;/div&gt;&lt;div&gt;Initial compensation **&lt;/div&gt;&lt;div&gt;(entire initial compensation, even if it is partly received)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;** if it is a LTCA,&lt;/div&gt;&lt;div&gt;`\text{Indexed cost}=(COA xx \text{CII of year of compulsory acquisition})/\text{CII of year of aquisition}`&lt;br&gt;&lt;/div&gt;&lt;div&gt;__________________________________&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Year of t/f = year of compulsory acquisition &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;__________________________________&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Year of taxability = year of receiving initial compensation&lt;/div&gt;&lt;div&gt;(even if part is received)&lt;br&gt;&lt;/div&gt;&lt;div&gt;__________________________________&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Period of holding = from date of acquisition to date of compulsory acquisition &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1365" y="6860" width="451.38" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4toc84XJHAsPXifJmLsm-97" target="4toc84XJHAsPXifJmLsm-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4toc84XJHAsPXifJmLsm-97" target="4toc84XJHAsPXifJmLsm-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-97" value="Types of compensation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="6720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4toc84XJHAsPXifJmLsm-98" target="4toc84XJHAsPXifJmLsm-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-98" value="Initial compensation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="6800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4toc84XJHAsPXifJmLsm-99" target="4toc84XJHAsPXifJmLsm-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-99" value="Enhanced compensation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="6800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4toc84XJHAsPXifJmLsm-103" target="4toc84XJHAsPXifJmLsm-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4toc84XJHAsPXifJmLsm-103" target="4toc84XJHAsPXifJmLsm-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-103" value="If assessee is not happy with initial compensation, he may file an appeal against the govt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-635" y="6860" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4toc84XJHAsPXifJmLsm-104" target="4toc84XJHAsPXifJmLsm-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-104" value="&lt;div&gt;Govt &lt;span style=&quot;white-space: pre&quot;&gt;agrees to give &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;additional &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;compensation&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-734.31" y="6940" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4toc84XJHAsPXifJmLsm-105" target="4toc84XJHAsPXifJmLsm-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-105" value="Not given directly" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="6940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-109" value="&lt;div&gt;FVOC =&lt;/div&gt;&lt;div&gt;Enhanced compensation **&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;** if it is a LTCA, indexation is not allowed since is already allowed in the initial compenstion&lt;br&gt;&lt;/div&gt;&lt;div&gt;_________________________________&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Litigation expenses are allowed as deduction&lt;br&gt;&lt;/div&gt;&lt;div&gt;__________________________________&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Nature of gain for enhanced compensation(i.e LTCA or STCA)&lt;br&gt;&lt;/div&gt;&lt;div&gt;is same as initial compensation&lt;/div&gt;&lt;div&gt;__________________________________&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Subsequent reduction in enhanced compensation, after charging to capital gains &lt;br&gt;&lt;/div&gt;&lt;div&gt;[i.e if govt finds later on that they have given a wrong compensation, the enhanced compensation can be reduced by govt]&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;Then, the capital gains computed earlier will be recomputed and rectification&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt; will be done&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;__________________________________&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. If the enhanced compensation is received after the death of the assessee. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Then, it will be taxable under the hands of the receiver.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="7010" width="451.38" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4toc84XJHAsPXifJmLsm-111" target="4toc84XJHAsPXifJmLsm-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-111" value="&lt;div&gt;1. a small amount is given first as a interim compensation by passing an interim order&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt;&amp;gt; such compensation is not taxable until the final order is issued&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="7010" width="220" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
