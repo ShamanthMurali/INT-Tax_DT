@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-14T20:38:23.583Z" agent="5.0 (X11)" etag="HWF9dJk0vOADS5299xgl" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-14T21:14:23.168Z" agent="5.0 (X11)" etag="5vGIefrAwZGTszVFyk2_" version="14.9.6" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
     <mxGraphModel dx="3420" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -906,6 +906,9 @@
         </mxCell>
         <mxCell id="4toc84XJHAsPXifJmLsm-205" value="Exceptions under capital gains" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="9480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4toc84XJHAsPXifJmLsm-206" value="S54" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="9560" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
