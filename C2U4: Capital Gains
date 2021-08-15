@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-15T17:23:27.564Z" agent="5.0 (X11)" etag="9rzjrNTW5shK21vN_sqv" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-15T19:02:26.580Z" agent="5.0 (X11)" etag="OcwwT2s0zBKXHXf-PqC_" version="14.9.6" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="2897" dy="174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3798" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1388,19 +1388,22 @@
         <mxCell id="Yu6CIILWX2otFXuLDAdN-61" value="&lt;div&gt;S50B &lt;br&gt;&lt;/div&gt;&lt;div&gt;Slump sale &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="2440" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-62" target="Yu6CIILWX2otFXuLDAdN-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-62" value="&lt;div&gt;Transfer of 1 or more divisions / units for a lumpsum value. and individual value are not assigned to any asset or liability. in such case entire division / unit is treated as a single capital asset.&lt;/div&gt;&lt;div&gt;and such transfer is taxable as slump sale&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="2500" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-64" target="Yu6CIILWX2otFXuLDAdN-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-64" value="&lt;div&gt;FVOC = lumpsum consideration received / receivable&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cost of acquisition = net worth of that division / unit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[networth = assets - outsiders liability]&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-64" value="&lt;div&gt;FVOC = lumpsum consideration received / receivable&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cost of acquisition = net worth of that division / unit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[networth*** = assets - outsiders liability]&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="1440" y="2590" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-65" target="Yu6CIILWX2otFXuLDAdN-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-65" value="Calculation of networth" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-65" value="***Calculation of networth" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="1440" y="2720" width="280" height="290" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-66" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Yu6CIILWX2otFXuLDAdN-65">
@@ -1516,6 +1519,9 @@
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-105" value="LTCA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="3280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-108" value="Company in liquidation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="2440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
