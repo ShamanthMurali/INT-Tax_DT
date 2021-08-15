@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-15T09:59:30.373Z" agent="5.0 (X11)" etag="JmeTjutEmdUtDK5ht5PS" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-15T10:05:41.757Z" agent="5.0 (X11)" etag="RXvQ0CpmMSI4CnDXmX5x" version="14.9.6" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
     <mxGraphModel dx="3420" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1022,6 +1022,15 @@
         </mxCell>
         <mxCell id="6OCUj3_kCqqJpbCWH9YF-37" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;lock in period:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;New RHP must not be transferred with in 3 yrs from &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of purchase&lt;/div&gt;&lt;br&gt;&lt;u&gt;If transferred with in 3 years&lt;/u&gt;&lt;br&gt;&lt;div&gt;-&amp;gt; capital gain exemption claimed earlier will become taxable in the year of violation.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560.09" y="10070" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-39" target="6OCUj3_kCqqJpbCWH9YF-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-39" value="S54EC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20.29" y="9560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-40" value="&lt;div&gt;Applicable to : All assessee&#39;s&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;only to transfer of capital asset : Land / Building (Only long term)&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160.29000000000002" y="9620" width="400" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
