@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-15T09:01:19.434Z" agent="5.0 (X11)" etag="RGxx9d99aMbCrU_zKbxc" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-15T09:59:30.373Z" agent="5.0 (X11)" etag="JmeTjutEmdUtDK5ht5PS" version="14.9.6" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="4653" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3420" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -937,7 +937,7 @@
         <mxCell id="6OCUj3_kCqqJpbCWH9YF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pB5vnIEAfqf43fr62OMt-5" target="6OCUj3_kCqqJpbCWH9YF-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pB5vnIEAfqf43fr62OMt-5" value="&lt;div&gt;Applicable to : individual / HUF&lt;/div&gt;&lt;div&gt;&amp;nbsp;only to transfer of capital asset : any other capital asset except RHP&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pB5vnIEAfqf43fr62OMt-5" value="&lt;div&gt;Applicable to : individual / HUF&lt;/div&gt;&lt;div&gt;&amp;nbsp;only to transfer of capital asset : any other capital asset, except RHP&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-600" y="9620" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6OCUj3_kCqqJpbCWH9YF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-1" target="6OCUj3_kCqqJpbCWH9YF-3">
@@ -996,7 +996,7 @@
         <mxCell id="6OCUj3_kCqqJpbCWH9YF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-25" target="6OCUj3_kCqqJpbCWH9YF-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6OCUj3_kCqqJpbCWH9YF-25" value="&lt;div&gt;2. the assessee has to buy a new RHP&lt;/div&gt;&lt;div&gt;&lt;u&gt;Time limit&lt;/u&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;Purchase - With in 1yr before or 2 yr after the date of transfer of LTCA&lt;/div&gt;&lt;div&gt;or &lt;br&gt;&lt;/div&gt;&lt;div&gt;Construct - within 3 yr after the date of transfer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-25" value="&lt;div&gt;2. purchase or construct 1 new RHP&lt;/div&gt;&lt;div&gt;&lt;u&gt;Time limit&lt;/u&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;Purchase - With in 1yr before or 2 yr after the date of transfer of LTCA&lt;/div&gt;&lt;div&gt;or &lt;br&gt;&lt;/div&gt;&lt;div&gt;Construct - within 3 yr after the date of transfer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-600" y="9760" width="399.91" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6OCUj3_kCqqJpbCWH9YF-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-26" target="6OCUj3_kCqqJpbCWH9YF-27">
@@ -1005,11 +1005,23 @@
         <mxCell id="6OCUj3_kCqqJpbCWH9YF-26" value="&lt;div&gt;3. The assessee must not buy / construct 2nd RHP with in the above time limit&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-599.9100000000001" y="9850" width="399.91" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-27" target="6OCUj3_kCqqJpbCWH9YF-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6OCUj3_kCqqJpbCWH9YF-27" value="4. the assessee must not own &amp;gt; &lt;span&gt;1 RHP on the date of transfer of LTCA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-599.9100000000001" y="9890" width="399.91" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6OCUj3_kCqqJpbCWH9YF-23" value="1. RHP must be a LTCA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-599.91" y="9720" width="399.91" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-35" target="6OCUj3_kCqqJpbCWH9YF-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-35" value="&lt;div&gt;&lt;u&gt;amount of exemption&lt;/u&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;investment is to be done of net consideration&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if entire net sale consideration is invested entire capital gains become exempt, otherwise only &lt;u&gt;&lt;b&gt;proportional&lt;/b&gt;&lt;/u&gt; exemption is allowed&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560.09" y="9950" width="320.09" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-37" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;lock in period:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;New RHP must not be transferred with in 3 yrs from &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of purchase&lt;/div&gt;&lt;br&gt;&lt;u&gt;If transferred with in 3 years&lt;/u&gt;&lt;br&gt;&lt;div&gt;-&amp;gt; capital gain exemption claimed earlier will become taxable in the year of violation.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560.09" y="10070" width="320" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
