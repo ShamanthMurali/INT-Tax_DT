@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-15T23:02:41.712Z" agent="5.0 (X11)" etag="iJscMa1Q1esqs2vcZPas" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-15T23:19:48.542Z" agent="5.0 (X11)" etag="JZzxIvUXVI_3iuxpitTh" version="14.9.6" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="4844" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="6330" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2060,8 +2060,47 @@
         <mxCell id="Yu6CIILWX2otFXuLDAdN-294" value="&lt;u&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Summary&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1670" y="1680" width="590" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-295" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3630" y="800" width="120" height="40" as="geometry" />
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-295" target="Yu6CIILWX2otFXuLDAdN-298">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-295" target="Yu6CIILWX2otFXuLDAdN-297">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-295" value="Cost of acquisition of listed equity shares or units of EOMF u/s 112A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3639.96" y="800" width="240.04" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-303" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-297" target="Yu6CIILWX2otFXuLDAdN-302">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-297" value="&lt;div&gt;on or after&lt;/div&gt;&lt;div&gt;01/02/2018&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3789.96" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-304" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-298" target="Yu6CIILWX2otFXuLDAdN-299">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-298" value="Upto 31/01/2018" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3609.96" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-299" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3590" y="940" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-302" value="&lt;div&gt;Actual cost&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;FMV&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3769.96" y="940" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-307" value="&lt;div&gt;FMV as on 31/01/2018&lt;/div&gt;&lt;div&gt;OR&lt;br&gt;&lt;/div&gt;&lt;div&gt;FVOC of shares /Unit&lt;/div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3594.96" y="1025" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-308" value="Actual cost" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3594.96" y="950" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-309" value="OR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3650" y="1000" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-310" value="[Which ever is higher]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="3604.96" y="1100" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-311" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;This cost is a.k.a &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;grandfathered cost of acquisition&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3600" y="1125" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
