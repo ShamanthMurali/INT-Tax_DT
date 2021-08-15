@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-15T11:24:08.052Z" agent="5.0 (X11)" etag="dNzhYY3R7oh84e7wGqX1" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-15T11:34:19.111Z" agent="5.0 (X11)" etag="uTx2n4ZNaAslgaObC1D4" version="14.9.6" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
     <mxGraphModel dx="3271" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1070,8 +1070,20 @@
         <mxCell id="6OCUj3_kCqqJpbCWH9YF-58" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;lock in period:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. bonds must not be sold with in 5 yrs from &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of purchase&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Bonds must not be pledged as security within&lt;/div&gt;&lt;div&gt; 5 yrs from date of purchase&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;u&gt;If Violated&lt;/u&gt;&lt;br&gt;&lt;div&gt;-&amp;gt; capital gain exemption claimed earlier will become taxable in the year of violation.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="10130" width="320" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="6OCUj3_kCqqJpbCWH9YF-60" value="Capital Gains Account Scheme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-460.09000000000003" y="10400" width="120" height="40" as="geometry" />
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-60" target="6OCUj3_kCqqJpbCWH9YF-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-60" value="&lt;div&gt;Capital Gains Account Scheme&lt;/div&gt;(CGAS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="10400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-61" target="6OCUj3_kCqqJpbCWH9YF-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-61" value="Since time limits to make investment in exemption section is huge. there are chances that the investment could not be done before the due date of filing of return of income" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-599.91" y="10460" width="439.91" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-63" value="If investment not done before due date. still exemption can be claimed if the amount intended for investment is deposited in CGAS a/c upto the due date of filing return date." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-599.91" y="10530" width="439.91" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
