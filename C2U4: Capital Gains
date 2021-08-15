@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-15T00:34:01.308Z" agent="5.0 (X11)" etag="l7a-pItZwIPr3tcQ33_4" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-15T09:01:19.434Z" agent="5.0 (X11)" etag="RGxx9d99aMbCrU_zKbxc" version="14.9.6" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="3591" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4653" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -907,26 +907,109 @@
         <mxCell id="4toc84XJHAsPXifJmLsm-205" value="Exceptions under capital gains" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1000" y="9480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pB5vnIEAfqf43fr62OMt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4toc84XJHAsPXifJmLsm-206" target="pB5vnIEAfqf43fr62OMt-1">
+        <mxCell id="pB5vnIEAfqf43fr62OMt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4toc84XJHAsPXifJmLsm-206" target="pB5vnIEAfqf43fr62OMt-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4toc84XJHAsPXifJmLsm-206" value="S54" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1000" y="9560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pB5vnIEAfqf43fr62OMt-1" value="&lt;div&gt;Applicable to : individual / HUF&lt;/div&gt;&lt;div&gt;&amp;nbsp;only to transfer of capital asset : Residential house property(RHP)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pB5vnIEAfqf43fr62OMt-1" target="pB5vnIEAfqf43fr62OMt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pB5vnIEAfqf43fr62OMt-1" value="&lt;div&gt;Applicable to : individual / HUF&lt;/div&gt;&lt;div&gt;&amp;nbsp;only to transfer of capital asset : Residential house property(RHP)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1140" y="9620" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pB5vnIEAfqf43fr62OMt-3" value="&lt;div&gt;Conditions&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. RHP must be a LTCA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. The assessee must reinvest in new RHP in India&lt;/div&gt;&lt;div&gt;a.) when capital gains on transferred RHP &amp;gt; 2cr, &lt;br&gt;&lt;/div&gt;&lt;div&gt;then shall purchase 1 new RHP, With in 1yr before or 2 yr after the date of transfer&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;construct a 1 new RHP, within 3 yr after the date of transfer&lt;/div&gt;&lt;div&gt;(2 properties or 1 new and 1 contn is &lt;u&gt;not&lt;/u&gt; allowed)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b.) when capital gains on transferred RHP &amp;lt; 2 cr, then assessee can&amp;nbsp;&amp;nbsp; purchase 1 new RHP(&lt;span&gt;option to purchase 2 available&lt;/span&gt;) &lt;br&gt;&lt;/div&gt;&lt;div&gt;With in 1yr before or 2 yr after the date of transfer&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;construct 1 new RHP(&lt;span&gt;option to construct 2 available&lt;/span&gt;)&lt;br&gt;&lt;/div&gt;&lt;div&gt;within 3 yr after the date of transfer&lt;/div&gt;&lt;div&gt;(2 properties or 1 new and 1 contn is allowed)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;note: if option to claim exception for 2 properties is claimed once, it will not be allowed again in lifetime.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;amount of exemption : capital gains&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;investment in new RHP&lt;/div&gt;&lt;div&gt;[which ever is less]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;lock in period : new RHP must not be transferred with in 3 yrs from date of purchase&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if transferred with in 3 years &lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt; while calculating capital gain of new RHP , amt exempted earlier has to deducted from cost of acquisition&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="9680" width="400" height="530" as="geometry" />
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pB5vnIEAfqf43fr62OMt-3" target="6OCUj3_kCqqJpbCWH9YF-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pB5vnIEAfqf43fr62OMt-4" value="S54F" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-555" y="9560" width="120" height="40" as="geometry" />
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pB5vnIEAfqf43fr62OMt-3" target="6OCUj3_kCqqJpbCWH9YF-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pB5vnIEAfqf43fr62OMt-5" value="&lt;div&gt;Applicable to : individual / HUF&lt;/div&gt;&lt;div&gt;&amp;nbsp;only to transfer of capital asset : any other capital asset except RHP&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-689.91" y="9620" width="400" height="40" as="geometry" />
+        <mxCell id="pB5vnIEAfqf43fr62OMt-3" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. RHP must be a LTCA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. The assessee must reinvest in new RHP in India&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1140" y="9680" width="400" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pB5vnIEAfqf43fr62OMt-6" value="&lt;div&gt;Conditions&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. RHP must be a LTCA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. the assessee has to buy a new RHP&lt;/div&gt;&lt;div&gt;time limit: &lt;br&gt;&lt;/div&gt;&lt;div&gt;purchase - With in 1yr before or 2 yr after the date of transfer of LTCA&lt;/div&gt;&lt;div&gt;or &lt;br&gt;&lt;/div&gt;&lt;div&gt;construct within 3 yr after the date of transfer&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. the assessee must not buy / construct 2nd RHP with in the above time limit&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. the assessee must not own &amp;gt; &lt;span style=&quot;white-space: pre&quot;&gt;1 RHP on the date of transfer of LTCA&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-695" y="9700" width="400" height="530" as="geometry" />
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pB5vnIEAfqf43fr62OMt-4" target="pB5vnIEAfqf43fr62OMt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pB5vnIEAfqf43fr62OMt-4" value="S54F" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-460" y="9560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pB5vnIEAfqf43fr62OMt-5" target="6OCUj3_kCqqJpbCWH9YF-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pB5vnIEAfqf43fr62OMt-5" value="&lt;div&gt;Applicable to : individual / HUF&lt;/div&gt;&lt;div&gt;&amp;nbsp;only to transfer of capital asset : any other capital asset except RHP&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-600" y="9620" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-1" target="6OCUj3_kCqqJpbCWH9YF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-1" value="when capital gains on transferred RHP &amp;gt; 2cr" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1160.0900000000001" y="9810" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-2" target="6OCUj3_kCqqJpbCWH9YF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-2" value="when capital gains on transferred RHP &lt;u&gt;&amp;lt;&lt;/u&gt; 2 cr" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-860.09" y="9810" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-3" target="6OCUj3_kCqqJpbCWH9YF-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1090.0900000000001" y="10110" />
+              <mxPoint x="-950.09" y="10110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-3" value="&lt;div&gt;purchase 1 new RHP, With in 1yr before or &lt;br&gt;&lt;/div&gt;&lt;div&gt;2 yr after the date of transfer&lt;/div&gt;or&lt;br&gt;&lt;div&gt;construct a 1 new RHP, within 3 yr after the&lt;/div&gt;&lt;div&gt; date of transfer&lt;/div&gt;(2 properties or 1 new and 1 contn is not allowed)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1230" y="9870" width="279.82" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-6" target="6OCUj3_kCqqJpbCWH9YF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-6" value="purchase 1 new RHP(option to purchase 2 available)&lt;br&gt;With in 1yr before or 2 yr after the date of transfer&lt;br&gt;or&lt;br&gt;construct 1 new RHP(option to construct 2 available)&lt;br&gt;within 3 yr after the date of transfer&lt;br&gt;(2 properties or 1 new and 1 contn is allowed)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-929.91" y="9870" width="279.82" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-9" target="6OCUj3_kCqqJpbCWH9YF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-9" value="note: if option to claim exception for 2 properties is claimed once, it will not be allowed again in lifetime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-929.91" y="10040" width="279.82" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-11" target="6OCUj3_kCqqJpbCWH9YF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-11" value="&lt;div&gt;&lt;u&gt;amount of exemption&lt;/u&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;capital gains&lt;/div&gt;or&lt;br&gt;investment in new RHP&lt;br&gt;[&lt;u&gt;&lt;b&gt;which ever is less&lt;/b&gt;&lt;/u&gt;]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030.0900000000001" y="10130" width="160.09" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-14" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;lock in period:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;New RHP must not be transferred with in 3 yrs from &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of purchase&lt;/div&gt;&lt;br&gt;&lt;u&gt;If transferred with in 3 years&lt;/u&gt;&lt;br&gt;&lt;div&gt;-&amp;gt; while calculating capital gain of new RHP, amt &lt;br&gt;&lt;/div&gt;&lt;div&gt;exempted earlier has to deducted from &#39;cost of acquisition&#39;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1110" y="10240" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-23" target="6OCUj3_kCqqJpbCWH9YF-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-24" target="6OCUj3_kCqqJpbCWH9YF-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-24" value="&lt;div&gt;Conditions&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="9680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-25" target="6OCUj3_kCqqJpbCWH9YF-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-25" value="&lt;div&gt;2. the assessee has to buy a new RHP&lt;/div&gt;&lt;div&gt;&lt;u&gt;Time limit&lt;/u&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;Purchase - With in 1yr before or 2 yr after the date of transfer of LTCA&lt;/div&gt;&lt;div&gt;or &lt;br&gt;&lt;/div&gt;&lt;div&gt;Construct - within 3 yr after the date of transfer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="9760" width="399.91" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6OCUj3_kCqqJpbCWH9YF-26" target="6OCUj3_kCqqJpbCWH9YF-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-26" value="&lt;div&gt;3. The assessee must not buy / construct 2nd RHP with in the above time limit&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-599.9100000000001" y="9850" width="399.91" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-27" value="4. the assessee must not own &amp;gt; &lt;span&gt;1 RHP on the date of transfer of LTCA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-599.9100000000001" y="9890" width="399.91" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-23" value="1. RHP must be a LTCA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-599.91" y="9720" width="399.91" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
