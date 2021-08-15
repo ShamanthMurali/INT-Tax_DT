@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-15T23:19:48.542Z" agent="5.0 (X11)" etag="JZzxIvUXVI_3iuxpitTh" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-15T23:44:27.808Z" agent="5.0 (X11)" etag="Z4DVrfTz41VRKq3q6C7V" version="14.9.6" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="6330" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="29210" dy="12540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2067,40 +2067,58 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-295" value="Cost of acquisition of listed equity shares or units of EOMF u/s 112A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3639.96" y="800" width="240.04" height="40" as="geometry" />
+          <mxGeometry x="2940" y="810" width="240.04" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-303" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-297" target="Yu6CIILWX2otFXuLDAdN-302">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-297" value="&lt;div&gt;on or after&lt;/div&gt;&lt;div&gt;01/02/2018&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3789.96" y="880" width="120" height="40" as="geometry" />
+          <mxGeometry x="3079.96" y="890" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-304" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-298" target="Yu6CIILWX2otFXuLDAdN-299">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-298" value="Upto 31/01/2018" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3609.96" y="880" width="120" height="40" as="geometry" />
+          <mxGeometry x="2919.96" y="890" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-299" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3590" y="940" width="160" height="210" as="geometry" />
+          <mxGeometry x="2900" y="950" width="160" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-302" value="&lt;div&gt;Actual cost&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;FMV&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3769.96" y="940" width="160" height="100" as="geometry" />
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-302" value="&lt;div&gt;= Actual cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3079.96" y="950" width="120.04" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-307" value="&lt;div&gt;FMV as on 31/01/2018&lt;/div&gt;&lt;div&gt;OR&lt;br&gt;&lt;/div&gt;&lt;div&gt;FVOC of shares /Unit&lt;/div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3594.96" y="1025" width="150" height="70" as="geometry" />
+          <mxGeometry x="2904.96" y="1035" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-308" value="Actual cost" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3594.96" y="950" width="150" height="40" as="geometry" />
+          <mxGeometry x="2904.96" y="960" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-309" value="OR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3650" y="1000" width="40" height="20" as="geometry" />
+          <mxGeometry x="2960" y="1010" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-310" value="[Which ever is higher]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry x="3604.96" y="1100" width="130" height="20" as="geometry" />
+          <mxGeometry x="2914.96" y="1110" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-311" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;This cost is a.k.a &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;grandfathered cost of acquisition&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3600" y="1125" width="140" height="20" as="geometry" />
+          <mxGeometry x="2910" y="1135" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-312" value="general points for this chapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3719.96" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-313" value="&lt;div&gt;1. Indexation for LTCA is not allowed for bonds / debentures&lt;/div&gt;&lt;div&gt;&lt;u&gt;except&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. sovereign gold bond&lt;/div&gt;&lt;div&gt;2. capital indexed bond&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3679.96" y="880" width="360.04" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-314" value="&lt;div&gt;2. securities transaction tax is not allowed as a deduction in this chapter&lt;/div&gt;&lt;div&gt;(since it is not an expense in connection with transfer. it is a tax which is paid to the govt)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3679.96" y="980" width="360.04" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-315" target="Yu6CIILWX2otFXuLDAdN-316">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-315" value="&lt;div&gt;3. S45(5A)&lt;/div&gt;&lt;div&gt;Applicable to individual / HUF who are entering into a development agreement &lt;br&gt;&lt;/div&gt;&lt;div&gt;(case where the builder will get x% of the building as consideration for his work instead of money)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;it is a transfer of development rights to builder&lt;/div&gt;&lt;div&gt;capital gains get attracted on transfer of such rights&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;but tax is payable in the year in which share from the property is received by individual&amp;nbsp; / HUF on completion of project&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="3679.96" y="1080" width="360.04" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-316" value="&lt;div&gt;FVOC = &lt;br&gt;&lt;/div&gt;&lt;div&gt;Stamp duty of share of property received + monetary consideration(if any)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="3639.96" y="1280" width="440.04" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
