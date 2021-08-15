@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-15T19:57:18.934Z" agent="5.0 (X11)" etag="HFnj3oxN5_AOqkmklOvr" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-15T20:17:16.562Z" agent="5.0 (X11)" etag="vZmQYtldb19t12ARqetv" version="14.9.6" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
     <mxGraphModel dx="3590" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1705,6 +1705,57 @@
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-163" value="&lt;div&gt;since cos paid tax on behalf of SH&lt;/div&gt;&lt;div&gt;Amt received by SH on buyback is exempt from tax u/s 10(34A)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2250" y="2950" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-171" value="Tax rates for capital gains" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-172" target="Yu6CIILWX2otFXuLDAdN-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-172" target="Yu6CIILWX2otFXuLDAdN-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-172" value="STCA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-173" value="LTCA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="1160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-174" target="Yu6CIILWX2otFXuLDAdN-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-174" value="S111A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-175" target="Yu6CIILWX2otFXuLDAdN-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-175" value="other than those&amp;nbsp; covered under S111A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-176" target="Yu6CIILWX2otFXuLDAdN-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-176" value="&lt;div&gt;&lt;u&gt;Applicable for&lt;/u&gt;: (POH &lt;u&gt;&amp;lt;&lt;/u&gt; 12m)&lt;/div&gt;&lt;div&gt;1. Listed Equity shares&lt;/div&gt;&lt;div&gt;2. Equity oriented mutual funds (EOMF)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="1300" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-178" target="Yu6CIILWX2otFXuLDAdN-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-178" value="&lt;u&gt;&lt;b&gt;Tax rate = 15% (Flat rate)&lt;/b&gt;&lt;/u&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="1370" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-182" target="Yu6CIILWX2otFXuLDAdN-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-182" value="&lt;div&gt;&lt;u&gt;Applicable for&lt;/u&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;Any other STCA&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="1300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-184" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Tax rate = same as &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;slab / flat rate in CH.1&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1360" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-186" value="&lt;div&gt;&lt;u&gt;Note 1&lt;/u&gt;: deduction under chapter VIA is not allowed for STCA u/s S111A&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Note 2&lt;/u&gt;: for resident individual /HUF absorbed basic exemption limit can be adjusted against STCA u/s S111A&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="1430" width="240" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
