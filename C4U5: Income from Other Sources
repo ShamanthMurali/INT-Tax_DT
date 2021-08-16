@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T13:05:24.544Z" agent="5.0 (X11)" etag="BC_AsZyjZ1rM-s7dPQpJ" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T13:31:13.221Z" agent="5.0 (X11)" etag="Ymq9E9OovgcoA-uNZsOT" version="14.9.6" type="github">
   <diagram id="TwOnsbDdKHpnPGX-vTBe" name="Page-1">
-    <mxGraphModel dx="1897" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1568" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,6 +235,66 @@
         </mxCell>
         <mxCell id="Ol0Vi1a9tFmlouW9PCSu-77" value="Note: private company is a.k.a closely held company" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ol0Vi1a9tFmlouW9PCSu-45">
           <mxGeometry x="20" y="880" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-78" target="Ol0Vi1a9tFmlouW9PCSu-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-78" value="Casual income (Winnings)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-79" target="Ol0Vi1a9tFmlouW9PCSu-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-79" value="&lt;div&gt;Any income&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;1.) lottery&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;2.) Cross word puzzles&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;3.) Race including &lt;span style=&quot;white-space: pre&quot;&gt;horse race&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.) Card games&lt;/div&gt;&lt;div&gt;5.) any other games etc.&lt;/div&gt;&lt;div&gt;(games does not include sports)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-81" target="Ol0Vi1a9tFmlouW9PCSu-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-81" value="&lt;u&gt;&lt;b&gt;Tax Rate = 30% (Flat rate)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="510" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-84" value="&lt;div&gt;note 1: no deductions allowed as under &#39;deductions&#39; chapter&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;note 2: no expenses are allowed as deductions&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;note 3: no losses are allowed as deductions&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;note 4: unabsorbed basic limit is not allowed&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="570" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-86" target="Ol0Vi1a9tFmlouW9PCSu-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-86" value="Interest received on compensation on enhanced compensation on compulsory acquisition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-87" target="Ol0Vi1a9tFmlouW9PCSu-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-87" value="it is taxable under IFOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-90" value="&lt;div&gt;it is taxable on &lt;br&gt;&lt;/div&gt;&lt;div&gt;receipt basics&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-93" target="Ol0Vi1a9tFmlouW9PCSu-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-93" value="Advance money forfeited" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-94" target="Ol0Vi1a9tFmlouW9PCSu-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-94" value="&lt;div&gt;On or after&lt;/div&gt;&lt;div&gt;01/04/2014&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-98" value="Taxable as IFOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-100" target="Ol0Vi1a9tFmlouW9PCSu-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-100" value="Gift" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-102" value="&lt;div&gt;Any gift,&lt;/div&gt;&lt;div&gt;1. sum of money&lt;/div&gt;&lt;div&gt;2. immovable property&lt;/div&gt;&lt;div&gt;3. movable property&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="400" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
