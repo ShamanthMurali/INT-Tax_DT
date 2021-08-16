@@ -1,14 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T23:34:35.728Z" agent="5.0 (X11)" etag="ABQD5eoHeBja5LFge-fd" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T23:50:47.745Z" agent="5.0 (X11)" etag="ySP6ME6mEMRRCI_gOAX6" version="14.9.6" type="github">
   <diagram id="tkX_X7X4uf3PKcPVVvu6" name="Page-1">
-    <mxGraphModel dx="1048" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1048" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VJ-ghSEdio4NMSIFjJZl-1" value="Agricultural income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-2" value="&lt;div&gt;1. rent income from agricultural land&lt;/div&gt;&lt;div&gt;(note: only if land is used for agricultural purpose&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. rent income from farm building&lt;/div&gt;&lt;div&gt;(used for storage, resident for farm labour etc.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. income from agricultural activities&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="80" width="320" height="400" as="geometry" />
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-2" value="&lt;div&gt;1. rent income from agricultural land&lt;/div&gt;&lt;div&gt;(note: only if land is used for agricultural purpose&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;**)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. rent income from farm building&lt;/div&gt;&lt;div&gt;(used for storage, resident for farm labour etc.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. income from agricultural activities&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ-ghSEdio4NMSIFjJZl-3" target="VJ-ghSEdio4NMSIFjJZl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-3" value="Agricultural purpose" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-4" value="&lt;div&gt;1. any agricultural activity done on agricultural land for growing agricultural produce&lt;/div&gt;&lt;div&gt;Basic operation`s^((1))` + Subsequent operation`s^((2))`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="140" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VJ-ghSEdio4NMSIFjJZl-4" target="VJ-ghSEdio4NMSIFjJZl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-6" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="680" y="220" width="440" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-7" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-6">
+          <mxGeometry width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-8" value="&lt;u&gt;&lt;b&gt;Agricultural Income&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-7">
+          <mxGeometry width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-9" value="&lt;u&gt;&lt;b&gt;Non-agricultural Income&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-7">
+          <mxGeometry x="220" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-10" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-6">
+          <mxGeometry y="20" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-11" value="Income from necessary " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-10">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-12" value="Diary farming" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-10">
+          <mxGeometry x="220" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-13" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-6">
+          <mxGeometry y="60" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-14" value="Sale of seeds" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-13">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-15" value="Poultry Farming" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-13">
+          <mxGeometry x="220" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-6">
+          <mxGeometry y="100" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-17" value="Income from growing flowers and creepers" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-16">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-18" value="Breeding of livestock" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-16">
+          <mxGeometry x="220" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-19" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-6">
+          <mxGeometry y="140" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-20" value="rent income from a land which is used for grazing of cattle which is used in agricultural activities" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-19">
+          <mxGeometry width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-21" value="Fisheries " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-19">
+          <mxGeometry x="220" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-25" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-6">
+          <mxGeometry y="200" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-26" value="Growing of bamboo" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-25">
+          <mxGeometry width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-27" value="&lt;div&gt;Spontaneous growth on soil&lt;/div&gt;&lt;div&gt;(agricultural produce grown naturally without human intervention)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-25">
+          <mxGeometry x="220" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
