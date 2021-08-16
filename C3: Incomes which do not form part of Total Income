@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T23:50:47.745Z" agent="5.0 (X11)" etag="ySP6ME6mEMRRCI_gOAX6" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-17T00:21:09.014Z" agent="5.0 (X11)" etag="iUmrnk9x_NpMM1Es63oe" version="14.9.6" type="github">
   <diagram id="tkX_X7X4uf3PKcPVVvu6" name="Page-1">
-    <mxGraphModel dx="1048" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="503" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,72 @@
         </mxCell>
         <mxCell id="VJ-ghSEdio4NMSIFjJZl-27" value="&lt;div&gt;Spontaneous growth on soil&lt;/div&gt;&lt;div&gt;(agricultural produce grown naturally without human intervention)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-25">
           <mxGeometry x="220" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ-ghSEdio4NMSIFjJZl-29" target="VJ-ghSEdio4NMSIFjJZl-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-29" value="Composite income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-30" value="Defines how to split business income and agricultural income. when its is a combined process which includes both agricultural and non agricultural" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="580" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-32" value="For Tea, coffee, and rubber" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VJ-ghSEdio4NMSIFjJZl-32" target="VJ-ghSEdio4NMSIFjJZl-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-33" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="160" y="740" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-54" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-33">
+          <mxGeometry width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-55" value="&lt;u&gt;&lt;b&gt;Particulars&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-54">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-56" value="&lt;u&gt;&lt;b&gt;Biz&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-54">
+          <mxGeometry x="200" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-57" value="&lt;u&gt;&lt;b&gt;Agri&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-54">
+          <mxGeometry x="260" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-58" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-33">
+          <mxGeometry y="20" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-59" value="Tea grown and manufacturing" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-58">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-60" value="40%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-58">
+          <mxGeometry x="200" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-61" value="60%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-58">
+          <mxGeometry x="260" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-34" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-33">
+          <mxGeometry y="60" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-35" value="Rubber" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-34">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-36" value="35%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-34">
+          <mxGeometry x="200" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-49" value="65%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-34">
+          <mxGeometry x="260" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-37" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-33">
+          <mxGeometry y="100" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-38" value="&lt;div&gt;&lt;u&gt;Coffee&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Grown and cured&lt;/div&gt;&lt;div&gt;Grown, cured and roasted&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-37">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-39" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;25%&lt;/div&gt;&lt;div&gt;40%&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-37">
+          <mxGeometry x="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-50" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;75%&lt;/div&gt;&lt;div&gt;60%&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-37">
+          <mxGeometry x="260" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
