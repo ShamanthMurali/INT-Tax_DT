@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T12:05:02.231Z" agent="5.0 (X11)" etag="jjlGrZHAM8wiUOzDICyI" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T12:35:53.245Z" agent="5.0 (X11)" etag="rKrnb_CZgrIl0e9rHOBK" version="14.9.6" type="github">
   <diagram id="TwOnsbDdKHpnPGX-vTBe" name="Page-1">
-    <mxGraphModel dx="2644" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1568" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,6 +183,9 @@
         <mxCell id="Ol0Vi1a9tFmlouW9PCSu-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-45" target="Ol0Vi1a9tFmlouW9PCSu-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-45" target="Ol0Vi1a9tFmlouW9PCSu-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ol0Vi1a9tFmlouW9PCSu-45" value="Deemed dividend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="960" width="120" height="40" as="geometry" />
         </mxCell>
@@ -194,6 +197,33 @@
         </mxCell>
         <mxCell id="Ol0Vi1a9tFmlouW9PCSu-55" value="Taxable only when received" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1020" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-62" target="Ol0Vi1a9tFmlouW9PCSu-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-62" value="S2(22)(a) to (e)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-64" target="Ol0Vi1a9tFmlouW9PCSu-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-64" value="&lt;div&gt;&lt;u&gt;S2(22)(a)&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Distribution of company assets to SH other than by liquidation&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;e.g. if investment of cos distributed to SH&amp;nbsp; this will be considered as a deemed dividend. the amt of deemed dividend will be the FMV of assets distributed, upto the extent of accumulated profits.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1100" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-66" target="Ol0Vi1a9tFmlouW9PCSu-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-66" value="&lt;div&gt;&lt;u&gt;S2(22)(b)&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Distribution of debentures / bonds to SH(without taking any consideration) or bonus preference shares to ESH &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt; the amt of deemed dividend will be the FMV of assets distributed, upto the extent of accumulated profits.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1210" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-70" target="Ol0Vi1a9tFmlouW9PCSu-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-70" value="&lt;div&gt;&lt;u&gt;S2(22)(c)&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Distribution of company assets on liquidation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1330" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-72" value="&lt;div&gt;&lt;u&gt;S2(22)(d)&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Distribution on reduction of capital(even though ther is not internal reconstruction)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1400" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
