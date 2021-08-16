@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T18:39:40.427Z" agent="5.0 (X11)" etag="p4bPFRYC1Q7nPEphg8fl" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T18:49:13.722Z" agent="5.0 (X11)" etag="8P8svTtZBjeplaLS0UC0" version="14.9.6" type="github">
   <diagram id="TwOnsbDdKHpnPGX-vTBe" name="Page-1">
-    <mxGraphModel dx="2101" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -302,10 +302,7 @@
         <mxCell id="Ol0Vi1a9tFmlouW9PCSu-100" value="Gift" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1120" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X10udU15piDBfr6He53y-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-2" target="X10udU15piDBfr6He53y-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X10udU15piDBfr6He53y-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-2" target="X10udU15piDBfr6He53y-26">
+        <mxCell id="X10udU15piDBfr6He53y-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-2" target="X10udU15piDBfr6He53y-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-2" value="movable property" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -363,31 +360,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-26" value="inadequate consideration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="1650" y="660" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-27" target="X10udU15piDBfr6He53y-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-27" value="Received without consideration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="1450" y="660" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-30" target="X10udU15piDBfr6He53y-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-30" value="if FMV is &amp;gt; 50,000 (Aggregate)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="540" width="180" height="40" as="geometry" />
+          <mxGeometry x="1420" y="720" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-32" value="entire FMV is taxable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="600" width="120" height="40" as="geometry" />
+          <mxGeometry x="1450" y="780" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-34" target="X10udU15piDBfr6He53y-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-34" value="&lt;div&gt;if difference b/w&lt;/div&gt;&lt;div&gt;FMV - sale consideration &amp;gt; 50,000&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="540" width="180" height="50" as="geometry" />
+          <mxGeometry x="1620" y="720" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-36" value="only such difference is taxable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="610" width="120" height="40" as="geometry" />
+          <mxGeometry x="1650" y="790" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-42" target="X10udU15piDBfr6He53y-44">
           <mxGeometry relative="1" as="geometry" />
@@ -511,6 +508,15 @@
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-83" value="&lt;div&gt;Any member of HUF is a relative&lt;/div&gt;&lt;div&gt;(i.e karta, his wife their children, grand children etc.)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="1300" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-86" target="X10udU15piDBfr6He53y-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-86" target="X10udU15piDBfr6He53y-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-86" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;movable property definition&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Capital assets like - &lt;br&gt;&lt;/div&gt;&lt;div&gt;1.) shares or any securities&lt;/div&gt;&lt;div&gt;2.) jewellery&lt;/div&gt;&lt;div&gt;3.) archeological collection&lt;/div&gt;&lt;div&gt;4.) painting / drawing&lt;/div&gt;&lt;div&gt;5.)sculptures&lt;/div&gt;&lt;div&gt;6.) any work of art&lt;/div&gt;&lt;div&gt;7.) bullion (gold / silver bars)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="460" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
