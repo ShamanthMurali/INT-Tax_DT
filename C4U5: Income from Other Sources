@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T20:04:02.704Z" agent="5.0 (X11)" etag="cBBbu-3HLPnrIAmrNq8l" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T20:14:10.964Z" agent="5.0 (X11)" etag="WrnjMiSYY-9kzkFNh5zJ" version="14.9.6" type="github">
   <diagram id="TwOnsbDdKHpnPGX-vTBe" name="Page-1">
-    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -576,7 +576,7 @@
           <mxGeometry x="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-110" value="Incomes taxable under IFOS only when not taxable under PGBP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1880" width="240" height="40" as="geometry" />
+          <mxGeometry x="-370" y="1550" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-111" target="X10udU15piDBfr6He53y-112">
           <mxGeometry relative="1" as="geometry" />
@@ -585,55 +585,73 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-111" value="Interest on securities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="1960" width="120" height="40" as="geometry" />
+          <mxGeometry x="-460" y="1630" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-112" target="X10udU15piDBfr6He53y-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-112" value="Securities held as stock in trade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="2040" width="120" height="40" as="geometry" />
+          <mxGeometry x="-530" y="1710" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-113" value="PGBP income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="2100" width="120" height="40" as="geometry" />
+          <mxGeometry x="-530" y="1770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-116" value="Securities held as capital assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="2040" width="120" height="40" as="geometry" />
+          <mxGeometry x="-390" y="1710" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-118" value="IFOS income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="2100" width="120" height="40" as="geometry" />
+          <mxGeometry x="-390" y="1770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-120" target="X10udU15piDBfr6He53y-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-120" value="letting out of plant and machinery and furniture" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1960" width="160" height="40" as="geometry" />
+          <mxGeometry x="-250" y="1630" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-121" value="&lt;div&gt;Taxable as IFOS if it is not taxed under PGBP&lt;/div&gt;[why? if assessee does not want to maintain books as per PGBP]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="2020" width="160" height="80" as="geometry" />
+          <mxGeometry x="-250" y="1690" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-123" value="&lt;div&gt;letting out of building along with plant &amp;amp; machinery and Furniture &lt;/div&gt;(provided such lettings are &lt;span style=&quot;white-space: pre&quot;&gt;inseparable&lt;/span&gt;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1960" width="220" height="60" as="geometry" />
+          <mxGeometry x="-70" y="1630" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-124" value="Other incomes which are taxable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2200" width="240" height="40" as="geometry" />
+          <mxGeometry x="1690" y="870" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-125" value="Pension from LIC or other insurance company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2280" width="240" height="40" as="geometry" />
+          <mxGeometry x="1690" y="950" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-126" value="maturity proceeds of key man insurance policy received by family members" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2340" width="240" height="40" as="geometry" />
+          <mxGeometry x="1690" y="1010" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-127" value="Rent income from letting out of land" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2400" width="240" height="40" as="geometry" />
+          <mxGeometry x="1690" y="1070" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-128" value="Subletting property" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2460" width="240" height="40" as="geometry" />
+          <mxGeometry x="1690" y="1130" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-129" value="Honorarium income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2520" width="240" height="40" as="geometry" />
+          <mxGeometry x="1690" y="1190" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-130" value="Directors setting fee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2580" width="240" height="40" as="geometry" />
+          <mxGeometry x="1690" y="1250" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-131" value="Interest from savings / FD deposits with any bank" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1310" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-132" value="Interest on IT refunds" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1370" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-133" value="Salary received from MP / MLA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1430" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-134" value="Family Pension" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1490" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-135" value="Royalty income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1550" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-136" value="Deductions u/s 57" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2200" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
