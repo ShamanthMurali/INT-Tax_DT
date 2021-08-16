@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T11:59:48.737Z" agent="5.0 (X11)" etag="x0dJPLPp5u0igJ3AKtFY" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T12:05:02.231Z" agent="5.0 (X11)" etag="jjlGrZHAM8wiUOzDICyI" version="14.9.6" type="github">
   <diagram id="TwOnsbDdKHpnPGX-vTBe" name="Page-1">
-    <mxGraphModel dx="1568" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2644" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,6 +70,14 @@
         <mxCell id="Ol0Vi1a9tFmlouW9PCSu-17" value="For ROR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="480" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-18" target="Ol0Vi1a9tFmlouW9PCSu-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-40" y="830" />
+              <mxPoint x="-120" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ol0Vi1a9tFmlouW9PCSu-18" value="Always taxable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="540" width="120" height="40" as="geometry" />
         </mxCell>
@@ -78,6 +86,14 @@
         </mxCell>
         <mxCell id="Ol0Vi1a9tFmlouW9PCSu-20" value="RNOR / NR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-61" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-21" target="Ol0Vi1a9tFmlouW9PCSu-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="840" />
+              <mxPoint x="-120" y="840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ol0Vi1a9tFmlouW9PCSu-21" value="Taxable only if received in india" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="540" width="120" height="40" as="geometry" />
@@ -100,6 +116,14 @@
         <mxCell id="Ol0Vi1a9tFmlouW9PCSu-29" value="Dividend distribution tax(DDT) was applicable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="540" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-31" target="Ol0Vi1a9tFmlouW9PCSu-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-340" y="840" />
+              <mxPoint x="-120" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ol0Vi1a9tFmlouW9PCSu-31" value="Dividend is exempt in the hands of SH u/s 10(34)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="610" width="120" height="50" as="geometry" />
         </mxCell>
@@ -121,8 +145,55 @@
         <mxCell id="Ol0Vi1a9tFmlouW9PCSu-38" value="Dividend is taxable as per slab rate or flat rate based on the type of the SH" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="-260" y="660" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-40" target="Ol0Vi1a9tFmlouW9PCSu-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-200" y="830" />
+              <mxPoint x="-120" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ol0Vi1a9tFmlouW9PCSu-40" value="Max surcharge on dividend 15% even if income &amp;gt; 2cr" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="-260" y="750" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-42" target="Ol0Vi1a9tFmlouW9PCSu-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-42" target="Ol0Vi1a9tFmlouW9PCSu-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-42" target="Ol0Vi1a9tFmlouW9PCSu-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-42" value="Tax ability of dividend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-43" target="Ol0Vi1a9tFmlouW9PCSu-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-43" value="Final dividend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-44" target="Ol0Vi1a9tFmlouW9PCSu-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-44" value="Interim dividend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-45" target="Ol0Vi1a9tFmlouW9PCSu-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-45" value="Deemed dividend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-46" value="Taxable in the year which it is declared" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="1020" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-53" value="Taxable only when received" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1020" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-55" value="Taxable only when received" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
