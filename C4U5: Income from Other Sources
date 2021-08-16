@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T20:28:59.504Z" agent="5.0 (X11)" etag="1QS1uIAgJVvJ5DZhINgA" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T20:51:21.972Z" agent="5.0 (X11)" etag="XswsMsa9gHVKFAKQfWEV" version="14.9.6" type="github">
   <diagram id="TwOnsbDdKHpnPGX-vTBe" name="Page-1">
-    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3352" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -679,6 +679,72 @@
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-144" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deductions&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. repairs (only current repairs not capital)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. insurance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. depreciation (same as per S32)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. any other expense directly att&lt;span style=&quot;white-space: pre&quot;&gt;ributable &lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="2320" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-148" target="X10udU15piDBfr6He53y-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-148" value="Family pension" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="2260" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-149" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deductions&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`1/3` of the total pension P.a.&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Maximum 15,000 P.a.&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="2320" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-151" target="X10udU15piDBfr6He53y-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-151" value="&lt;div&gt;Interest on initial / enhanced compensation&lt;/div&gt;&lt;div&gt; received on compulsory acquisition&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="2260" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-152" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deductions&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;standard deductions = 50% of interest&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="2320" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-155" value="Sublet / letting of land / royalty" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="2260" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-156" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deductions&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;expenses which are directly attributable &lt;br&gt;&lt;/div&gt;&lt;div&gt;are allowed as deductions&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="2320" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-157" value="Deductions not allowed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-158" value="Personal expenses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2580" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-159" value="Capital expenses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2640" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-160" value="Interest paid outside India without deducting TDS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2700" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-161" value="Salaries paid outside India without deducting TDS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2760" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-162" value="Cash disallowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2820" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-163" value="unreasonable payment to relative(def. same as 40A(2))" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2880" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-164" value="&lt;div&gt;30% disallowance on payments to residents &lt;br&gt;&lt;/div&gt;&lt;div&gt;without deducting TDS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2940" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-165" target="X10udU15piDBfr6He53y-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-165" value="&lt;div&gt;Recoveries taxable&lt;/div&gt;&lt;div&gt;u/s 59&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="3040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-166" value="Same as 41(1) and 41(4) in PGBP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="3100" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-168" target="X10udU15piDBfr6He53y-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-168" value="&lt;div&gt;method of &lt;br&gt;&lt;/div&gt;&lt;div&gt;accounting&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="3160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-169" value="&lt;div&gt;Follow&lt;span style=&quot;white-space: pre&quot;&gt; cash / accural basics at the option &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;of assessee&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;except the following will follow:&lt;/div&gt;&lt;div&gt;1. Dividend&lt;/div&gt;&lt;div&gt;(Final = accrual, interim/deemed = cash basics)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. interest on compensation&lt;/div&gt;&lt;div&gt;(Cash basics)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="3220" width="280" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
