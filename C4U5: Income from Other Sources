@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T12:35:53.245Z" agent="5.0 (X11)" etag="rKrnb_CZgrIl0e9rHOBK" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T13:00:28.411Z" agent="5.0 (X11)" etag="yrlIQUjbR04Qc1Ie8llG" version="14.9.6" type="github">
   <diagram id="TwOnsbDdKHpnPGX-vTBe" name="Page-1">
-    <mxGraphModel dx="1568" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2943" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,8 +222,14 @@
         <mxCell id="Ol0Vi1a9tFmlouW9PCSu-70" value="&lt;div&gt;&lt;u&gt;S2(22)(c)&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Distribution of company assets on liquidation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1330" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-72" value="&lt;div&gt;&lt;u&gt;S2(22)(d)&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Distribution on reduction of capital(even though ther is not internal reconstruction)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1400" width="280" height="60" as="geometry" />
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-72" target="Ol0Vi1a9tFmlouW9PCSu-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-72" value="&lt;div&gt;&lt;u&gt;S2(22)(d)&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Distribution on reduction of capital(even though ther is not internal reconstruction)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Exception&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;Buy back is not considered as deemed dividend&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1400" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol0Vi1a9tFmlouW9PCSu-74" value="&lt;div&gt;&lt;u&gt;S2(22)(e)&lt;/u&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Most important for exam&lt;/font&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Applicable only to private company&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.) loan or advance given the SH holding &lt;u&gt;&amp;gt;&lt;/u&gt; 10% of equity shares, such loan/advance is deemed dividend.&lt;/div&gt;&lt;div&gt;(subject to accumulated profits)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.) loan / advance given to any person(firm), in which the share holder holding &amp;gt; 10% Equity shares(in pvt. ltd), has a substantial interest of &lt;u&gt;&amp;gt;&lt;/u&gt; 20%(in firm)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.) loan / advance given to any other person for ultimate benefit of SH(of pvt ltd, having &lt;u&gt;&amp;gt;&lt;/u&gt; 10% of ES)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Exception&lt;/b&gt;&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;a.) loan / advance given in ordinary course of biz if the pvt. ltd is in the money lending biz&lt;/div&gt;&lt;div&gt;b.) Trade advance&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1520" width="280" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
