@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T19:35:03.192Z" agent="5.0 (X11)" etag="9_lMOBUww0ujlfySej4R" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T19:54:10.637Z" agent="5.0 (X11)" etag="DYV8f947p2K988R4__4m" version="14.9.6" type="github">
   <diagram id="TwOnsbDdKHpnPGX-vTBe" name="Page-1">
-    <mxGraphModel dx="1565" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -613,6 +613,18 @@
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-123" value="&lt;div&gt;letting out of building along with plant &amp;amp; machinery and Furniture &lt;/div&gt;(provided such lettings are &lt;span style=&quot;white-space: pre&quot;&gt;inseparable&lt;/span&gt;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1960" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-124" value="Other incomes which are taxable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2200" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-125" value="Pension from LIC or other insurance company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2280" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-126" value="maturity proceeds of key man insurance policy received by family members" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2340" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-127" value="Rent income from letting out of land" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2400" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
