@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T17:18:08.619Z" agent="5.0 (X11)" etag="V4RRqjAboy0xAIOKl1dE" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T18:39:40.427Z" agent="5.0 (X11)" etag="p4bPFRYC1Q7nPEphg8fl" version="14.9.6" type="github">
   <diagram id="TwOnsbDdKHpnPGX-vTBe" name="Page-1">
-    <mxGraphModel dx="1565" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2101" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X10udU15piDBfr6He53y-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="790" width="740" height="470" as="geometry" />
+          <mxGeometry x="450" y="1240" width="740" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Ol0Vi1a9tFmlouW9PCSu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ol0Vi1a9tFmlouW9PCSu-1" target="Ol0Vi1a9tFmlouW9PCSu-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -395,11 +395,11 @@
         <mxCell id="X10udU15piDBfr6He53y-42" value="Exceptions from Gift" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X10udU15piDBfr6He53y-44" value="&lt;div&gt;following gifts are exempt -&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. gifts received from relative&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. gifts received on the occasion of the &lt;u&gt;marriage&lt;/u&gt; of &lt;br&gt;&lt;/div&gt;&lt;div&gt;the assessee himself (does not include marriage anniversary)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Gifts received under will / inheritance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. in contemplation{probable} of death&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. from a charitable institutions or similar institution&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. non taxable &lt;span style=&quot;white-space: pre&quot;&gt;transfer cases &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;(in those 13 cases given in Capital &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;gains chapter. 1 to 7, except 2 is &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;exempted from gifts)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;7. gifts received from an individual by trust&lt;/span&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.36.39&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X10udU15piDBfr6He53y-44" value="&lt;div&gt;following gifts are exempt -&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. gifts received from relative&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. gifts received on the occasion of the &lt;u&gt;marriage&lt;/u&gt; of &lt;br&gt;&lt;/div&gt;&lt;div&gt;the assessee himself (does not include marriage anniversary)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Gifts received under will / inheritance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. in contemplation{probable} of death&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. from a charitable institutions or similar institution&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. non taxable &lt;span style=&quot;white-space: pre&quot;&gt;transfer cases &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;(in those 13 cases given in Capital &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;gains chapter. 1 to 7, except 2 is &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;exempted from gifts)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;7. gifts received from an individual by trust&lt;/span&gt;&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="900" width="360" height="310" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-45" value="Relative for individuals" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="800" width="240" height="40" as="geometry" />
+          <mxGeometry x="700" y="1250" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-46" target="X10udU15piDBfr6He53y-52">
           <mxGeometry relative="1" as="geometry" />
@@ -420,7 +420,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-46" value="Assessee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="1120" width="80" height="40" as="geometry" />
+          <mxGeometry x="670" y="1570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-47" target="X10udU15piDBfr6He53y-48">
           <mxGeometry relative="1" as="geometry" />
@@ -432,31 +432,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-47" value="Spouse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="1120" width="80" height="40" as="geometry" />
+          <mxGeometry x="970" y="1570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-48" target="X10udU15piDBfr6He53y-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-48" value="Parents" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="1060" width="80" height="40" as="geometry" />
+          <mxGeometry x="970" y="1510" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X10udU15piDBfr6He53y-49" target="X10udU15piDBfr6He53y-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-49" value="&lt;div&gt;Grand &lt;br&gt;&lt;/div&gt;&lt;div&gt;parents&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="990" width="80" height="40" as="geometry" />
+          <mxGeometry x="970" y="1440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-50" value="Brother" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="1090" width="80" height="40" as="geometry" />
+          <mxGeometry x="1090" y="1540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-51" value="Sister" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="1140" width="80" height="40" as="geometry" />
+          <mxGeometry x="1090" y="1590" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-52" value="brother" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1130" width="80" height="40" as="geometry" />
+          <mxGeometry x="550" y="1580" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-53" value="sister" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1190" width="80" height="40" as="geometry" />
+          <mxGeometry x="550" y="1640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X10udU15piDBfr6He53y-54" target="X10udU15piDBfr6He53y-60">
           <mxGeometry relative="1" as="geometry" />
@@ -465,7 +465,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-54" value="Father" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="1040" width="80" height="40" as="geometry" />
+          <mxGeometry x="590" y="1490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X10udU15piDBfr6He53y-55" target="X10udU15piDBfr6He53y-56">
           <mxGeometry relative="1" as="geometry" />
@@ -474,43 +474,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-55" value="Mother" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="1040" width="80" height="40" as="geometry" />
+          <mxGeometry x="750" y="1490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-56" value="brother" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="1020" width="80" height="40" as="geometry" />
+          <mxGeometry x="870" y="1470" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-57" target="X10udU15piDBfr6He53y-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-57" value="&lt;div&gt;Grand &lt;br&gt;&lt;/div&gt;&lt;div&gt;parents&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="980" width="80" height="40" as="geometry" />
+          <mxGeometry x="670" y="1430" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-58" value="Great &lt;br&gt;&lt;div&gt;Grand &lt;br&gt;&lt;/div&gt;&lt;div&gt;parents&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="910" width="80" height="50" as="geometry" />
+          <mxGeometry x="670" y="1360" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-59" value="sister" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="1070" width="80" height="40" as="geometry" />
+          <mxGeometry x="870" y="1520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-60" value="brother" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="1010" width="80" height="40" as="geometry" />
+          <mxGeometry x="470" y="1460" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-61" value="sister" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="1060" width="80" height="40" as="geometry" />
+          <mxGeometry x="470" y="1510" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-78" value="Great &lt;br&gt;&lt;div&gt;Grand &lt;br&gt;&lt;/div&gt;&lt;div&gt;parents&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="920" width="80" height="50" as="geometry" />
+          <mxGeometry x="970" y="1370" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-80" value="&lt;u&gt;&lt;b&gt;And the spouses of all the persons mentioned above&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="1200" width="360" height="40" as="geometry" />
+          <mxGeometry x="670" y="1650" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-82" target="X10udU15piDBfr6He53y-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-82" value="Relative for HUF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="790" width="120" height="40" as="geometry" />
+          <mxGeometry x="1300" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-83" value="&lt;div&gt;Any member of HUF is a relative&lt;/div&gt;&lt;div&gt;(i.e karta, his wife their children, grand children etc.)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="850" width="300" height="40" as="geometry" />
+          <mxGeometry x="1210" y="1300" width="300" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
