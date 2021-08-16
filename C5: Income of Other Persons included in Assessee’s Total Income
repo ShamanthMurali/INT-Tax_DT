@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-08-17T00:36:21.581Z" agent="5.0 (X11)" version="14.9.7" etag="RWUjQwhHjpLQIbh1h8d7" type="github"><diagram id="kxvzqrdp8qMIntaPaXjX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-17T00:55:03.922Z" agent="5.0 (X11)" etag="hkVQBzqb25Tc-BSufxlG" version="14.9.7" type="github">
+  <diagram id="kxvzqrdp8qMIntaPaXjX" name="Page-1">
+    <mxGraphModel dx="712" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f67dC9yAkBqzm89trn01-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f67dC9yAkBqzm89trn01-1" target="f67dC9yAkBqzm89trn01-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f67dC9yAkBqzm89trn01-1" value="&lt;div&gt;Income of Other Persons included in Assessee’s Total Income&lt;/div&gt;(Clubbing of income)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f67dC9yAkBqzm89trn01-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f67dC9yAkBqzm89trn01-4" target="f67dC9yAkBqzm89trn01-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f67dC9yAkBqzm89trn01-4" value="S60 Transfer of income, without transfer of asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f67dC9yAkBqzm89trn01-5" value="&lt;div&gt;S61 revocable transfers&lt;/div&gt;are those transfers where the transferer retains the right the to cancel the transfer at any time and take back the asset / income back." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="320" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
