@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T19:13:01.376Z" agent="5.0 (X11)" etag="f1Voac1w_e50D2kuWAX5" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T19:19:46.878Z" agent="5.0 (X11)" etag="GjyA_NXro3fTdp5unhTj" version="14.9.6" type="github">
   <diagram id="TwOnsbDdKHpnPGX-vTBe" name="Page-1">
-    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5020" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -522,19 +522,58 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-90" value="Shares of a private ltd company issued for a price &amp;gt; FMV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="320" width="200" height="40" as="geometry" />
+          <mxGeometry x="1740" y="320" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-91" target="X10udU15piDBfr6He53y-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-91" value="&lt;div&gt;Any money in excess of&lt;/div&gt;&lt;div&gt;issue price &amp;gt; FVM&lt;/div&gt;&lt;div&gt;is taxable&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="380" width="160" height="60" as="geometry" />
+          <mxGeometry x="1760" y="380" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-93" value="&lt;div&gt;Above provision is not applicable if &lt;br&gt;&lt;/div&gt;&lt;div&gt;issue price &amp;lt; face value&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="460" width="160" height="60" as="geometry" />
+          <mxGeometry x="1760" y="460" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-95" target="X10udU15piDBfr6He53y-96">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X10udU15piDBfr6He53y-95" value="&lt;div&gt;Income from owning and &lt;br&gt;&lt;/div&gt;&lt;div&gt;maintaining race horse&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2120" y="320" width="160" height="40" as="geometry" />
+          <mxGeometry x="2040" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-96" value="&lt;div&gt;person who is owning and maintaining race horse&lt;/div&gt;&lt;div&gt;if he receives any share in stake money, then such money is taxable under IFOS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="380" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X10udU15piDBfr6He53y-96" target="X10udU15piDBfr6He53y-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-99" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="450" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-100" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="X10udU15piDBfr6He53y-99">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-101" value="Share of stake money received" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="X10udU15piDBfr6He53y-100">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-102" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="X10udU15piDBfr6He53y-100">
+          <mxGeometry x="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-103" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="X10udU15piDBfr6He53y-99">
+          <mxGeometry y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-104" value="(-) Expenses incurred towards the race horses" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="X10udU15piDBfr6He53y-103">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-105" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="X10udU15piDBfr6He53y-103">
+          <mxGeometry x="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-106" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="X10udU15piDBfr6He53y-99">
+          <mxGeometry y="80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-107" value="Taxable as IFOS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="X10udU15piDBfr6He53y-106">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X10udU15piDBfr6He53y-108" value="XX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="X10udU15piDBfr6He53y-106">
+          <mxGeometry x="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
