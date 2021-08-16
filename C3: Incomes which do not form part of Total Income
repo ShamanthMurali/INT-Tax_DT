@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T23:22:13.746Z" agent="5.0 (X11)" version="14.9.6" etag="jhH-H0R-hXlPtRNK5yt9" type="github"><diagram id="tkX_X7X4uf3PKcPVVvu6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-16T23:34:35.728Z" agent="5.0 (X11)" etag="ABQD5eoHeBja5LFge-fd" version="14.9.6" type="github">
+  <diagram id="tkX_X7X4uf3PKcPVVvu6" name="Page-1">
+    <mxGraphModel dx="1048" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-1" value="Agricultural income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-2" value="&lt;div&gt;1. rent income from agricultural land&lt;/div&gt;&lt;div&gt;(note: only if land is used for agricultural purpose&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. rent income from farm building&lt;/div&gt;&lt;div&gt;(used for storage, resident for farm labour etc.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. income from agricultural activities&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="320" height="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
