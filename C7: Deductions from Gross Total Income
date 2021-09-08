@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T00:21:28.711Z" agent="5.0 (X11)" etag="kfipdsOMPZo7_6Ha7MWh" version="15.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T00:42:33.644Z" agent="5.0 (X11)" etag="7tx9mxIsEt0d2eyer1A8" version="15.1.1" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="1722" dy="308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1722" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,6 +63,58 @@
         </mxCell>
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-19" value="This limit for total of all investments and payment. and not for each investment/payment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="560" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.002;exitY=0.107;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="luG6lhqMQ6UnaRHhKzpp-14" target="luG6lhqMQ6UnaRHhKzpp-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-680" y="696" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-23" value="For Life insurance premium" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="luG6lhqMQ6UnaRHhKzpp-23" target="luG6lhqMQ6UnaRHhKzpp-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-24" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="780" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-25" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="luG6lhqMQ6UnaRHhKzpp-24">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-26" value="&lt;u&gt;&lt;b&gt;Policy date&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="luG6lhqMQ6UnaRHhKzpp-25">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-27" value="&lt;u&gt;&lt;b&gt;Max premium allowed&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="luG6lhqMQ6UnaRHhKzpp-25">
+          <mxGeometry x="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-28" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="luG6lhqMQ6UnaRHhKzpp-24">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-29" value="Upto 31/3/2012" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="luG6lhqMQ6UnaRHhKzpp-28">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-30" value="20% of sum assured" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="luG6lhqMQ6UnaRHhKzpp-28">
+          <mxGeometry x="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-31" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="luG6lhqMQ6UnaRHhKzpp-24">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-32" value="01/04/2012 to 31/03/2013" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="luG6lhqMQ6UnaRHhKzpp-31">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-33" value="10% of sum assured" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="luG6lhqMQ6UnaRHhKzpp-31">
+          <mxGeometry x="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-34" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="luG6lhqMQ6UnaRHhKzpp-24">
+          <mxGeometry y="120" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-35" value="&lt;div&gt;01/04/2013 onwards&lt;/div&gt;&lt;div&gt;Normal person&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Person suffering from disability mentioned u/s 80U or specified disease mentioned u/s 80DDB&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="luG6lhqMQ6UnaRHhKzpp-34">
+          <mxGeometry width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-36" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10% of sum assured&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;15% of sum assured&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="luG6lhqMQ6UnaRHhKzpp-34">
+          <mxGeometry x="160" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
