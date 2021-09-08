@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T18:30:10.095Z" agent="5.0 (X11)" etag="vrzVT65XDIIQ0ugKwN_S" version="15.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-08T18:30:36.037Z" agent="5.0 (X11)" etag="MYA4VQy_8-wgjR1GJPBj" version="15.1.1" type="github">
   <diagram id="D8pp1TAPfAaHIgd1MpEE" name="Page-1">
-    <mxGraphModel dx="1488" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2108" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,7 +326,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-120" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="360" y="3320" width="360" height="320" as="geometry" />
+          <mxGeometry x="360" y="3300" width="360" height="320" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-121" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="We-hl39juAuCVzyDzWIm-120">
           <mxGeometry width="360" height="40" as="geometry" />
@@ -334,7 +334,7 @@
         <mxCell id="We-hl39juAuCVzyDzWIm-122" value="&lt;b&gt;Business Income&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-121">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="We-hl39juAuCVzyDzWIm-123" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-121">
+        <mxCell id="We-hl39juAuCVzyDzWIm-123" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-121">
           <mxGeometry x="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-124" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="We-hl39juAuCVzyDzWIm-120">
@@ -343,7 +343,7 @@
         <mxCell id="We-hl39juAuCVzyDzWIm-125" value="(-) Current year depreciation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-124">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="We-hl39juAuCVzyDzWIm-126" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-124">
+        <mxCell id="We-hl39juAuCVzyDzWIm-126" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-124">
           <mxGeometry x="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-127" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="We-hl39juAuCVzyDzWIm-120">
@@ -352,7 +352,7 @@
         <mxCell id="We-hl39juAuCVzyDzWIm-128" value="(-) Current year capital expenses for scientific research and family planning" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-127">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="We-hl39juAuCVzyDzWIm-129" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-127">
+        <mxCell id="We-hl39juAuCVzyDzWIm-129" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-127">
           <mxGeometry x="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-130" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="We-hl39juAuCVzyDzWIm-120">
@@ -361,7 +361,7 @@
         <mxCell id="We-hl39juAuCVzyDzWIm-131" value="(-) Current year business loss" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-130">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="We-hl39juAuCVzyDzWIm-132" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-130">
+        <mxCell id="We-hl39juAuCVzyDzWIm-132" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-130">
           <mxGeometry x="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-133" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="We-hl39juAuCVzyDzWIm-120">
@@ -370,7 +370,7 @@
         <mxCell id="We-hl39juAuCVzyDzWIm-134" value="(-) Brought forward business loss" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-133">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="We-hl39juAuCVzyDzWIm-135" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-133">
+        <mxCell id="We-hl39juAuCVzyDzWIm-135" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-133">
           <mxGeometry x="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-139" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="We-hl39juAuCVzyDzWIm-120">
@@ -379,7 +379,7 @@
         <mxCell id="We-hl39juAuCVzyDzWIm-140" value="(-) Unabsorbed depreciation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-139">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="We-hl39juAuCVzyDzWIm-141" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-139">
+        <mxCell id="We-hl39juAuCVzyDzWIm-141" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-139">
           <mxGeometry x="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-136" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="We-hl39juAuCVzyDzWIm-120">
@@ -388,7 +388,7 @@
         <mxCell id="We-hl39juAuCVzyDzWIm-137" value="(-) Unabsorbed capital expenditure for scientific research " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-136">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="We-hl39juAuCVzyDzWIm-138" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-136">
+        <mxCell id="We-hl39juAuCVzyDzWIm-138" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-136">
           <mxGeometry x="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-142" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="We-hl39juAuCVzyDzWIm-120">
@@ -397,7 +397,7 @@
         <mxCell id="We-hl39juAuCVzyDzWIm-143" value="&lt;div&gt;(-) Unabsorbed capital expenditure for&lt;/div&gt;&lt;div&gt; family planing &lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-142">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="We-hl39juAuCVzyDzWIm-144" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-142">
+        <mxCell id="We-hl39juAuCVzyDzWIm-144" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="We-hl39juAuCVzyDzWIm-142">
           <mxGeometry x="280" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
