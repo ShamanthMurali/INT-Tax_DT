@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T00:42:33.644Z" agent="5.0 (X11)" etag="7tx9mxIsEt0d2eyer1A8" version="15.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T00:48:14.069Z" agent="5.0 (X11)" etag="lHUm0zFhNYsR1grJNkRV" version="15.1.1" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="1722" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2338" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-14" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;List of Investments&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(* - Important)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;**1. life insurance premium&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;**2. contribution to public provident fund (PPF)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Unit linked insurance plans (ULIPs) / Mutual funds&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*4. National savings certificate (NSC)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*5. Bonds of NABARD&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. national housing bank tax saving term deposits&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. equity linked savings scheme (ELSS)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. Annuity plan of LIC / Any other insurers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. Deposit schemes of public sector companies&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10. post office term deposit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;**11. tax saver FD with any bank (Min term 5 years)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;12. Deferred annuity plans&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*13. contribution to recognized provident fund / statutory provident fund /&lt;/div&gt;&lt;div&gt; super annuation fund&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;**14. senior citizen saving scheme&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;15. Additional contribution to notified pension scheme&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;16. Sukanya samridhi Scheme.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="640" width="440" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="luG6lhqMQ6UnaRHhKzpp-15" value="&lt;div&gt;1. For First 3 investment, The assessee can claim deduction even if the &lt;br&gt;&lt;/div&gt;&lt;div&gt;investment is taken in the name of the spouse and children&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. HUF can also claim deduction in the name of member.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. In remaining all investments i.e. 4 to 15, deduction can be claimed by &lt;br&gt;&lt;/div&gt;&lt;div&gt;assessee only if the investment are made in his own name. Except 16.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. In point 16 deduction is available only if the investment is made in &lt;br&gt;&lt;/div&gt;&lt;div&gt;the name of girl child by assessee(Parent / Guardian).&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-15" value="&lt;div&gt;1. For First 3 investment, The assessee can claim deduction even if the &lt;br&gt;&lt;/div&gt;&lt;div&gt;investment is taken in the name of the spouse and children&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. HUF can also claim deduction in the name of member.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. In remaining all investments i.e. 4 to 15, deduction can be claimed by &lt;br&gt;&lt;/div&gt;&lt;div&gt;assessee only if the investment are made in his own name. Except 16.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. In point 16 deduction is available only if the investment is made in &lt;br&gt;&lt;/div&gt;&lt;div&gt;the name of girl child by assessee(Parent / Guardian).&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="1180" width="440" height="160" as="geometry" />
         </mxCell>
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-18" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;List of Payments&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Tuition fees (Only for individuals)&lt;/div&gt;&lt;div&gt;-&amp;gt; Paid for &lt;u&gt;Full time education in India to any school / college / University&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(Coaching class fee is not allowed).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Repayment of Housing loan of residential house property.&lt;/div&gt;&lt;div&gt;(Only principle component, not interest component)(Only for individuals and HUF)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Stamp duty / registration fee paid on purchase for residential &lt;br&gt;&lt;/div&gt;&lt;div&gt;house property(Only for individuals and HUF)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -75,6 +75,9 @@
           <mxGeometry x="-740" y="720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="luG6lhqMQ6UnaRHhKzpp-23" target="luG6lhqMQ6UnaRHhKzpp-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="luG6lhqMQ6UnaRHhKzpp-24" target="luG6lhqMQ6UnaRHhKzpp-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-24" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
@@ -115,6 +118,15 @@
         </mxCell>
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-36" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10% of sum assured&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;15% of sum assured&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="luG6lhqMQ6UnaRHhKzpp-34">
           <mxGeometry x="160" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="luG6lhqMQ6UnaRHhKzpp-43" target="luG6lhqMQ6UnaRHhKzpp-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-43" value="if life insurance premium of a salaried employee is paid by the employer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-785" y="1040" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-44" value="Such amount is taxable as perquisite, and deduction u/s 80C will also be &lt;u&gt;available&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-785" y="1100" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
