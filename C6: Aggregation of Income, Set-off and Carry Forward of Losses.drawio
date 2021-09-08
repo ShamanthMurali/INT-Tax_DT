@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T16:41:52.759Z" agent="5.0 (X11)" etag="WZXXhLZFTpt6RAmpsfNq" version="15.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-08T16:43:31.680Z" agent="5.0 (X11)" etag="ezSgFR90dnP7oSiFxuxY" version="15.1.1" type="github">
   <diagram id="D8pp1TAPfAaHIgd1MpEE" name="Page-1">
-    <mxGraphModel dx="1265" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1488" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="We-hl39juAuCVzyDzWIm-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1900" width="560" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="We-hl39juAuCVzyDzWIm-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" width="560" height="1880" as="geometry" />
+        </mxCell>
         <mxCell id="TAzYBhNEJsp0tGCk1SkH-1" value="Set-off of Losses" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=5" parent="1" vertex="1">
           <mxGeometry x="320" width="240" height="40" as="geometry" />
         </mxCell>
@@ -101,22 +107,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-32" value="Carry Forward of Losses" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry x="320" y="1900" width="240" height="40" as="geometry" />
+          <mxGeometry x="320" y="1920" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="We-hl39juAuCVzyDzWIm-34" target="We-hl39juAuCVzyDzWIm-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-34" value="&lt;div&gt;If losses cannot be adjusted u/s 70 and 71&lt;/div&gt;&lt;div&gt;(Losses still remain after S70 and 71 setoff)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;They will be carried forward (Subject to limit and order)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1960" width="320" height="80" as="geometry" />
+          <mxGeometry x="280" y="1980" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="We-hl39juAuCVzyDzWIm-36" target="We-hl39juAuCVzyDzWIm-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-36" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Brought forward loss can only be adjusted after the CY losses have been adjusted&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Once Loss become brought forward, it cannot be adjusted under Inter Head Adjustment&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="2060" width="320" height="110" as="geometry" />
+          <mxGeometry x="280" y="2080" width="320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-39" value="Time limit" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="280" y="2190" width="320" height="410" as="geometry" />
+          <mxGeometry x="280" y="2210" width="320" height="410" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-40" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="We-hl39juAuCVzyDzWIm-39">
           <mxGeometry y="30" width="320" height="40" as="geometry" />
