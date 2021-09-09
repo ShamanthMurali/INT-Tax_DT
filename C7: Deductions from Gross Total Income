@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T23:58:43.764Z" agent="5.0 (X11)" etag="e30TwRKehVzkBbjFky9r" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T23:58:57.196Z" agent="5.0 (X11)" etag="58mA9DKrBOTFpfmBV97T" version="15.1.2" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="1569" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2947" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -793,6 +793,9 @@
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-151" value="&lt;div&gt;Applicable to all assessee&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5880" y="510" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-153" target="AutyHtLMTu33dElgbt3u-156">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-153" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Donation in kind not allowed&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Cash donation allowed upto Rs.2000 in a year&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5880" y="647.82" width="240" height="92.18" as="geometry" />
