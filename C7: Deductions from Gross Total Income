@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T18:16:29.934Z" agent="5.0 (X11)" etag="caraanhLoDY7wZI_5bMj" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T18:42:56.274Z" agent="5.0 (X11)" etag="yJcDmFn12J0sf-1g-a1y" version="15.1.2" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="1718" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1449" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -512,8 +512,92 @@
         <mxCell id="AutyHtLMTu33dElgbt3u-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80DD&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2920" y="400" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-51" target="AutyHtLMTu33dElgbt3u-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-51" value="Deduction for expenditure on dependent disabled" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2860" y="440" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-52" target="AutyHtLMTu33dElgbt3u-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-52" target="AutyHtLMTu33dElgbt3u-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-52" value="&lt;div&gt;Applicable only to &lt;br&gt;&lt;/div&gt;&lt;div&gt;Resident Individuals&lt;sup&gt;(1)&lt;/sup&gt; / HUF&lt;sup&gt;(2)&lt;/sup&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="500" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-54" target="AutyHtLMTu33dElgbt3u-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-54" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Expenditure covered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Any expense towards medical treatment of &lt;br&gt;&lt;/div&gt;&lt;div&gt;such disabled person or any expense on his maintenance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Contribution to any scheme of LIC / any other insurer&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="560" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-57" value="Max deduction" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="720" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-58" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AutyHtLMTu33dElgbt3u-57">
+          <mxGeometry y="30" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-59" value="Disability &amp;lt; 40%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-58">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-60" value="Not available" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-58">
+          <mxGeometry x="140" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-61" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AutyHtLMTu33dElgbt3u-57">
+          <mxGeometry y="70" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-62" value="&lt;div&gt;Normal disability&lt;/div&gt;&lt;div&gt;&lt;u&gt;&amp;gt;&lt;/u&gt; 40% to &amp;lt; 80%&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-61">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-63" value="&lt;div&gt;Rs.75,000*&lt;/div&gt;&lt;div&gt;Flat Deduction in a FY&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-61">
+          <mxGeometry x="140" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-64" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AutyHtLMTu33dElgbt3u-57">
+          <mxGeometry y="110" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-65" value="&lt;div&gt;Severe disability&lt;/div&gt;&lt;div&gt;&lt;u&gt;&amp;gt;&lt;/u&gt; 80%&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-64">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-66" value="&lt;div&gt;Rs.1,25,000*&lt;/div&gt;&lt;div&gt;Flat Deduction in a FY&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-64">
+          <mxGeometry x="140" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-68" value="&lt;div&gt;* Actual expenditure is to be ignored&lt;/div&gt;&lt;div&gt;* deduction is for all person, even if there are 2 ppl disabled&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="870" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-71" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;1. Individuals = Spouse, brother, sister, children, mother and father&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. HUF = Members&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="480" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-72" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80DDB&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3480" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-73" target="AutyHtLMTu33dElgbt3u-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-73" value="&lt;div&gt;Deduction for expenditure towards&lt;/div&gt;&lt;div&gt; treatment of specific disease&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3420" y="440" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-74" target="AutyHtLMTu33dElgbt3u-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-74" target="AutyHtLMTu33dElgbt3u-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-74" value="&lt;div&gt;Applicable only to &lt;br&gt;&lt;/div&gt;&lt;div&gt;Resident Individuals&lt;sup&gt;(1)&lt;/sup&gt; / HUF&lt;sup&gt;(2)&lt;/sup&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3420" y="500" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-77" target="AutyHtLMTu33dElgbt3u-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-77" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Expenditure covered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Any expense towards medical treatment of &lt;br&gt;&lt;/div&gt;&lt;div&gt;specified disease&#39;s&lt;/div&gt;&lt;div&gt;(as per rule 11DD - cancer, aids etc.)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3400" y="560" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-79" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;1. Individuals = &lt;u&gt;Self&lt;/u&gt;, Spouse, brother, sister, children, mother and father&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. HUF = Members&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3700" y="480" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-80" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Amount of Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Actual Expense&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Maximum deduction 40,000/1,00,000**&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is Lower]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;{** for Senior citizens only}&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3400" y="667.82" width="280" height="132.18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
