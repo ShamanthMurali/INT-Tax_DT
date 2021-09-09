@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T22:32:44.924Z" agent="5.0 (X11)" etag="cnkJD1fHiUoqZNKTrzKX" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T22:33:24.118Z" agent="5.0 (X11)" etag="2Jv3E4YjH9BxzlJ6ntoF" version="15.1.2" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
     <mxGraphModel dx="1898" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -770,8 +770,32 @@
         <mxCell id="AutyHtLMTu33dElgbt3u-143" value="&lt;div&gt;Applicable only to Resident senior citizen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5600" y="510" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-144" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Such interest&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Max 10,000 in a year&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-144" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Such interest&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Max 50,000 in a year&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5600" y="647.82" width="240" height="92.18" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-145" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80G&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5940" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-147" target="AutyHtLMTu33dElgbt3u-151" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-147" value="Deduction for&lt;br&gt;&lt;div&gt;Interest income on Deposits&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5880" y="440" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-149" target="AutyHtLMTu33dElgbt3u-152" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-149" value="When Gross total income includes interest on deposits (both fixed and savings bank account)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5880" y="570" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-151" target="AutyHtLMTu33dElgbt3u-149" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-151" value="&lt;div&gt;Applicable only to Resident senior citizen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5880" y="510" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-152" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Such interest&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Max 50,000 in a year&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5880" y="647.82" width="240" height="92.18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
