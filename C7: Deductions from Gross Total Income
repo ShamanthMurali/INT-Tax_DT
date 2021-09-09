@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T17:11:12.287Z" agent="5.0 (X11)" etag="5ansB2d_-J-X0QwX6BtO" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T17:18:49.503Z" agent="5.0 (X11)" etag="3gAy5sWA2q97dcopZjVT" version="15.1.2" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="2647" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1898" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -414,6 +414,9 @@
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-2" value="4. Payment for medical expenditure (only for Resident Senior citizens)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2040" y="759.38" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-11" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Important note&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. payment for mediclaim / Medical exp / Contributions to&lt;/div&gt;&lt;div&gt;mentioned above made in cash is not allowed as deduction.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. however Preventive Health check up &lt;u&gt;can be&lt;/u&gt; paid in cash&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;Any payment under this scheme must be out of taxable income only&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="810" width="360" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
