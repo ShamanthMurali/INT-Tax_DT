@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T11:22:52.491Z" agent="5.0 (X11)" etag="nZL7YHbBrDkZjkvd8iPr" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T11:37:24.824Z" agent="5.0 (X11)" etag="qo5tcnr_2uIBNfkb8dbS" version="15.1.2" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
     <mxGraphModel dx="1894" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -322,8 +322,19 @@
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-14" value="For self and spouse and dependent children" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1910" y="940" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SCkrLlL9JAq3i_Rq79N_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-16" target="SCkrLlL9JAq3i_Rq79N_-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1990" y="1100" />
+              <mxPoint x="2170" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-16" value="Max limit = Rs.25,000" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1910" y="1000" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SCkrLlL9JAq3i_Rq79N_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-17" target="SCkrLlL9JAq3i_Rq79N_-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-17" value="Max limit = Rs.25,000" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2090" y="1000" width="160" height="40" as="geometry" />
@@ -337,8 +348,19 @@
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-24" value="Max limit = Rs.25,000" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2270" y="980" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SCkrLlL9JAq3i_Rq79N_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-26" target="SCkrLlL9JAq3i_Rq79N_-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2350" y="1100" />
+              <mxPoint x="2170" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-26" value="This deduction is for all members and not per member" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2290" y="1020" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SCkrLlL9JAq3i_Rq79N_-29" value="1. if any person for whom mediclaim is taken for is a &lt;u&gt;&lt;b&gt;resident senior citizen then the max limit will be Rs50,000. &lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="1120" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
