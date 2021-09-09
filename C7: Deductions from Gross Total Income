@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T17:34:16.172Z" agent="5.0 (X11)" etag="TZlA1kgOL4Da14Rl2wcG" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T17:47:35.874Z" agent="5.0 (X11)" etag="NE8DXrf4VLVmlxqUrcvt" version="15.1.2" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="1718" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2108" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -415,15 +415,6 @@
         <mxCell id="AutyHtLMTu33dElgbt3u-11" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Important note&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. payment for mediclaim / Medical exp / Contributions to&lt;/div&gt;&lt;div&gt;mentioned above made in cash is not allowed as deduction.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. however Preventive Health check up &lt;u&gt;can be&lt;/u&gt; paid in cash&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;Any payment under this scheme must be out of taxable income only&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2040" y="810" width="360" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-12" target="AutyHtLMTu33dElgbt3u-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-12" value="Opened by employer " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="790" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="759.38" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-14" target="AutyHtLMTu33dElgbt3u-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -433,8 +424,14 @@
         <mxCell id="AutyHtLMTu33dElgbt3u-14" value="Deduction for employer&#39;s&amp;nbsp; contribution allowed to employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="850.62" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-15" target="AutyHtLMTu33dElgbt3u-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-15" target="AutyHtLMTu33dElgbt3u-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-15" value="&lt;b&gt;80CCD(2)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="750" width="120" height="40" as="geometry" />
+          <mxGeometry x="1110" y="799.38" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.529;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-17" target="AutyHtLMTu33dElgbt3u-22">
           <mxGeometry relative="1" as="geometry" />
@@ -452,25 +449,52 @@
           <mxGeometry x="790" y="990.62" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-24" value="(C)Salary = basic salary + DA(In terms) " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1070.62" width="240" height="40" as="geometry" />
+          <mxGeometry x="1060" y="1080" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-25" value="&lt;div&gt;Max deduction = &lt;br&gt;&lt;/div&gt;&lt;div&gt;10% of (C)Salary&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="995" y="990.62" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-26" target="AutyHtLMTu33dElgbt3u-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-26" target="AutyHtLMTu33dElgbt3u-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-26" value="Deduction for employee&#39;s contribution allowed to employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="855" width="200" height="40" as="geometry" />
+          <mxGeometry x="1275" y="845.62" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-28" value="&lt;div&gt;Max deduction = &lt;br&gt;&lt;/div&gt;&lt;div&gt;10% of (C)Salary&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1255" y="980" width="170" height="40" as="geometry" />
+          <mxGeometry x="1190" y="990.62" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-30" target="AutyHtLMTu33dElgbt3u-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-30" value="For employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="1215" y="930.62" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-32" target="AutyHtLMTu33dElgbt3u-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-32" value="For Self employed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="1415" y="930.62" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-33" value="&lt;div&gt;Max deduction = &lt;br&gt;&lt;/div&gt;&lt;div&gt;20% of Gross total income&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="990.62" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-38" target="AutyHtLMTu33dElgbt3u-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-38" value="&lt;b&gt;80CCD(1B)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="799.38" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-40" target="AutyHtLMTu33dElgbt3u-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-40" value="&lt;div&gt;Deduction for additional &lt;br&gt;&lt;/div&gt;&lt;div&gt;contribution to NPS &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="860" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-41" value="&lt;div&gt;Max deduction = &lt;br&gt;&lt;/div&gt;&lt;div&gt;Rs.50,000&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="920" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
