@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T00:01:49.581Z" agent="5.0 (X11)" etag="bVPvX7553zzV3rhbeyre" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T00:10:43.637Z" agent="5.0 (X11)" etag="FM2PxGGomtejOnFA4-7g" version="15.1.2" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="1569" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2099" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,10 +241,10 @@
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-87" value="This limit for total of all investments and payment. and not for each investment/payment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1229" y="600" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="luG6lhqMQ6UnaRHhKzpp-88" target="AutyHtLMTu33dElgbt3u-15">
+        <mxCell id="AutyHtLMTu33dElgbt3u-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="luG6lhqMQ6UnaRHhKzpp-88" target="AutyHtLMTu33dElgbt3u-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="luG6lhqMQ6UnaRHhKzpp-88" target="AutyHtLMTu33dElgbt3u-38">
+        <mxCell id="AutyHtLMTu33dElgbt3u-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="luG6lhqMQ6UnaRHhKzpp-88" target="AutyHtLMTu33dElgbt3u-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-88" value="&lt;div&gt;Two scheme notified till now:-&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. National pension scheme&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Atal pension yojana&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -283,7 +283,7 @@
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-5" value="Applicable only to Individuals and HUF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1880" y="500" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-7" target="SCkrLlL9JAq3i_Rq79N_-35">
+        <mxCell id="AutyHtLMTu33dElgbt3u-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SCkrLlL9JAq3i_Rq79N_-7" target="SCkrLlL9JAq3i_Rq79N_-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Payments covered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -376,7 +376,7 @@
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SCkrLlL9JAq3i_Rq79N_-35" target="SCkrLlL9JAq3i_Rq79N_-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-35" target="SCkrLlL9JAq3i_Rq79N_-37">
+        <mxCell id="AutyHtLMTu33dElgbt3u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SCkrLlL9JAq3i_Rq79N_-35" target="SCkrLlL9JAq3i_Rq79N_-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-35" value="1. Mediclaim Paid to any health insurance company" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -385,7 +385,7 @@
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SCkrLlL9JAq3i_Rq79N_-37" target="SCkrLlL9JAq3i_Rq79N_-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-37" target="AutyHtLMTu33dElgbt3u-1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SCkrLlL9JAq3i_Rq79N_-37" target="AutyHtLMTu33dElgbt3u-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-37" value="3. Payment for Preventive health check up (For individuals only)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -401,10 +401,10 @@
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-38" value="&lt;div&gt;Max limit = Rs.5,000&lt;/div&gt;&lt;div&gt;For self, spouse, dependent children,&lt;/div&gt;&lt;div&gt; and parents conbined&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2240" y="654.7" width="220" height="53.12" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-1" target="AutyHtLMTu33dElgbt3u-2">
+        <mxCell id="AutyHtLMTu33dElgbt3u-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-1" target="AutyHtLMTu33dElgbt3u-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2510" y="820" as="targetPoint" />
             <Array as="points">
@@ -413,520 +413,589 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-1" value="2. contribution to (For individuals only) -&lt;br&gt;a. Central government health scheme (CGHS)&lt;br&gt;b. Contributory Health service scheme (CHSS)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-1" value="2. contribution to (For individuals only) -&lt;br&gt;a. Central government health scheme (CGHS)&lt;br&gt;b. Contributory Health service scheme (CHSS)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1820" y="700.63" width="360" height="58.75" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-2" target="SCkrLlL9JAq3i_Rq79N_-9">
+        <mxCell id="AutyHtLMTu33dElgbt3u-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-2" target="SCkrLlL9JAq3i_Rq79N_-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-2" value="4. Payment for medical expenditure (only for Resident Senior citizens)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-2" value="4. Payment for medical expenditure (only for Resident Senior citizens)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1820" y="759.38" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-11" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Important note&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. payment for mediclaim / Medical exp / Contributions to&lt;/div&gt;&lt;div&gt;mentioned above made in cash is not allowed as deduction.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. however Preventive Health check up &lt;u&gt;can be&lt;/u&gt; paid in cash&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;Any payment under this scheme must be out of taxable income only&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;4. if tenure of mediclaim is more than 1 year then, then deduction will be allowed over the tenure&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-11" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Important note&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. payment for mediclaim / Medical exp / Contributions to&lt;/div&gt;&lt;div&gt;mentioned above made in cash is not allowed as deduction.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. however Preventive Health check up &lt;u&gt;can be&lt;/u&gt; paid in cash&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;Any payment under this scheme must be out of taxable income only&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;4. if tenure of mediclaim is more than 1 year then, then deduction will be allowed over the tenure&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1820" y="810" width="360" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-14" target="AutyHtLMTu33dElgbt3u-17">
+        <mxCell id="AutyHtLMTu33dElgbt3u-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-14" target="AutyHtLMTu33dElgbt3u-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-14" target="AutyHtLMTu33dElgbt3u-18">
+        <mxCell id="AutyHtLMTu33dElgbt3u-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-14" target="AutyHtLMTu33dElgbt3u-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-14" value="Deduction for employer&#39;s&amp;nbsp; contribution allowed to employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-14" value="Deduction for employer&#39;s&amp;nbsp; contribution allowed to employee" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="890.62" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-15" target="AutyHtLMTu33dElgbt3u-26">
+        <mxCell id="AutyHtLMTu33dElgbt3u-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-15" target="AutyHtLMTu33dElgbt3u-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-15" target="AutyHtLMTu33dElgbt3u-14">
+        <mxCell id="AutyHtLMTu33dElgbt3u-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-15" target="AutyHtLMTu33dElgbt3u-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-15" value="&lt;b&gt;80CCD(2)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-15" value="&lt;b&gt;80CCD(2)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="839.38" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.529;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-17" target="AutyHtLMTu33dElgbt3u-22">
+        <mxCell id="AutyHtLMTu33dElgbt3u-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.529;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AutyHtLMTu33dElgbt3u-17" target="AutyHtLMTu33dElgbt3u-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-17" value="Central govt employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-17" value="Central govt employee" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="970.62" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-18" target="AutyHtLMTu33dElgbt3u-25">
+        <mxCell id="AutyHtLMTu33dElgbt3u-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-18" target="AutyHtLMTu33dElgbt3u-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-18" value="other employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-18" value="other employee" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="970.62" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-22" value="&lt;div&gt;Max deduction = &lt;br&gt;&lt;/div&gt;&lt;div&gt;14% of (C)Salary&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-22" value="&lt;div&gt;Max deduction = &lt;br&gt;&lt;/div&gt;&lt;div&gt;14% of (C)Salary&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="1030.62" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-24" value="(C)Salary = basic salary + DA(In terms) " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-24" value="(C)Salary = basic salary + DA(In terms) " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="1120" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-25" value="&lt;div&gt;Max deduction = &lt;br&gt;&lt;/div&gt;&lt;div&gt;10% of (C)Salary&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-25" value="&lt;div&gt;Max deduction = &lt;br&gt;&lt;/div&gt;&lt;div&gt;10% of (C)Salary&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="695" y="1030.62" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-26" target="AutyHtLMTu33dElgbt3u-30">
+        <mxCell id="AutyHtLMTu33dElgbt3u-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-26" target="AutyHtLMTu33dElgbt3u-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-26" target="AutyHtLMTu33dElgbt3u-32">
+        <mxCell id="AutyHtLMTu33dElgbt3u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-26" target="AutyHtLMTu33dElgbt3u-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-26" value="Deduction for employee&#39;s contribution allowed to employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-26" value="Deduction for employee&#39;s contribution allowed to employee" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="975" y="885.62" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-28" value="&lt;div&gt;Max deduction = &lt;br&gt;&lt;/div&gt;&lt;div&gt;10% of (C)Salary&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-28" value="&lt;div&gt;Max deduction = &lt;br&gt;&lt;/div&gt;&lt;div&gt;10% of (C)Salary&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="1030.62" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-30" target="AutyHtLMTu33dElgbt3u-28">
+        <mxCell id="AutyHtLMTu33dElgbt3u-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-30" target="AutyHtLMTu33dElgbt3u-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-30" value="For employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-30" value="For employee" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="915" y="970.62" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-32" target="AutyHtLMTu33dElgbt3u-33">
+        <mxCell id="AutyHtLMTu33dElgbt3u-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-32" target="AutyHtLMTu33dElgbt3u-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-32" value="For Self employed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-32" value="For Self employed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1115" y="970.62" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-33" value="&lt;div&gt;Max deduction = &lt;br&gt;&lt;/div&gt;&lt;div&gt;20% of Gross total income&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-33" value="&lt;div&gt;Max deduction = &lt;br&gt;&lt;/div&gt;&lt;div&gt;20% of Gross total income&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1090" y="1030.62" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-38" target="AutyHtLMTu33dElgbt3u-40">
+        <mxCell id="AutyHtLMTu33dElgbt3u-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-38" target="AutyHtLMTu33dElgbt3u-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-38" value="&lt;b&gt;80CCD(1B)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-38" value="&lt;b&gt;80CCD(1B)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1300" y="839.38" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-40" target="AutyHtLMTu33dElgbt3u-41">
+        <mxCell id="AutyHtLMTu33dElgbt3u-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-40" target="AutyHtLMTu33dElgbt3u-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-40" value="&lt;div&gt;Deduction for additional &lt;br&gt;&lt;/div&gt;&lt;div&gt;contribution to NPS &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-40" value="&lt;div&gt;Deduction for additional &lt;br&gt;&lt;/div&gt;&lt;div&gt;contribution to NPS &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1260" y="900" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-41" value="&lt;div&gt;Max deduction = &lt;br&gt;&lt;/div&gt;&lt;div&gt;Rs.50,000&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-41" value="&lt;div&gt;Max deduction = &lt;br&gt;&lt;/div&gt;&lt;div&gt;Rs.50,000&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1275" y="960" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-49" value="&lt;b&gt;80CCD(1)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-49" value="&lt;b&gt;80CCD(1)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1050" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80DD&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80DD&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2920" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-51" target="AutyHtLMTu33dElgbt3u-52">
+        <mxCell id="AutyHtLMTu33dElgbt3u-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-51" target="AutyHtLMTu33dElgbt3u-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-51" value="Deduction for expenditure on dependent disabled" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-51" value="Deduction for expenditure on dependent disabled" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2860" y="440" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-52" target="AutyHtLMTu33dElgbt3u-54">
+        <mxCell id="AutyHtLMTu33dElgbt3u-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AutyHtLMTu33dElgbt3u-52" target="AutyHtLMTu33dElgbt3u-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-52" target="AutyHtLMTu33dElgbt3u-71">
+        <mxCell id="AutyHtLMTu33dElgbt3u-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-52" target="AutyHtLMTu33dElgbt3u-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-52" value="&lt;div&gt;Applicable only to &lt;br&gt;&lt;/div&gt;&lt;div&gt;Resident Individuals&lt;sup&gt;(1)&lt;/sup&gt; / HUF&lt;sup&gt;(2)&lt;/sup&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-52" value="&lt;div&gt;Applicable only to &lt;br&gt;&lt;/div&gt;&lt;div&gt;Resident Individuals&lt;sup&gt;(1)&lt;/sup&gt; / HUF&lt;sup&gt;(2)&lt;/sup&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2860" y="500" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-54" target="AutyHtLMTu33dElgbt3u-57">
+        <mxCell id="AutyHtLMTu33dElgbt3u-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AutyHtLMTu33dElgbt3u-54" target="AutyHtLMTu33dElgbt3u-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-54" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Expenditure covered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Any expense towards medical treatment of &lt;br&gt;&lt;/div&gt;&lt;div&gt;such disabled person or any expense on his maintenance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Contribution to any scheme of LIC / any other insurer&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-54" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Expenditure covered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Any expense towards medical treatment of &lt;br&gt;&lt;/div&gt;&lt;div&gt;such disabled person or any expense on his maintenance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Contribution to any scheme of LIC / any other insurer&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2840" y="560" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-57" value="Max deduction" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-57" value="Max deduction" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="2840" y="720" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-58" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AutyHtLMTu33dElgbt3u-57">
+        <mxCell id="AutyHtLMTu33dElgbt3u-58" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AutyHtLMTu33dElgbt3u-57" vertex="1">
           <mxGeometry y="30" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-59" value="Disability &amp;lt; 40%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-58">
+        <mxCell id="AutyHtLMTu33dElgbt3u-59" value="Disability &amp;lt; 40%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-58" vertex="1">
           <mxGeometry width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-60" value="Not available" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-58">
+        <mxCell id="AutyHtLMTu33dElgbt3u-60" value="Not available" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-58" vertex="1">
           <mxGeometry x="140" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-61" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AutyHtLMTu33dElgbt3u-57">
+        <mxCell id="AutyHtLMTu33dElgbt3u-61" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AutyHtLMTu33dElgbt3u-57" vertex="1">
           <mxGeometry y="70" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-62" value="&lt;div&gt;Normal disability&lt;/div&gt;&lt;div&gt;&lt;u&gt;&amp;gt;&lt;/u&gt; 40% to &amp;lt; 80%&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-61">
+        <mxCell id="AutyHtLMTu33dElgbt3u-62" value="&lt;div&gt;Normal disability&lt;/div&gt;&lt;div&gt;&lt;u&gt;&amp;gt;&lt;/u&gt; 40% to &amp;lt; 80%&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-61" vertex="1">
           <mxGeometry width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-63" value="&lt;div&gt;Rs.75,000*&lt;/div&gt;&lt;div&gt;Flat Deduction in a FY&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-61">
+        <mxCell id="AutyHtLMTu33dElgbt3u-63" value="&lt;div&gt;Rs.75,000*&lt;/div&gt;&lt;div&gt;Flat Deduction in a FY&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-61" vertex="1">
           <mxGeometry x="140" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-64" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AutyHtLMTu33dElgbt3u-57">
+        <mxCell id="AutyHtLMTu33dElgbt3u-64" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AutyHtLMTu33dElgbt3u-57" vertex="1">
           <mxGeometry y="110" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-65" value="&lt;div&gt;Severe disability&lt;/div&gt;&lt;div&gt;&lt;u&gt;&amp;gt;&lt;/u&gt; 80%&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-64">
+        <mxCell id="AutyHtLMTu33dElgbt3u-65" value="&lt;div&gt;Severe disability&lt;/div&gt;&lt;div&gt;&lt;u&gt;&amp;gt;&lt;/u&gt; 80%&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-64" vertex="1">
           <mxGeometry width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-66" value="&lt;div&gt;Rs.1,25,000*&lt;/div&gt;&lt;div&gt;Flat Deduction in a FY&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-64">
+        <mxCell id="AutyHtLMTu33dElgbt3u-66" value="&lt;div&gt;Rs.1,25,000*&lt;/div&gt;&lt;div&gt;Flat Deduction in a FY&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-64" vertex="1">
           <mxGeometry x="140" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-68" value="&lt;div&gt;* Actual expenditure is to be ignored&lt;/div&gt;&lt;div&gt;* deduction is for all person, even if there are 2 ppl disabled&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-68" value="&lt;div&gt;* Actual expenditure is to be ignored&lt;/div&gt;&lt;div&gt;* deduction is for all person, even if there are 2 ppl disabled&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2840" y="870" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-71" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;1. Individuals = Spouse, brother, sister, children, mother and father&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. HUF = Members&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-71" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;1. Individuals = Spouse, brother, sister, children, mother and father&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. HUF = Members&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3140" y="480" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-72" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80DDB&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-72" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80DDB&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3480" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-73" target="AutyHtLMTu33dElgbt3u-74">
+        <mxCell id="AutyHtLMTu33dElgbt3u-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-73" target="AutyHtLMTu33dElgbt3u-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-73" value="&lt;div&gt;Deduction for expenditure towards&lt;/div&gt;&lt;div&gt; treatment of specific disease&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-73" value="&lt;div&gt;Deduction for expenditure towards&lt;/div&gt;&lt;div&gt; treatment of specific disease&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3420" y="440" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-74" target="AutyHtLMTu33dElgbt3u-77">
+        <mxCell id="AutyHtLMTu33dElgbt3u-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AutyHtLMTu33dElgbt3u-74" target="AutyHtLMTu33dElgbt3u-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-74" target="AutyHtLMTu33dElgbt3u-79">
+        <mxCell id="AutyHtLMTu33dElgbt3u-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-74" target="AutyHtLMTu33dElgbt3u-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-74" value="&lt;div&gt;Applicable only to &lt;br&gt;&lt;/div&gt;&lt;div&gt;Resident Individuals&lt;sup&gt;(1)&lt;/sup&gt; / HUF&lt;sup&gt;(2)&lt;/sup&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-74" value="&lt;div&gt;Applicable only to &lt;br&gt;&lt;/div&gt;&lt;div&gt;Resident Individuals&lt;sup&gt;(1)&lt;/sup&gt; / HUF&lt;sup&gt;(2)&lt;/sup&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3420" y="500" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-77" target="AutyHtLMTu33dElgbt3u-80">
+        <mxCell id="AutyHtLMTu33dElgbt3u-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-77" target="AutyHtLMTu33dElgbt3u-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-77" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Expenditure covered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Any expense towards medical treatment of &lt;br&gt;&lt;/div&gt;&lt;div&gt;specified disease&#39;s&lt;/div&gt;&lt;div&gt;(as per rule 11DD - cancer, aids etc.)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-77" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Expenditure covered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Any expense towards medical treatment of &lt;br&gt;&lt;/div&gt;&lt;div&gt;specified disease&#39;s&lt;/div&gt;&lt;div&gt;(as per rule 11DD - cancer, aids etc.)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3400" y="560" width="280" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-79" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;1. Individuals = &lt;u&gt;Self&lt;/u&gt;, Spouse, brother, sister, children, mother and father&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. HUF = Members&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-79" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;1. Individuals = &lt;u&gt;Self&lt;/u&gt;, Spouse, brother, sister, children, mother and father&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. HUF = Members&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3700" y="480" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-80" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Amount of Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Actual Expense&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Maximum deduction Rs.40,000 / Rs.1,00,000**&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is Lower]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;{** for Senior citizens only}&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-80" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Amount of Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Actual Expense&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Maximum deduction Rs.40,000 / Rs.1,00,000**&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is Lower]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;{** for Senior citizens only}&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3400" y="667.82" width="280" height="132.18" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-85" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80E&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-85" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80E&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4020" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-86" target="AutyHtLMTu33dElgbt3u-87">
+        <mxCell id="AutyHtLMTu33dElgbt3u-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-86" target="AutyHtLMTu33dElgbt3u-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-86" value="Deduction for expenditure towards&lt;div&gt;Interest on education loan&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-86" value="Deduction for expenditure towards&lt;div&gt;Interest on education loan&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3960" y="440" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-87" target="AutyHtLMTu33dElgbt3u-89">
+        <mxCell id="AutyHtLMTu33dElgbt3u-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-87" target="AutyHtLMTu33dElgbt3u-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-87" value="&lt;div&gt;Applicable only to Individuals&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-87" value="&lt;div&gt;Applicable only to Individuals&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3960" y="500" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-89" target="AutyHtLMTu33dElgbt3u-91">
+        <mxCell id="AutyHtLMTu33dElgbt3u-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-89" target="AutyHtLMTu33dElgbt3u-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-89" target="AutyHtLMTu33dElgbt3u-93">
+        <mxCell id="AutyHtLMTu33dElgbt3u-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-89" target="AutyHtLMTu33dElgbt3u-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-89" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose of loan&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Higher education of himself / Relative&lt;sup&gt;(1)&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;(i.e. education pursued after 12th)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-89" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose of loan&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Higher education of himself / Relative&lt;sup&gt;(1)&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;(i.e. education pursued after 12th)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3960" y="560" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-91" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;1. Relative = spouse, children and &lt;u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;any student for whom assessee is the legal gardian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-91" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;1. Relative = spouse, children and &lt;u&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;any student for whom assessee is the legal gardian" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4220" y="550" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-93" target="AutyHtLMTu33dElgbt3u-95">
+        <mxCell id="AutyHtLMTu33dElgbt3u-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-93" target="AutyHtLMTu33dElgbt3u-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-93" value="&lt;div&gt;Loan must be taken from any financial institutions or approved &lt;br&gt;&lt;/div&gt;&lt;div&gt;charitable institution&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-93" value="&lt;div&gt;Loan must be taken from any financial institutions or approved &lt;br&gt;&lt;/div&gt;&lt;div&gt;charitable institution&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3960" y="640" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-95" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction is allowed for&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8 years&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Loan tenure&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is Lower]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Entire interest can be claimed as deduction&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-95" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction is allowed for&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8 years&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Loan tenure&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is Lower]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Entire interest can be claimed as deduction&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3960" y="720" width="240" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-97" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80EE&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-97" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80EE&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4540" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-98" target="AutyHtLMTu33dElgbt3u-100">
+        <mxCell id="AutyHtLMTu33dElgbt3u-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-98" target="AutyHtLMTu33dElgbt3u-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-98" value="Deduction for expenditure towards&lt;div&gt;Interest on loan taken for residential house property&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-98" value="Deduction for expenditure towards&lt;div&gt;Interest on loan taken for residential house property&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4480" y="440" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-99" target="AutyHtLMTu33dElgbt3u-103">
+        <mxCell id="AutyHtLMTu33dElgbt3u-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-99" target="AutyHtLMTu33dElgbt3u-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-99" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose of loan&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Taken for acquisition of residential house property&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-99" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose of loan&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Taken for acquisition of residential house property&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4480" y="570" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-100" target="AutyHtLMTu33dElgbt3u-99">
+        <mxCell id="AutyHtLMTu33dElgbt3u-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-100" target="AutyHtLMTu33dElgbt3u-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-100" value="&lt;div&gt;Applicable only to Individuals&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-100" value="&lt;div&gt;Applicable only to Individuals&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4480" y="510" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-103" target="AutyHtLMTu33dElgbt3u-105">
+        <mxCell id="AutyHtLMTu33dElgbt3u-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-103" target="AutyHtLMTu33dElgbt3u-105" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-103" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Value of house &amp;lt; 50 Lakhs&lt;/div&gt;&lt;div&gt;&lt;u&gt;And&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Loan sanctioned &amp;lt; 35 Lakhs&lt;/div&gt;&lt;div&gt;And&lt;/div&gt;&lt;div&gt;Sanction period - 1/5/15 to 31/3/17&lt;/div&gt;&lt;div&gt;And&lt;/div&gt;&lt;div&gt;First time house buyer&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-103" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Value of house &amp;lt; 50 Lakhs&lt;/div&gt;&lt;div&gt;&lt;u&gt;And&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Loan sanctioned &amp;lt; 35 Lakhs&lt;/div&gt;&lt;div&gt;And&lt;/div&gt;&lt;div&gt;Sanction period - 1/5/15 to 31/3/17&lt;/div&gt;&lt;div&gt;And&lt;/div&gt;&lt;div&gt;First time house buyer&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4480" y="647.82" width="240" height="152.18" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-105" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Period of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Upto to tenure of loan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Amount of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Max Rs.50,000&lt;/div&gt;&lt;div&gt;(this deduction is over and above deduction u/s 24)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Loan must be taken from any financial institutions or Housing finance company&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-105" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Period of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Upto to tenure of loan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Amount of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Max Rs.50,000&lt;/div&gt;&lt;div&gt;(this deduction is over and above deduction u/s 24)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Loan must be taken from any financial institutions or Housing finance company&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4480" y="819.38" width="240" height="150.62" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-107" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80EEA&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-107" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80EEA&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4820" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-109" target="AutyHtLMTu33dElgbt3u-113" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-109" target="AutyHtLMTu33dElgbt3u-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-109" value="Deduction for expenditure towards&lt;div&gt;Interest on loan taken for residential house property&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-109" value="Deduction for expenditure towards&lt;div&gt;Interest on loan taken for residential house property&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4760" y="440" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-111" target="AutyHtLMTu33dElgbt3u-115" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-111" target="AutyHtLMTu33dElgbt3u-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-111" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose of loan&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Taken for acquisition of residential house property&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-111" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose of loan&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Taken for acquisition of residential house property&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4760" y="570" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-113" target="AutyHtLMTu33dElgbt3u-111" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-113" target="AutyHtLMTu33dElgbt3u-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-113" value="&lt;div&gt;Applicable only to Individuals&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-113" value="&lt;div&gt;Applicable only to Individuals&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4760" y="510" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-115" target="AutyHtLMTu33dElgbt3u-116" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-115" target="AutyHtLMTu33dElgbt3u-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-115" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Stamp duty value &amp;lt; 45 Lakhs&lt;/div&gt;&lt;div&gt;&lt;u&gt;And&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Sanction period - 1/4/19 to 31/3/2&lt;span style=&quot;white-space: pre&quot;&gt;1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;And&lt;/div&gt;&lt;div&gt;First time house buyer&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-115" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Stamp duty value &amp;lt; 45 Lakhs&lt;/div&gt;&lt;div&gt;&lt;u&gt;And&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Sanction period - 1/4/19 to 31/3/2&lt;span style=&quot;white-space: pre&quot;&gt;1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;And&lt;/div&gt;&lt;div&gt;First time house buyer&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4760" y="647.82" width="240" height="112.18" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-116" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Period of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Upto to tenure of loan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Amount of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Max Rs.1,50,000&lt;/div&gt;&lt;div&gt;(this deduction is over and above deduction u/s 24)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Loan must be taken from any financial institutions or Housing finance company&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-116" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Period of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Upto to tenure of loan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Amount of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Max Rs.1,50,000&lt;/div&gt;&lt;div&gt;(this deduction is over and above deduction u/s 24)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Loan must be taken from any financial institutions or Housing finance company&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4760" y="779.38" width="240" height="150.62" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-117" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80EEB&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-117" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80EEB&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5100" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-119" target="AutyHtLMTu33dElgbt3u-123" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-119" target="AutyHtLMTu33dElgbt3u-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-119" value="Deduction for expenditure towards&lt;div&gt;Interest on loan taken for Electric vehicles&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-119" value="Deduction for expenditure towards&lt;div&gt;Interest on loan taken for Electric vehicles&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5040" y="440" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-121" target="AutyHtLMTu33dElgbt3u-125" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-121" target="AutyHtLMTu33dElgbt3u-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-121" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose of loan&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Taken for Purchase of electric vehicle&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-121" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose of loan&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Taken for Purchase of electric vehicle&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5040" y="570" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-123" target="AutyHtLMTu33dElgbt3u-121" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-123" target="AutyHtLMTu33dElgbt3u-121" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-123" value="&lt;div&gt;Applicable only to Individuals&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-123" value="&lt;div&gt;Applicable only to Individuals&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5040" y="510" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-125" target="AutyHtLMTu33dElgbt3u-126" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-125" target="AutyHtLMTu33dElgbt3u-126" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-125" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Sanction period - 1/4/19 to 31/3/23&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Loan must be taken from any financial institutions or NBFC&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-125" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Sanction period - 1/4/19 to 31/3/23&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Loan must be taken from any financial institutions or NBFC&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5040" y="647.82" width="240" height="92.18" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-126" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Period of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Upto to tenure of loan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Amount of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Max Rs.1,50,000&lt;/div&gt;&lt;div&gt;(this deduction is over and above deduction u/s 24)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Loan must be taken from any financial institutions or NBFC&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-126" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Period of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Upto to tenure of loan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Amount of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Max Rs.1,50,000&lt;/div&gt;&lt;div&gt;(this deduction is over and above deduction u/s 24)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Loan must be taken from any financial institutions or NBFC&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5040" y="759.38" width="240" height="151.24" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-127" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80TTA&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-127" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80TTA&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5380" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-129" target="AutyHtLMTu33dElgbt3u-133" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-129" target="AutyHtLMTu33dElgbt3u-133" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-129" value="Deduction for&lt;br&gt;&lt;div&gt;Interest income on savings bank account&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-129" value="Deduction for&lt;br&gt;&lt;div&gt;Interest income on savings bank account&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5320" y="440" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-131" target="AutyHtLMTu33dElgbt3u-135" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-131" target="AutyHtLMTu33dElgbt3u-135" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-131" value="When Gross total income includes interest on savings bank account [IFOS]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-131" value="When Gross total income includes interest on savings bank account [IFOS]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5320" y="570" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-133" target="AutyHtLMTu33dElgbt3u-131" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-133" target="AutyHtLMTu33dElgbt3u-131" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-133" value="&lt;div&gt;Applicable only to Individuals / HUF&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Except Resident senior citizen)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-133" value="&lt;div&gt;Applicable only to Individuals / HUF&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Except Resident senior citizen)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5320" y="510" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-135" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Such interest&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Max 10,000 in a year&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-135" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Such interest&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Max 10,000 in a year&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5320" y="647.82" width="240" height="92.18" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-137" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80TTB&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-137" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80TTB&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5660" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-139" target="AutyHtLMTu33dElgbt3u-143" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-139" target="AutyHtLMTu33dElgbt3u-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-139" value="Deduction for&lt;br&gt;&lt;div&gt;Interest income on Deposits&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-139" value="Deduction for&lt;br&gt;&lt;div&gt;Interest income on Deposits&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5600" y="440" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-141" target="AutyHtLMTu33dElgbt3u-144" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-141" target="AutyHtLMTu33dElgbt3u-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-141" value="When Gross total income includes interest on deposits (both fixed and savings bank account)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-141" value="When Gross total income includes interest on deposits (both fixed and savings bank account)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5600" y="570" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-143" target="AutyHtLMTu33dElgbt3u-141" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-143" target="AutyHtLMTu33dElgbt3u-141" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-143" value="&lt;div&gt;Applicable only to Resident senior citizen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-143" value="&lt;div&gt;Applicable only to Resident senior citizen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5600" y="510" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-144" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Such interest&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Max 50,000 in a year&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-144" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Such interest&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Max 50,000 in a year&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5600" y="647.82" width="240" height="92.18" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-145" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80G&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-145" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80G&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5940" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-147" target="AutyHtLMTu33dElgbt3u-151" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-147" target="AutyHtLMTu33dElgbt3u-151" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-147" value="Deduction for&lt;br&gt;&lt;div&gt;Donation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-147" value="Deduction for&lt;br&gt;&lt;div&gt;Donation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5880" y="440" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-149" target="AutyHtLMTu33dElgbt3u-153">
+        <mxCell id="AutyHtLMTu33dElgbt3u-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-149" target="AutyHtLMTu33dElgbt3u-153" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-149" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Donation to notified &lt;span style=&quot;white-space: pre&quot;&gt;funds&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-149" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Donation to notified &lt;span style=&quot;white-space: pre&quot;&gt;funds&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5880" y="570" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-151" target="AutyHtLMTu33dElgbt3u-149" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-151" target="AutyHtLMTu33dElgbt3u-149" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-151" value="&lt;div&gt;Applicable to all assessee&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-151" value="&lt;div&gt;Applicable to all assessee&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5880" y="510" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-153" target="AutyHtLMTu33dElgbt3u-156">
+        <mxCell id="AutyHtLMTu33dElgbt3u-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-153" target="AutyHtLMTu33dElgbt3u-156" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-153" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Donation in kind not allowed&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Cash donation allowed upto Rs.2000 in a year&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-153" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Donation in kind not allowed&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Cash donation allowed upto Rs.2000 in a year&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5880" y="647.82" width="240" height="92.18" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-156" target="AutyHtLMTu33dElgbt3u-157">
+        <mxCell id="AutyHtLMTu33dElgbt3u-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AutyHtLMTu33dElgbt3u-156" target="AutyHtLMTu33dElgbt3u-157" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-156" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Donations are classified into 4 categories&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt; Unlimited 50% (i.e can donate any amount and get 50% deduction)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt; Unlimited 100% (i.e can donate any amount and get 100% deduction)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;-&amp;gt; limited&lt;sup&gt;(1)&lt;/sup&gt; 50% (i.e. can donate limited amount and get 50% deduction on the limited amount)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;-&amp;gt; limited&lt;sup&gt;(1)&lt;/sup&gt; 100% (i.e. can donate limited amount and get 100% deduction on the limited amount)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-156" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Donations are classified into 4 categories&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt; Unlimited 50% (i.e can donate any amount and get 50% deduction)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt; Unlimited 100% (i.e can donate any amount and get 100% deduction)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;-&amp;gt; limited&lt;sup&gt;(1)&lt;/sup&gt; 50% (i.e. can donate limited amount and get 50% deduction on the limited amount)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;-&amp;gt; limited&lt;sup&gt;(1)&lt;/sup&gt; 100% (i.e. can donate limited amount and get 100% deduction on the limited amount)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5860" y="759.38" width="280" height="260.62" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-157" target="AutyHtLMTu33dElgbt3u-159">
+        <mxCell id="AutyHtLMTu33dElgbt3u-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AutyHtLMTu33dElgbt3u-157" target="AutyHtLMTu33dElgbt3u-159" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-157" value="&lt;div&gt;(1) Limited donations are calculated&lt;/div&gt;&lt;div&gt; and allowed as follows&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-157" value="&lt;div&gt;(1) Limited donations are calculated&lt;/div&gt;&lt;div&gt; and allowed as follows&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5900" y="1040" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-159" value="Step 1 : Calculated Adjusted Gross total income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-159" value="Step 1 : Calculated Adjusted Gross total income" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5880" y="1100" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-161" target="AutyHtLMTu33dElgbt3u-175">
+        <mxCell id="AutyHtLMTu33dElgbt3u-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-161" target="AutyHtLMTu33dElgbt3u-175" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-161" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-161" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="5880" y="1140" width="240" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-162" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AutyHtLMTu33dElgbt3u-161">
+        <mxCell id="AutyHtLMTu33dElgbt3u-162" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AutyHtLMTu33dElgbt3u-161" vertex="1">
           <mxGeometry width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-163" value="Gross total Income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-162">
+        <mxCell id="AutyHtLMTu33dElgbt3u-163" value="Gross total Income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-162" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-164" value="X" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-162">
+        <mxCell id="AutyHtLMTu33dElgbt3u-164" value="X" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-162" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-165" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AutyHtLMTu33dElgbt3u-161">
+        <mxCell id="AutyHtLMTu33dElgbt3u-165" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AutyHtLMTu33dElgbt3u-161" vertex="1">
           <mxGeometry y="40" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-166" value="(-) All deductions Except 80G" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-165">
+        <mxCell id="AutyHtLMTu33dElgbt3u-166" value="(-) All deductions Except 80G" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-165" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-167" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-165">
+        <mxCell id="AutyHtLMTu33dElgbt3u-167" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-165" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-168" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AutyHtLMTu33dElgbt3u-161">
+        <mxCell id="AutyHtLMTu33dElgbt3u-168" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AutyHtLMTu33dElgbt3u-161" vertex="1">
           <mxGeometry y="80" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-169" value="(-) STCG u/s 111A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-168">
+        <mxCell id="AutyHtLMTu33dElgbt3u-169" value="(-) STCG u/s 111A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-168" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-170" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-168">
+        <mxCell id="AutyHtLMTu33dElgbt3u-170" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-168" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-171" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AutyHtLMTu33dElgbt3u-161">
+        <mxCell id="AutyHtLMTu33dElgbt3u-171" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AutyHtLMTu33dElgbt3u-161" vertex="1">
           <mxGeometry y="120" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-172" value="(-) LTCG u/s 112/112A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-171">
+        <mxCell id="AutyHtLMTu33dElgbt3u-172" value="(-) LTCG u/s 112/112A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-171" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-173" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-171">
+        <mxCell id="AutyHtLMTu33dElgbt3u-173" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-171" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-178" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AutyHtLMTu33dElgbt3u-161">
+        <mxCell id="AutyHtLMTu33dElgbt3u-178" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AutyHtLMTu33dElgbt3u-161" vertex="1">
           <mxGeometry y="160" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-179" value="Adjusted Gross Total Income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-178">
+        <mxCell id="AutyHtLMTu33dElgbt3u-179" value="Adjusted Gross Total Income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-178" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-180" value="XXXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="AutyHtLMTu33dElgbt3u-178">
+        <mxCell id="AutyHtLMTu33dElgbt3u-180" value="XXXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="AutyHtLMTu33dElgbt3u-178" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-175" value="Step 2 : Calculate permissible donation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-175" value="Step 2 : Calculate permissible donation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5880" y="1359.38" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-177" target="AutyHtLMTu33dElgbt3u-181">
+        <mxCell id="AutyHtLMTu33dElgbt3u-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AutyHtLMTu33dElgbt3u-177" target="AutyHtLMTu33dElgbt3u-181" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-177" value="&lt;div&gt;Actual limited Donation&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;10% of adjusted Gross total income&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-177" value="&lt;div&gt;Actual limited Donation&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;10% of adjusted Gross total income&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5880" y="1399.38" width="240" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-181" target="AutyHtLMTu33dElgbt3u-183">
+        <mxCell id="AutyHtLMTu33dElgbt3u-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-181" target="AutyHtLMTu33dElgbt3u-183" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-181" target="AutyHtLMTu33dElgbt3u-184">
+        <mxCell id="AutyHtLMTu33dElgbt3u-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-181" target="AutyHtLMTu33dElgbt3u-184" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-181" value="Step 3 : Permissible donation allowed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-181" value="Step 3 : Permissible donation allowed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5880" y="1499.38" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-183" value="&lt;div&gt;First against &lt;br&gt;&lt;/div&gt;&lt;div&gt;Limited 100%&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-183" value="&lt;div&gt;First against &lt;br&gt;&lt;/div&gt;&lt;div&gt;Limited 100%&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5840" y="1579.38" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-184" value="&lt;div&gt;Balance against &lt;br&gt;&lt;/div&gt;&lt;div&gt;limited 50%&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-184" value="&lt;div&gt;Balance against &lt;br&gt;&lt;/div&gt;&lt;div&gt;limited 50%&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6040" y="1579.38" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-190" value="List of funds Notified" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-190" value="List of funds Notified" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="5880" y="970.62" width="240" height="40" as="geometry">
             <mxRectangle x="5880" y="970.62" width="350" height="760" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-201" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/CpkwAuc.jpg;" vertex="1" parent="AutyHtLMTu33dElgbt3u-190">
+        <mxCell id="AutyHtLMTu33dElgbt3u-201" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/CpkwAuc.jpg;" parent="AutyHtLMTu33dElgbt3u-190" vertex="1">
           <mxGeometry y="40" width="354" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-204" value="" style="group" vertex="1" connectable="0" parent="AutyHtLMTu33dElgbt3u-190">
+        <mxCell id="AutyHtLMTu33dElgbt3u-204" value="" style="group" parent="AutyHtLMTu33dElgbt3u-190" vertex="1" connectable="0">
           <mxGeometry y="560" width="350" height="192.74" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-202" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/2N37DCl.png;" vertex="1" parent="AutyHtLMTu33dElgbt3u-204">
+        <mxCell id="AutyHtLMTu33dElgbt3u-202" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/2N37DCl.png;" parent="AutyHtLMTu33dElgbt3u-204" vertex="1">
           <mxGeometry width="350" height="136.64" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-203" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/o0QSBhU.png;" vertex="1" parent="AutyHtLMTu33dElgbt3u-204">
+        <mxCell id="AutyHtLMTu33dElgbt3u-203" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/o0QSBhU.png;" parent="AutyHtLMTu33dElgbt3u-204" vertex="1">
           <mxGeometry x="13.66" y="136.64" width="336.34" height="62.74" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-193" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80GGA&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-193" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80GGA&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6220" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-195" target="AutyHtLMTu33dElgbt3u-199" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-195" target="AutyHtLMTu33dElgbt3u-199" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-195" value="Deduction for&lt;br&gt;&lt;div&gt;Donations given for scientific research and rural development&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-195" value="Deduction for&lt;br&gt;&lt;div&gt;Donations given for scientific research and rural development&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6160" y="440" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-197" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Donation For - &lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Scientific research&lt;/div&gt;&lt;div&gt;2. Rural development&lt;/div&gt;&lt;div&gt;3. Nation urban poverty eradication fund&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6160" y="570" width="240" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AutyHtLMTu33dElgbt3u-199" target="AutyHtLMTu33dElgbt3u-197" parent="1">
+        <mxCell id="82HnBPru8leusdAKjhey-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-197" target="AutyHtLMTu33dElgbt3u-200">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-199" value="&lt;div&gt;Applicable to all assessee&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Except person having PGBP income)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-197" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Donation For - &lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Scientific research&lt;/div&gt;&lt;div&gt;2. Rural development&lt;/div&gt;&lt;div&gt;3. Nation urban poverty eradication fund&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="6160" y="570" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-199" target="AutyHtLMTu33dElgbt3u-197" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-199" value="&lt;div&gt;Applicable to all assessee&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Except person having PGBP income)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6160" y="510" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-200" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Donation in kind not allowed&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Cash donation allowed upto Rs.2000 in a year&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6160" y="647.82" width="240" height="92.18" as="geometry" />
+        <mxCell id="82HnBPru8leusdAKjhey-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-200" target="82HnBPru8leusdAKjhey-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AutyHtLMTu33dElgbt3u-200" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Cash donation allowed upto Rs.2000 in a year&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="6160" y="700" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-2" value="&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt; = 100% of donation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6160" y="790" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80GGB&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6440" y="400" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="82HnBPru8leusdAKjhey-6" target="82HnBPru8leusdAKjhey-10" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-6" value="Deduction for&lt;br&gt;&lt;div&gt;Donations to political party&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6440" y="440" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="82HnBPru8leusdAKjhey-8" target="82HnBPru8leusdAKjhey-12" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-8" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Payments covered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Donation / contribution / Payments to political party or electoral trust&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6440" y="570" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="82HnBPru8leusdAKjhey-10" target="82HnBPru8leusdAKjhey-8" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-10" value="&lt;div&gt;Applicable to Indian companies &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6440" y="510" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="82HnBPru8leusdAKjhey-12" target="82HnBPru8leusdAKjhey-13" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-12" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Cash donation strictly disallowed&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6440" y="650" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-13" value="&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt; = 100% of donation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6440" y="730" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80GGC&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6720" y="400" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="82HnBPru8leusdAKjhey-16" target="82HnBPru8leusdAKjhey-20" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-16" value="Deduction for&lt;br&gt;&lt;div&gt;Donations to political party&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6720" y="440" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="82HnBPru8leusdAKjhey-20" target="82HnBPru8leusdAKjhey-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-20" value="&lt;div&gt;Applicable to companies other than Indian company&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6720" y="510" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="82HnBPru8leusdAKjhey-25" target="82HnBPru8leusdAKjhey-27" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-25" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Payments covered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Donation / contribution / Payments to political party or electoral trust&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6720" y="570" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="82HnBPru8leusdAKjhey-27" target="82HnBPru8leusdAKjhey-28" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-27" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Cash donation strictly disallowed&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6720" y="650" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-28" value="&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt; = 100% of donation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6720" y="730" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
