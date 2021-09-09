@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T11:51:38.624Z" agent="5.0 (X11)" etag="0jEV-EEtaE3a5EPGlirX" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T12:30:55.433Z" agent="5.0 (X11)" etag="fn_fVpQH6voSs5Keft3K" version="15.1.2" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="2324" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3983" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,8 +280,8 @@
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-5" value="Applicable only to Individuals and HUF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2100" y="500" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SCkrLlL9JAq3i_Rq79N_-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Payments covered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. contribution to (For &lt;u&gt;individuals only&lt;/u&gt;) -&lt;/div&gt;&lt;div&gt;a. Central government &lt;span&gt;health scheme (CGHS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;b. Contributory Health service scheme (CHSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Payment for medical expenditure (&lt;u&gt;&lt;b&gt;only for Resident Senior citizens&lt;/b&gt;&lt;/u&gt;)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="560" width="360" height="200" as="geometry" />
+        <mxCell id="SCkrLlL9JAq3i_Rq79N_-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Payments covered&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. contribution to (For &lt;u&gt;individuals only&lt;/u&gt;) -&lt;/div&gt;&lt;div&gt;a. Central government &lt;span&gt;health scheme (CGHS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;b. Contributory Health service scheme (CHSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Payment for medical expenditure (&lt;u&gt;&lt;b&gt;only for Resident Senior citizens&lt;/b&gt;&lt;/u&gt;)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="560" width="360" height="130" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-9" target="SCkrLlL9JAq3i_Rq79N_-11">
           <mxGeometry relative="1" as="geometry" />
@@ -290,7 +290,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-9" value="Max limit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2850" y="1370" width="120" height="40" as="geometry" />
+          <mxGeometry x="2640" y="910" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-11" target="SCkrLlL9JAq3i_Rq79N_-14">
           <mxGeometry relative="1" as="geometry" />
@@ -299,80 +299,86 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-11" value="For Individual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2710" y="1445" width="120" height="40" as="geometry" />
+          <mxGeometry x="2500" y="985" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-12" target="SCkrLlL9JAq3i_Rq79N_-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-12" value="For HUF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2980" y="1445" width="120" height="40" as="geometry" />
+          <mxGeometry x="2770" y="985" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-13" target="SCkrLlL9JAq3i_Rq79N_-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-13" value="&lt;div&gt;For parents&lt;/div&gt;(dependent / independent)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2780" y="1525" width="160" height="40" as="geometry" />
+          <mxGeometry x="2570" y="1065" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-14" target="SCkrLlL9JAq3i_Rq79N_-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-14" value="For self and spouse and dependent children" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2600" y="1525" width="160" height="40" as="geometry" />
+          <mxGeometry x="2390" y="1065" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-16" target="SCkrLlL9JAq3i_Rq79N_-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2680" y="1685" />
-              <mxPoint x="2860" y="1685" />
+              <mxPoint x="2470" y="1225" />
+              <mxPoint x="2650" y="1225" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-16" value="Max limit = Rs.25,000" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2600" y="1585" width="160" height="40" as="geometry" />
+          <mxGeometry x="2390" y="1125" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-17" target="SCkrLlL9JAq3i_Rq79N_-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-17" value="Max limit = Rs.25,000" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2780" y="1585" width="160" height="40" as="geometry" />
+          <mxGeometry x="2570" y="1125" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-22" target="SCkrLlL9JAq3i_Rq79N_-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-22" value="&lt;div&gt;For Members&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2980" y="1505" width="120" height="40" as="geometry" />
+          <mxGeometry x="2770" y="1045" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-24" target="SCkrLlL9JAq3i_Rq79N_-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3060" y="1595" />
-              <mxPoint x="3060" y="1595" />
+              <mxPoint x="2850" y="1135" />
+              <mxPoint x="2850" y="1135" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-24" value="Max limit = Rs.25,000" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2960" y="1565" width="160" height="40" as="geometry" />
+          <mxGeometry x="2750" y="1105" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-26" target="SCkrLlL9JAq3i_Rq79N_-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-26" value="This deduction is for all members and not per member" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2980" y="1605" width="120" height="50" as="geometry" />
+          <mxGeometry x="2770" y="1145" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-29" value="&lt;div&gt;1. if any person for whom mediclaim is taken for is a &lt;u&gt;&lt;b&gt;resident senior citizen then the max limit will be Rs50,000. &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(even if one person is senior citizen it will be available, But it is &lt;br&gt;&lt;/div&gt;&lt;div&gt;total limit and not per person)&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2680" y="1705" width="360" height="70" as="geometry" />
+          <mxGeometry x="2470" y="1245" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SCkrLlL9JAq3i_Rq79N_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-35" target="SCkrLlL9JAq3i_Rq79N_-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-35" value="1. Mediclaim Paid to any health insurance company" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="800" width="360" height="40" as="geometry" />
+          <mxGeometry x="2040" y="710" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-37" target="SCkrLlL9JAq3i_Rq79N_-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-37" value="3. Payment for Preventive health check up (For individuals only)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="861.25" width="360" height="40" as="geometry" />
+          <mxGeometry x="2040" y="771.25" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SCkrLlL9JAq3i_Rq79N_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCkrLlL9JAq3i_Rq79N_-38" target="SCkrLlL9JAq3i_Rq79N_-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCkrLlL9JAq3i_Rq79N_-38" value="&lt;div&gt;Max limit = Rs.5,000&lt;/div&gt;&lt;div&gt;For self, spouse, dependent children,&lt;/div&gt;&lt;div&gt; and parents conbined&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2420" y="850" width="140" height="62.5" as="geometry" />
+          <mxGeometry x="2420" y="751.25" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
