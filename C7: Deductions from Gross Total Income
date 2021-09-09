@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T00:11:01.809Z" agent="5.0 (X11)" etag="AeTriC6qqSqFRhpixSXk" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T00:40:26.007Z" agent="5.0 (X11)" etag="09VXbaeEvY3L11AV0A3v" version="15.1.2" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="3348" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -884,8 +884,14 @@
         <mxCell id="AutyHtLMTu33dElgbt3u-181" value="Step 3 : Permissible donation allowed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5880" y="1499.38" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-183" target="82HnBPru8leusdAKjhey-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-183" value="&lt;div&gt;First against &lt;br&gt;&lt;/div&gt;&lt;div&gt;Limited 100%&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5840" y="1579.38" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AutyHtLMTu33dElgbt3u-184" target="82HnBPru8leusdAKjhey-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-184" value="&lt;div&gt;Balance against &lt;br&gt;&lt;/div&gt;&lt;div&gt;limited 50%&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6040" y="1579.38" width="120" height="40" as="geometry" />
@@ -996,6 +1002,9 @@
         </mxCell>
         <mxCell id="82HnBPru8leusdAKjhey-28" value="&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt; = 100% of donation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6720" y="730" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82HnBPru8leusdAKjhey-31" value="&lt;div&gt;Max deduction = 10% of adjusted Gross total income&lt;/div&gt;&lt;div&gt;(This limit is for both L100% and L 50% combined)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5900" y="1660" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
