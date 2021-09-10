@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-11T00:47:27.662Z" agent="5.0 (X11)" etag="1DE-lUk594m-hmuhUPuY" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-11T01:07:10.145Z" agent="5.0 (X11)" etag="daSEYl5060gufe6ZABzg" version="15.1.4" type="github">
   <diagram id="KYRdxF1A-HffZrgdmH46" name="Page-1">
     <mxGraphModel dx="717" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -210,6 +210,42 @@
         </mxCell>
         <mxCell id="EIIpbHrbZQDw4QZIK9iv-70" value="&lt;div&gt;Then the assessee must file return of income within due date, other wise loss&lt;sup&gt;(1)&lt;/sup&gt; will not be allowed to carry forward&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1) a.Loss from house property and unabsorbed loss can be still carried forward even if filed after due date.&lt;/div&gt;&lt;div&gt;b. Brought forward loss will still be available&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="1960" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EIIpbHrbZQDw4QZIK9iv-73" target="EIIpbHrbZQDw4QZIK9iv-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-73" value="&lt;div&gt;S139(4)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Belated Return&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EIIpbHrbZQDw4QZIK9iv-74" target="EIIpbHrbZQDw4QZIK9iv-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-74" value="&lt;div&gt;If return of income is not filed within due date.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2180" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-75" value="&lt;div&gt;It can be filed -&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Before end of assessment year&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;completion of assessment &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2240" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="EIIpbHrbZQDw4QZIK9iv-79" target="EIIpbHrbZQDw4QZIK9iv-81" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-79" value="&lt;div&gt;S139(5)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Revised Return&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2380" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="EIIpbHrbZQDw4QZIK9iv-81" target="EIIpbHrbZQDw4QZIK9iv-82" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-81" value="&lt;div&gt;if after filing return&lt;sup&gt;(1)&lt;/sup&gt; of income, assessee discovers &lt;span style=&quot;white-space: pre&quot;&gt;omission / wrong statement. &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;he can file a revised return&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2440" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EIIpbHrbZQDw4QZIK9iv-82" target="EIIpbHrbZQDw4QZIK9iv-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-82" value="&lt;div&gt;rectification window -&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Before end of assessment year&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;completion of assessment &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2520" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-83" value="&lt;div&gt;Note:&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1) Following returns can be revised - &lt;br&gt;&lt;/div&gt;&lt;div&gt;a. return filed with in due date [S139(1)]&lt;/div&gt;&lt;div&gt;b. Return of loss [139(3)]&lt;/div&gt;&lt;div&gt;c. belated return [139(4)]&lt;/div&gt;&lt;div&gt;d. revised return can also be revised n number of time with in rectification window&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2640" width="240" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
