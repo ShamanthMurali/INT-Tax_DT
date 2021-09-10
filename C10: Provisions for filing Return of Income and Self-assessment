@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T23:51:11.552Z" agent="5.0 (X11)" etag="YFIxzktbv9Rw5iXVNXkE" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T23:51:52.151Z" agent="5.0 (X11)" etag="zogBvN_frcBGJE2uG7Vc" version="15.1.4" type="github">
   <diagram id="KYRdxF1A-HffZrgdmH46" name="Page-1">
     <mxGraphModel dx="1045" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,13 +80,16 @@
           <mxGeometry width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EIIpbHrbZQDw4QZIK9iv-24" value="&lt;div&gt;(1) Beneficiary owner means -&lt;/div&gt;&lt;div&gt;Any individual directly or indirectly invested in any asset outside India for immediate or future benefit &lt;span style=&quot;white-space: pre&quot;&gt;of himself or any other person&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;(2) beneficiary means - &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;Individual derives benefit for asset outside India, for which &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;payment was done by someone else&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3) Assets in this section include financial interest in any entity(i.e. shares)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="275" width="360" height="170" as="geometry" />
+          <mxGeometry x="1020" y="275" width="360" height="170" as="geometry" />
         </mxCell>
         <mxCell id="EIIpbHrbZQDw4QZIK9iv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EIIpbHrbZQDw4QZIK9iv-18" target="EIIpbHrbZQDw4QZIK9iv-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EIIpbHrbZQDw4QZIK9iv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EIIpbHrbZQDw4QZIK9iv-14" target="EIIpbHrbZQDw4QZIK9iv-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-31" value="Due Dates" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
