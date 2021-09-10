@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T18:44:35.736Z" agent="5.0 (X11)" etag="IxZ_3yUDY2m2OrLpU2QV" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T22:03:09.998Z" agent="5.0 (X11)" etag="cJ2NtwdQdAumWTBfxB7_" version="15.1.4" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="1709" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2102" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1207,7 +1207,7 @@
         <mxCell id="U3PryvBAjiBfe93T8prx-15" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;it should be a new business i.e biz should not be formed out of restructuring or taking over&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8340" y="589.38" width="240" height="70.62" as="geometry" />
         </mxCell>
-        <mxCell id="pu05-ele82kUhyNXNyaG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U3PryvBAjiBfe93T8prx-16" target="pu05-ele82kUhyNXNyaG-7">
+        <mxCell id="LvCwuH56f6oIz8fvLHVa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U3PryvBAjiBfe93T8prx-16" target="LvCwuH56f6oIz8fvLHVa-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-16" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;30% of additional employee cost**&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1234,13 +1234,13 @@
         <mxCell id="zKiaUQH5ESMvx983NgXJ-5" value="&lt;div&gt;For royalty based as &lt;br&gt;&lt;/div&gt;&lt;div&gt;a percentage of sale&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7520" y="759.38" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pu05-ele82kUhyNXNyaG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zKiaUQH5ESMvx983NgXJ-6" target="pu05-ele82kUhyNXNyaG-3">
+        <mxCell id="pu05-ele82kUhyNXNyaG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zKiaUQH5ESMvx983NgXJ-6" target="pu05-ele82kUhyNXNyaG-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zKiaUQH5ESMvx983NgXJ-6" value="&lt;div&gt;For &lt;br&gt;&lt;/div&gt;&lt;div&gt;Lump-sum royalty&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7820" y="759.38" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pu05-ele82kUhyNXNyaG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zKiaUQH5ESMvx983NgXJ-9" target="zKiaUQH5ESMvx983NgXJ-13">
+        <mxCell id="pu05-ele82kUhyNXNyaG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zKiaUQH5ESMvx983NgXJ-9" target="zKiaUQH5ESMvx983NgXJ-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zKiaUQH5ESMvx983NgXJ-9" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Qualifying amt&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Royalty at actual rate &lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;br&gt;&lt;/div&gt;&lt;div&gt;Max 15%&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1249,11 +1249,17 @@
         <mxCell id="zKiaUQH5ESMvx983NgXJ-13" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Qualifying amt&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Max 3,00,000&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;amount received in Convertible Foreign Exchange upto 30/09/AY&lt;br&gt;(only for royalty from abroad)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7440" y="955" width="280" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="pu05-ele82kUhyNXNyaG-3" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Lump-sum amt&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Max 3,00,000&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;amount received in Convertible Foreign Exchange upto 30/09/AY&lt;br&gt;(only for royalty from abroad)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pu05-ele82kUhyNXNyaG-3" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Lump-sum amt&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Max 3,00,000&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;amount received in Convertible Foreign Exchange upto 30/09/AY&lt;br&gt;(only for royalty from abroad)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7740" y="822.5" width="280" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="pu05-ele82kUhyNXNyaG-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;additional employee cost&lt;/b&gt;&lt;/u&gt;**&lt;/div&gt;&lt;div&gt;Means Salary&lt;sup&gt;(1)&lt;/sup&gt; paid to additional employee&lt;sup&gt;(2)(3)&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;notes&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1) here &lt;u&gt;&lt;b&gt;salary means&lt;/b&gt;&lt;/u&gt;,&lt;/div&gt;&lt;div&gt;all the components of salary except,&lt;/div&gt;&lt;div&gt;a. retirement benefits&lt;/div&gt;&lt;div&gt;b. Employers contribution to various funds&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(2) &lt;u&gt;&lt;b&gt;Additional employee means&lt;/b&gt;&lt;/u&gt; -&lt;/div&gt;&lt;div&gt;1. New employee hired during the year&lt;/div&gt;&lt;div&gt;&lt;u&gt;and&lt;/u&gt;&lt;/div&gt;&lt;div&gt;2. Number of employees has increased at the last date of the year of such hiring&lt;/div&gt;&lt;div&gt;(i.e. Cl.emp &amp;gt; Op.emp)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3) &lt;u&gt;&lt;b&gt;Exceptions to additional employee&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Employee salary &amp;gt; 25,000 P.m not allowed&lt;/div&gt;&lt;div&gt;2. Employee worked for &amp;lt; 240* days During the year&lt;/div&gt;&lt;div&gt;(*150 days in case of apparel / Footwear / leather biz)&lt;/div&gt;&lt;div&gt;3. Employee not participating in RPF(i.e. casual/temporary emp)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8340" y="762.5" width="240" height="407.5" as="geometry" />
+        <mxCell id="pu05-ele82kUhyNXNyaG-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;additional employee cost&lt;/b&gt;&lt;/u&gt;**&lt;/div&gt;&lt;div&gt;Means Salary&lt;sup&gt;(1)&lt;/sup&gt; paid to additional employee&lt;sup&gt;(2)(3)&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;notes&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1) here &lt;u&gt;&lt;b&gt;salary means&lt;/b&gt;&lt;/u&gt;,&lt;/div&gt;&lt;div&gt;all the components of salary except,&lt;/div&gt;&lt;div&gt;a. retirement benefits&lt;/div&gt;&lt;div&gt;b. Employers contribution to various funds&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(2) &lt;u&gt;&lt;b&gt;Additional employee means&lt;/b&gt;&lt;/u&gt; -&lt;/div&gt;&lt;div&gt;1. New employee hired during the year&lt;/div&gt;&lt;div&gt;&lt;u&gt;and&lt;/u&gt;&lt;/div&gt;&lt;div&gt;2. Number of employees has increased at the last date of the year of such hiring&lt;/div&gt;&lt;div&gt;(i.e. Cl.emp &amp;gt; Op.emp)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3) &lt;u&gt;&lt;b&gt;Exceptions to additional employee&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Employee salary &amp;gt; 25,000 P.m not allowed&lt;/div&gt;&lt;div&gt;2. Employee worked for &amp;lt; 240* days During the year&lt;/div&gt;&lt;div&gt;(*150 days in case of apparel / Footwear / leather biz)&lt;/div&gt;&lt;div&gt;3. Employee not participating in RPF(i.e. casual/temporary emp)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8340" y="930" width="240" height="407.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LvCwuH56f6oIz8fvLHVa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvCwuH56f6oIz8fvLHVa-1" target="pu05-ele82kUhyNXNyaG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvCwuH56f6oIz8fvLHVa-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Duration&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3 years&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Note&lt;/b&gt;&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;1. in the 1st year, salaries can be paid in cash.&lt;/div&gt;&lt;div&gt;2. however from the second year salaries paid through cheque / draft / ECS will be considered&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8340" y="759.38" width="240" height="150.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
