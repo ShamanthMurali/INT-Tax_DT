@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T17:13:22.669Z" agent="5.0 (X11)" etag="cm53xpZ0YLPWH39qKEeO" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T17:35:35.411Z" agent="5.0 (X11)" etag="1xosMnu0BURt3vaXps5Z" version="15.1.4" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="21617" dy="9033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1148,64 +1148,109 @@
           <mxGeometry x="6640" y="940" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="82HnBPru8leusdAKjhey-111" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80QQB&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="7620" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="7880" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="82HnBPru8leusdAKjhey-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="82HnBPru8leusdAKjhey-113" target="82HnBPru8leusdAKjhey-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="82HnBPru8leusdAKjhey-113" value="Deduction for&lt;br&gt;&lt;div&gt;Royalty income&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="7560" y="440" width="240" height="50" as="geometry" />
+          <mxGeometry x="7820" y="440" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zKiaUQH5ESMvx983NgXJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="82HnBPru8leusdAKjhey-114" target="zKiaUQH5ESMvx983NgXJ-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="82HnBPru8leusdAKjhey-114" value="&lt;div&gt;Applicable only to Resident citizen&lt;/div&gt;&lt;div&gt;(Author)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="7560" y="510" width="240" height="40" as="geometry" />
+          <mxGeometry x="7820" y="510" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80RRB&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7920" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="U3PryvBAjiBfe93T8prx-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80RRB&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8490" y="388.91" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="U3PryvBAjiBfe93T8prx-3" target="U3PryvBAjiBfe93T8prx-4" parent="1">
+        <mxCell id="U3PryvBAjiBfe93T8prx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U3PryvBAjiBfe93T8prx-3" target="U3PryvBAjiBfe93T8prx-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-3" value="Deduction for&lt;br&gt;&lt;div&gt;Royalty income from patents&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7860" y="440" width="240" height="50" as="geometry" />
+        <mxCell id="U3PryvBAjiBfe93T8prx-3" value="Deduction for&lt;br&gt;&lt;div&gt;Royalty income from patents&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8430" y="428.91" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U3PryvBAjiBfe93T8prx-4" target="U3PryvBAjiBfe93T8prx-5">
+        <mxCell id="U3PryvBAjiBfe93T8prx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U3PryvBAjiBfe93T8prx-4" target="U3PryvBAjiBfe93T8prx-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-4" value="&lt;div&gt;Applicable only to Resident individual &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7860" y="510" width="240" height="40" as="geometry" />
+        <mxCell id="U3PryvBAjiBfe93T8prx-4" value="&lt;div&gt;Applicable only to Resident individual &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8430" y="498.91" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3PryvBAjiBfe93T8prx-5" target="U3PryvBAjiBfe93T8prx-7">
+        <mxCell id="U3PryvBAjiBfe93T8prx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U3PryvBAjiBfe93T8prx-5" target="U3PryvBAjiBfe93T8prx-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-5" value="deduction allowed only When Gross total income includes Royalty income from patents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7860" y="570" width="240" height="60" as="geometry" />
+        <mxCell id="U3PryvBAjiBfe93T8prx-5" value="deduction allowed only When Gross total income includes Royalty income from patents" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8430" y="558.91" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Royalty amount&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;max limit Rs.3,00,000&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;amount received in CFE upto 30/09/AY&lt;/div&gt;&lt;div&gt;(only royalty from abroad)&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7860" y="647.82" width="240" height="152.18" as="geometry" />
+        <mxCell id="U3PryvBAjiBfe93T8prx-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Royalty amount&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;max limit Rs.3,00,000&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;amount received in Convertible Foreign Exchange upto 30/09/AY&lt;/div&gt;&lt;div&gt;(only for royalty from abroad)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8430" y="636.73" width="240" height="173.27" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80JJAA&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8200" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="U3PryvBAjiBfe93T8prx-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80JJAA&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8770" y="388.91" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="U3PryvBAjiBfe93T8prx-11" target="U3PryvBAjiBfe93T8prx-13" parent="1">
+        <mxCell id="U3PryvBAjiBfe93T8prx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U3PryvBAjiBfe93T8prx-11" target="U3PryvBAjiBfe93T8prx-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-11" value="Deduction for&lt;br&gt;&lt;div&gt;employment generation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8140" y="440" width="240" height="50" as="geometry" />
+        <mxCell id="U3PryvBAjiBfe93T8prx-11" value="Deduction for&lt;br&gt;&lt;div&gt;employment generation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8710" y="428.91" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="U3PryvBAjiBfe93T8prx-13" target="U3PryvBAjiBfe93T8prx-15" parent="1">
+        <mxCell id="U3PryvBAjiBfe93T8prx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U3PryvBAjiBfe93T8prx-13" target="U3PryvBAjiBfe93T8prx-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-13" value="&lt;div&gt;Applicable to All assessee doing business and covered under tax audit&lt;br&gt;&lt;/div&gt;&lt;div&gt;(except profession)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8140" y="510" width="240" height="60" as="geometry" />
+        <mxCell id="U3PryvBAjiBfe93T8prx-13" value="&lt;div&gt;Applicable to All assessee doing business and covered under tax audit&lt;br&gt;&lt;/div&gt;&lt;div&gt;(except profession)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8710" y="498.91" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="U3PryvBAjiBfe93T8prx-15" target="U3PryvBAjiBfe93T8prx-16" parent="1">
+        <mxCell id="U3PryvBAjiBfe93T8prx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U3PryvBAjiBfe93T8prx-15" target="U3PryvBAjiBfe93T8prx-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-15" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;it should be a new business i.e biz should not be formed out of restructuring or taking over&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8140" y="589.38" width="240" height="70.62" as="geometry" />
+        <mxCell id="U3PryvBAjiBfe93T8prx-15" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;it should be a new business i.e biz should not be formed out of restructuring or taking over&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8710" y="578.29" width="240" height="70.62" as="geometry" />
         </mxCell>
-        <mxCell id="U3PryvBAjiBfe93T8prx-16" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Royalty amount&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;max limit Rs.3,00,000&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;amount received in CFE upto 30/09/AY&lt;/div&gt;&lt;div&gt;(only royalty from abroad)&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8140" y="680" width="240" height="152.18" as="geometry" />
+        <mxCell id="U3PryvBAjiBfe93T8prx-16" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Royalty amount&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;max limit Rs.3,00,000&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;amount received in Convertible Foreign Exchange upto 30/09/AY&lt;/div&gt;&lt;div&gt;(only for royalty from abroad)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8710" y="668.91" width="240" height="171.09" as="geometry" />
+        </mxCell>
+        <mxCell id="zKiaUQH5ESMvx983NgXJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zKiaUQH5ESMvx983NgXJ-1" target="zKiaUQH5ESMvx983NgXJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKiaUQH5ESMvx983NgXJ-1" value="&lt;u&gt;&lt;b&gt;Condition&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;deduction allowed only When Gross total income includes Royalty income&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7820" y="570" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zKiaUQH5ESMvx983NgXJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zKiaUQH5ESMvx983NgXJ-3" target="zKiaUQH5ESMvx983NgXJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKiaUQH5ESMvx983NgXJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zKiaUQH5ESMvx983NgXJ-3" target="zKiaUQH5ESMvx983NgXJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKiaUQH5ESMvx983NgXJ-3" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Books must be literacy, artistic, or scientific in nature&lt;/div&gt;&lt;div&gt;(It should not be text books, guides, journals etc.)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7820" y="640" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKiaUQH5ESMvx983NgXJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zKiaUQH5ESMvx983NgXJ-5" target="zKiaUQH5ESMvx983NgXJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKiaUQH5ESMvx983NgXJ-5" value="&lt;div&gt;For royalty based as &lt;br&gt;&lt;/div&gt;&lt;div&gt;a percentage of sale&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7800" y="759.38" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zKiaUQH5ESMvx983NgXJ-6" value="&lt;div&gt;For &lt;br&gt;&lt;/div&gt;&lt;div&gt;Lump-sum royalty&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8080" y="759.38" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zKiaUQH5ESMvx983NgXJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zKiaUQH5ESMvx983NgXJ-9" target="zKiaUQH5ESMvx983NgXJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKiaUQH5ESMvx983NgXJ-9" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Qualifying amt&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Royalty at actual rate &lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;br&gt;&lt;/div&gt;&lt;div&gt;Max 15%&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7760" y="825.62" width="200" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="zKiaUQH5ESMvx983NgXJ-11" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Qualifying amt&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Royalty at actual rate &lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;br&gt;&lt;/div&gt;&lt;div&gt;Max 15%&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8070" y="825" width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="zKiaUQH5ESMvx983NgXJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zKiaUQH5ESMvx983NgXJ-12" target="zKiaUQH5ESMvx983NgXJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKiaUQH5ESMvx983NgXJ-12" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Qualifying amt&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Royalty at actual rate &lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;br&gt;&lt;/div&gt;&lt;div&gt;Max 15%&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7760" y="950" width="200" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="zKiaUQH5ESMvx983NgXJ-13" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Qualifying amt&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Max 3,00,000&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;amount received in Convertible Foreign Exchange upto 30/09/AY&lt;br&gt;(only for royalty from abroad)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7720" y="1075" width="280" height="185" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
