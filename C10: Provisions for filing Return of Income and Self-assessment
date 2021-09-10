@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T22:30:41.348Z" agent="5.0 (X11)" etag="cCv-RKJsRA2mr63sdxjc" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T23:47:42.013Z" agent="5.0 (X11)" etag="tqwqCUu6oXJ8VJAgmNu0" version="15.1.4" type="github">
   <diagram id="KYRdxF1A-HffZrgdmH46" name="Page-1">
-    <mxGraphModel dx="597" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1254" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,6 +39,45 @@
         </mxCell>
         <mxCell id="EIIpbHrbZQDw4QZIK9iv-11" value="&lt;div&gt;(1) Total income means - Income before claiming deductions under chapter 6A and capital gains exemption &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="300" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-13" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EIIpbHrbZQDw4QZIK9iv-13">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-15" value="Amendment" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="EIIpbHrbZQDw4QZIK9iv-14">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EIIpbHrbZQDw4QZIK9iv-13">
+          <mxGeometry y="40" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-17" value="However in the following cases mentioned below, even if the total income does not exceed basic exemption limit, it is mandatory to file return of income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="EIIpbHrbZQDw4QZIK9iv-16">
+          <mxGeometry width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-18" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EIIpbHrbZQDw4QZIK9iv-13">
+          <mxGeometry y="100" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-19" value="&lt;div&gt;1. If a person is resident and ordinary resident&amp;nbsp; and,&lt;/div&gt;&lt;div&gt;a. he is a &lt;span style=&quot;white-space: pre&quot;&gt;beneficial owner&lt;sup&gt;(1)&lt;/sup&gt; of any asset&lt;sup&gt;(3)&lt;/sup&gt; outside India&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;or&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;b. he has signing authority (i.e. Bank a/c, fd) in any&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt; account out side India&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;or&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;c. He is a beneficiary&lt;sup&gt;(2)&lt;/sup&gt; of asset outside India&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="EIIpbHrbZQDw4QZIK9iv-18">
+          <mxGeometry width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-22" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EIIpbHrbZQDw4QZIK9iv-13">
+          <mxGeometry y="220" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-23" value="2. is a person is depositing &amp;gt; Rs.1 Cr in a current account during the year (even in different current a/c, installment)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="EIIpbHrbZQDw4QZIK9iv-22">
+          <mxGeometry width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-20" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EIIpbHrbZQDw4QZIK9iv-13">
+          <mxGeometry y="280" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-21" value="3. Incurred &amp;gt; Rs.2 lakhs for himself / any other person on foreign travel." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="EIIpbHrbZQDw4QZIK9iv-20">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-24" value="&lt;div&gt;(1) Beneficiary owner means -&lt;/div&gt;&lt;div&gt;Any individual directly or indirectly invested in any asset outside India for immediate or future benefit &lt;span style=&quot;white-space: pre&quot;&gt;of himself or any other person&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;(2) beneficiary means - &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;Individual derives benefit for asset outside India, for which &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;payment was done by someone else&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3) Assets in this section include financial interest in any entity(i.e. shares)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="275" width="360" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EIIpbHrbZQDw4QZIK9iv-18" target="EIIpbHrbZQDw4QZIK9iv-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
