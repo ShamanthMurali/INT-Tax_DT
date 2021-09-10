@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T23:55:52.401Z" agent="5.0 (X11)" etag="jcT6fsfH9rxhX8pL17df" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T23:58:07.605Z" agent="5.0 (X11)" etag="DnjHH17_RnuiCokVmaIC" version="15.1.4" type="github">
   <diagram id="KYRdxF1A-HffZrgdmH46" name="Page-1">
     <mxGraphModel dx="1045" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,8 +100,14 @@
         <mxCell id="EIIpbHrbZQDw4QZIK9iv-31" value="Due Dates" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="480" y="600" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EIIpbHrbZQDw4QZIK9iv-32" target="EIIpbHrbZQDw4QZIK9iv-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EIIpbHrbZQDw4QZIK9iv-32" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;31/07/AY&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="760" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="700" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EIIpbHrbZQDw4QZIK9iv-33" target="EIIpbHrbZQDw4QZIK9iv-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EIIpbHrbZQDw4QZIK9iv-33" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;30/11/AY&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="480" y="680" width="120" height="40" as="geometry" />
@@ -110,10 +116,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EIIpbHrbZQDw4QZIK9iv-34" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;31/10/AY&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="200" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EIIpbHrbZQDw4QZIK9iv-35" value="&lt;div&gt;1. Company&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Person to whom tax audit is applicable&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. partners of firm under tax audit&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="160" y="740" width="200" height="120" as="geometry" />
+          <mxGeometry x="220" y="740" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-40" value="&lt;div&gt;1. Any Assesses who under takes International transactions&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="740" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-42" value="All other cases" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="660" y="740" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
