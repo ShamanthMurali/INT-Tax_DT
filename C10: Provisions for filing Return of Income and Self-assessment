@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-11T01:07:10.145Z" agent="5.0 (X11)" etag="daSEYl5060gufe6ZABzg" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-11T01:37:32.948Z" agent="5.0 (X11)" etag="lPpFxYLxvmTYgwIniUCf" version="15.1.4" type="github">
   <diagram id="KYRdxF1A-HffZrgdmH46" name="Page-1">
     <mxGraphModel dx="717" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -246,6 +246,15 @@
         </mxCell>
         <mxCell id="EIIpbHrbZQDw4QZIK9iv-83" value="&lt;div&gt;Note:&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1) Following returns can be revised - &lt;br&gt;&lt;/div&gt;&lt;div&gt;a. return filed with in due date [S139(1)]&lt;/div&gt;&lt;div&gt;b. Return of loss [139(3)]&lt;/div&gt;&lt;div&gt;c. belated return [139(4)]&lt;/div&gt;&lt;div&gt;d. revised return can also be revised n number of time with in rectification window&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="420" y="2640" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="EIIpbHrbZQDw4QZIK9iv-86" target="EIIpbHrbZQDw4QZIK9iv-88" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-86" value="&lt;div&gt;S139(9)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Defective / Incomplete Return&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2810" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-88" value="&lt;div&gt;if after filing return&lt;sup&gt;(1)&lt;/sup&gt; of income, Dept discovers &lt;span style=&quot;white-space: pre&quot;&gt;any mistake. &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;The will issue a notice&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;and such defect has to be rectified &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;within 15 days&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;if not rectified, return becomes invalid&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;invalid return = no return filed&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2870" width="240" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
