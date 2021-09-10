@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-11T00:26:32.769Z" agent="5.0 (X11)" etag="AaM3l8q-5WEpwcjV_WE7" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-11T00:47:27.662Z" agent="5.0 (X11)" etag="1DE-lUk594m-hmuhUPuY" version="15.1.4" type="github">
   <diagram id="KYRdxF1A-HffZrgdmH46" name="Page-1">
     <mxGraphModel dx="717" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -195,6 +195,21 @@
         </mxCell>
         <mxCell id="EIIpbHrbZQDw4QZIK9iv-64" value="&lt;div&gt;* it assessees &lt;br&gt;&lt;/div&gt;&lt;div&gt;total income &amp;lt; Rs.5 lakh&lt;/div&gt;&lt;div&gt;it will be Rs.1,000 instead of 5k/10k&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="430" y="1740" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EIIpbHrbZQDw4QZIK9iv-67" target="EIIpbHrbZQDw4QZIK9iv-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-67" value="&lt;div&gt;S139(3)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Return of Loss&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1840" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EIIpbHrbZQDw4QZIK9iv-68" target="EIIpbHrbZQDw4QZIK9iv-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-68" value="If there is loss &lt;span style=&quot;white-space: pre&quot;&gt;during the year&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1900" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EIIpbHrbZQDw4QZIK9iv-70" value="&lt;div&gt;Then the assessee must file return of income within due date, other wise loss&lt;sup&gt;(1)&lt;/sup&gt; will not be allowed to carry forward&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1) a.Loss from house property and unabsorbed loss can be still carried forward even if filed after due date.&lt;/div&gt;&lt;div&gt;b. Brought forward loss will still be available&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1960" width="320" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
