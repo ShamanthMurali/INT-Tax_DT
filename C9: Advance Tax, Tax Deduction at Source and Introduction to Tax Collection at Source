@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-11T12:49:50.834Z" agent="5.0 (X11)" etag="6KospwFTiBZpf0jsUODG" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-11T13:00:09.169Z" agent="5.0 (X11)" etag="nOLlLBSv3txdBFNmAFLD" version="15.1.4" type="github">
   <diagram id="cZ-OBQkrPqedbTf_Qrwv" name="Page-1">
     <mxGraphModel dx="1043" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,6 +160,9 @@
         <mxCell id="6-gWbVQKf--h3hzQ_liX-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-gWbVQKf--h3hzQ_liX-53" target="6-gWbVQKf--h3hzQ_liX-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-gWbVQKf--h3hzQ_liX-53" target="6-gWbVQKf--h3hzQ_liX-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6-gWbVQKf--h3hzQ_liX-53" value="Consequences for default in advance tax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="280" y="1000" width="240" height="40" as="geometry" />
         </mxCell>
@@ -169,8 +172,11 @@
         <mxCell id="6-gWbVQKf--h3hzQ_liX-54" value="&lt;div&gt;S234B&lt;/div&gt;&lt;div&gt;Interest on short payment or non payment of advance tax&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="160" y="1080" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6-gWbVQKf--h3hzQ_liX-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1080" width="120" height="40" as="geometry" />
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-gWbVQKf--h3hzQ_liX-55" target="6-gWbVQKf--h3hzQ_liX-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-55" value="&lt;div&gt;S234C&lt;/div&gt;Interest on deferment of advance tax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1080" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-gWbVQKf--h3hzQ_liX-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-gWbVQKf--h3hzQ_liX-56" target="6-gWbVQKf--h3hzQ_liX-59">
           <mxGeometry relative="1" as="geometry" />
@@ -178,8 +184,17 @@
         <mxCell id="6-gWbVQKf--h3hzQ_liX-56" value="&lt;div&gt;Applicable when advanced tax paid is &lt;br&gt;&lt;/div&gt;&lt;div&gt;0 or &amp;lt; 90% of advanced tax payable&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="130" y="1160" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6-gWbVQKf--h3hzQ_liX-59" value="Interest = 1% per month or part there off" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1220" width="220" height="40" as="geometry" />
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-59" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Interest = 1% per month or part there off&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Payable from 1/4/AY to completion of assessment&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. amount on which interest is calculated?&lt;/div&gt;&lt;div&gt;interest is calculated on the shortfall amount&lt;/div&gt;&lt;div&gt;i.e. Advanced tax payable (-) Advanced tax paid&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1220" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-gWbVQKf--h3hzQ_liX-63" target="6-gWbVQKf--h3hzQ_liX-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-63" value="&lt;div&gt;Applicable when advanced tax is not paid or short paid on installments&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1160" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-65" value="&lt;div&gt;`\text{Interest} = Amt shortfall xx 1% xx 3 months&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Payable from 1/4/AY to completion of assessment&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. amount on which interest is calculated?&lt;/div&gt;&lt;div&gt;interest is calculated on the shortfall amount&lt;/div&gt;&lt;div&gt;i.e. Advanced tax payable (-) Advanced tax paid&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1220" width="300" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
