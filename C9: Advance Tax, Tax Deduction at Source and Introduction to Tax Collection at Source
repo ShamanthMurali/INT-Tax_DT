@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-11T11:56:10.012Z" agent="5.0 (X11)" etag="X20DddliKBm3GtatyJxC" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-11T12:07:23.281Z" agent="5.0 (X11)" etag="VVPUatfLXjrjQLxqOYK6" version="15.1.4" type="github">
   <diagram id="cZ-OBQkrPqedbTf_Qrwv" name="Page-1">
-    <mxGraphModel dx="863" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1043" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,8 +70,89 @@
         <mxCell id="6-gWbVQKf--h3hzQ_liX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-gWbVQKf--h3hzQ_liX-15" target="6-gWbVQKf--h3hzQ_liX-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-gWbVQKf--h3hzQ_liX-23" target="6-gWbVQKf--h3hzQ_liX-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6-gWbVQKf--h3hzQ_liX-23" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Liability of advanced tax&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(Who is liable to pay advanced tax?)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Every person whose estimated tax liability for the year is &lt;br&gt;&lt;/div&gt;&lt;div&gt;Rs. 10,000 or more, shall pay his tax in advance.&lt;/div&gt;&lt;div&gt;&lt;u&gt;Except&lt;/u&gt;,&lt;/div&gt;&lt;div&gt;Resident senior citizen who is not having any PGBP income.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="440" width="360" height="120" as="geometry" />
+          <mxGeometry x="200" y="420" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-25" value="Due dates for payment of advanced tax" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="600" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-26" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-25">
+          <mxGeometry y="30" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-27" value="&lt;u&gt;&lt;b&gt;Installment&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-26">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-41" value="&lt;u&gt;&lt;b&gt;% of tax to be paid&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-26">
+          <mxGeometry x="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-28" value="&lt;u&gt;&lt;b&gt;Due date&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-26">
+          <mxGeometry x="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-46" value="&lt;u&gt;&lt;b&gt;Amount of tax to be paid&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-26">
+          <mxGeometry x="320" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-29" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-25">
+          <mxGeometry y="70" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-30" value="1st" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-29">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-42" value="15%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-29">
+          <mxGeometry x="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-31" value="15 - June" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-29">
+          <mxGeometry x="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-47" value="T1 = 15% of estimated income for full year" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-29">
+          <mxGeometry x="320" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-32" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-25">
+          <mxGeometry y="110" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-33" value="45" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-32">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-43" value="45%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-32">
+          <mxGeometry x="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-34" value="15 - September" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-32">
+          <mxGeometry x="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-48" value="T2 = 45% of estimated income for full year - T1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-32">
+          <mxGeometry x="320" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-35" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-25">
+          <mxGeometry y="150" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-36" value="3rd" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-35">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-44" value="75%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-35">
+          <mxGeometry x="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-37" value="15 - December" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-35">
+          <mxGeometry x="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-49" value="T3 = 75% of estimated income for full year - T2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-35">
+          <mxGeometry x="320" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-38" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-25">
+          <mxGeometry y="190" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-39" value="4th" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-38">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-45" value="100%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-38">
+          <mxGeometry x="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-40" value="15 - March" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-38">
+          <mxGeometry x="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-50" value="T4 = 100% of estimated income for full year - T3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-38">
+          <mxGeometry x="320" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
