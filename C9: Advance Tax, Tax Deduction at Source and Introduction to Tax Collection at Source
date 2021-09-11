@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-11T11:40:48.182Z" agent="5.0 (X11)" etag="4vMeeYNfmsms6UlsHa06" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-11T11:56:10.012Z" agent="5.0 (X11)" etag="X20DddliKBm3GtatyJxC" version="15.1.4" type="github">
   <diagram id="cZ-OBQkrPqedbTf_Qrwv" name="Page-1">
-    <mxGraphModel dx="1252" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="863" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,43 +22,46 @@
         <mxCell id="6-gWbVQKf--h3hzQ_liX-3" value="Advanced tax is payable on estimated income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="140" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6-gWbVQKf--h3hzQ_liX-5" value="Calculation of advanced tax" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-gWbVQKf--h3hzQ_liX-5" target="6-gWbVQKf--h3hzQ_liX-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-5" value="Calculation of advanced tax" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="360" height="190" as="geometry" />
         </mxCell>
         <mxCell id="6-gWbVQKf--h3hzQ_liX-6" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-5">
           <mxGeometry y="30" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6-gWbVQKf--h3hzQ_liX-7" value="Calculate Estimated total income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-6">
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-7" value="Calculate Estimated total income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-6">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6-gWbVQKf--h3hzQ_liX-8" value="X" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-6">
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-8" value="X" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-6">
           <mxGeometry x="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-gWbVQKf--h3hzQ_liX-9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-5">
           <mxGeometry y="70" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6-gWbVQKf--h3hzQ_liX-10" value="Calculate Estimated Total Tax" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-9">
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-10" value="Calculate Estimated Total Tax" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-9">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6-gWbVQKf--h3hzQ_liX-11" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-9">
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-11" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-9">
           <mxGeometry x="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-gWbVQKf--h3hzQ_liX-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-5">
           <mxGeometry y="110" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6-gWbVQKf--h3hzQ_liX-13" value="(-) Estimated TDS / TCS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-12">
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-13" value="(-) Estimated TDS / TCS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-12">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6-gWbVQKf--h3hzQ_liX-14" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-12">
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-14" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-12">
           <mxGeometry x="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-gWbVQKf--h3hzQ_liX-15" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-5">
           <mxGeometry y="150" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6-gWbVQKf--h3hzQ_liX-16" value="Advanced tax payable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-15">
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-16" value="Advanced tax payable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-15">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6-gWbVQKf--h3hzQ_liX-17" value="XXXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-15">
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-17" value="XXXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6-gWbVQKf--h3hzQ_liX-15">
           <mxGeometry x="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-gWbVQKf--h3hzQ_liX-18" value="&lt;div&gt;If &lt;b&gt;advanced tax payable &lt;u&gt;&amp;lt;&lt;/u&gt; 10,000&lt;/b&gt;&lt;/div&gt;&lt;div&gt;no need to pay advanced tax, &lt;br&gt;&lt;/div&gt;&lt;div&gt;can be paid in AY itself&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -66,6 +69,9 @@
         </mxCell>
         <mxCell id="6-gWbVQKf--h3hzQ_liX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-gWbVQKf--h3hzQ_liX-15" target="6-gWbVQKf--h3hzQ_liX-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-23" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Liability of advanced tax&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(Who is liable to pay advanced tax?)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Every person whose estimated tax liability for the year is &lt;br&gt;&lt;/div&gt;&lt;div&gt;Rs. 10,000 or more, shall pay his tax in advance.&lt;/div&gt;&lt;div&gt;&lt;u&gt;Except&lt;/u&gt;,&lt;/div&gt;&lt;div&gt;Resident senior citizen who is not having any PGBP income.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="360" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
