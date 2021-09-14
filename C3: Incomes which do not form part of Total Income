@@ -1,254 +1,404 @@
-<mxfile host="app.diagrams.net" modified="2021-08-17T00:34:53.771Z" agent="5.0 (X11)" etag="9c00IuVknSPjwZJVeBAd" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T08:56:28.081Z" agent="5.0 (X11)" etag="Qw9s4hFj7bO8lnTrIO0Y" version="15.2.5" type="github">
   <diagram id="tkX_X7X4uf3PKcPVVvu6" name="Page-1">
-    <mxGraphModel dx="3143" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2216" dy="2354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-1" value="Agricultural income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ-ghSEdio4NMSIFjJZl-1" target="VJ-ghSEdio4NMSIFjJZl-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-2" value="&lt;div&gt;1. rent income from agricultural land&lt;/div&gt;&lt;div&gt;(note: only if land is used for agricultural purpose&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;**)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. rent income from farm building&lt;/div&gt;&lt;div&gt;(used for storage, resident for farm labour etc.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. income from agricultural activities&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-1" value="Agricultural income" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-2" value="&lt;div&gt;1. rent income from agricultural land&lt;/div&gt;&lt;div&gt;(note: only if land is used for agricultural purpose&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;**)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. rent income from farm building&lt;/div&gt;&lt;div&gt;(used for storage, resident for farm labour etc.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. income from agricultural activities&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="80" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ-ghSEdio4NMSIFjJZl-3" target="VJ-ghSEdio4NMSIFjJZl-4">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VJ-ghSEdio4NMSIFjJZl-3" target="VJ-ghSEdio4NMSIFjJZl-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-3" value="Agricultural purpose" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-3" value="Agricultural purpose" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-4" value="&lt;div&gt;1. any agricultural activity done on agricultural land for growing agricultural produce&lt;/div&gt;&lt;div&gt;Basic operation`s^((1))` + Subsequent operation`s^((2))`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-4" value="&lt;div&gt;1. any agricultural activity done on agricultural land for growing agricultural produce&lt;/div&gt;&lt;div&gt;Basic operation`s^((1))` + Subsequent operation`s^((2))`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="60" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VJ-ghSEdio4NMSIFjJZl-4" target="VJ-ghSEdio4NMSIFjJZl-6">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VJ-ghSEdio4NMSIFjJZl-4" target="VJ-ghSEdio4NMSIFjJZl-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-6" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-6" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="680" y="140" width="440" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-7" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-6">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-7" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-6" vertex="1">
           <mxGeometry width="440" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-8" value="&lt;u&gt;&lt;b&gt;Agricultural Income&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-7">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-8" value="&lt;u&gt;&lt;b&gt;Agricultural Income&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-7" vertex="1">
           <mxGeometry width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-9" value="&lt;u&gt;&lt;b&gt;Non-agricultural Income&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-7">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-9" value="&lt;u&gt;&lt;b&gt;Non-agricultural Income&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-7" vertex="1">
           <mxGeometry x="220" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-10" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-6">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-10" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-6" vertex="1">
           <mxGeometry y="20" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-11" value="Income from necessary " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-10">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-11" value="Income from necessary " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-10" vertex="1">
           <mxGeometry width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-12" value="Diary farming" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-10">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-12" value="Diary farming" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-10" vertex="1">
           <mxGeometry x="220" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-13" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-6">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-13" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-6" vertex="1">
           <mxGeometry y="60" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-14" value="Sale of seeds" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-13">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-14" value="Sale of seeds" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-13" vertex="1">
           <mxGeometry width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-15" value="Poultry Farming" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-13">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-15" value="Poultry Farming" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-13" vertex="1">
           <mxGeometry x="220" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-6">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-6" vertex="1">
           <mxGeometry y="100" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-17" value="Income from growing flowers and creepers" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-16">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-17" value="Income from growing flowers and creepers" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-16" vertex="1">
           <mxGeometry width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-18" value="Breeding of livestock" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-16">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-18" value="Breeding of livestock" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-16" vertex="1">
           <mxGeometry x="220" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-19" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-6">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-19" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-6" vertex="1">
           <mxGeometry y="140" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-20" value="rent income from a land which is used for grazing of cattle which is used in agricultural activities" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-19">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-20" value="rent income from a land which is used for grazing of cattle which is used in agricultural activities" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-19" vertex="1">
           <mxGeometry width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-21" value="Fisheries " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-19">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-21" value="Fisheries " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-19" vertex="1">
           <mxGeometry x="220" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-25" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-6">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-25" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-6" vertex="1">
           <mxGeometry y="200" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-26" value="Growing of bamboo" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-25">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-26" value="Growing of bamboo" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-25" vertex="1">
           <mxGeometry width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-27" value="&lt;div&gt;Spontaneous growth on soil&lt;/div&gt;&lt;div&gt;(agricultural produce grown naturally without human intervention)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-25">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-27" value="&lt;div&gt;Spontaneous growth on soil&lt;/div&gt;&lt;div&gt;(agricultural produce grown naturally without human intervention)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-25" vertex="1">
           <mxGeometry x="220" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ-ghSEdio4NMSIFjJZl-29" target="VJ-ghSEdio4NMSIFjJZl-30">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VJ-ghSEdio4NMSIFjJZl-29" target="VJ-ghSEdio4NMSIFjJZl-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-29" value="Composite income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-29" value="Composite income" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-30" value="Defines how to split business income and agricultural income. when its is a combined process which includes both agricultural and non agricultural" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-30" value="Defines how to split business income and agricultural income. when its is a combined process which includes both agricultural and non agricultural" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="265" y="300" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-32" value="For Tea, coffee, and rubber" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-32" value="For Tea, coffee, and rubber" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VJ-ghSEdio4NMSIFjJZl-32" target="VJ-ghSEdio4NMSIFjJZl-33">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VJ-ghSEdio4NMSIFjJZl-32" target="VJ-ghSEdio4NMSIFjJZl-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-33" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-33" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="265" y="460" width="320" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-54" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-33">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-54" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-33" vertex="1">
           <mxGeometry width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-55" value="&lt;u&gt;&lt;b&gt;Particulars&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-54">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-55" value="&lt;u&gt;&lt;b&gt;Particulars&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-54" vertex="1">
           <mxGeometry width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-56" value="&lt;u&gt;&lt;b&gt;Biz&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-54">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-56" value="&lt;u&gt;&lt;b&gt;Biz&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-54" vertex="1">
           <mxGeometry x="200" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-57" value="&lt;u&gt;&lt;b&gt;Agri&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-54">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-57" value="&lt;u&gt;&lt;b&gt;Agri&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-54" vertex="1">
           <mxGeometry x="260" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-58" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-33">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-58" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-33" vertex="1">
           <mxGeometry y="20" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-59" value="Tea grown and manufacturing" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-58">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-59" value="Tea grown and manufacturing" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-58" vertex="1">
           <mxGeometry width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-60" value="40%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-58">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-60" value="40%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-58" vertex="1">
           <mxGeometry x="200" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-61" value="60%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-58">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-61" value="60%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-58" vertex="1">
           <mxGeometry x="260" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-34" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-33">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-34" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-33" vertex="1">
           <mxGeometry y="60" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-35" value="Rubber" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-34">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-35" value="Rubber" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-34" vertex="1">
           <mxGeometry width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-36" value="35%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-34">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-36" value="35%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-34" vertex="1">
           <mxGeometry x="200" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-49" value="65%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-34">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-49" value="65%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-34" vertex="1">
           <mxGeometry x="260" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-37" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-33">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-37" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-33" vertex="1">
           <mxGeometry y="100" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-38" value="&lt;div&gt;&lt;u&gt;Coffee&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Grown and cured&lt;/div&gt;&lt;div&gt;Grown, cured and roasted&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-37">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-38" value="&lt;div&gt;&lt;u&gt;Coffee&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Grown and cured&lt;/div&gt;&lt;div&gt;Grown, cured and roasted&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-37" vertex="1">
           <mxGeometry width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-39" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;25%&lt;/div&gt;&lt;div&gt;40%&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-37">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-39" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;25%&lt;/div&gt;&lt;div&gt;40%&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-37" vertex="1">
           <mxGeometry x="200" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-50" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;75%&lt;/div&gt;&lt;div&gt;60%&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-37">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-50" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;75%&lt;/div&gt;&lt;div&gt;60%&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-37" vertex="1">
           <mxGeometry x="260" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ-ghSEdio4NMSIFjJZl-63" target="VJ-ghSEdio4NMSIFjJZl-64">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VJ-ghSEdio4NMSIFjJZl-63" target="VJ-ghSEdio4NMSIFjJZl-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-63" value="Rule 7 of composite income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-63" value="Rule 7 of composite income" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ-ghSEdio4NMSIFjJZl-64" target="VJ-ghSEdio4NMSIFjJZl-67">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VJ-ghSEdio4NMSIFjJZl-64" target="VJ-ghSEdio4NMSIFjJZl-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ-ghSEdio4NMSIFjJZl-64" target="VJ-ghSEdio4NMSIFjJZl-66">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VJ-ghSEdio4NMSIFjJZl-64" target="VJ-ghSEdio4NMSIFjJZl-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-64" value="&lt;div&gt;It is applicable to any biz other than Tea/coffee/rubber&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-64" value="&lt;div&gt;It is applicable to any biz other than Tea/coffee/rubber&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="265" y="700" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-66" value="Agricultural income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-66" value="Agricultural income" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="495" y="780" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-67" value="Business income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-67" value="Business income" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="780" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VJ-ghSEdio4NMSIFjJZl-67" target="VJ-ghSEdio4NMSIFjJZl-69">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VJ-ghSEdio4NMSIFjJZl-67" target="VJ-ghSEdio4NMSIFjJZl-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-69" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;direction=south;" vertex="1" parent="1">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-69" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;direction=south;" parent="1" vertex="1">
           <mxGeometry x="175" y="840" width="240" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-70" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-69">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-70" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-69" vertex="1">
           <mxGeometry width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-71" value="Sale proceeds of manufactured income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-70">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-71" value="Sale proceeds of manufactured income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-70" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-72" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-70">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-72" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-70" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-73" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-69">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-73" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-69" vertex="1">
           <mxGeometry y="40" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-74" value="(-) manufacturing expenses" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-73">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-74" value="(-) manufacturing expenses" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-73" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-75" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-73">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-75" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-73" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-76" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-69">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-76" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-69" vertex="1">
           <mxGeometry y="80" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-77" value="(-) Market value of agricultural produce" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-76">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-77" value="(-) Market value of agricultural produce" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-76" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-78" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-76">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-78" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-76" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-79" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-69">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-79" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-69" vertex="1">
           <mxGeometry y="120" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-80" value="(-) Any other income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-79">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-80" value="(-) Any other income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-79" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-81" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-79">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-81" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-79" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-101" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-69">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-101" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-69" vertex="1">
           <mxGeometry y="160" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-102" value="Business Income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-101">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-102" value="Business Income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-101" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-103" value="XX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-101">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-103" value="XX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-101" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ-ghSEdio4NMSIFjJZl-66" target="VJ-ghSEdio4NMSIFjJZl-86">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VJ-ghSEdio4NMSIFjJZl-66" target="VJ-ghSEdio4NMSIFjJZl-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-86" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;direction=south;" vertex="1" parent="1">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-86" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;direction=south;" parent="1" vertex="1">
           <mxGeometry x="435" y="840" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-93" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-86">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-93" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-86" vertex="1">
           <mxGeometry width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-94" value="Market value of agricultural produce" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-93">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-94" value="Market value of agricultural produce" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-93" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-95" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-93">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-95" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-93" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-96" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-86">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-96" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-86" vertex="1">
           <mxGeometry y="40" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-97" value="(-) Any other income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-96">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-97" value="(-) Any other income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-96" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-98" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-96">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-98" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-96" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-104" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-86">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-104" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ-ghSEdio4NMSIFjJZl-86" vertex="1">
           <mxGeometry y="80" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-105" value="Agricultural Income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-104">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-105" value="Agricultural Income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-104" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJ-ghSEdio4NMSIFjJZl-106" value="XX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VJ-ghSEdio4NMSIFjJZl-104">
+        <mxCell id="VJ-ghSEdio4NMSIFjJZl-106" value="XX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJ-ghSEdio4NMSIFjJZl-104" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-2" value="Non taxable income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="-80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-3" value="S10(2)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-4" value="Share of income from HUF exempt in the hands of members" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1080" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-5" value="S10(2A)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-6" value="Share of profits from &lt;br&gt;partnership / LLP exempt in the hands of partner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1140" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-7" value="S10(4)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-8" value="interest onNon resident external account&amp;nbsp;&lt;br&gt;(NRE) account* Exempt from tax&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1200" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-9" value="S10(6)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1260" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-10" value="Salaries of diplomats personnel (emp of embassies etc.)&amp;nbsp;&lt;br&gt;&lt;br&gt;1. salaries received by foriegn citizen working with indian embassy&amp;nbsp; is exempt&lt;br&gt;(provided there should be an arrangement with the country that corresponding income of indian citizen working in their embassy is exempt)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1260" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-11" value="S10(7)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-12" value="Allowance and perquisites paid to indian citizen out side india by govt of india for rendering services out side india is exempt.&lt;br&gt;(indian embassy emp working outside india)&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1400" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-13" value="S10(10BB)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-14" value="Any payment which is given to Bhopal gas tragedy victim is exempt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1480" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-15" value="S10(10BC)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-16" value="Compensation receied on account of Disaster is exempt&lt;br&gt;However, if deduction is claimed for loss due to disaster in any provision of income tax. then compensation is not exempt and becomes taxable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1540" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-17" value="S10(10D)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1620" width="120" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-18" value="Maturities of&amp;nbsp;&lt;br&gt;&lt;br&gt;1. Keyman insurance policy is exempt&lt;br&gt;&lt;br&gt;2. life insurance policy is exempt if -" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1620" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-19" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1700" width="400" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-20" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jK9ZKhCZM6BgTrIKqqOC-19">
+          <mxGeometry width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-21" value="&lt;u&gt;&lt;b&gt;Policy date&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="jK9ZKhCZM6BgTrIKqqOC-20">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-22" value="&lt;u&gt;&lt;b&gt;Annual premium allowed&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="jK9ZKhCZM6BgTrIKqqOC-20">
+          <mxGeometry x="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-23" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jK9ZKhCZM6BgTrIKqqOC-19">
+          <mxGeometry y="40" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-24" value="Upto 31/3/2012" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="jK9ZKhCZM6BgTrIKqqOC-23">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-25" value="20% of sum assured" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="jK9ZKhCZM6BgTrIKqqOC-23">
+          <mxGeometry x="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-26" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jK9ZKhCZM6BgTrIKqqOC-19">
+          <mxGeometry y="80" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-27" value="01/04/2012 to 31/03/2013" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="jK9ZKhCZM6BgTrIKqqOC-26">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-28" value="10% of sum assured" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="jK9ZKhCZM6BgTrIKqqOC-26">
+          <mxGeometry x="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-29" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jK9ZKhCZM6BgTrIKqqOC-19">
+          <mxGeometry y="120" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-30" value="&lt;div&gt;01/04/2013 onwards&lt;/div&gt;&lt;div&gt;Normal person&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Person suffering from disability mentioned u/s 80U or specified disease mentioned u/s 80DDB&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="jK9ZKhCZM6BgTrIKqqOC-29">
+          <mxGeometry width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-31" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10% of sum assured&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;15% of sum assured&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="jK9ZKhCZM6BgTrIKqqOC-29">
+          <mxGeometry x="200" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-32" value="If premium is with in these limits then entire matureity is exempt.&lt;br&gt;&lt;br&gt;if premium amount exceeds limit -&lt;br&gt;a. excess is not allowed as deduction u/s 80C&lt;br&gt;b. maturity also becomes taxable" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1940" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-33" value="S10(11A)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="2050" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-34" value="Svkanya samriddhi account -&lt;br&gt;&lt;br&gt;a. Investment - Allowed as deduction u/s 80C&lt;br&gt;b. interest credited - Fully exempt&lt;br&gt;c. maturiy proceeds - Fully exempt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="2050" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-35" value="S10(15)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="2160" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-36" value="Interest on certain schemes / securites&lt;br&gt;&lt;br&gt;1. post office savings scheme / account&lt;br&gt;a. individual account interest = exempt upto 3500 per year&lt;br&gt;b. Joint account interest = exempt upto 7000 per year for first holder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="2160" width="400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-37" value="S10(16)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="2280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-38" value="Eduational scholarships is exempt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="2280" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-39" value="S10(17)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="2340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-40" value="Daily allowance / constituency allowance received by MP&#39;s is exempt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="2340" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-41" value="S10(17A)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="2400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-42" value="Awards received in public interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="2400" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-43" value="S10(18)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="2460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-44" value="pensions received by individual who were awarded with Gallantry awards&lt;br&gt;(paramvir chakra, mahavir chakra etc.)&lt;br&gt;Even pension received by family memner is exempt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="2460" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-45" value="S10(19)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="2540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-46" value="Family pension received by family member of army / navy / airforce &lt;br&gt;officers if death is during operation duties is fully exempt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="2540" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-47" value="S10(26AAA)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="2600" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-48" value="Income of sikkimese(born and brought up in sikkim) from any source in sikkim and dividend and interest from anywhere is fully exempt&lt;br&gt;&lt;br&gt;Note : The exemption is not available to a sikkimese woman who marries &lt;br&gt;a non skkimese on or after 1/4/2008" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="505" y="2600" width="400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-49" value="S10AA" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="385" y="2720" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-50" value="Tax holiday for units set up in SEZ&lt;br&gt;&lt;br&gt;if assessee begins to manufacture any article or thing or starts &lt;br&gt;providing service in a unit set up in SEZ in time frame&amp;nbsp;&lt;br&gt;from AY 2006-07 to AY2020-21&lt;br&gt;&lt;br&gt;&lt;u&gt;Then following deduction is allowed&lt;/u&gt; :-&lt;br&gt;1. 100% of profits(Export profits only) is allowed as deduction in &lt;br&gt;first 5 years.&lt;br&gt;&lt;br&gt;2. 50% of profits(Export profits only)&lt;br&gt;&amp;nbsp;are allowed as deduction for next 5 years&lt;br&gt;&lt;br&gt;3. 50% of profits(Export profits only)&lt;br&gt;&amp;nbsp;in remaining 5 years only in such profits are&lt;br&gt;&amp;nbsp;reinvested in buying plant and machinery for such SEZ" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="505" y="2720" width="400" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
