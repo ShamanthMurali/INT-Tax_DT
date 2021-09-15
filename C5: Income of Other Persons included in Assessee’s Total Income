@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T07:02:06.043Z" agent="5.0 (X11)" etag="oP2SNqHO9JjvMxyqEk3D" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-15T07:45:53.737Z" agent="5.0 (X11)" etag="OPqQODmUg_DURl8G8IVh" version="15.2.7" type="github">
   <diagram id="kxvzqrdp8qMIntaPaXjX" name="Page-1">
     <mxGraphModel dx="719" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -31,11 +31,26 @@
         <mxCell id="fmpjccEz3_BsZbNnAgxk-2" value="&lt;div&gt;3. if individual gifts money to spouse, which is invested in business by spouse.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Then amount to be clubbed proportionately =&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Gift amount invested in business on the first day of PY}/\text{Total investment in business on the first day of PY}xx\text{Taxable Profits}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="840" width="530" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="fmpjccEz3_BsZbNnAgxk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmpjccEz3_BsZbNnAgxk-3" target="fmpjccEz3_BsZbNnAgxk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fmpjccEz3_BsZbNnAgxk-3" value="&lt;div&gt;4 if individual gifts money to spouse, which is invested in Partnership firm by spouse. in this case proportionate interest on capital will be clubbed to the individual&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;In this case clubbing is not attracted on :-&lt;/div&gt;&lt;div&gt;1. salary - since is paid for efforts of the partner&lt;/div&gt;&lt;div&gt;2. &lt;span style=&quot;white-space: pre&quot;&gt;Profit - it is exempt income in the hands of partner&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="990" width="320" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="fmpjccEz3_BsZbNnAgxk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmpjccEz3_BsZbNnAgxk-4" target="fmpjccEz3_BsZbNnAgxk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fmpjccEz3_BsZbNnAgxk-4" value="&lt;u&gt;&lt;b&gt;Exceptions&lt;/b&gt;&lt;/u&gt;:-&lt;br&gt;&lt;div&gt;(no clubbing for the following)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Assets transferred before marriage&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. assets t/f on agreement to live apart (Divorce)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Assets acquired out of pin money(money given for household expenses to spouse)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. assets acquired out of accretion to income&lt;/div&gt;&lt;div&gt;for e.g. mr.x gifted shares to mrs.x. Mrs.x sold the shares. the CG on sale is clubbed to mr.x. now, Mrs.x buys debentures from the money received on sale of share. &lt;br&gt;&lt;/div&gt;&lt;div&gt;so here the interest received on debentures will not be &lt;br&gt;&lt;/div&gt;&lt;div&gt;clubbed to mr.x&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1120" width="320" height="240" as="geometry" />
+          <mxGeometry x="280" y="1120" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="fmpjccEz3_BsZbNnAgxk-6" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;S64(1)(vi) &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Income From assets transferred to sons wife&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;same as S64(1)(iv) &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1380" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmpjccEz3_BsZbNnAgxk-8" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;S64(1)(vii)/(viii) &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Income From assets transferred to any other person &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;for the benefit of spouse / sons wife&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;same as S64(1)(iv) &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1460" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fmpjccEz3_BsZbNnAgxk-9" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;S64(1A) &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Income of minor child&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Any income of minor child is clubbed in the hands &lt;br&gt;&lt;/div&gt;&lt;div&gt;of parent&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;it will be clubbed in the hands of parent whos income is higher&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;note&lt;/b&gt;&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; if parents are divorced, the it will be clubbed in the &lt;br&gt;&lt;/div&gt;&lt;div&gt;hands of parent in custody.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Exceptions:&lt;/div&gt;&lt;div&gt;(no clubbing in the following cases)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. if minor has earned income out of his manual work&lt;/div&gt;&lt;div&gt;(if such income is reinvested and gains that arise for such investment will be clubbed to parent)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. if minor has earned income out of &lt;br&gt;&lt;/div&gt;&lt;div&gt;skills / talent /expertise etc.&lt;/div&gt;&lt;div&gt;(if such income is reinvested and gains that arise for such investment will be clubbed to parent)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1550" width="320" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
