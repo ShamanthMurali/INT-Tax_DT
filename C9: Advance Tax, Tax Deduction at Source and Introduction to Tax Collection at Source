@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T11:59:11.516Z" agent="5.0 (X11)" etag="-bmkvdEKy0G21YhU0qib" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-15T12:25:08.557Z" agent="5.0 (X11)" etag="LDDOstz_21xFOob29SRk" version="15.2.7" type="github">
   <diagram id="cZ-OBQkrPqedbTf_Qrwv" name="Page-1">
     <mxGraphModel dx="3985" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -419,7 +419,7 @@
           <mxGeometry x="1550" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g3aFI61yT04o_Ic8j--v-49" value="&lt;div&gt;194B - Winnings from lottery or crossword puzzle&lt;/div&gt;&lt;div&gt;194BB - winnings from horse races&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1510" y="2040" width="200" height="70" as="geometry" />
+          <mxGeometry x="1510" y="2070" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g3aFI61yT04o_Ic8j--v-50" value="Payer : Any person&lt;br&gt;Payee : Any person" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1530" y="2110" width="160" height="40" as="geometry" />
@@ -559,23 +559,23 @@
         <mxCell id="g3aFI61yT04o_Ic8j--v-95" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;S194EE&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2970" y="1980" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g3aFI61yT04o_Ic8j--v-96" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Payment to a non resident sportmen or sport association or entertainer&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2930" y="2020" width="200" height="60" as="geometry" />
+        <mxCell id="g3aFI61yT04o_Ic8j--v-96" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;National pension scheme&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2930" y="2020" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g3aFI61yT04o_Ic8j--v-97" value="Payer : Any person&lt;font style=&quot;font-size: 10px&quot;&gt;(post office)&lt;/font&gt;&lt;br&gt;Payee : Any person" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2950" y="2080" width="160" height="40" as="geometry" />
+          <mxGeometry x="2950" y="2061.5" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g3aFI61yT04o_Ic8j--v-98" value="&lt;b&gt;&lt;u&gt;Rate&lt;br&gt;&lt;/u&gt;&lt;/b&gt;10%" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2950" y="2160" width="160" height="40" as="geometry" />
+          <mxGeometry x="2950" y="2141.5" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g3aFI61yT04o_Ic8j--v-99" value="&lt;u style=&quot;font-weight: bold&quot;&gt;No TDS&lt;/u&gt;&lt;br&gt;&lt;br&gt;1. if payment &lt;u&gt;&amp;lt;&lt;/u&gt; 2,500&lt;br&gt;(principle + interest)&lt;br&gt;&lt;br&gt;2. if payment is made to&lt;br&gt;&amp;nbsp;legal heir on death of investor" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" parent="1" vertex="1">
-          <mxGeometry x="2930" y="2198.5" width="200" height="110" as="geometry" />
+          <mxGeometry x="2930" y="2180" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="g3aFI61yT04o_Ic8j--v-100" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Read once before exam&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2910" y="1970" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g3aFI61yT04o_Ic8j--v-101" value="&lt;b&gt;&lt;u&gt;Time&lt;/u&gt;&lt;/b&gt;&lt;br&gt;At the time of payment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2950" y="2120" width="160" height="40" as="geometry" />
+          <mxGeometry x="2950" y="2101.5" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g3aFI61yT04o_Ic8j--v-102" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;S194G&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3210" y="1980" width="120" height="40" as="geometry" />
