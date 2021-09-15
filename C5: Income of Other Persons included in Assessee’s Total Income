@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-05T15:49:44.415Z" agent="5.0 (X11)" etag="xwqHhk5s7_LQSA4FVA-e" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-15T05:50:50.817Z" agent="5.0 (X11)" etag="s23Ts-3M5lIMHNNCcMc3" version="15.2.7" type="github">
   <diagram id="kxvzqrdp8qMIntaPaXjX" name="Page-1">
-    <mxGraphModel dx="715" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,11 +22,11 @@
         <mxCell id="f67dC9yAkBqzm89trn01-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;S61 revocable transfers&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;are those transfers where the transferer retains the right the to cancel the transfer at any time and take back the asset / income back.&lt;/div&gt;&lt;div&gt;Such revocable transfers attract clubbing &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Exception&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. clubbing does not get attracted on irrevocable transfer&lt;/div&gt;&lt;div&gt;provided such transfer are irrevocable over the life time of beneficiaries.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="140" width="320" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="zj9ncETX6RZ4gBJ6WtrQ-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;S64(1)&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Salary to spouse of the assessee&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;exception&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;clubbing provision will not get attracted if the spouse has required skills or educational qualification or experience to justify the salary&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="350" width="320" height="120" as="geometry" />
+        <mxCell id="zj9ncETX6RZ4gBJ6WtrQ-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;S64(1)&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Salary to spouse of the assessee&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;exception&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;clubbing provision will not get attracted if the spouse has required skills or educational qualification or experience to justify the salary&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Notes:&lt;/div&gt;&lt;div&gt;1. salary can be paid by any name like remuneration, commission, Fees, service charges etc.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="350" width="320" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="6cDqBenDorvTYhrIJY9u-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;S64(1)(iv) &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Income From assets transferred to spouse&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;exception&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;clubbing provision will not get attracted if the spouse has required skills or educational qualification or experience to justify the salary&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="490" width="320" height="120" as="geometry" />
+        <mxCell id="6cDqBenDorvTYhrIJY9u-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;S64(1)(iv) &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Income From assets transferred to spouse&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;exception&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;clubbing provision will not get attracted if the spouse has required skills or educational qualification or experience to justify the salary&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="560" width="320" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
