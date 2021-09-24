@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T12:56:34.773Z" agent="5.0 (X11)" etag="tmdqAx_YeZ6W5PVsC9IK" version="15.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-24T16:07:53.484Z" agent="5.0 (X11)" etag="CEEKj9y4eyEw8uJvMK0D" version="15.3.1" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="1258" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1108" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3084,8 +3084,14 @@
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-42" value="&lt;div&gt;10L depreciation will be offset with 10L profit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; if there is excess it will be AI as capital gains&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
           <mxGeometry x="420" y="300" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LnhCImO2q3pR-dqzTKSX-2" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Important&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;expense here means total expense incurred not just the TDS portion&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LnhCImO2q3pR-dqzTKSX-2" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Important&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;expense here means total expense incurred not just the TDS portion&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12000" y="1642.5" width="200" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-2" value="&lt;div&gt;Due date for pay advance tax&lt;br&gt;&lt;/div&gt;&lt;div&gt;15 march&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17920" y="2140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-3" value="&lt;div&gt;Due date for pay advance tax &lt;br&gt;&lt;/div&gt;&lt;div&gt;15 march&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18260" y="1840" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
