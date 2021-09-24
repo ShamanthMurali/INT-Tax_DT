@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T16:07:53.484Z" agent="5.0 (X11)" etag="CEEKj9y4eyEw8uJvMK0D" version="15.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-24T16:16:26.633Z" agent="5.0 (X11)" etag="_JG5RSd0GecwXjSFbjUO" version="15.3.1" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="1108" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="443" dy="237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2902,7 +2902,7 @@
             <mxRectangle width="200" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dTshGT6JBwKegOeacH-j-35" value="&lt;div&gt;Rs. 1000 Per Ton &lt;u&gt;&lt;b&gt;P.m&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;[1 Ton = 1000kgs]" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="dTshGT6JBwKegOeacH-j-33" vertex="1">
+        <mxCell id="dTshGT6JBwKegOeacH-j-35" value="&lt;div&gt;Rs. 1000 Per Ton &lt;u&gt;&lt;b&gt;P.m&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;per vehicle&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;[1 Ton = 1000kgs]" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="dTshGT6JBwKegOeacH-j-33" vertex="1">
           <mxGeometry x="200" width="140" height="60" as="geometry">
             <mxRectangle width="140" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -2915,7 +2915,7 @@
             <mxRectangle width="200" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dTshGT6JBwKegOeacH-j-38" value="Rs. 7500 P.m fixed" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="dTshGT6JBwKegOeacH-j-36" vertex="1">
+        <mxCell id="dTshGT6JBwKegOeacH-j-38" value="&lt;div&gt;Rs. 7500 &lt;u&gt;&lt;b&gt;P.m per &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;vehicle&lt;/b&gt;&lt;/u&gt; fixed&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="dTshGT6JBwKegOeacH-j-36" vertex="1">
           <mxGeometry x="200" width="140" height="50" as="geometry">
             <mxRectangle width="140" height="50" as="alternateBounds" />
           </mxGeometry>
