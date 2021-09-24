@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T16:22:27.711Z" agent="5.0 (X11)" etag="m95R5ijBHdyyatYkSu8T" version="15.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-24T17:05:45.690Z" agent="5.0 (X11)" etag="_cI3a-6E0Hek57bcRRGq" version="15.3.1" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="923" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1253" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -957,7 +957,7 @@
         <mxCell id="2SGUlK4wuWDhd8j0ueTg-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2SGUlK4wuWDhd8j0ueTg-80" target="2SGUlK4wuWDhd8j0ueTg-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2SGUlK4wuWDhd8j0ueTg-80" value="&lt;div&gt;Section 35&lt;/div&gt;&lt;div&gt;(learn section)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-80" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;S35&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(learn section)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4400" y="1100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2SGUlK4wuWDhd8j0ueTg-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2SGUlK4wuWDhd8j0ueTg-81" target="2SGUlK4wuWDhd8j0ueTg-85" edge="1">
@@ -1128,7 +1128,7 @@
         <mxCell id="2SGUlK4wuWDhd8j0ueTg-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2SGUlK4wuWDhd8j0ueTg-141" target="2SGUlK4wuWDhd8j0ueTg-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2SGUlK4wuWDhd8j0ueTg-141" value="Deductions for specified biz" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2SGUlK4wuWDhd8j0ueTg-141" value="&lt;u&gt;&lt;b&gt;S35AD&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;Deductions for specified biz&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4960" y="1100" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2SGUlK4wuWDhd8j0ueTg-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2SGUlK4wuWDhd8j0ueTg-144" target="2SGUlK4wuWDhd8j0ueTg-146" edge="1">
@@ -2878,7 +2878,7 @@
         <mxCell id="dTshGT6JBwKegOeacH-j-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dTshGT6JBwKegOeacH-j-27" target="dTshGT6JBwKegOeacH-j-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UpC5w2usHZnXTfEVQ8LC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dTshGT6JBwKegOeacH-j-29" target="UpC5w2usHZnXTfEVQ8LC-5">
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dTshGT6JBwKegOeacH-j-29" target="UpC5w2usHZnXTfEVQ8LC-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dTshGT6JBwKegOeacH-j-29" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
@@ -3090,62 +3090,62 @@
         <mxCell id="LnhCImO2q3pR-dqzTKSX-2" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Important&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;expense here means total expense incurred not just the TDS portion&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12000" y="1642.5" width="200" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="UpC5w2usHZnXTfEVQ8LC-2" value="&lt;div&gt;Due date for pay advance tax&lt;br&gt;&lt;/div&gt;&lt;div&gt;15 march&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-2" value="&lt;div&gt;Due date for pay advance tax&lt;br&gt;&lt;/div&gt;&lt;div&gt;15 march&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="17920" y="2140" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UpC5w2usHZnXTfEVQ8LC-3" value="&lt;div&gt;Due date for pay advance tax &lt;br&gt;&lt;/div&gt;&lt;div&gt;15 march&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-3" value="&lt;div&gt;Due date for pay advance tax &lt;br&gt;&lt;/div&gt;&lt;div&gt;15 march&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="18260" y="1840" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UpC5w2usHZnXTfEVQ8LC-5" value="Calculation" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-5" value="Calculation" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="18680" y="1550" width="340" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="UpC5w2usHZnXTfEVQ8LC-6" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UpC5w2usHZnXTfEVQ8LC-5">
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-6" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UpC5w2usHZnXTfEVQ8LC-5" vertex="1">
           <mxGeometry y="30" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UpC5w2usHZnXTfEVQ8LC-7" value="Number of vehicles" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UpC5w2usHZnXTfEVQ8LC-6">
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-7" value="Number of vehicles" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="UpC5w2usHZnXTfEVQ8LC-6" vertex="1">
           <mxGeometry width="85" height="60" as="geometry">
             <mxRectangle width="85" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpC5w2usHZnXTfEVQ8LC-8" value="Date of purchase" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UpC5w2usHZnXTfEVQ8LC-6">
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-8" value="Date of purchase" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="UpC5w2usHZnXTfEVQ8LC-6" vertex="1">
           <mxGeometry x="85" width="85" height="60" as="geometry">
             <mxRectangle width="85" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpC5w2usHZnXTfEVQ8LC-9" value="No of months for which vehicle is owned" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UpC5w2usHZnXTfEVQ8LC-6">
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-9" value="No of months for which vehicle is owned" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="UpC5w2usHZnXTfEVQ8LC-6" vertex="1">
           <mxGeometry x="170" width="85" height="60" as="geometry">
             <mxRectangle width="85" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpC5w2usHZnXTfEVQ8LC-10" value="&lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt; = no of months x no of vehicles" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UpC5w2usHZnXTfEVQ8LC-6">
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-10" value="&lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt; = no of months x no of vehicles" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="UpC5w2usHZnXTfEVQ8LC-6" vertex="1">
           <mxGeometry x="255" width="85" height="60" as="geometry">
             <mxRectangle width="85" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpC5w2usHZnXTfEVQ8LC-11" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UpC5w2usHZnXTfEVQ8LC-5">
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-11" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UpC5w2usHZnXTfEVQ8LC-5" vertex="1">
           <mxGeometry y="90" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UpC5w2usHZnXTfEVQ8LC-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UpC5w2usHZnXTfEVQ8LC-11">
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="UpC5w2usHZnXTfEVQ8LC-11" vertex="1">
           <mxGeometry width="85" height="40" as="geometry">
             <mxRectangle width="85" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpC5w2usHZnXTfEVQ8LC-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UpC5w2usHZnXTfEVQ8LC-11">
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="UpC5w2usHZnXTfEVQ8LC-11" vertex="1">
           <mxGeometry x="85" width="85" height="40" as="geometry">
             <mxRectangle width="85" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpC5w2usHZnXTfEVQ8LC-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UpC5w2usHZnXTfEVQ8LC-11">
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="UpC5w2usHZnXTfEVQ8LC-11" vertex="1">
           <mxGeometry x="170" width="85" height="40" as="geometry">
             <mxRectangle width="85" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpC5w2usHZnXTfEVQ8LC-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="UpC5w2usHZnXTfEVQ8LC-11">
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="UpC5w2usHZnXTfEVQ8LC-11" vertex="1">
           <mxGeometry x="255" width="85" height="40" as="geometry">
             <mxRectangle width="85" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpC5w2usHZnXTfEVQ8LC-34" value="&lt;div&gt;For heavy vehicles = `Sigma`T x tonnes x 1,000&lt;/div&gt;&lt;div&gt;For light vehicles = `Sigma`T x 7500&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UpC5w2usHZnXTfEVQ8LC-34" value="&lt;div&gt;For heavy vehicles = `Sigma`T x tonnes x 1,000&lt;/div&gt;&lt;div&gt;For light vehicles = `Sigma`T x 7500&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="18680" y="1680" width="340" height="40" as="geometry" />
         </mxCell>
       </root>
