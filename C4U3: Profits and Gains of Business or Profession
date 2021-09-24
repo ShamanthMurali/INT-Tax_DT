@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T06:11:09.153Z" agent="5.0 (X11)" etag="C-WnM4fV1zQONchquUc9" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-24T06:23:10.283Z" agent="5.0 (X11)" etag="-yIt37T8KIfm5kOND0ks" version="15.3.0" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
     <mxGraphModel dx="633" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1655,7 +1655,7 @@
         <mxCell id="F35uVYqHLGuweMzUuJkv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F35uVYqHLGuweMzUuJkv-6" target="F35uVYqHLGuweMzUuJkv-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F35uVYqHLGuweMzUuJkv-6" value="Any expense which is not covered from section 30 to section 36 will be allowed as a deduction u/s 37(1)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="F35uVYqHLGuweMzUuJkv-6" value="Any expense which is not covered from section 30 to section 36(i.e for rent to securities transaction tax) will be allowed as a deduction u/s 37(1)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="9160" y="1160" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F35uVYqHLGuweMzUuJkv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F35uVYqHLGuweMzUuJkv-8" target="F35uVYqHLGuweMzUuJkv-10" edge="1">
@@ -3002,7 +3002,7 @@
         <mxCell id="04bIQHb-7d6S8CyyfirU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="04bIQHb-7d6S8CyyfirU-4" target="04bIQHb-7d6S8CyyfirU-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="04bIQHb-7d6S8CyyfirU-4" value="For money lending biz" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="04bIQHb-7d6S8CyyfirU-4" value="&lt;div&gt;For money lending &lt;br&gt;&lt;/div&gt;&lt;div&gt;biz&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8530" y="1240" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="04bIQHb-7d6S8CyyfirU-7" value="&lt;div&gt;&lt;u&gt;Condition&lt;/u&gt;&lt;/div&gt;&lt;div&gt;can be AE only if -&lt;/div&gt;&lt;div&gt;debt should have been recorded as an income first&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
