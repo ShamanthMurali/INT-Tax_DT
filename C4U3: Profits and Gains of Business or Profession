@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T07:18:12.466Z" agent="5.0 (X11)" etag="S8nGYoVbJbmrWUrjIkyp" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-24T07:19:40.767Z" agent="5.0 (X11)" etag="OF0WhwrTrxy8mVKPsWiV" version="15.3.0" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="764" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1304" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2327,7 +2327,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-3" value="&lt;div&gt;S40 A(7)&lt;/div&gt;Provisions for Gratuity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="14260" y="1080" width="150" height="40" as="geometry" />
+          <mxGeometry x="14155" y="1080" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-5" target="LtmzHBzeiKG4Y2Plw9Tw-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2360,16 +2360,26 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-16" value="Other disallowances" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="14665" y="1080" width="150" height="40" as="geometry" />
+          <mxGeometry x="14565" y="1080" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-18" value="&lt;div&gt;1. Income Tax&lt;/div&gt;&lt;div&gt;2. contribution to unrecognized funds&lt;/div&gt;&lt;div&gt;3. Tax paid by employer on non-monetary perquisites&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14480" y="1142.5" width="320" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-20" target="LtmzHBzeiKG4Y2Plw9Tw-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="15410" y="1140" />
+              <mxPoint x="15260" y="1140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-20" target="LtmzHBzeiKG4Y2Plw9Tw-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="15410" y="1140" />
+              <mxPoint x="15560" y="1140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-20" target="LtmzHBzeiKG4Y2Plw9Tw-48" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2388,7 +2398,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-20" value="&lt;div&gt;S41&lt;/div&gt;&lt;div&gt;Recoveries etc&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="15435" y="1080" width="150" height="40" as="geometry" />
+          <mxGeometry x="15335" y="1080" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-21" target="LtmzHBzeiKG4Y2Plw9Tw-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2493,7 +2503,7 @@
           <mxGeometry x="15720" y="1227.5" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-56" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;Applicable even if business if closed / transfered&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="15610" y="1080" width="270" height="40" as="geometry" />
+          <mxGeometry x="15520" y="1080" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-57" target="LtmzHBzeiKG4Y2Plw9Tw-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2502,7 +2512,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-57" value="&lt;div&gt;S44AA&lt;/div&gt;&lt;div&gt;Maintenance of books of accounts&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="16485" y="1070" width="150" height="50" as="geometry" />
+          <mxGeometry x="16365" y="1075" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-58" target="LtmzHBzeiKG4Y2Plw9Tw-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2607,7 +2617,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-96" value="&lt;div&gt;S44AB&lt;/div&gt;&lt;div&gt;Tax Audit&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="17500" y="1080" width="120" height="40" as="geometry" />
+          <mxGeometry x="17400" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-97" target="LtmzHBzeiKG4Y2Plw9Tw-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2737,7 +2747,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-131" value="Presumptive Scheme of Taxation " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="18490" y="1080" width="120" height="40" as="geometry" />
+          <mxGeometry x="18390" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dTshGT6JBwKegOeacH-j-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-134" target="dTshGT6JBwKegOeacH-j-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
