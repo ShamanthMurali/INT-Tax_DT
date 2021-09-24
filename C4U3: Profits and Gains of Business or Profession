@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T12:15:36.501Z" agent="5.0 (X11)" etag="wuLiW_AndTLgLyDGSWsR" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-24T06:01:32.991Z" agent="5.0 (X11)" etag="nCAltVEDmYMyyXhg2TLp" version="15.3.0" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
-    <mxGraphModel dx="1492" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1108" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1540,7 +1540,7 @@
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-89" value="Employee contribution to various funds" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7945" y="1100" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-90" value="NE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-90" value="Ignore" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7870" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mLM-LtL2Q0xHhIj2BZRu-92" target="mLM-LtL2Q0xHhIj2BZRu-90" edge="1">
@@ -1557,7 +1557,7 @@
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-94" value="paid by the employer after due date" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8030" y="1180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-97" value="AE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mLM-LtL2Q0xHhIj2BZRu-97" value="treated as income" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8030" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mLM-LtL2Q0xHhIj2BZRu-99" value="Allowances for animals / live stock" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2909,20 +2909,20 @@
         <mxCell id="dTshGT6JBwKegOeacH-j-38" value="Rs. 7500 P.m fixed" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="dTshGT6JBwKegOeacH-j-36" vertex="1">
           <mxGeometry x="200" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aampzdPk4RZTa6jgF8AH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aampzdPk4RZTa6jgF8AH-5" target="2SGUlK4wuWDhd8j0ueTg-52">
+        <mxCell id="aampzdPk4RZTa6jgF8AH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aampzdPk4RZTa6jgF8AH-5" target="2SGUlK4wuWDhd8j0ueTg-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3600" y="1260" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aampzdPk4RZTa6jgF8AH-5" value="start calculating dep on actual cost from the date of conversion even if the asset was personally used for few years, it is not relevant." style="shape=note;strokeWidth=2;fontSize=14;size=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+        <mxCell id="aampzdPk4RZTa6jgF8AH-5" value="start calculating dep on actual cost from the date of conversion even if the asset was personally used for few years, it is not relevant." style="shape=note;strokeWidth=2;fontSize=14;size=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="3460" y="980" width="280" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="aampzdPk4RZTa6jgF8AH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aampzdPk4RZTa6jgF8AH-7" target="2SGUlK4wuWDhd8j0ueTg-144">
+        <mxCell id="aampzdPk4RZTa6jgF8AH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aampzdPk4RZTa6jgF8AH-7" target="2SGUlK4wuWDhd8j0ueTg-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aampzdPk4RZTa6jgF8AH-7" value="&lt;div&gt;went to a &lt;u&gt;hospital&lt;/u&gt; but all 100 beds were full, saw a descent 2 star &lt;u&gt;hotel&lt;/u&gt; near by, thought about getting something to eat. bought &lt;u&gt;cold&lt;/u&gt; &lt;u&gt;sugar&lt;/u&gt; &lt;u&gt;honey&lt;/u&gt; pie, sat next to 2 people to eat who where wearing a &lt;u&gt;fertilizer&lt;/u&gt; company uniform. the 2 people were talking about &lt;u&gt;housing projects at low cost&lt;/u&gt; with &lt;u&gt;gas pipeline&lt;/u&gt; made with &lt;u&gt;iron ore&lt;/u&gt;. but low cost houses are available only in &lt;u&gt;agricultural production&lt;/u&gt; and &lt;u&gt;slums&lt;/u&gt; where &lt;u&gt;infrastructure&lt;/u&gt; is weak.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aampzdPk4RZTa6jgF8AH-7" value="&lt;div&gt;went to a &lt;u&gt;hospital&lt;/u&gt; but all 100 beds were full, saw a descent 2 star &lt;u&gt;hotel&lt;/u&gt; near by, thought about getting something to eat. bought &lt;u&gt;cold&lt;/u&gt; &lt;u&gt;sugar&lt;/u&gt; &lt;u&gt;honey&lt;/u&gt; pie, sat next to 2 people to eat who where wearing a &lt;u&gt;fertilizer&lt;/u&gt; company uniform. the 2 people were talking about &lt;u&gt;housing projects at low cost&lt;/u&gt; with &lt;u&gt;gas pipeline&lt;/u&gt; made with &lt;u&gt;iron ore&lt;/u&gt;. but low cost houses are available only in &lt;u&gt;agricultural production&lt;/u&gt; and &lt;u&gt;slums&lt;/u&gt; where &lt;u&gt;infrastructure&lt;/u&gt; is weak.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5120" y="930" width="320" height="125" as="geometry" />
         </mxCell>
       </root>
