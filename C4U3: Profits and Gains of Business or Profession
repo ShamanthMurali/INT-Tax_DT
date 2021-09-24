@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T07:56:33.687Z" agent="5.0 (X11)" etag="nDiSb8PKgpNuuISm1aOo" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-24T08:32:10.617Z" agent="5.0 (X11)" etag="VzlAO-7fTDN3d29rue8n" version="15.3.0" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
     <mxGraphModel dx="923" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -2421,63 +2421,6 @@
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-26" value="applicable only to power generation and distribution units. since they have SLM depreciation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="15120" y="1230" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-27" value="Example to &#xa;understand" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="15200" y="1300" width="120" height="40" as="geometry">
-            <mxRectangle x="15820" y="1340" width="570" height="420" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-29" target="LtmzHBzeiKG4Y2Plw9Tw-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-29" value="&lt;div&gt;There is a machinery &lt;br&gt;&lt;/div&gt;&lt;div&gt;e.g. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Cost = 100L&lt;/div&gt;&lt;div&gt;depn = 20L&lt;/div&gt;&lt;div&gt;WDV = 80L&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
-          <mxGeometry x="215" y="60" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-30" target="LtmzHBzeiKG4Y2Plw9Tw-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-30" target="LtmzHBzeiKG4Y2Plw9Tw-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="285" y="220" />
-              <mxPoint x="80" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-30" target="LtmzHBzeiKG4Y2Plw9Tw-34" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="285" y="220" />
-              <mxPoint x="480" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-30" value="Sold in third year" style="rounded=1;whiteSpace=wrap;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
-          <mxGeometry x="225" y="162.5" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-32" target="LtmzHBzeiKG4Y2Plw9Tw-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-32" value="&lt;div&gt;Selling price &amp;lt; WDV&lt;/div&gt;75L" style="rounded=1;whiteSpace=wrap;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
-          <mxGeometry x="20" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-33" target="LtmzHBzeiKG4Y2Plw9Tw-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-33" value="&lt;div&gt;SP = WDV&lt;/div&gt;80L" style="rounded=1;whiteSpace=wrap;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
-          <mxGeometry x="225" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-34" value="&lt;div&gt;SP &amp;gt; WDV&lt;/div&gt;90L" style="rounded=1;whiteSpace=wrap;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
-          <mxGeometry x="420" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-38" value="&lt;div&gt;AE&lt;/div&gt;&lt;div&gt;Dr. to P/L as terminal depreciation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
-          <mxGeometry x="20" y="300" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-40" value="Ignore" style="rounded=1;whiteSpace=wrap;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
-          <mxGeometry x="225" y="300" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-42" value="&lt;div&gt;10L depreciation will be offset with 10L profit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; if there is excess it will be AI as capital gains&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
-          <mxGeometry x="420" y="300" width="120" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LtmzHBzeiKG4Y2Plw9Tw-44" target="LtmzHBzeiKG4Y2Plw9Tw-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -3080,6 +3023,66 @@
         </mxCell>
         <mxCell id="04bIQHb-7d6S8CyyfirU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.514;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Yb-PHib6-4cjPT73myfT-39" target="Yb-PHib6-4cjPT73myfT-45">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-27" value="Example to &#xa;understand" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="15200" y="1300" width="120" height="40" as="geometry">
+            <mxRectangle x="15200" y="1300" width="560" height="420" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04bIQHb-7d6S8CyyfirU-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LtmzHBzeiKG4Y2Plw9Tw-27">
+          <mxGeometry y="40" width="560" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-29" target="LtmzHBzeiKG4Y2Plw9Tw-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-29" value="&lt;div&gt;There is a machinery &lt;br&gt;&lt;/div&gt;&lt;div&gt;e.g. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Cost = 100L&lt;/div&gt;&lt;div&gt;depn = 20L&lt;/div&gt;&lt;div&gt;WDV = 80L&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
+          <mxGeometry x="215" y="60" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-30" target="LtmzHBzeiKG4Y2Plw9Tw-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-30" target="LtmzHBzeiKG4Y2Plw9Tw-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="220" />
+              <mxPoint x="80" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-30" target="LtmzHBzeiKG4Y2Plw9Tw-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="220" />
+              <mxPoint x="480" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-30" value="Sold in third year" style="rounded=1;whiteSpace=wrap;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
+          <mxGeometry x="225" y="162.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-32" target="LtmzHBzeiKG4Y2Plw9Tw-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-32" value="&lt;div&gt;Selling price &amp;lt; WDV&lt;/div&gt;75L" style="rounded=1;whiteSpace=wrap;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
+          <mxGeometry x="20" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" source="LtmzHBzeiKG4Y2Plw9Tw-33" target="LtmzHBzeiKG4Y2Plw9Tw-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-33" value="&lt;div&gt;SP = WDV&lt;/div&gt;80L" style="rounded=1;whiteSpace=wrap;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
+          <mxGeometry x="225" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-34" value="&lt;div&gt;SP &amp;gt; WDV&lt;/div&gt;90L" style="rounded=1;whiteSpace=wrap;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
+          <mxGeometry x="420" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-38" value="&lt;div&gt;AE&lt;/div&gt;&lt;div&gt;Dr. to P/L as terminal depreciation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
+          <mxGeometry x="20" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-40" value="Ignore" style="rounded=1;whiteSpace=wrap;html=1;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
+          <mxGeometry x="225" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtmzHBzeiKG4Y2Plw9Tw-42" value="&lt;div&gt;10L depreciation will be offset with 10L profit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; if there is excess it will be AI as capital gains&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="LtmzHBzeiKG4Y2Plw9Tw-27" vertex="1">
+          <mxGeometry x="420" y="300" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
