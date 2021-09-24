@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T16:16:26.633Z" agent="5.0 (X11)" etag="_JG5RSd0GecwXjSFbjUO" version="15.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-24T16:16:51.275Z" agent="5.0 (X11)" etag="DEFrTRE6m4M1chv55hPg" version="15.3.1" type="github">
   <diagram id="BBc7vX-hOuwlMA9yiurs" name="Page-1">
     <mxGraphModel dx="443" dy="237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -2915,7 +2915,7 @@
             <mxRectangle width="200" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dTshGT6JBwKegOeacH-j-38" value="&lt;div&gt;Rs. 7500 &lt;u&gt;&lt;b&gt;P.m per &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;vehicle&lt;/b&gt;&lt;/u&gt; fixed&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="dTshGT6JBwKegOeacH-j-36" vertex="1">
+        <mxCell id="dTshGT6JBwKegOeacH-j-38" value="&lt;div&gt;Rs. 7500 &lt;u&gt;&lt;b&gt;P.m &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;per vehicle&lt;/b&gt;&lt;/u&gt; (fixed)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="dTshGT6JBwKegOeacH-j-36" vertex="1">
           <mxGeometry x="200" width="140" height="50" as="geometry">
             <mxRectangle width="140" height="50" as="alternateBounds" />
           </mxGeometry>
