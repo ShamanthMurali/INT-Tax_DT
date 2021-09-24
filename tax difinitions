@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T06:33:57.547Z" agent="5.0 (X11)" version="15.3.0" etag="1vl-wqfTQ9Dm3f2VLQBG" type="github"><diagram id="K1GKVVej75fs9kKYzh5x">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-24T06:36:37.315Z" agent="5.0 (X11)" etag="D_DDJOIje1M35sX5mgDE" version="15.3.0" type="github">
+  <diagram id="K1GKVVej75fs9kKYzh5x" name="Page-1">
+    <mxGraphModel dx="2228" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FgWIQp5j-dHzYKloVlrt-1" value="(A)Salary = Basic salary + DA(interms only) + Commission on % of turnover " style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-995" y="160" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FgWIQp5j-dHzYKloVlrt-2" value="Types of tax salary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FgWIQp5j-dHzYKloVlrt-3" value="Salary = Basic salary only " style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-995" y="100" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FgWIQp5j-dHzYKloVlrt-4" value="(B)Salary = Basic salary + DA(both) " style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-995" y="220" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FgWIQp5j-dHzYKloVlrt-5" value="Types of relatives" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FgWIQp5j-dHzYKloVlrt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FgWIQp5j-dHzYKloVlrt-6" target="FgWIQp5j-dHzYKloVlrt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgWIQp5j-dHzYKloVlrt-6" value="(A)Relatives" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-350" y="170" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FgWIQp5j-dHzYKloVlrt-7" value="&lt;div&gt;(the following is both dependent and independent)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. spouse&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Brother&lt;/div&gt;&lt;div&gt;3. Sister&lt;/div&gt;&lt;div&gt;4. Any other lineal ascendant or lineal descendant&lt;/div&gt;&lt;div&gt;(lineal ascendant - father,Grand father...&lt;/div&gt;&lt;div&gt;lineal descendant - children, grand children...)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="100" width="200" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
