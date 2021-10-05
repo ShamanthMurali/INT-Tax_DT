@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T07:18:51.904Z" agent="5.0 (X11)" etag="DZ7JaJYoWchhE90An9xU" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T16:56:04.538Z" agent="5.0 (X11)" etag="HJgVvZxzgmpoYcv3HH-H" version="15.4.1" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="5554" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5173" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1373,7 +1373,7 @@
         <mxCell id="Yu6CIILWX2otFXuLDAdN-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yu6CIILWX2otFXuLDAdN-51" target="Yu6CIILWX2otFXuLDAdN-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-51" value="It amounts to relinquishment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-51" value="for purchaser" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2839.959999999999" y="2850" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yu6CIILWX2otFXuLDAdN-52" target="Yu6CIILWX2otFXuLDAdN-53" edge="1">
@@ -2135,16 +2135,16 @@
         <mxCell id="Yu6CIILWX2otFXuLDAdN-324" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;General points for this chapter&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2899.93" y="800" width="400.06" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IksZdo9PwBp1l3EUCJj_-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/oxygen/48x48/actions/no.png" vertex="1" parent="1">
+        <mxCell id="IksZdo9PwBp1l3EUCJj_-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/oxygen/48x48/actions/no.png" parent="1" vertex="1">
           <mxGeometry x="2068" y="1805" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IksZdo9PwBp1l3EUCJj_-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/oxygen/48x48/actions/no.png" vertex="1" parent="1">
+        <mxCell id="IksZdo9PwBp1l3EUCJj_-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/oxygen/48x48/actions/no.png" parent="1" vertex="1">
           <mxGeometry x="2068" y="1885" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IksZdo9PwBp1l3EUCJj_-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/oxygen/48x48/actions/no.png" vertex="1" parent="1">
+        <mxCell id="IksZdo9PwBp1l3EUCJj_-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/oxygen/48x48/actions/no.png" parent="1" vertex="1">
           <mxGeometry x="2187" y="1886" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IksZdo9PwBp1l3EUCJj_-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/oxygen/48x48/actions/no.png" vertex="1" parent="1">
+        <mxCell id="IksZdo9PwBp1l3EUCJj_-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/oxygen/48x48/actions/no.png" parent="1" vertex="1">
           <mxGeometry x="2068" y="1846" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
