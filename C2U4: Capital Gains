@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T12:10:36.274Z" agent="5.0 (X11)" etag="sqPHBTbCu7t8ubFeVJGX" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-12T12:12:45.656Z" agent="5.0 (X11)" etag="97sNDleu2iJgySMqTwA4" version="15.5.1" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="5014" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5358" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,7 +289,7 @@
         <mxCell id="qMrhOpDwRkPrCX5FWaJR-111" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="qMrhOpDwRkPrCX5FWaJR-92" vertex="1">
           <mxGeometry y="240" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qMrhOpDwRkPrCX5FWaJR-112" value="Net short term capital gains" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="qMrhOpDwRkPrCX5FWaJR-111" vertex="1">
+        <mxCell id="qMrhOpDwRkPrCX5FWaJR-112" value="Net Long term capital gains" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="qMrhOpDwRkPrCX5FWaJR-111" vertex="1">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qMrhOpDwRkPrCX5FWaJR-113" value="XXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="qMrhOpDwRkPrCX5FWaJR-111" vertex="1">
