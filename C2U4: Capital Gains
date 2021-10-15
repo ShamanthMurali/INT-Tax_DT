@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T12:12:45.656Z" agent="5.0 (X11)" etag="97sNDleu2iJgySMqTwA4" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-15T06:33:11.953Z" agent="5.0 (X11)" etag="WKbQRXm-tWl9sL3gMsDO" version="15.5.2" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="5358" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5358" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -961,8 +961,8 @@
         <mxCell id="6OCUj3_kCqqJpbCWH9YF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OCUj3_kCqqJpbCWH9YF-3" target="6OCUj3_kCqqJpbCWH9YF-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-410.0900000000002" y="4370" />
-              <mxPoint x="-270.0900000000002" y="4370" />
+              <mxPoint x="-410" y="4400" />
+              <mxPoint x="-265" y="4400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -976,19 +976,24 @@
           <mxGeometry x="-249.9099999999999" y="4130" width="279.82" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6OCUj3_kCqqJpbCWH9YF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OCUj3_kCqqJpbCWH9YF-9" target="6OCUj3_kCqqJpbCWH9YF-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-110" y="4400" />
+              <mxPoint x="-265" y="4400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="6OCUj3_kCqqJpbCWH9YF-9" value="note: if option to claim exception for 2 properties is claimed once, it will not be allowed again in lifetime" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-249.9099999999999" y="4300" width="279.82" height="50" as="geometry" />
+        <mxCell id="6OCUj3_kCqqJpbCWH9YF-9" value="note: if option to claim exception for 2 properties is claimed once, option to claim exemption on 2 properties will not be allowed again in lifetime. however S54 exemption for single property will be availvable" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-249.91" y="4300" width="279.82" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6OCUj3_kCqqJpbCWH9YF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OCUj3_kCqqJpbCWH9YF-11" target="6OCUj3_kCqqJpbCWH9YF-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6OCUj3_kCqqJpbCWH9YF-11" value="&lt;div&gt;&lt;u&gt;amount of exemption&lt;/u&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;capital gains&lt;/div&gt;or&lt;br&gt;investment in new RHP&lt;br&gt;[&lt;u&gt;&lt;b&gt;which ever is less&lt;/b&gt;&lt;/u&gt;]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-350.0900000000002" y="4390" width="160.09" height="90" as="geometry" />
+          <mxGeometry x="-345.0900000000002" y="4426.25" width="160.09" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6OCUj3_kCqqJpbCWH9YF-14" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;lock in period:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;New RHP must not be transferred with in 3 yrs from &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of purchase&lt;/div&gt;&lt;br&gt;&lt;u&gt;If transferred with in 3 years&lt;/u&gt;&lt;br&gt;&lt;div&gt;-&amp;gt; while calculating capital gain of new RHP, amt &lt;br&gt;&lt;/div&gt;&lt;div&gt;exempted earlier has to deducted from &#39;cost of acquisition&#39;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-430.00000000000006" y="4500" width="320" height="130" as="geometry" />
+          <mxGeometry x="-425.00000000000006" y="4536.25" width="320" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6OCUj3_kCqqJpbCWH9YF-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OCUj3_kCqqJpbCWH9YF-23" target="6OCUj3_kCqqJpbCWH9YF-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
