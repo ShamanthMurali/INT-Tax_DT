@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T06:33:11.953Z" agent="5.0 (X11)" etag="WKbQRXm-tWl9sL3gMsDO" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T08:25:18.998Z" agent="5.0 (X11)" etag="f-jq5OKGkGxb5ldmUSr1" version="15.5.4" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="5358" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5358" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -892,7 +892,7 @@
         <mxCell id="4toc84XJHAsPXifJmLsm-188" value="&lt;div&gt;After&lt;/div&gt;&lt;div&gt;01/04/2014&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1579.62" y="2870" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4toc84XJHAsPXifJmLsm-189" value="Such advance money will be deducted from cost / FMV as on 01/04/2001" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4toc84XJHAsPXifJmLsm-189" value="Such advance money will be deducted from cost of acquiition as on 01/04/2001" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="2940" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4toc84XJHAsPXifJmLsm-190" value="Such advance money will be taxable as income from other sources for seller" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
