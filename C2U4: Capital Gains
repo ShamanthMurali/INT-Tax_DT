@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T09:01:30.931Z" agent="5.0 (X11)" etag="pT9G_c3Er6FOHT7gzDCS" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T09:02:00.527Z" agent="5.0 (X11)" etag="crXxJn-NoFQv-kAjFExy" version="15.5.6" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
     <mxGraphModel dx="5014" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -2154,7 +2154,7 @@
         <mxCell id="IksZdo9PwBp1l3EUCJj_-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/oxygen/48x48/actions/no.png" parent="1" vertex="1">
           <mxGeometry x="2068" y="1846" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4CMu04sD0MO5uF0K3Jvr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4CMu04sD0MO5uF0K3Jvr-1" target="4CMu04sD0MO5uF0K3Jvr-3">
+        <mxCell id="4CMu04sD0MO5uF0K3Jvr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4CMu04sD0MO5uF0K3Jvr-1" target="4CMu04sD0MO5uF0K3Jvr-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4CMu04sD0MO5uF0K3Jvr-1" value="Distribution attributable to accumulated profits of the company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2166,14 +2166,14 @@
         <mxCell id="4CMu04sD0MO5uF0K3Jvr-2" value="&lt;div&gt;FVOC =&lt;/div&gt;&lt;div&gt; Money received (+) FMV of assets distributed (-) Deemed dividend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3569.96" y="2940" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4CMu04sD0MO5uF0K3Jvr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4CMu04sD0MO5uF0K3Jvr-3" target="4CMu04sD0MO5uF0K3Jvr-5">
+        <mxCell id="4CMu04sD0MO5uF0K3Jvr-3" value="Taxable under IFOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3394.96" y="3080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4CMu04sD0MO5uF0K3Jvr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4CMu04sD0MO5uF0K3Jvr-5" target="4CMu04sD0MO5uF0K3Jvr-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4CMu04sD0MO5uF0K3Jvr-3" value="Taxable under IFOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3394.96" y="3020" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="4CMu04sD0MO5uF0K3Jvr-5" value="Deemed dividend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3394.96" y="3080" width="120" height="40" as="geometry" />
+          <mxGeometry x="3394.96" y="3020" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4CMu04sD0MO5uF0K3Jvr-7" value="Taxable under Capital Gains" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3589.92" y="3030" width="120" height="40" as="geometry" />
