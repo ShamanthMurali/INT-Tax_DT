@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T09:01:17.003Z" agent="5.0 (X11)" etag="XrjKbfCfGuGiLDQ9QCNN" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T09:01:30.931Z" agent="5.0 (X11)" etag="pT9G_c3Er6FOHT7gzDCS" version="15.5.6" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="7020" dy="1483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5014" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2164,7 +2164,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4CMu04sD0MO5uF0K3Jvr-2" value="&lt;div&gt;FVOC =&lt;/div&gt;&lt;div&gt; Money received (+) FMV of assets distributed (-) Deemed dividend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3569.96" y="2940" width="160" height="60" as="geometry" />
+          <mxGeometry x="3569.96" y="2940" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4CMu04sD0MO5uF0K3Jvr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4CMu04sD0MO5uF0K3Jvr-3" target="4CMu04sD0MO5uF0K3Jvr-5">
           <mxGeometry relative="1" as="geometry" />
@@ -2176,7 +2176,7 @@
           <mxGeometry x="3394.96" y="3080" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4CMu04sD0MO5uF0K3Jvr-7" value="Taxable under Capital Gains" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3589.92" y="3020" width="120" height="40" as="geometry" />
+          <mxGeometry x="3589.92" y="3030" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
