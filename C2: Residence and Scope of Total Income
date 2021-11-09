@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T06:40:31.871Z" agent="5.0 (X11)" etag="MulNnMbSLhDE11-ufy1a" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T13:15:26.956Z" agent="5.0 (X11)" etag="1pe6Mx6Atz1PWWSiZwqn" version="15.7.0" type="github">
   <diagram id="K5n5NKEANw-pBPn6umjL" name="Page-1">
-    <mxGraphModel dx="2922" dy="2088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1614" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,13 +40,13 @@
         <mxCell id="KgAVV6lW44p59MItbvFm-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="KgAVV6lW44p59MItbvFm-4" vertex="1">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-6" value="&lt;b&gt;a&lt;/b&gt;. stays in India for 182 days(6 months) or more in PY" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-5" vertex="1">
+        <mxCell id="KgAVV6lW44p59MItbvFm-6" value="&lt;b&gt;a&lt;/b&gt;. stays in India for 182 days(~6 months) or more in PY" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-5" vertex="1">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="KgAVV6lW44p59MItbvFm-4" vertex="1">
           <mxGeometry y="40" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-8" value="&lt;div&gt;&lt;b&gt;b&lt;/b&gt;. stays in india for 60* days &lt;br&gt;&lt;/div&gt;&lt;div&gt;and &lt;br&gt;&lt;/div&gt;&lt;div&gt;stays in india for minimum 365 days(1 year) &lt;br&gt;&lt;/div&gt;&lt;div&gt;during 4 preceding PY&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-7" vertex="1">
+        <mxCell id="KgAVV6lW44p59MItbvFm-8" value="&lt;div&gt;&lt;b&gt;b&lt;/b&gt;. stays in india for 60* days &lt;br&gt;&lt;/div&gt;&lt;div&gt;and &lt;br&gt;&lt;/div&gt;&lt;div&gt;stays in india for minimum 365 days(~1 year) &lt;br&gt;&lt;/div&gt;&lt;div&gt;during 4 preceding PY&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-7" vertex="1">
           <mxGeometry width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-13" value="&lt;div&gt;resident and&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ordinary resident&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
@@ -67,7 +67,7 @@
         <mxCell id="KgAVV6lW44p59MItbvFm-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="KgAVV6lW44p59MItbvFm-17" vertex="1">
           <mxGeometry width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-19" value="&lt;div&gt;1. stays in India for minimum 730 days(2 years) during 7 preceding PY&lt;/div&gt;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;resident in minimum 2 years out of 10 &lt;br&gt;&lt;/div&gt;&lt;div&gt;preceding PY&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-18" vertex="1">
+        <mxCell id="KgAVV6lW44p59MItbvFm-19" value="&lt;div&gt;1. stays in India for minimum 730 days(~2 years) during 7 preceding PY&lt;/div&gt;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;resident in minimum 2 years out of 10 &lt;br&gt;&lt;/div&gt;&lt;div&gt;preceding PY&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-18" vertex="1">
           <mxGeometry width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-24" value="who is not ordinary" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
@@ -580,34 +580,34 @@
         <mxCell id="KgAVV6lW44p59MItbvFm-189" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-185" vertex="1">
           <mxGeometry x="300" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6E5m2KCSQp2ikzoU_iB-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-174">
+        <mxCell id="e6E5m2KCSQp2ikzoU_iB-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="KgAVV6lW44p59MItbvFm-174" vertex="1">
           <mxGeometry y="480" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6E5m2KCSQp2ikzoU_iB-13" value="&lt;div&gt;3. Controlled o/s India&lt;/div&gt;&lt;div&gt;received o/s Indis&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="e6E5m2KCSQp2ikzoU_iB-12">
+        <mxCell id="e6E5m2KCSQp2ikzoU_iB-13" value="&lt;div&gt;3. Controlled o/s India&lt;/div&gt;&lt;div&gt;received o/s Indis&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="e6E5m2KCSQp2ikzoU_iB-12" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6E5m2KCSQp2ikzoU_iB-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="e6E5m2KCSQp2ikzoU_iB-12">
+        <mxCell id="e6E5m2KCSQp2ikzoU_iB-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="e6E5m2KCSQp2ikzoU_iB-12" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6E5m2KCSQp2ikzoU_iB-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="e6E5m2KCSQp2ikzoU_iB-12">
+        <mxCell id="e6E5m2KCSQp2ikzoU_iB-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="e6E5m2KCSQp2ikzoU_iB-12" vertex="1">
           <mxGeometry x="240" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6E5m2KCSQp2ikzoU_iB-16" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="e6E5m2KCSQp2ikzoU_iB-12">
+        <mxCell id="e6E5m2KCSQp2ikzoU_iB-16" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="e6E5m2KCSQp2ikzoU_iB-12" vertex="1">
           <mxGeometry x="300" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6E5m2KCSQp2ikzoU_iB-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="KgAVV6lW44p59MItbvFm-174">
+        <mxCell id="e6E5m2KCSQp2ikzoU_iB-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="KgAVV6lW44p59MItbvFm-174" vertex="1">
           <mxGeometry y="520" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6E5m2KCSQp2ikzoU_iB-8" value="&lt;div&gt;4. Controlled in India&lt;/div&gt;&lt;div&gt;received o/s India&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="e6E5m2KCSQp2ikzoU_iB-7">
+        <mxCell id="e6E5m2KCSQp2ikzoU_iB-8" value="&lt;div&gt;4. Controlled in India&lt;/div&gt;&lt;div&gt;received o/s India&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="e6E5m2KCSQp2ikzoU_iB-7" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6E5m2KCSQp2ikzoU_iB-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="e6E5m2KCSQp2ikzoU_iB-7">
+        <mxCell id="e6E5m2KCSQp2ikzoU_iB-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="e6E5m2KCSQp2ikzoU_iB-7" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6E5m2KCSQp2ikzoU_iB-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="e6E5m2KCSQp2ikzoU_iB-7">
+        <mxCell id="e6E5m2KCSQp2ikzoU_iB-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="e6E5m2KCSQp2ikzoU_iB-7" vertex="1">
           <mxGeometry x="240" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6E5m2KCSQp2ikzoU_iB-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" vertex="1" parent="e6E5m2KCSQp2ikzoU_iB-7">
+        <mxCell id="e6E5m2KCSQp2ikzoU_iB-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="e6E5m2KCSQp2ikzoU_iB-7" vertex="1">
           <mxGeometry x="300" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-180" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="KgAVV6lW44p59MItbvFm-174" vertex="1">
@@ -733,7 +733,7 @@
         <mxCell id="KgAVV6lW44p59MItbvFm-287" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="KgAVV6lW44p59MItbvFm-276" vertex="1">
           <mxGeometry y="40" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-288" value="&lt;div&gt;Applies to - person of indian origin, visiting india.&lt;/div&gt;&lt;div&gt;1. If indian Income &amp;gt; 15 lakhs&lt;/div&gt;&lt;div&gt;2. is not covered by exception to basic condition &lt;b&gt;b&lt;/b&gt;&lt;/div&gt;3. but in basic condition b use 120 days instead of 60* days" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-287" vertex="1">
+        <mxCell id="KgAVV6lW44p59MItbvFm-288" value="&lt;div&gt;Applies to - person of indian origin, visiting india.&lt;/div&gt;&lt;div&gt;1. If indian Income &amp;gt; 15 lakhs&lt;/div&gt;&lt;div&gt;2. is not covered by exception to basic condition &lt;b&gt;b&lt;/b&gt;&lt;/div&gt;3. but in basic condition b use 120 days(~4 months) instead of 60* days" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-287" vertex="1">
           <mxGeometry width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6wn4p7rOZMJTlN6ikmox-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="KgAVV6lW44p59MItbvFm-276" vertex="1">
@@ -782,16 +782,16 @@
         <mxCell id="6wn4p7rOZMJTlN6ikmox-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;sketch=1;" parent="1" source="KgAVV6lW44p59MItbvFm-38" target="6wn4p7rOZMJTlN6ikmox-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6E5m2KCSQp2ikzoU_iB-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/check-tick-mark-correct-choose-128.png;sketch=1;" vertex="1" parent="1">
+        <mxCell id="e6E5m2KCSQp2ikzoU_iB-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/check-tick-mark-correct-choose-128.png;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="1370" y="880" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6E5m2KCSQp2ikzoU_iB-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/check-tick-mark-correct-choose-128.png;sketch=1;" vertex="1" parent="1">
+        <mxCell id="e6E5m2KCSQp2ikzoU_iB-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/check-tick-mark-correct-choose-128.png;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="1310" y="960" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6E5m2KCSQp2ikzoU_iB-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/check-tick-mark-correct-choose-128.png;sketch=1;" vertex="1" parent="1">
+        <mxCell id="e6E5m2KCSQp2ikzoU_iB-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/check-tick-mark-correct-choose-128.png;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="1310" y="1000" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6E5m2KCSQp2ikzoU_iB-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/check-tick-mark-correct-choose-128.png;sketch=1;" vertex="1" parent="1">
+        <mxCell id="e6E5m2KCSQp2ikzoU_iB-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/check-tick-mark-correct-choose-128.png;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="1370" y="1000" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
