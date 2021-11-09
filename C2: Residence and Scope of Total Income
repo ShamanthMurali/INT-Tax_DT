@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T13:15:26.956Z" agent="5.0 (X11)" etag="1pe6Mx6Atz1PWWSiZwqn" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T13:31:40.063Z" agent="5.0 (X11)" etag="9q6dXpRL6HlHpoaGuIkU" version="15.7.0" type="github">
   <diagram id="K5n5NKEANw-pBPn6umjL" name="Page-1">
-    <mxGraphModel dx="1614" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1479" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,13 +40,13 @@
         <mxCell id="KgAVV6lW44p59MItbvFm-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="KgAVV6lW44p59MItbvFm-4" vertex="1">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-6" value="&lt;b&gt;a&lt;/b&gt;. stays in India for 182 days(~6 months) or more in PY" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-5" vertex="1">
+        <mxCell id="KgAVV6lW44p59MItbvFm-6" value="&lt;b&gt;a&lt;/b&gt;. stays in India for 182 days(~6 months) or more in PY; &lt;u&gt;&lt;b&gt;OR&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-5" vertex="1">
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="KgAVV6lW44p59MItbvFm-4" vertex="1">
           <mxGeometry y="40" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-8" value="&lt;div&gt;&lt;b&gt;b&lt;/b&gt;. stays in india for 60* days &lt;br&gt;&lt;/div&gt;&lt;div&gt;and &lt;br&gt;&lt;/div&gt;&lt;div&gt;stays in india for minimum 365 days(~1 year) &lt;br&gt;&lt;/div&gt;&lt;div&gt;during 4 preceding PY&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-7" vertex="1">
+        <mxCell id="KgAVV6lW44p59MItbvFm-8" value="&lt;div&gt;&lt;b&gt;b&lt;/b&gt;. stays in india for 60* days in the PY&lt;br&gt;&lt;/div&gt;&lt;div&gt;and &lt;br&gt;&lt;/div&gt;&lt;div&gt;stays in india for minimum 365 days(~1 year) &lt;br&gt;&lt;/div&gt;&lt;div&gt;during 4 preceding PY&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-7" vertex="1">
           <mxGeometry width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-13" value="&lt;div&gt;resident and&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ordinary resident&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
@@ -139,8 +139,8 @@
         <mxCell id="KgAVV6lW44p59MItbvFm-49" value="Always an indian resident" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-55" value="&lt;div&gt;If &lt;b&gt;place of effective management&lt;/b&gt;&lt;/div&gt;&lt;div&gt;In india - Indian resident&lt;/div&gt;&lt;div&gt;outside india - non resident&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="140" width="200" height="50" as="geometry" />
+        <mxCell id="KgAVV6lW44p59MItbvFm-55" value="&lt;div&gt;If &lt;b&gt;place of effective management is&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;In india - Indian resident&lt;/div&gt;&lt;div&gt;outside india - non resident&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="140" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;" parent="1" source="KgAVV6lW44p59MItbvFm-59" target="KgAVV6lW44p59MItbvFm-65" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -375,17 +375,9 @@
         <mxCell id="KgAVV6lW44p59MItbvFm-152" value="&lt;div&gt;10. fees for technical services payable by&lt;div&gt;-&amp;gt; govt to non resident&lt;/div&gt;&lt;div&gt;-&amp;gt; Resident to non resident&lt;/div&gt;&lt;div&gt;-&amp;gt; non resident to non resident&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-151" vertex="1">
           <mxGeometry width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-167" value="" style="swimlane;startSize=20;sketch=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="870" y="1450" width="20" height="20" as="geometry">
-            <mxRectangle x="870" y="1450" width="200" height="110" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-168" value="&lt;div&gt;1.&amp;nbsp; if NR used intellectual property rights to carry out biz or profession in india&lt;/div&gt;&lt;div&gt;2.  if NR used intellectual property to earn any other income in india&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="KgAVV6lW44p59MItbvFm-167" vertex="1">
-          <mxGeometry y="20" width="200" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-170" value="" style="swimlane;startSize=20;sketch=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="870" y="1520" width="20" height="20" as="geometry">
-            <mxRectangle x="870" y="1520" width="200" height="110" as="alternateBounds" />
+          <mxGeometry x="861" y="1528" width="20" as="geometry">
+            <mxRectangle x="861" y="1528" width="200" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-171" value="&lt;div&gt;1.&amp;nbsp; if NR, any technical services given to carry out biz or profession in india&lt;/div&gt;&lt;div&gt;2.  if NR, any technical services given to earn any other income in india&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="KgAVV6lW44p59MItbvFm-170" vertex="1">
@@ -583,7 +575,7 @@
         <mxCell id="e6E5m2KCSQp2ikzoU_iB-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="KgAVV6lW44p59MItbvFm-174" vertex="1">
           <mxGeometry y="480" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6E5m2KCSQp2ikzoU_iB-13" value="&lt;div&gt;3. Controlled o/s India&lt;/div&gt;&lt;div&gt;received o/s Indis&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="e6E5m2KCSQp2ikzoU_iB-12" vertex="1">
+        <mxCell id="e6E5m2KCSQp2ikzoU_iB-13" value="&lt;div&gt;3. Controlled o/s India&lt;/div&gt;&lt;div&gt;received o/s India&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="e6E5m2KCSQp2ikzoU_iB-12" vertex="1">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e6E5m2KCSQp2ikzoU_iB-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="e6E5m2KCSQp2ikzoU_iB-12" vertex="1">
@@ -733,13 +725,13 @@
         <mxCell id="KgAVV6lW44p59MItbvFm-287" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="KgAVV6lW44p59MItbvFm-276" vertex="1">
           <mxGeometry y="40" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KgAVV6lW44p59MItbvFm-288" value="&lt;div&gt;Applies to - person of indian origin, visiting india.&lt;/div&gt;&lt;div&gt;1. If indian Income &amp;gt; 15 lakhs&lt;/div&gt;&lt;div&gt;2. is not covered by exception to basic condition &lt;b&gt;b&lt;/b&gt;&lt;/div&gt;3. but in basic condition b use 120 days(~4 months) instead of 60* days" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-287" vertex="1">
+        <mxCell id="KgAVV6lW44p59MItbvFm-288" value="&lt;div&gt;Applies to - person of indian origin, visiting india.&lt;/div&gt;&lt;div&gt;1. If indian Income &amp;gt; 15 lakhs&lt;/div&gt;&lt;div&gt;2. is not covered by exception to basic condition &lt;b&gt;b&lt;/b&gt;&lt;/div&gt;3. but in basic condition &lt;b&gt;b&lt;/b&gt; use 120 days(~4 months) instead of 60* days" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="KgAVV6lW44p59MItbvFm-287" vertex="1">
           <mxGeometry width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6wn4p7rOZMJTlN6ikmox-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="KgAVV6lW44p59MItbvFm-276" vertex="1">
           <mxGeometry y="120" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6wn4p7rOZMJTlN6ikmox-2" value="&lt;div&gt;1. indian income &amp;gt; 15 lakhs&lt;/div&gt;&lt;div&gt;2. not a resident in any country&lt;/div&gt;&lt;div&gt;3. shall be deemed to resident and not ordinary resident in india&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="6wn4p7rOZMJTlN6ikmox-1" vertex="1">
+        <mxCell id="6wn4p7rOZMJTlN6ikmox-2" value="&lt;div&gt;1. Indian income &amp;gt; 15 lakhs&lt;/div&gt;&lt;div&gt;2. not a resident in any country&lt;/div&gt;&lt;div&gt;3. shall be deemed to be a resident and not &lt;br&gt;&lt;/div&gt;&lt;div&gt;ordinary resident in india&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="6wn4p7rOZMJTlN6ikmox-1" vertex="1">
           <mxGeometry width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KgAVV6lW44p59MItbvFm-285" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0066CC;entryX=1.009;entryY=0.778;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;" parent="1" source="KgAVV6lW44p59MItbvFm-7" edge="1">
@@ -770,7 +762,7 @@
         <mxCell id="6wn4p7rOZMJTlN6ikmox-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="6wn4p7rOZMJTlN6ikmox-4" vertex="1">
           <mxGeometry y="40" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6wn4p7rOZMJTlN6ikmox-8" value="Onboard = number of days between entering and signing from a continues discharge certificate" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="6wn4p7rOZMJTlN6ikmox-7" vertex="1">
+        <mxCell id="6wn4p7rOZMJTlN6ikmox-8" value="Onboard = number of days between entering and signing off from a continues discharge certificate" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="6wn4p7rOZMJTlN6ikmox-7" vertex="1">
           <mxGeometry width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6wn4p7rOZMJTlN6ikmox-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="6wn4p7rOZMJTlN6ikmox-4" vertex="1">
@@ -793,6 +785,14 @@
         </mxCell>
         <mxCell id="e6E5m2KCSQp2ikzoU_iB-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-4/50/check-tick-mark-correct-choose-128.png;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="1370" y="1000" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-167" value="" style="swimlane;startSize=20;sketch=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="862" y="1458" width="16" as="geometry">
+            <mxRectangle x="862" y="1458" width="200" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgAVV6lW44p59MItbvFm-168" value="&lt;div&gt;1.&amp;nbsp; if NR used intellectual property rights to carry out biz or profession in india&lt;/div&gt;&lt;div&gt;2.  if NR used intellectual property to earn any other income in india&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="KgAVV6lW44p59MItbvFm-167" vertex="1">
+          <mxGeometry y="20" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
