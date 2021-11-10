@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T06:38:58.754Z" agent="5.0 (X11)" etag="Ml_kXzDMe40u3ijPsi65" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T06:44:27.609Z" agent="5.0 (X11)" etag="mThHpp1PAXPpkzXeE_CI" version="15.7.1" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="4879" dy="1358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4879" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -398,7 +398,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SCkrLlL9JAq3i_Rq79N_-38" value="&lt;div&gt;Max limit = Rs.5,000&lt;/div&gt;&lt;div&gt;For self, spouse, dependent children,&lt;/div&gt;&lt;div&gt; and parents conbined&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SCkrLlL9JAq3i_Rq79N_-38" value="&lt;div&gt;Max limit = Rs.5,000&lt;/div&gt;&lt;div&gt;For self, spouse, dependent children,&lt;/div&gt;&lt;div&gt; and parents combined&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-460" y="-305.29999999999995" width="220" height="53.12" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-1" target="AutyHtLMTu33dElgbt3u-2" edge="1">
