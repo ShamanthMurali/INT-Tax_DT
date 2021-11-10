@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T09:17:15.591Z" agent="5.0 (X11)" etag="Jsb7F_4gNxc6wINUYrwX" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T19:20:20.716Z" agent="5.0 (X11)" etag="5WL62azWlHe4SuInEN9A" version="15.7.1" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="4879" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4778" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -500,11 +500,11 @@
         <mxCell id="AutyHtLMTu33dElgbt3u-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-40" target="AutyHtLMTu33dElgbt3u-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-40" value="&lt;div&gt;Deduction for additional &lt;br&gt;&lt;/div&gt;&lt;div&gt;contribution to NPS &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1440" y="-60" width="200" height="40" as="geometry" />
+        <mxCell id="AutyHtLMTu33dElgbt3u-40" value="&lt;div&gt;Deduction for additional &lt;br&gt;&lt;/div&gt;&lt;div&gt;contribution to NPS &lt;/div&gt;&lt;div&gt;(i.e. for contribution made in excess of 10% of (C)Salary)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1440" y="-60" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-41" value="&lt;div&gt;Max deduction = &lt;br&gt;&lt;/div&gt;&lt;div&gt;Rs.50,000&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1425" width="170" height="40" as="geometry" />
+          <mxGeometry x="-1425" y="30.619999999999997" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-49" value="&lt;b&gt;80CCD(1)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1650" y="-520" width="120" height="40" as="geometry" />
