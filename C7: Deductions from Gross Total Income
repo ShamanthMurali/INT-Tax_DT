@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T06:20:10.134Z" agent="5.0 (X11)" etag="p3ZNjnXf4NxCPH11ccvU" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T06:22:20.730Z" agent="5.0 (X11)" etag="TY4GDPypX-hT4hiTjbnS" version="15.7.1" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="5014" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5358" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,8 @@
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-2" value="Deductions From Gross Total Income" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="284" y="-1100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="luG6lhqMQ6UnaRHhKzpp-3" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Restrictions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Deductions cannot exceed Gross Total Income(GTI)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Deductions are not allowed against &lt;br&gt;&lt;/div&gt;&lt;div&gt;a. winnings &lt;br&gt;&lt;/div&gt;&lt;div&gt;b. short term and long term capital gains&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Deductions are available only if assesse files his return of income within due date, else not available.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. If deduction under 35AD{Specified biz} is claimed then no deduction will be allowed under deductions chapter and visa versa&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Deductions Cannot be carried forward&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="164" y="-1040" width="360" height="230" as="geometry" />
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-3" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Restrictions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Deductions cannot exceed Gross Total Income(GTI)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Deductions are not allowed against &lt;br&gt;&lt;/div&gt;&lt;div&gt;a. winnings &lt;br&gt;&lt;/div&gt;&lt;div&gt;b. short term and long term capital gains&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Deductions are available only if assesse files his return of income within due date, else not available.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. If deduction under 35AD{Specified biz} is claimed then no deduction will be allowed under &quot;deduction for certain incomes&quot;(i.e.80TTA,80TTB,80QQB,80RRB) and visa versa&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Deductions Cannot be carried forward&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="164" y="-1040" width="360" height="240" as="geometry" />
         </mxCell>
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80C&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2820" y="-560" width="120" height="40" as="geometry" />
