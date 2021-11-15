@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T11:42:50.298Z" agent="5.0 (X11)" etag="t_2tF_XVNSV9wUTop1X0" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T11:46:41.362Z" agent="5.0 (X11)" etag="2O490c81BoI2CTJOpg0z" version="15.7.3" type="github">
   <diagram id="cZ-OBQkrPqedbTf_Qrwv" name="Page-1">
-    <mxGraphModel dx="1378" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5250" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,7 @@
         <mxCell id="6-gWbVQKf--h3hzQ_liX-50" value="T4 = 100% of estimated income for full year - T3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="6-gWbVQKf--h3hzQ_liX-38" vertex="1">
           <mxGeometry x="320" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6-gWbVQKf--h3hzQ_liX-52" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. For Assesses who opt of presumptive scheme u/s &lt;br&gt;&lt;/div&gt;&lt;div&gt;44AD / 44ADA can pay entire advance tax 100% in last installment which is on due date 15 - march.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. If last&lt;span style=&quot;white-space: pre&quot;&gt; day to pay advance tax is a holiday then advance&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt; tax paid on the next working day is also accepted&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="6-gWbVQKf--h3hzQ_liX-52" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. For Assesses who opt for presumptive scheme u/s &lt;br&gt;&lt;/div&gt;&lt;div&gt;44AD / 44ADA can pay entire advance tax 100% in last installment which is on due date 15 - march.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. If last&lt;span style=&quot;white-space: pre&quot;&gt; day to pay advance tax is a holiday then advance&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt; tax paid on the next working day is also accepted&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="240" y="820" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="6-gWbVQKf--h3hzQ_liX-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6-gWbVQKf--h3hzQ_liX-53" target="6-gWbVQKf--h3hzQ_liX-54" edge="1">
