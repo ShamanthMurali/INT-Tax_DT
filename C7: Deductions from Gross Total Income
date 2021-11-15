@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T19:24:30.711Z" agent="5.0 (X11)" etag="QctTRLBPZVxM92mNupuF" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T11:19:18.365Z" agent="5.0 (X11)" etag="JUCRnQkrutsNiSWrXYH5" version="15.7.3" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="4778" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5004" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -722,8 +722,8 @@
         <mxCell id="AutyHtLMTu33dElgbt3u-125" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Sanction period - 1/4/19 to 31/3/23&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Loan must be taken from any financial institutions or NBFC&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2240" y="-312.17999999999995" width="240" height="92.18" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-126" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Period of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Upto to tenure of loan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Amount of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Max Rs.1,50,000&lt;/div&gt;&lt;div&gt;(this deduction is over and above deduction u/s 24)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Loan must be taken from any financial institutions or NBFC&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2240" y="-200.62" width="240" height="151.24" as="geometry" />
+        <mxCell id="AutyHtLMTu33dElgbt3u-126" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Period of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Upto to tenure of loan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Amount of deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Max Rs.1,50,000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2240" y="-200.62" width="240" height="100.62" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-127" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80TTA&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-255" y="1010" width="120" height="40" as="geometry" />
@@ -872,7 +872,7 @@
         <mxCell id="AutyHtLMTu33dElgbt3u-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AutyHtLMTu33dElgbt3u-177" target="AutyHtLMTu33dElgbt3u-181" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AutyHtLMTu33dElgbt3u-177" value="&lt;div&gt;Actual limited Donation&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;10% of adjusted Gross total income&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AutyHtLMTu33dElgbt3u-177" value="&lt;div&gt;Actual Donation&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;10% of adjusted Gross total income&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2560" y="439.3800000000001" width="240" height="75" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-181" target="AutyHtLMTu33dElgbt3u-183" edge="1">
@@ -1007,7 +1007,7 @@
         <mxCell id="82HnBPru8leusdAKjhey-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="82HnBPru8leusdAKjhey-40" target="82HnBPru8leusdAKjhey-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="82HnBPru8leusdAKjhey-40" value="&lt;div&gt;Purpose&lt;/div&gt;&lt;div&gt;Rent payment for residential &lt;br&gt;&lt;/div&gt;&lt;div&gt;house property&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="82HnBPru8leusdAKjhey-40" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Rent payment for residential &lt;br&gt;&lt;/div&gt;&lt;div&gt;house property&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3680" y="-390" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82HnBPru8leusdAKjhey-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="82HnBPru8leusdAKjhey-42" target="82HnBPru8leusdAKjhey-43" edge="1">
