@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T11:46:41.362Z" agent="5.0 (X11)" etag="2O490c81BoI2CTJOpg0z" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T11:48:58.199Z" agent="5.0 (X11)" etag="epeEmod6xaRxeNiI_5cR" version="15.7.3" type="github">
   <diagram id="cZ-OBQkrPqedbTf_Qrwv" name="Page-1">
-    <mxGraphModel dx="5250" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1950" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1047,7 +1047,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g3aFI61yT04o_Ic8j--v-257" value="Seller" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="g3aFI61yT04o_Ic8j--v-257" value="&lt;div&gt;Seller&lt;/div&gt;&lt;u&gt;&lt;b&gt;(Payee)&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1251" y="1829.8" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g3aFI61yT04o_Ic8j--v-258" value="Consideration" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="g3aFI61yT04o_Ic8j--v-259" target="g3aFI61yT04o_Ic8j--v-257" edge="1">
@@ -1058,7 +1058,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g3aFI61yT04o_Ic8j--v-259" value="Buyer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="g3aFI61yT04o_Ic8j--v-259" value="&lt;div&gt;Buyer&lt;/div&gt;&lt;u&gt;&lt;b&gt;(Payer)&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1547" y="1829.8" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g3aFI61yT04o_Ic8j--v-260" value="Liability to deduct TDS on payment of consideration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
