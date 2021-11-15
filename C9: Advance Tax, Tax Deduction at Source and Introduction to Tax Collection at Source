@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T12:19:29.396Z" agent="5.0 (X11)" etag="r0tr2gMPzfk9DeC6O5zq" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T12:21:50.065Z" agent="5.0 (X11)" etag="6gL9u11OS3kB_gt8cJ-W" version="15.7.3" type="github">
   <diagram id="cZ-OBQkrPqedbTf_Qrwv" name="Page-1">
-    <mxGraphModel dx="1290" dy="209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1760" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1320,8 +1320,8 @@
         <mxCell id="g3aFI61yT04o_Ic8j--v-338" value="if payee is not having PAN / Does not give &lt;br&gt;PAN to payer&amp;nbsp;&lt;br&gt;&lt;br&gt;TDS is to be deducted at :&lt;br&gt;Actual Rate&lt;br&gt;or&lt;br&gt;20%&lt;br&gt;&lt;b&gt;&lt;u&gt;[Which ever is higher]&lt;/u&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="4500" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="g3aFI61yT04o_Ic8j--v-339" value="&lt;b&gt;&lt;u&gt;Exception&lt;/u&gt;&lt;/b&gt; :&lt;br&gt;&lt;br&gt;(1) S194O&lt;br&gt;(2) S194IB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="4648" width="160" height="70" as="geometry" />
+        <mxCell id="g3aFI61yT04o_Ic8j--v-339" value="&lt;b&gt;&lt;u&gt;Exception&lt;/u&gt;&lt;/b&gt; :&lt;br&gt;&lt;br&gt;(1) &lt;b&gt;S194O&lt;/b&gt; {Gross sales done through E-commerece Platform w.e.f. 1/10/2020}&lt;br&gt;(2) &lt;b&gt;S194IB&lt;/b&gt; {Payment of rent}" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="95" y="4650" width="430" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
