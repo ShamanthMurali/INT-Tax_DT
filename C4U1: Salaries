@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T13:02:46.098Z" agent="5.0 (X11)" etag="SWj2QMPTqzTPy0kwh_Iz" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T06:15:22.847Z" agent="5.0 (X11)" etag="Riqu44dRALtoz-0ufrRH" version="15.7.3" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="4766" dy="2286" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3421" dy="1429" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1138,12 +1138,6 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-238" value="&lt;u&gt;&lt;b&gt;Types&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3450" y="1440" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-253" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3330" y="1874" as="sourcePoint" />
-            <mxPoint x="3330" y="1540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-254" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3469.5" y="1874" as="sourcePoint" />
@@ -1697,14 +1691,6 @@
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-422" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c50GbscPvQbGEtNQcPzo-414" target="c50GbscPvQbGEtNQcPzo-416" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-414" value="&lt;div&gt;Retrenchment &lt;br&gt;&lt;/div&gt;&lt;div&gt;compensation&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4970" y="1380" width="120" height="40" as="geometry">
-            <mxRectangle x="5040" y="1240" width="160" height="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-415" value="&lt;div&gt;Compensation paid to employee if&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt; he was terminated&lt;/div&gt;&lt;div&gt;&amp;gt; Transferred&lt;/div&gt;&lt;div&gt;&amp;gt; Closure of biz&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="c50GbscPvQbGEtNQcPzo-414" vertex="1">
-          <mxGeometry y="40" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-359" value="&lt;div&gt;Notified &lt;br&gt;&lt;/div&gt;&lt;div&gt;pension scheme&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="4600" y="1380" width="120" height="40" as="geometry">
@@ -3520,8 +3506,46 @@
         <mxCell id="_wYPTKcbGQpicsQG291a-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="3380" y="1720" width="42.5" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="HMmeUl3TLmHebAtuz6Fr-1" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" parent="1">
+        <mxCell id="HMmeUl3TLmHebAtuz6Fr-1" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" parent="1" vertex="1">
           <mxGeometry x="12570" y="-340" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1K0bx8wytjEIDaugkgNl-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Close_Icon-128.png" vertex="1" parent="1">
+          <mxGeometry x="10330" y="-450" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1K0bx8wytjEIDaugkgNl-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Close_Icon-128.png" vertex="1" parent="1">
+          <mxGeometry x="11280" y="-450" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1K0bx8wytjEIDaugkgNl-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Close_Icon-128.png" vertex="1" parent="1">
+          <mxGeometry x="11610" y="-450" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1K0bx8wytjEIDaugkgNl-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Close_Icon-128.png" vertex="1" parent="1">
+          <mxGeometry x="11920" y="-450" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1K0bx8wytjEIDaugkgNl-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Close_Icon-128.png" vertex="1" parent="1">
+          <mxGeometry x="4940" y="1410" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-414" value="&lt;div&gt;Retrenchment &lt;br&gt;&lt;/div&gt;&lt;div&gt;compensation&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="4970" y="1380" width="120" height="40" as="geometry">
+            <mxRectangle x="4970" y="1380" width="160" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c50GbscPvQbGEtNQcPzo-415" value="&lt;div&gt;Compensation paid to employee if&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt; he was terminated&lt;/div&gt;&lt;div&gt;&amp;gt; Transferred&lt;/div&gt;&lt;div&gt;&amp;gt; Closure of biz&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="c50GbscPvQbGEtNQcPzo-414" vertex="1">
+          <mxGeometry y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1K0bx8wytjEIDaugkgNl-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Close_Icon-128.png" vertex="1" parent="1">
+          <mxGeometry x="-1830" y="1220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1K0bx8wytjEIDaugkgNl-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Close_Icon-128.png" vertex="1" parent="1">
+          <mxGeometry x="-670" y="2900" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1K0bx8wytjEIDaugkgNl-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Close_Icon-128.png" vertex="1" parent="1">
+          <mxGeometry x="-670" y="2830" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1K0bx8wytjEIDaugkgNl-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Close_Icon-128.png" vertex="1" parent="1">
+          <mxGeometry x="-670" y="2760" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1K0bx8wytjEIDaugkgNl-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Close_Icon-128.png" vertex="1" parent="1">
+          <mxGeometry x="-670" y="2690" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
