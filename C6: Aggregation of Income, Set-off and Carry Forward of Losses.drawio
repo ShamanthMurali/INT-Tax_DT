@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T07:51:14.702Z" agent="5.0 (X11)" etag="o3LVomowbKFViyk5M0Ee" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T07:52:43.767Z" agent="5.0 (X11)" etag="gHu54b-l_q9kCiddgOzc" version="15.7.4" type="github">
   <diagram id="D8pp1TAPfAaHIgd1MpEE" name="Page-1">
-    <mxGraphModel dx="2216" dy="1986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="764" dy="1406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -356,7 +356,7 @@
         <mxCell id="We-hl39juAuCVzyDzWIm-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="We-hl39juAuCVzyDzWIm-114" target="We-hl39juAuCVzyDzWIm-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="We-hl39juAuCVzyDzWIm-114" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Further Benefits to Unabsorbed depreciation(UAD)&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Brought forward Unabsorbed depreciation can be adjusted against any income (inter source or head adjustments)&lt;/div&gt;&lt;div&gt;Except, salaries and winnings&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="We-hl39juAuCVzyDzWIm-114" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Further Benefits to Unabsorbed depreciation(UAD)&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Brought forward Unabsorbed depreciation can be adjusted against any income (Inter-source or Inter-head adjustments)&lt;/div&gt;&lt;div&gt;Except, salaries and winnings&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="810" y="2970" width="380" height="90" as="geometry" />
         </mxCell>
         <mxCell id="We-hl39juAuCVzyDzWIm-115" value="&lt;div&gt;Important Note:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Unabsorbed Capital expenditure for scientific research and Unabsorbed family planning expense are same as UAD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
