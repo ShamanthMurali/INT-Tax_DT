@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T14:49:01.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="lkmz7CfZl9_H0bR4Gk8B" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T14:49:22.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="nXQrtaIUmuiBkheyLga8" version="16.2.6" type="github">
   <diagram id="cZ-OBQkrPqedbTf_Qrwv" name="Page-1">
-    <mxGraphModel dx="2865" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1355,6 +1355,9 @@
         </mxCell>
         <mxCell id="pZK_O_mWMIREgHxRI95K-7" value="Applies to any buyer who buys goods from a seller(resident) whos aggregate value is &amp;gt; 50 lakhs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6330" y="2080" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZK_O_mWMIREgHxRI95K-8" value="New!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6370" y="1960" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
