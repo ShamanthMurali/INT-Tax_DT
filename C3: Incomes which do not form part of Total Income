@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T15:01:36.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="I-jIbcoyAW6CtqqvityT" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T15:02:41.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="9b2v2oq0RYynl3QNaxYr" version="16.6.4" type="github">
   <diagram id="tkX_X7X4uf3PKcPVVvu6" name="Page-1">
-    <mxGraphModel dx="1108" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="764" dy="1459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,7 +283,7 @@
         <mxCell id="jK9ZKhCZM6BgTrIKqqOC-11" value="S10(7)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-12" value="Allowance and perquisites paid to indian citizen out side india by govt of india for rendering services out side india is exempt.&lt;br&gt;(Indian embassy emp working outside India)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jK9ZKhCZM6BgTrIKqqOC-12" value="Allowance and perquisites paid to indian citizen by govt of india for rendering services out side india is exempt.&lt;br&gt;(Indian embassy emp working outside India)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="380" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jK9ZKhCZM6BgTrIKqqOC-13" value="S10(10BB)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
