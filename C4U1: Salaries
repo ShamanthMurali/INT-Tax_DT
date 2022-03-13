@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T15:32:35.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="z18JPUeB4ZIunOkB44TQ" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T15:34:15.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="eM6xwMMR322jp7Bz3DIV" version="16.6.4" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="3269" dy="1397" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3749" dy="1595" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3653,6 +3653,12 @@
         </mxCell>
         <mxCell id="LlMUiGJyrG9Z0w17X4I_-25" value="Since there is no interest, to calculate the benefit received,&lt;br&gt;1. calculate the interest that would have occurred using the rate of interest p.a. charged by the SBI on the 1st day of relevant PY&lt;br&gt;&lt;br&gt;2. calculate the interest amount on the aggregate outstanding balance at the end of each month&lt;br&gt;&lt;br&gt;3. The Total interest = Total taxable value of perquisite" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="10499" y="-160" width="250" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LlMUiGJyrG9Z0w17X4I_-29" value="Leave travel concession" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12400" y="-240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LlMUiGJyrG9Z0w17X4I_-30" value="Telephone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12580" y="-240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
