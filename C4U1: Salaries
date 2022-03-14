@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T08:18:41.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="HWJyasqjZEbo7JpzkVJ3" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T11:54:44.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="OixIUYOfDi5B7Y_LS-HJ" version="17.1.2" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="4167" dy="1436" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3844" dy="1294" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4065,8 +4065,88 @@
         <mxCell id="yhozM7Od4m4HPniowkzY-65" value="Restriction on &lt;b&gt;&lt;u&gt;Distance&lt;/u&gt;&lt;/b&gt; from origin to destination that will be considered for calculation of&lt;b&gt; &lt;/b&gt;exemption" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-2240" y="1680" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yhozM7Od4m4HPniowkzY-66" value="Exemption is only available for journey undertaken be employee and his family&lt;br&gt;&lt;br&gt;Here family means,&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="-2320" y="1760" width="320" height="70" as="geometry" />
+        <mxCell id="yhozM7Od4m4HPniowkzY-66" value="The shortest route from the origin to the destination will be considered&lt;br&gt;&lt;br&gt;But when the travel involves multiple locations. the shortest route from the origin to the furthest location will be considered" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="-2320" y="1760" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="yhozM7Od4m4HPniowkzY-68" target="yhozM7Od4m4HPniowkzY-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-68" value="Exemption" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2480" y="2520" width="120" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="yhozM7Od4m4HPniowkzY-69" target="yhozM7Od4m4HPniowkzY-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-69" value="Least of the 3 limits :-&lt;br&gt;&lt;br&gt;1. Actual expenses incurred by the employee&lt;br&gt;&lt;br&gt;or&lt;br&gt;&lt;br&gt;2. Amount received from the employer&lt;br&gt;&lt;br&gt;or&lt;br&gt;&lt;br&gt;3. Maximum limit***" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#FFFFFF;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-2520" y="2580" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-71" value="***Maximum limit" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=9;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2560" y="2730" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-72" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" vertex="1" parent="yhozM7Od4m4HPniowkzY-71">
+          <mxGeometry y="30" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-73" value="Journey by Air" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;" vertex="1" parent="yhozM7Od4m4HPniowkzY-72">
+          <mxGeometry width="140" height="26" as="geometry">
+            <mxRectangle width="140" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-74" value="Economy class air fare&lt;br&gt;(National carrier)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;" vertex="1" parent="yhozM7Od4m4HPniowkzY-72">
+          <mxGeometry x="140" width="140" height="26" as="geometry">
+            <mxRectangle width="140" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-75" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" vertex="1" parent="yhozM7Od4m4HPniowkzY-71">
+          <mxGeometry y="56" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-76" value="&lt;span&gt;Journey by Rail&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;" vertex="1" parent="yhozM7Od4m4HPniowkzY-75">
+          <mxGeometry width="140" height="26" as="geometry">
+            <mxRectangle width="140" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-77" value="1st class AC fare&lt;br&gt;(Indian Railways)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;" vertex="1" parent="yhozM7Od4m4HPniowkzY-75">
+          <mxGeometry x="140" width="140" height="26" as="geometry">
+            <mxRectangle width="140" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-78" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" vertex="1" parent="yhozM7Od4m4HPniowkzY-71">
+          <mxGeometry y="82" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-79" value="&lt;span&gt;Journey by any other mode&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;rowspan=1;colspan=2;" vertex="1" parent="yhozM7Od4m4HPniowkzY-78">
+          <mxGeometry width="280" height="26" as="geometry">
+            <mxRectangle width="140" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-80" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;" vertex="1" visible="0" parent="yhozM7Od4m4HPniowkzY-78">
+          <mxGeometry x="140" width="140" height="26" as="geometry">
+            <mxRectangle width="140" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-81" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" vertex="1" parent="yhozM7Od4m4HPniowkzY-71">
+          <mxGeometry y="108" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-82" value="If public transport exists" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;" vertex="1" parent="yhozM7Od4m4HPniowkzY-81">
+          <mxGeometry width="140" height="26" as="geometry">
+            <mxRectangle width="140" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-83" value="1st class / Deluxe class fare" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;" vertex="1" parent="yhozM7Od4m4HPniowkzY-81">
+          <mxGeometry x="140" width="140" height="26" as="geometry">
+            <mxRectangle width="140" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-84" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" vertex="1" parent="yhozM7Od4m4HPniowkzY-71">
+          <mxGeometry y="134" width="280" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-85" value="If public transport does not exist" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;" vertex="1" parent="yhozM7Od4m4HPniowkzY-84">
+          <mxGeometry width="140" height="46" as="geometry">
+            <mxRectangle width="140" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-86" value="1st class AC fare&lt;br&gt;(Indian railways)(considering as if the journey was done by rail)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;" vertex="1" parent="yhozM7Od4m4HPniowkzY-84">
+          <mxGeometry x="140" width="140" height="46" as="geometry">
+            <mxRectangle width="140" height="46" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
