@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T05:38:39.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="MIvJV3maEmf0v2JVE1XD" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T05:39:04.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="CKHRm48iqNK25hemDHeh" version="17.1.2" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
     <mxGraphModel dx="3236" dy="1381" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -3840,17 +3840,38 @@
         <mxCell id="8hcFBuMolrsmV7O6f8fl-59" value="FT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="2580" width="120" height="38.5" as="geometry" />
         </mxCell>
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-70" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-62" target="8hcFBuMolrsmV7O6f8fl-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8hcFBuMolrsmV7O6f8fl-62" value="Keyman insurance policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="2440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-63" target="8hcFBuMolrsmV7O6f8fl-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-63" target="8hcFBuMolrsmV7O6f8fl-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-63" target="8hcFBuMolrsmV7O6f8fl-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8hcFBuMolrsmV7O6f8fl-63" value="Maturity proceeds" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="2500" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-64" target="8hcFBuMolrsmV7O6f8fl-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8hcFBuMolrsmV7O6f8fl-64" value="Employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="2580" width="120" height="38.5" as="geometry" />
         </mxCell>
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-65" target="8hcFBuMolrsmV7O6f8fl-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8hcFBuMolrsmV7O6f8fl-65" value="Family members" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2000" y="2580" width="120" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-66" target="8hcFBuMolrsmV7O6f8fl-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8hcFBuMolrsmV7O6f8fl-66" value="Employer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="2580" width="120" height="38.5" as="geometry" />
