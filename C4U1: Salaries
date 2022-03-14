@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T05:39:04.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="CKHRm48iqNK25hemDHeh" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T06:15:22.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="gXzk649WfckuFyhYdqq0" version="17.1.2" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="3236" dy="1381" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5713" dy="2485" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yhozM7Od4m4HPniowkzY-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2320" width="1200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12900" y="-640" width="360" height="450" as="geometry" />
         </mxCell>
         <mxCell id="EV99y4R6qcVC1a67K6Jq-241" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
@@ -291,7 +294,7 @@
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-122" value="Warden allownace" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1800" y="2070" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-123" target="8hcFBuMolrsmV7O6f8fl-40">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3hAHZB_PdIfAT_Wt45N5-123" target="8hcFBuMolrsmV7O6f8fl-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-123" value="Interim allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1722,7 +1725,7 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-417" value="a. Actual compansation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5010" y="1310" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-418" target="8hcFBuMolrsmV7O6f8fl-29">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c50GbscPvQbGEtNQcPzo-418" target="8hcFBuMolrsmV7O6f8fl-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-418" value="&lt;div&gt;c. `15/26` * average salary * number of year completed service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Average salary = 3 months * (B)Salary&lt;/div&gt;&lt;div&gt;(number of years to be rounded off)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1821,7 +1824,7 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-437" value="&lt;div&gt;Gifts received from employer&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7480" y="-420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-438" target="8hcFBuMolrsmV7O6f8fl-1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c50GbscPvQbGEtNQcPzo-438" target="8hcFBuMolrsmV7O6f8fl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-438" value="Education facility" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2016,7 +2019,7 @@
         <mxCell id="c50GbscPvQbGEtNQcPzo-509" value="&lt;h4&gt;&lt;em style=&quot;color: #0f5690&quot;&gt;- Salary Includes ...&lt;/em&gt;&lt;/h4&gt;                  &lt;ol&gt;&lt;li&gt; basic salary; &lt;/li&gt;&lt;li&gt;DA in terms&lt;br&gt;&lt;/li&gt;&lt;li&gt; bonus; &lt;/li&gt;&lt;li&gt; commission; &lt;/li&gt;&lt;li&gt; fees; &lt;/li&gt;&lt;li&gt; all other taxable allowances (excluding amount not taxable); &lt;/li&gt;&lt;li&gt; any monetary payment which is chargeable to tax &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;                  &lt;h4&gt;&lt;em style=&quot;color: #0f5690&quot;&gt;- Salary Does Not Includes ...&lt;/em&gt;&lt;/h4&gt;                  &lt;ol type=&quot;i&quot;&gt;&lt;li&gt;&amp;nbsp;DA not in terms &lt;br&gt;&lt;/li&gt;&lt;li&gt; employer’s contribution to provident fund account of an employee; &lt;/li&gt;&lt;li&gt;all allowances which are &lt;u&gt;&lt;b&gt;exempt from tax&lt;/b&gt;&lt;/u&gt;; &lt;/li&gt;&lt;li&gt; value of perquisites&lt;br&gt;&lt;/li&gt;&lt;li&gt; lump-sum payments received at the time of &lt;br&gt;termination of service or superannuation or voluntary retirement, like gratuity, severance pay leave encashment, voluntary retrenchment&amp;nbsp; benefits, commutation of pension and similar payments.&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="270" width="360" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="c50GbscPvQbGEtNQcPzo-515">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="c50GbscPvQbGEtNQcPzo-515" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="980" as="targetPoint" />
           </mxGeometry>
@@ -3695,16 +3698,16 @@
         <mxCell id="LlMUiGJyrG9Z0w17X4I_-30" value="Telephone" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12580" y="-240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-1" target="8hcFBuMolrsmV7O6f8fl-3">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-1" target="8hcFBuMolrsmV7O6f8fl-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-1" target="8hcFBuMolrsmV7O6f8fl-2">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-1" target="8hcFBuMolrsmV7O6f8fl-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-1" value="The value of perquisite will be calculated from reasonable cost of education in a similar institute in the similar locality&lt;br&gt;&lt;br&gt;if value of benefit per child" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-1" value="The value of perquisite will be calculated from reasonable cost of education in a similar institute in the similar locality&lt;br&gt;&lt;br&gt;if value of benefit per child" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="8340" y="-360" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-2" target="EV99y4R6qcVC1a67K6Jq-147">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-2" target="EV99y4R6qcVC1a67K6Jq-147" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8580" y="-130" />
@@ -3712,7 +3715,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-2" target="EV99y4R6qcVC1a67K6Jq-148">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-2" target="EV99y4R6qcVC1a67K6Jq-148" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8580" y="-130" />
@@ -3720,170 +3723,198 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-2" value="&amp;gt; 1000 per month" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-2" value="&amp;gt; 1000 per month" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8520" y="-250" width="120" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-3" target="8hcFBuMolrsmV7O6f8fl-4">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-3" target="8hcFBuMolrsmV7O6f8fl-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-3" value="&amp;lt; 1000 per month" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-3" value="&amp;lt; 1000 per month" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8380" y="-250" width="120" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-4" value="Not a perquisite" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-4" value="Not a perquisite" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8380" y="-190" width="120" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-11" target="c50GbscPvQbGEtNQcPzo-231">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8hcFBuMolrsmV7O6f8fl-11" target="c50GbscPvQbGEtNQcPzo-231" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-11" target="c50GbscPvQbGEtNQcPzo-232">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8hcFBuMolrsmV7O6f8fl-11" target="c50GbscPvQbGEtNQcPzo-232" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-11" value="&amp;nbsp;here (A)Salary is the avg of 10 months and ignore months" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-11" value="&amp;nbsp;here (A)Salary is the avg of 10 months and ignore months" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2660" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-29" value="Average here means" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-29" value="Average here means" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="5040" y="1500" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8hcFBuMolrsmV7O6f8fl-29">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="8hcFBuMolrsmV7O6f8fl-29" vertex="1">
           <mxGeometry y="30" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-31" value="if paid in months" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8hcFBuMolrsmV7O6f8fl-30">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-31" value="if paid in months" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8hcFBuMolrsmV7O6f8fl-30" vertex="1">
           <mxGeometry width="115" height="40" as="geometry">
             <mxRectangle width="115" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-32" value="3 month avg" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8hcFBuMolrsmV7O6f8fl-30">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-32" value="3 month avg" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8hcFBuMolrsmV7O6f8fl-30" vertex="1">
           <mxGeometry x="115" width="115" height="40" as="geometry">
             <mxRectangle width="115" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8hcFBuMolrsmV7O6f8fl-29">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="8hcFBuMolrsmV7O6f8fl-29" vertex="1">
           <mxGeometry y="70" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-34" value="if paid in weeks" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8hcFBuMolrsmV7O6f8fl-33">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-34" value="if paid in weeks" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8hcFBuMolrsmV7O6f8fl-33" vertex="1">
           <mxGeometry width="115" height="40" as="geometry">
             <mxRectangle width="115" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-35" value="4 week avg" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8hcFBuMolrsmV7O6f8fl-33">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-35" value="4 week avg" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8hcFBuMolrsmV7O6f8fl-33" vertex="1">
           <mxGeometry x="115" width="115" height="40" as="geometry">
             <mxRectangle width="115" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-36" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="8hcFBuMolrsmV7O6f8fl-29">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-36" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="8hcFBuMolrsmV7O6f8fl-29" vertex="1">
           <mxGeometry y="110" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-37" value="if paid in days" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8hcFBuMolrsmV7O6f8fl-36">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-37" value="if paid in days" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8hcFBuMolrsmV7O6f8fl-36" vertex="1">
           <mxGeometry width="115" height="40" as="geometry">
             <mxRectangle width="115" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-38" value="12 working weeks" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8hcFBuMolrsmV7O6f8fl-36">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-38" value="12 working weeks" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8hcFBuMolrsmV7O6f8fl-36" vertex="1">
           <mxGeometry x="115" width="115" height="40" as="geometry">
             <mxRectangle width="115" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-40" target="3hAHZB_PdIfAT_Wt45N5-122">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-40" target="3hAHZB_PdIfAT_Wt45N5-122" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-40" value="Telephone allowance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-40" value="Telephone allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1800" y="2010" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-43" value="&lt;b&gt;Some perquisites are only taxable to specified employees&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-43" value="&lt;b&gt;Some perquisites are only taxable to specified employees&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12960" y="-540" width="240" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-44" value="1. Facility of servant (this does not include reimbursement but a case where employer directly provider a servant)&lt;br&gt;2. Facility of gas / electricity / water&lt;br&gt;3. Use of motor car&lt;br&gt;4. Free / concessional tickets&lt;br&gt;5. Free / concessional tickets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-44" value="1. Facility of servant (this does not include reimbursement but a case where employer directly provider a servant)&lt;br&gt;2. Facility of gas / electricity / water&lt;br&gt;3. Use of motor car&lt;br&gt;4. Free / concessional tickets&lt;br&gt;5. Free / concessional tickets" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12920" y="-490" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_hastag_hash_tag_sign_UI-128.png" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_hastag_hash_tag_sign_UI-128.png" parent="1" vertex="1">
           <mxGeometry x="12070" y="-460" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_hastag_hash_tag_sign_UI-128.png" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_hastag_hash_tag_sign_UI-128.png" parent="1" vertex="1">
           <mxGeometry x="9580" y="-440" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-47" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_hastag_hash_tag_sign_UI-128.png" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-47" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_hastag_hash_tag_sign_UI-128.png" parent="1" vertex="1">
           <mxGeometry x="9120" y="-440" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-48" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_hastag_hash_tag_sign_UI-128.png" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-48" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_hastag_hash_tag_sign_UI-128.png" parent="1" vertex="1">
           <mxGeometry x="8550" y="-440" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_hastag_hash_tag_sign_UI-128.png" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_hastag_hash_tag_sign_UI-128.png" parent="1" vertex="1">
           <mxGeometry x="13040" y="-630" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-50" value="&lt;b&gt;&lt;u&gt;Specified Employee&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;1. Directors&amp;nbsp; of the company&lt;br&gt;&lt;br&gt;2. Employees who have substantial interest in the company (i.e. employees holding equity shares worth &lt;u&gt;&amp;gt;&lt;/u&gt;20% of voting power)&lt;br&gt;&lt;br&gt;3. Any other employee whos monetary salary is &amp;gt; 50,000 per annum" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-50" value="&lt;b&gt;&lt;u&gt;Specified Employee&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;1. Directors&amp;nbsp; of the company&lt;br&gt;&lt;br&gt;2. Employees who have substantial interest in the company (i.e. employees holding equity shares worth &lt;u&gt;&amp;gt;&lt;/u&gt;20% of voting power)&lt;br&gt;&lt;br&gt;3. Any other employee whos monetary salary is &amp;gt; 50,000 per annum" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="12920" y="-370" width="320" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-53" value="Profits in lieu of salary&lt;br&gt;&lt;br&gt;when employers is some component which cannot be treated as salary, it shall be treated under Profits in lieu(instead) of salary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-53" value="&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Profits in lieu of salary&lt;/b&gt;&lt;/font&gt;&lt;br&gt;when employers is some component which cannot be treated as salary, it shall be treated under Profits in lieu(instead) of salary" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="880" y="2320" width="640" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-54" target="8hcFBuMolrsmV7O6f8fl-55">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-54" target="8hcFBuMolrsmV7O6f8fl-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-54" value="Compensation received" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="2440" width="120" height="38.5" as="geometry" />
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-54" value="Compensation received" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="2440" width="120" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-55" value="&lt;span&gt;Compensation received for -&amp;nbsp;&lt;br&gt;1. termination of his employment&lt;br&gt;(eg. retrenchment compensation)&lt;br&gt;&lt;br&gt;2. modification of terms of employment&lt;br&gt;(eg. VRS compensation)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="2500" width="240" height="100" as="geometry" />
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-55" value="&lt;span&gt;Compensation received for -&amp;nbsp;&lt;br&gt;1. termination of his employment&lt;br&gt;(eg. retrenchment compensation)&lt;br&gt;&lt;br&gt;2. modification of terms of employment&lt;br&gt;(eg. VRS compensation)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="2500" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-60" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-57" target="8hcFBuMolrsmV7O6f8fl-58">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-60" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-57" target="8hcFBuMolrsmV7O6f8fl-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-57" value="Any payments received under unrecognized fund" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="2440" width="120" height="50" as="geometry" />
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-57" value="Any payments received under unrecognized fund" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="2440" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-61" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-58" target="8hcFBuMolrsmV7O6f8fl-59">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-61" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-58" target="8hcFBuMolrsmV7O6f8fl-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-58" value="Employers contribution and interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="2510" width="120" height="50" as="geometry" />
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-58" value="Employers contribution and interest" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="2510" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-59" value="FT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="2580" width="120" height="38.5" as="geometry" />
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-59" value="FT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="2580" width="120" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-70" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-62" target="8hcFBuMolrsmV7O6f8fl-63">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-70" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-62" target="8hcFBuMolrsmV7O6f8fl-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-62" value="Keyman insurance policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="2440" width="120" height="40" as="geometry" />
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-62" value="Keyman insurance policy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="2440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-63" target="8hcFBuMolrsmV7O6f8fl-64">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-63" target="8hcFBuMolrsmV7O6f8fl-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-63" target="8hcFBuMolrsmV7O6f8fl-66">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-63" target="8hcFBuMolrsmV7O6f8fl-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-63" target="8hcFBuMolrsmV7O6f8fl-65">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-63" target="8hcFBuMolrsmV7O6f8fl-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-63" value="Maturity proceeds" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="2500" width="120" height="40" as="geometry" />
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-63" value="Maturity proceeds" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="2500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-64" target="8hcFBuMolrsmV7O6f8fl-67">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-64" target="8hcFBuMolrsmV7O6f8fl-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-64" value="Employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-64" value="Employee" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="2580" width="120" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-65" target="8hcFBuMolrsmV7O6f8fl-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-65" value="Family members" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1680" y="2580" width="120" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-65" target="8hcFBuMolrsmV7O6f8fl-68">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hcFBuMolrsmV7O6f8fl-66" target="8hcFBuMolrsmV7O6f8fl-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-65" value="Family members" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="2580" width="120" height="38.5" as="geometry" />
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-66" value="Employer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="2580" width="120" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hcFBuMolrsmV7O6f8fl-66" target="8hcFBuMolrsmV7O6f8fl-69">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-67" value="FT under profits in lieu of salary" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="2640" width="120" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-66" value="Employer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="2580" width="120" height="38.5" as="geometry" />
-        </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-67" value="FT under profits in lieu of salary" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-68" value="FT under IFOS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1680" y="2640" width="120" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-68" value="FT under IFOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="2640" width="120" height="38.5" as="geometry" />
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-69" value="FT under PGBP since it is business income" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="2640" width="120" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-69" value="FT under PGBP since it is business income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="2640" width="120" height="38.5" as="geometry" />
+        <mxCell id="yhozM7Od4m4HPniowkzY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yhozM7Od4m4HPniowkzY-1" target="yhozM7Od4m4HPniowkzY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-1" value="Lumpsum amount" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="2440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yhozM7Od4m4HPniowkzY-2" target="yhozM7Od4m4HPniowkzY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-2" value="Before Joining&lt;br&gt;&lt;br&gt;or&amp;nbsp;&lt;br&gt;&lt;br&gt;After leaving organization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="2500" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-4" value="FT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="2640" width="120" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="yhozM7Od4m4HPniowkzY-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5250" y="1225.7272727272725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="yhozM7Od4m4HPniowkzY-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5457.272727272726" y="1220.272727272727" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yhozM7Od4m4HPniowkzY-7" value="&lt;font style=&quot;font-size: 12px&quot;&gt;This is also in nature of profits in lieu of salary&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="5190" y="1140" width="330" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
