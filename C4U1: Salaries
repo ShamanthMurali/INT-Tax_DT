@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T10:31:35.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="Je3AmLKIIPLEoAMbQBhP" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T10:51:45.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="4cR0xIoyPnhV7W9VOFwx" version="17.1.2" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
     <mxGraphModel dx="4665" dy="1654" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -908,7 +908,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-160" value="Received after death" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="c50GbscPvQbGEtNQcPzo-160" value="Received after death or retirement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1210" y="1290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-163" value="FT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
