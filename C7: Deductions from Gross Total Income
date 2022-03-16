@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T01:07:35.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="MVbX7s89KpzgoGrfH-tm" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T05:09:58.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="BedYsRujEs9tqhnRA5bY" version="17.1.2" type="github">
   <diagram id="k7LIRmUNweJVJY2Gtqtk" name="Page-1">
-    <mxGraphModel dx="4863" dy="1562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5221" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LvCwuH56f6oIz8fvLHVa-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3560" y="-770" width="7820" height="1560" as="geometry" />
+          <mxGeometry x="-3560" y="-770" width="7820" height="1750" as="geometry" />
         </mxCell>
         <mxCell id="LvCwuH56f6oIz8fvLHVa-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-355" y="830" width="1400" height="940" as="geometry" />
+          <mxGeometry x="-355" y="1118" width="1400" height="940" as="geometry" />
         </mxCell>
         <mxCell id="LvCwuH56f6oIz8fvLHVa-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4" y="1970" width="680" height="980" as="geometry" />
+          <mxGeometry x="4" y="2258" width="680" height="980" as="geometry" />
         </mxCell>
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="luG6lhqMQ6UnaRHhKzpp-2" target="luG6lhqMQ6UnaRHhKzpp-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -52,14 +52,14 @@
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="luG6lhqMQ6UnaRHhKzpp-14" target="luG6lhqMQ6UnaRHhKzpp-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="luG6lhqMQ6UnaRHhKzpp-14" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;List of Investments&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(* - Important)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;**1. life insurance premium (min. term 2 years)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;**2. contribution to public provident fund (PPF)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Unit linked insurance plans (ULIPs) / Mutual funds&amp;nbsp;&lt;/div&gt;&amp;nbsp;(min. term 5 years)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*4. National savings certificate (NSC) (Note 5)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*5. Bonds of NABARD&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. national housing bank tax saving term deposits&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. equity linked savings scheme (ELSS)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. Annuity plan of LIC / Any other insurers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. Deposit schemes of public sector companies&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10. post office term deposit&amp;nbsp;&lt;/div&gt;&amp;nbsp;(min. term 5 years)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;**11. tax saver FD with any bank (Min term 5 years)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;12. Deferred annuity plans&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*13. contribution to recognized provident fund / statutory provident fund /&lt;/div&gt;&lt;div&gt; super annuation fund&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;**14. senior citizen saving scheme&amp;nbsp;&lt;/div&gt;&amp;nbsp;(min. term 5 years)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;15. Additional contribution to notified pension scheme&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;16. Sukanya samridhi Scheme (Note 4)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3210" y="-320" width="440" height="560" as="geometry" />
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-14" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;List of Investments&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(* - Important)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;**1. life insurance premium (min. term 2 years)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Employee welfare&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;**2. contribution to public provident fund (PPF)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;*3. contribution to recognized provident fund / statutory provident fund /&lt;/div&gt;&lt;div&gt;superannuation fund&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;4. Additional contribution by employee to notified pension scheme&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;CG schemes&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;**5. senior citizen saving scheme&amp;nbsp;&lt;/div&gt;&amp;nbsp;(min. term 5 years)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Sukanya samridhi Scheme (Note 4)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Unit linked insurance plans (ULIPs) / Mutual funds&amp;nbsp;&lt;/div&gt;&amp;nbsp;(min. term 5 years)&lt;br&gt;&lt;br&gt;&lt;div&gt;8. equity linked savings scheme (ELSS)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*9. National savings certificate (NSC) (Note 5)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*10. Bonds of NABARD&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;11. Annuity plan of LIC / Any other insurers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;12. Deposit schemes of public sector companies (FD,TermD etc)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;13. post office term deposit&amp;nbsp;&lt;/div&gt;&amp;nbsp;(min. term 5 years)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;**14. tax saver FD with any bank (Min term 5 years)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Housing&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;15. Repayment of any loan borrowed for the purchase or construction of Residential HP&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;16. national housing bank tax saving term deposits&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-3210" y="-320" width="440" height="670" as="geometry" />
         </mxCell>
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="luG6lhqMQ6UnaRHhKzpp-15" target="luG6lhqMQ6UnaRHhKzpp-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="luG6lhqMQ6UnaRHhKzpp-15" value="&lt;div&gt;&lt;u&gt;Notes&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. For First 3 investment, The assessee can claim deduction even if the &lt;br&gt;&lt;/div&gt;&lt;div&gt;investment is taken in the name of the spouse and children&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. HUF can also claim deduction in the name of member.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. In investments&amp;nbsp; 4 to 15, deduction can be claimed by &lt;br&gt;&lt;/div&gt;&lt;div&gt;assessee only if the investment are made in his own name.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. In point 16 deduction is available only if the investment is made in &lt;br&gt;&lt;/div&gt;&lt;div&gt;the name of girl child by assessee(Parent / Guardian).&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;5. interest received on NSC is also taxable as IFOS, but it is allowed &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;as deduction u/s 80C&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3210" y="260" width="440" height="220" as="geometry" />
+        <mxCell id="luG6lhqMQ6UnaRHhKzpp-15" value="&lt;div&gt;&lt;u&gt;Notes&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. For Hash, The assessee can claim deduction even if the &lt;br&gt;&lt;/div&gt;&lt;div&gt;investment is taken in the name of the spouse and children&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. HUF can also claim deduction in the name of member.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. In non hash investments, deduction can be claimed by &lt;br&gt;&lt;/div&gt;&lt;div&gt;assessee only if the investment are made in his own name.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. for sukanya samridhi deduction is available only if the investment is made in &lt;br&gt;&lt;/div&gt;&lt;div&gt;the name of girl child by assessee(Parent / Guardian).&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;5. interest received on NSC is also taxable as IFOS, but it is allowed &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;as deduction u/s 80C&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-3210" y="400" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-18" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;List of Payments&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Tuition fees (Only for individuals)&lt;/div&gt;&lt;div&gt;-&amp;gt; Paid for &lt;u&gt;Full time education in India to any school / college / University&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(Coaching class fee is not allowed).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Repayment of Housing loan of residential house property.&lt;/div&gt;&lt;div&gt;(Only principle component, interest component not allowed)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Stamp duty / registration fee paid on purchase for residential &lt;br&gt;&lt;/div&gt;&lt;div&gt;house property&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2750" y="-320" width="440" height="180" as="geometry" />
@@ -132,7 +132,7 @@
           <mxGeometry x="-3485" y="140" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-47" value="6. Lock in period" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="-3140" y="500" width="300" height="230" as="geometry" />
+          <mxGeometry x="-3140" y="688" width="300" height="230" as="geometry" />
         </mxCell>
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-48" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="luG6lhqMQ6UnaRHhKzpp-47" vertex="1">
           <mxGeometry y="30" width="300" height="40" as="geometry" />
@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-67" value="If lock in period is violated then the amt claimed as deduction will become taxable" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3140" y="690" width="300" height="40" as="geometry" />
+          <mxGeometry x="-3140" y="650" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="luG6lhqMQ6UnaRHhKzpp-68" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80CCC&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2190" y="-555" width="120" height="40" as="geometry" />
@@ -746,52 +746,52 @@
           <mxGeometry x="2240" y="-200.62" width="240" height="100.62" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-127" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80TTA&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-255" y="1010" width="120" height="40" as="geometry" />
+          <mxGeometry x="-255" y="1298" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-129" target="AutyHtLMTu33dElgbt3u-133" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-129" value="Deduction for&lt;br&gt;&lt;div&gt;Interest income on savings bank account&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-315" y="1050" width="240" height="50" as="geometry" />
+          <mxGeometry x="-315" y="1338" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-131" target="AutyHtLMTu33dElgbt3u-135" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-131" value="When Gross total income includes interest on savings bank account [IFOS]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-315" y="1180" width="240" height="60" as="geometry" />
+          <mxGeometry x="-315" y="1468" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-133" target="AutyHtLMTu33dElgbt3u-131" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-133" value="&lt;div&gt;Applicable only to Individuals / HUF&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Except Resident senior citizen)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-315" y="1120" width="240" height="40" as="geometry" />
+          <mxGeometry x="-315" y="1408" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-135" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Such interest&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Max 10,000 in a year&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-315" y="1257.8199999999997" width="240" height="92.18" as="geometry" />
+          <mxGeometry x="-315" y="1545.8199999999997" width="240" height="92.18" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-137" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80TTB&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="25" y="1010" width="120" height="40" as="geometry" />
+          <mxGeometry x="25" y="1298" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-139" target="AutyHtLMTu33dElgbt3u-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-139" value="Deduction for&lt;br&gt;&lt;div&gt;Interest income on Deposits&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-35" y="1050" width="240" height="50" as="geometry" />
+          <mxGeometry x="-35" y="1338" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-141" target="AutyHtLMTu33dElgbt3u-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-141" value="When Gross total income includes interest on deposits (both fixed and savings bank account)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-35" y="1180" width="240" height="60" as="geometry" />
+          <mxGeometry x="-35" y="1468" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AutyHtLMTu33dElgbt3u-143" target="AutyHtLMTu33dElgbt3u-141" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-143" value="&lt;div&gt;Applicable only to Resident senior citizen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-35" y="1120" width="240" height="40" as="geometry" />
+          <mxGeometry x="-35" y="1408" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-144" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Such interest&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Max 50,000 in a year&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-35" y="1257.8199999999997" width="240" height="92.18" as="geometry" />
+          <mxGeometry x="-35" y="1545.8199999999997" width="240" height="92.18" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-145" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80G&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2620" y="-560" width="120" height="40" as="geometry" />
@@ -1007,7 +1007,7 @@
           <mxGeometry x="3400" y="-230" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="82HnBPru8leusdAKjhey-31" value="&lt;div&gt;Max deduction = 10% of adjusted Gross total income&lt;/div&gt;&lt;div&gt;(This limit is for both L100% and L 50% combined)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2580" y="700" width="200" height="70" as="geometry" />
+          <mxGeometry x="2580" y="988" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="82HnBPru8leusdAKjhey-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80GG&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3740" y="-560" width="120" height="40" as="geometry" />
@@ -1151,76 +1151,76 @@
           <mxGeometry x="3940" y="-20" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="82HnBPru8leusdAKjhey-111" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80QQB&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="395" y="1010" width="120" height="40" as="geometry" />
+          <mxGeometry x="395" y="1298" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="82HnBPru8leusdAKjhey-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="82HnBPru8leusdAKjhey-113" target="82HnBPru8leusdAKjhey-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="82HnBPru8leusdAKjhey-113" value="Deduction for&lt;br&gt;&lt;div&gt;Royalty income&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="335" y="1050" width="240" height="50" as="geometry" />
+          <mxGeometry x="335" y="1338" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zKiaUQH5ESMvx983NgXJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="82HnBPru8leusdAKjhey-114" target="zKiaUQH5ESMvx983NgXJ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="82HnBPru8leusdAKjhey-114" value="&lt;div&gt;Applicable only to Resident citizen&lt;/div&gt;&lt;div&gt;(Author)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="335" y="1120" width="240" height="40" as="geometry" />
+          <mxGeometry x="335" y="1408" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80RRB&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="845" y="1010" width="120" height="40" as="geometry" />
+          <mxGeometry x="845" y="1298" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U3PryvBAjiBfe93T8prx-3" target="U3PryvBAjiBfe93T8prx-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-3" value="Deduction for&lt;br&gt;&lt;div&gt;Royalty income from patents&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="785" y="1050" width="240" height="50" as="geometry" />
+          <mxGeometry x="785" y="1338" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U3PryvBAjiBfe93T8prx-4" target="U3PryvBAjiBfe93T8prx-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-4" value="&lt;div&gt;Applicable only to Resident individual &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="785" y="1120" width="240" height="40" as="geometry" />
+          <mxGeometry x="785" y="1408" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U3PryvBAjiBfe93T8prx-5" target="U3PryvBAjiBfe93T8prx-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-5" value="deduction allowed only When Gross total income includes Royalty income from patents" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="785" y="1180" width="240" height="60" as="geometry" />
+          <mxGeometry x="785" y="1468" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Royalty amount&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;max limit Rs.3,00,000&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;amount received in Convertible Foreign Exchange upto 30/09/AY&lt;/div&gt;&lt;div&gt;(only for royalty from abroad)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="785" y="1257.8199999999997" width="240" height="173.27" as="geometry" />
+          <mxGeometry x="785" y="1545.8199999999997" width="240" height="173.27" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;80JJAA&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="284" y="1988.8999999999996" width="120" height="40" as="geometry" />
+          <mxGeometry x="284" y="2276.8999999999996" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U3PryvBAjiBfe93T8prx-11" target="U3PryvBAjiBfe93T8prx-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-11" value="Deduction for&lt;br&gt;&lt;div&gt;employment generation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="224" y="2028.8999999999996" width="240" height="50" as="geometry" />
+          <mxGeometry x="224" y="2316.8999999999996" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U3PryvBAjiBfe93T8prx-13" target="U3PryvBAjiBfe93T8prx-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-13" value="&lt;div&gt;Applicable to All assessee doing business and covered under tax audit&lt;br&gt;&lt;/div&gt;&lt;div&gt;(except profession)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="224" y="2098.8999999999996" width="240" height="60" as="geometry" />
+          <mxGeometry x="224" y="2386.8999999999996" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U3PryvBAjiBfe93T8prx-15" target="U3PryvBAjiBfe93T8prx-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-15" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Conditions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;it should be a new business i.e biz should not be formed out of restructuring or taking over&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="224" y="2178.2799999999997" width="240" height="70.62" as="geometry" />
+          <mxGeometry x="224" y="2466.2799999999997" width="240" height="70.62" as="geometry" />
         </mxCell>
         <mxCell id="LvCwuH56f6oIz8fvLHVa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U3PryvBAjiBfe93T8prx-16" target="LvCwuH56f6oIz8fvLHVa-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3PryvBAjiBfe93T8prx-16" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;30% of additional employee cost**&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="224" y="2268.8999999999996" width="240" height="60" as="geometry" />
+          <mxGeometry x="224" y="2556.8999999999996" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zKiaUQH5ESMvx983NgXJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zKiaUQH5ESMvx983NgXJ-1" target="zKiaUQH5ESMvx983NgXJ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zKiaUQH5ESMvx983NgXJ-1" value="&lt;u&gt;&lt;b&gt;Condition&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;deduction allowed only When Gross total income includes Royalty income&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="335" y="1180" width="240" height="50" as="geometry" />
+          <mxGeometry x="335" y="1468" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zKiaUQH5ESMvx983NgXJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zKiaUQH5ESMvx983NgXJ-3" target="zKiaUQH5ESMvx983NgXJ-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1229,49 +1229,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zKiaUQH5ESMvx983NgXJ-3" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Purpose&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Books must be literacy, artistic, or scientific in nature&lt;/div&gt;&lt;div&gt;(It should not be text books, guides, journals etc.)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="335" y="1250" width="240" height="80" as="geometry" />
+          <mxGeometry x="335" y="1538" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zKiaUQH5ESMvx983NgXJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zKiaUQH5ESMvx983NgXJ-5" target="zKiaUQH5ESMvx983NgXJ-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zKiaUQH5ESMvx983NgXJ-5" value="&lt;div&gt;For royalty based as &lt;br&gt;&lt;/div&gt;&lt;div&gt;a percentage of sale&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="245" y="1369.38" width="120" height="40" as="geometry" />
+          <mxGeometry x="245" y="1657.38" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pu05-ele82kUhyNXNyaG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zKiaUQH5ESMvx983NgXJ-6" target="pu05-ele82kUhyNXNyaG-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zKiaUQH5ESMvx983NgXJ-6" value="&lt;div&gt;For &lt;br&gt;&lt;/div&gt;&lt;div&gt;Lump-sum royalty&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="1369.38" width="120" height="40" as="geometry" />
+          <mxGeometry x="545" y="1657.38" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pu05-ele82kUhyNXNyaG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zKiaUQH5ESMvx983NgXJ-9" target="zKiaUQH5ESMvx983NgXJ-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zKiaUQH5ESMvx983NgXJ-9" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Qualifying amt&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Royalty at actual rate &lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;br&gt;&lt;/div&gt;&lt;div&gt;Max 15%&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="1435.62" width="200" height="105" as="geometry" />
+          <mxGeometry x="205" y="1723.62" width="200" height="105" as="geometry" />
         </mxCell>
         <mxCell id="zKiaUQH5ESMvx983NgXJ-13" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Qualifying amt&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Max 3,00,000&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;amount received in Convertible Foreign Exchange upto 30/09/AY&lt;br&gt;(only for royalty from abroad)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="165" y="1565" width="280" height="185" as="geometry" />
+          <mxGeometry x="165" y="1853" width="280" height="185" as="geometry" />
         </mxCell>
         <mxCell id="pu05-ele82kUhyNXNyaG-3" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Deduction&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Lump-sum amt&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Max 3,00,000&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;amount received in Convertible Foreign Exchange upto 30/09/AY&lt;br&gt;(only for royalty from abroad)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is lower]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="465" y="1432.5" width="280" height="185" as="geometry" />
+          <mxGeometry x="465" y="1720.5" width="280" height="185" as="geometry" />
         </mxCell>
         <mxCell id="pu05-ele82kUhyNXNyaG-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;additional employee cost&lt;/b&gt;&lt;/u&gt;**&lt;/div&gt;&lt;div&gt;Means Salary&lt;sup&gt;(1)&lt;/sup&gt; paid to additional employee&lt;sup&gt;(2)(3)&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;notes&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1) here &lt;u&gt;&lt;b&gt;salary means&lt;/b&gt;&lt;/u&gt;,&lt;/div&gt;&lt;div&gt;all the components of salary except,&lt;/div&gt;&lt;div&gt;a. retirement benefits&lt;/div&gt;&lt;div&gt;b. Employers contribution to various funds&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(2) &lt;u&gt;&lt;b&gt;Additional employee means&lt;/b&gt;&lt;/u&gt; -&lt;/div&gt;&lt;div&gt;1. New employee hired during the year&lt;/div&gt;&lt;div&gt;&lt;u&gt;and&lt;/u&gt;&lt;/div&gt;&lt;div&gt;2. Number of employees has increased at the last date of the year of such hiring&lt;/div&gt;&lt;div&gt;(i.e. Cl.emp &amp;gt; Op.emp)(note: additional employee will be NIL if there is no increase in the number of employees )&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3) &lt;u&gt;&lt;b&gt;Exceptions to additional employee&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Employee salary &amp;gt; 25,000 P.m not allowed&lt;/div&gt;&lt;div&gt;2. Employee worked for &amp;lt; 240* days During the year, then not allowed&lt;br&gt;&lt;/div&gt;&lt;div&gt;(*150 days in case of apparel / Footwear / leather biz)&lt;/div&gt;&lt;div&gt;3. Employee not participating in RPF(i.e. casual/temporary employee) not allowed&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="224" y="2518.9" width="240" height="421.1" as="geometry" />
+          <mxGeometry x="224" y="2806.9" width="240" height="421.1" as="geometry" />
         </mxCell>
         <mxCell id="LvCwuH56f6oIz8fvLHVa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LvCwuH56f6oIz8fvLHVa-1" target="pu05-ele82kUhyNXNyaG-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LvCwuH56f6oIz8fvLHVa-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Duration&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3 years&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Note&lt;/b&gt;&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;1. in the 1st year, salaries can be paid in cash.&lt;/div&gt;&lt;div&gt;2. however from the second year salaries paid through cheque / draft / ECS will be considered&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="224" y="2348.2799999999997" width="240" height="150.62" as="geometry" />
+          <mxGeometry x="224" y="2636.2799999999997" width="240" height="150.62" as="geometry" />
         </mxCell>
         <mxCell id="LvCwuH56f6oIz8fvLHVa-8" value="&lt;font style=&quot;font-size: 100px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 72px&quot;&gt;Deductions for certain payments&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=100;" parent="1" vertex="1">
           <mxGeometry x="-3560" y="-770" width="1535" height="180" as="geometry" />
         </mxCell>
         <mxCell id="LvCwuH56f6oIz8fvLHVa-9" value="&lt;font style=&quot;font-size: 100px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 72px&quot;&gt;Deductions for certain Incomes&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-355" y="830" width="1150" height="160" as="geometry" />
+          <mxGeometry x="-355" y="1118" width="1150" height="160" as="geometry" />
         </mxCell>
         <mxCell id="LvCwuH56f6oIz8fvLHVa-10" value="&lt;font style=&quot;font-size: 100px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 72px&quot;&gt;Other deductions&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4" y="1810" width="680" height="160" as="geometry" />
+          <mxGeometry x="4" y="2098" width="680" height="160" as="geometry" />
         </mxCell>
         <mxCell id="AutyHtLMTu33dElgbt3u-190" value="List of funds Notified" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="2560" y="10.61999999999989" width="240" height="40" as="geometry">
@@ -1292,6 +1292,15 @@
         </mxCell>
         <mxCell id="PRWJ4V5IUGpNh7OyyB_3-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/media-player-long-shadow/50/Fast_Forward-128.png" vertex="1" parent="1">
           <mxGeometry x="1840" y="-570" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PRWJ4V5IUGpNh7OyyB_3-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_hastag_hash_tag_sign_UI-128.png" vertex="1" parent="1">
+          <mxGeometry x="-3160" y="-10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PRWJ4V5IUGpNh7OyyB_3-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_hastag_hash_tag_sign_UI-128.png" vertex="1" parent="1">
+          <mxGeometry x="-3140" y="-266.09" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PRWJ4V5IUGpNh7OyyB_3-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_hastag_hash_tag_sign_UI-128.png" vertex="1" parent="1">
+          <mxGeometry x="-3140" y="-209.99999999999997" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
