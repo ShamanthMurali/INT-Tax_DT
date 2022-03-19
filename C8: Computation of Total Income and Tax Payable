@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T07:58:41.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="-GpSrhWwi7XolFaTOJqq" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T08:09:38.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="lBt7jV8jrP2etEW8orGy" version="17.1.3" type="github">
   <diagram id="J1EZlninHFfmfQznKtOc" name="Page-1">
     <mxGraphModel dx="1564" dy="2517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -474,8 +474,8 @@
         <mxCell id="t_dp3338NcvVRRJt47GR-153" value="Govt realized that due to deductions like 10AA, 35AD they were loosing a lot of income, so they introduced AMT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-480" y="260" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t_dp3338NcvVRRJt47GR-156" value="AMT &lt;b&gt;&lt;u&gt;will not apply to&lt;/u&gt;&lt;/b&gt;-&lt;br&gt;1. Individual/HUF/AOP/BOI/Artificial person whos&lt;br&gt;2. Individual/HUF who has opted for 115BAC&lt;br&gt;&lt;br&gt;AMT &lt;b&gt;&lt;u&gt;will apply to&lt;/u&gt;&lt;/b&gt; if the assessee is claiming any benefit from the following sections-&lt;br&gt;1. 10AA&lt;br&gt;2. 35AD&lt;br&gt;3.80IA to 80RRB (Except 80P) (CA Final)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="400" width="360" height="170" as="geometry" />
+        <mxCell id="t_dp3338NcvVRRJt47GR-156" value="AMT &lt;b&gt;&lt;u&gt;will not apply to&lt;/u&gt;&lt;/b&gt;-&lt;br&gt;1. Individual/HUF/AOP/BOI/Artificial person whos &lt;br&gt;adjusted total income*** is &amp;lt; 20 Lakhs&lt;br&gt;(Note for firm and LLP AMT is applicable at any income)&lt;br&gt;2. Individual/HUF who has opted for 115BAC&lt;br&gt;&lt;br&gt;AMT &lt;b&gt;&lt;u&gt;will apply to&lt;/u&gt;&lt;/b&gt; if the assessee is claiming any benefit from the following sections-&lt;br&gt;1. 10AA&lt;br&gt;2. 35AD&lt;br&gt;3.80IA to 80RRB (Except 80P) (CA Final)&lt;br&gt;it includes 80JJAA, 80QQB, 80RRB." style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="400" width="440" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
