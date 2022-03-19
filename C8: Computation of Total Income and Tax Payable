@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T05:35:30.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="8x8Oq7rDNpVswd39tGtR" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T05:46:28.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="8WKmYquxol_FdnEBhjoA" version="17.1.3" type="github">
   <diagram id="J1EZlninHFfmfQznKtOc" name="Page-1">
-    <mxGraphModel dx="861" dy="2582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="999" dy="2643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,17 +208,17 @@
         <mxCell id="t_dp3338NcvVRRJt47GR-119" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="t_dp3338NcvVRRJt47GR-1">
           <mxGeometry y="440" width="480" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t_dp3338NcvVRRJt47GR-120" value="(+) Surcharge (if applicable) (calculated on aa)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="t_dp3338NcvVRRJt47GR-119">
+        <mxCell id="t_dp3338NcvVRRJt47GR-120" value="(+) Surcharge (if applicable) (calculated on aa)&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;(-) Marginal Relief" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="t_dp3338NcvVRRJt47GR-119">
           <mxGeometry width="320" height="40" as="geometry">
             <mxRectangle width="320" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t_dp3338NcvVRRJt47GR-121" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="t_dp3338NcvVRRJt47GR-119">
+        <mxCell id="t_dp3338NcvVRRJt47GR-121" value="x&lt;br&gt;(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="t_dp3338NcvVRRJt47GR-119">
           <mxGeometry x="320" width="80" height="40" as="geometry">
             <mxRectangle width="80" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t_dp3338NcvVRRJt47GR-122" value="bb" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="t_dp3338NcvVRRJt47GR-119">
+        <mxCell id="t_dp3338NcvVRRJt47GR-122" value="&lt;br&gt;bb" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="t_dp3338NcvVRRJt47GR-119">
           <mxGeometry x="400" width="80" height="40" as="geometry">
             <mxRectangle width="80" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -401,16 +401,16 @@
           <mxGeometry y="30" width="550" height="180" as="geometry" />
         </mxCell>
         <mxCell id="t_dp3338NcvVRRJt47GR-127" value="Surcharge on&amp;nbsp;Income tax applicable for&amp;nbsp;individuals, HUF, AOP/BOI, and artificial juridical person" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="t_dp3338NcvVRRJt47GR-126">
-          <mxGeometry x="110" width="360" height="30" as="geometry" />
+          <mxGeometry x="110" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t_dp3338NcvVRRJt47GR-128" value="Marginal relief" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="930" y="-1160" width="120" height="38.5" as="geometry" />
+          <mxGeometry x="990" y="-1134.25" width="120" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="t_dp3338NcvVRRJt47GR-129" value="AMT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="930" y="-1100" width="120" height="38.5" as="geometry" />
+          <mxGeometry x="800" y="-1320" width="120" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="t_dp3338NcvVRRJt47GR-130" value="115 BAC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="930" y="-1030" width="120" height="38.5" as="geometry" />
+          <mxGeometry x="800" y="-1250" width="120" height="38.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
