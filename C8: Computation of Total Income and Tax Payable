@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T00:26:58.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="A67hGnhM9Ld5Ta3bz-Pp" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T00:56:13.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="kDgmbnc3jAYtGj5LUZbd" version="17.1.3" type="github">
   <diagram id="J1EZlninHFfmfQznKtOc" name="Page-1">
     <mxGraphModel dx="1304" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -331,8 +331,8 @@
             <mxRectangle width="80" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t_dp3338NcvVRRJt47GR-6" value="Calculation of total tax" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" width="240" height="30" as="geometry" />
+        <mxCell id="t_dp3338NcvVRRJt47GR-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Calculation of total tax&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="240" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
