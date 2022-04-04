@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T14:47:41.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="Bi8xT0HUAi9FpeuVOPI7" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T23:50:16.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="LSdVvmDgchccQ2Hcg36n" version="17.1.4" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="4665" dy="1654" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4508" dy="1620" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -417,32 +417,26 @@
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-168" value="Daily allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-955" y="1777.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3hAHZB_PdIfAT_Wt45N5-169" target="3hAHZB_PdIfAT_Wt45N5-170" edge="1">
+        <mxCell id="4immbNIvvuiFmslvtRqF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hAHZB_PdIfAT_Wt45N5-169" target="3hAHZB_PdIfAT_Wt45N5-171">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-169" value="Conveyance allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-955" y="1837.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c50GbscPvQbGEtNQcPzo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3hAHZB_PdIfAT_Wt45N5-170" target="3hAHZB_PdIfAT_Wt45N5-171" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3hAHZB_PdIfAT_Wt45N5-170" value="Conveyance allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-955" y="1897.5" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3hAHZB_PdIfAT_Wt45N5-171" target="3hAHZB_PdIfAT_Wt45N5-172" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-171" value="Helper allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-955" y="1957.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="-955" y="1897.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c50GbscPvQbGEtNQcPzo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3hAHZB_PdIfAT_Wt45N5-172" target="3hAHZB_PdIfAT_Wt45N5-173" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-172" value="Research and academic allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-955" y="2017.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="-955" y="1957.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-173" value="Uniform allowance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-955" y="2077.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="-955" y="2017.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3hAHZB_PdIfAT_Wt45N5-174" value="Allowances for other purposes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-635" y="1337" width="120" height="43" as="geometry" />
@@ -4149,13 +4143,13 @@
             <mxRectangle width="140" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEoAKJsSBL43ld3EtRtZ-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_hastag_hash_tag_sign_UI-128.png" vertex="1" parent="1">
+        <mxCell id="gEoAKJsSBL43ld3EtRtZ-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_hastag_hash_tag_sign_UI-128.png" parent="1" vertex="1">
           <mxGeometry x="3710" y="-440" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gEoAKJsSBL43ld3EtRtZ-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gEoAKJsSBL43ld3EtRtZ-4" target="c50GbscPvQbGEtNQcPzo-277">
+        <mxCell id="gEoAKJsSBL43ld3EtRtZ-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gEoAKJsSBL43ld3EtRtZ-4" target="c50GbscPvQbGEtNQcPzo-277" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gEoAKJsSBL43ld3EtRtZ-4" value="## do not consider this in calculating salary. it is his personal and has no relation with the employer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gEoAKJsSBL43ld3EtRtZ-4" value="## do not consider this in calculating salary. it is his personal and has no relation with the employer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3030" y="1380" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
