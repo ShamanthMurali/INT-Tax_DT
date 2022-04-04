@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T23:50:16.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="LSdVvmDgchccQ2Hcg36n" version="17.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T23:59:21.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="GkfPD3vjXRVt0PzsnS5d" version="17.1.4" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="4508" dy="1620" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="6566" dy="2586" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4151,6 +4151,214 @@
         </mxCell>
         <mxCell id="gEoAKJsSBL43ld3EtRtZ-4" value="## do not consider this in calculating salary. it is his personal and has no relation with the employer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3030" y="1380" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-4" target="4immbNIvvuiFmslvtRqF-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-4" target="4immbNIvvuiFmslvtRqF-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-4" value="Others" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="3160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-5" value="&lt;div&gt;Furnished&lt;/div&gt;&lt;div&gt;accomodation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="3480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-8" target="4immbNIvvuiFmslvtRqF-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-8" value="&lt;div&gt;UnFurnished&lt;/div&gt;&lt;div&gt;accomodation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="3480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-5" target="4immbNIvvuiFmslvtRqF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-11" target="4immbNIvvuiFmslvtRqF-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-11" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="3550" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4immbNIvvuiFmslvtRqF-11">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-13" value="Value of accommodation " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4immbNIvvuiFmslvtRqF-12">
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-14" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4immbNIvvuiFmslvtRqF-12">
+          <mxGeometry x="200" width="40" height="40" as="geometry">
+            <mxRectangle width="40" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4immbNIvvuiFmslvtRqF-11">
+          <mxGeometry y="40" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-16" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;(+) Furnishing charges&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;10% of original cost of furniture&lt;/div&gt;&lt;div&gt;(If owned by company)&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Actual hire chareges&lt;/div&gt;&lt;div&gt;(If hired by company)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4immbNIvvuiFmslvtRqF-15">
+          <mxGeometry width="200" height="100" as="geometry">
+            <mxRectangle width="200" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-17" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4immbNIvvuiFmslvtRqF-15">
+          <mxGeometry x="200" width="40" height="100" as="geometry">
+            <mxRectangle width="40" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4immbNIvvuiFmslvtRqF-11">
+          <mxGeometry y="140" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-19" value="(-) recovery from employee" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4immbNIvvuiFmslvtRqF-18">
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-20" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4immbNIvvuiFmslvtRqF-18">
+          <mxGeometry x="200" width="40" height="40" as="geometry">
+            <mxRectangle width="40" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4immbNIvvuiFmslvtRqF-11">
+          <mxGeometry y="180" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-22" value="Taxable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4immbNIvvuiFmslvtRqF-21">
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-23" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4immbNIvvuiFmslvtRqF-21">
+          <mxGeometry x="200" width="40" height="40" as="geometry">
+            <mxRectangle width="40" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-25" target="4immbNIvvuiFmslvtRqF-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-25" value="if &lt;u&gt;&lt;b&gt;hired&lt;/b&gt;&lt;/u&gt; by company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="3240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-27" target="4immbNIvvuiFmslvtRqF-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-27" value="if &lt;u&gt;&lt;b&gt;owned&lt;/b&gt;&lt;/u&gt; by company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="3240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-28" value="&lt;div&gt;1. population &lt;b&gt;&amp;gt; 25,00,000&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Value of accommodation = &lt;b&gt;15% of salary&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="3300" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-29" target="4immbNIvvuiFmslvtRqF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-29" target="4immbNIvvuiFmslvtRqF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-29" value="&lt;div&gt;2. population &lt;b&gt;&amp;lt;= 10,00,000&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Value of accommodation = &lt;b&gt;7.5% of salary&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="3380" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-30" value="&lt;div&gt;1. 10,00k&amp;lt; population &lt;b&gt;&amp;lt;= 25,00,000&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Value of accommodation = &lt;b&gt;10% of salary&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="3340" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-31" target="4immbNIvvuiFmslvtRqF-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1490" y="3450" />
+              <mxPoint x="1380" y="3450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-31" value="&lt;div&gt;Value of accommodation = &lt;br&gt;&lt;/div&gt;&lt;div&gt;15% of salary&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;actual hire charges&lt;/div&gt;&lt;div&gt;(which ever is less)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="3300" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-35" target="4immbNIvvuiFmslvtRqF-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="3790" />
+              <mxPoint x="1250" y="3790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-35" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="3550" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-36" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4immbNIvvuiFmslvtRqF-35">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-37" value="Value of accommodation " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4immbNIvvuiFmslvtRqF-36">
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-38" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4immbNIvvuiFmslvtRqF-36">
+          <mxGeometry x="200" width="40" height="40" as="geometry">
+            <mxRectangle width="40" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-39" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4immbNIvvuiFmslvtRqF-35">
+          <mxGeometry y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-40" value="(-) recovery from employee" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4immbNIvvuiFmslvtRqF-39">
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-41" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4immbNIvvuiFmslvtRqF-39">
+          <mxGeometry x="200" width="40" height="40" as="geometry">
+            <mxRectangle width="40" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-42" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4immbNIvvuiFmslvtRqF-35">
+          <mxGeometry y="80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-43" value="Taxable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4immbNIvvuiFmslvtRqF-42">
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-44" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4immbNIvvuiFmslvtRqF-42">
+          <mxGeometry x="200" width="40" height="40" as="geometry">
+            <mxRectangle width="40" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-46" target="4immbNIvvuiFmslvtRqF-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-46" value="Govt. emp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="3160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-48" target="4immbNIvvuiFmslvtRqF-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="3450" />
+              <mxPoint x="1120" y="3450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-48" value="value of accommodation = Determined by govt." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="3300" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-51" target="4immbNIvvuiFmslvtRqF-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-51" value="Rent free accomodation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="3000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-52" value="&lt;h4&gt;&lt;em style=&quot;color: #0f5690&quot;&gt;- Salary Includes ...&lt;/em&gt;&lt;/h4&gt;                  &lt;ol&gt;&lt;li&gt; basic salary; &lt;/li&gt;&lt;li&gt;DA in terms&lt;br&gt;&lt;/li&gt;&lt;li&gt; bonus; &lt;/li&gt;&lt;li&gt; commission; &lt;/li&gt;&lt;li&gt; fees; &lt;/li&gt;&lt;li&gt; all other taxable allowances (excluding amount not taxable); &lt;/li&gt;&lt;li&gt; any monetary payment which is chargeable to tax &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;                  &lt;h4&gt;&lt;em style=&quot;color: #0f5690&quot;&gt;- Salary Does Not Includes ...&lt;/em&gt;&lt;/h4&gt;                  &lt;ol type=&quot;i&quot;&gt;&lt;li&gt;&amp;nbsp;DA not in terms &lt;br&gt;&lt;/li&gt;&lt;li&gt; employer’s contribution to provident fund account of an employee; &lt;/li&gt;&lt;li&gt;all allowances which are &lt;u&gt;&lt;b&gt;exempt from tax&lt;/b&gt;&lt;/u&gt;; &lt;/li&gt;&lt;li&gt; value of perquisites&lt;br&gt;&lt;/li&gt;&lt;li&gt; lump-sum payments received at the time of &lt;br&gt;termination of service or superannuation or voluntary retirement, like gratuity, severance pay leave encashment, voluntary retrenchment&amp;nbsp; benefits, commutation of pension and similar payments.&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="3810" width="360" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-54" target="4immbNIvvuiFmslvtRqF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-54" value="This should be only be calculated for the months he actually occupied" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="3470" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-55" target="4immbNIvvuiFmslvtRqF-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-55" target="4immbNIvvuiFmslvtRqF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-55" value="Value of accomodation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="3080" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
