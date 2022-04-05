@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T00:42:47.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="iuLoIxBs-vY5uiBP9pZ6" version="17.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T00:48:28.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="f7-9KsHALciK4tt7OSED" version="17.1.4" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="10787" dy="4567" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4363" dy="1552" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3728,7 +3728,7 @@
         <mxCell id="8hcFBuMolrsmV7O6f8fl-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8hcFBuMolrsmV7O6f8fl-11" target="c50GbscPvQbGEtNQcPzo-232" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hcFBuMolrsmV7O6f8fl-11" value="&amp;nbsp;here (A)Salary is the avg of 10 months and ignore months" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="8hcFBuMolrsmV7O6f8fl-11" value="&amp;nbsp;here (A)Salary is the avg of 10 months" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2660" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8hcFBuMolrsmV7O6f8fl-29" value="Average here means" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
