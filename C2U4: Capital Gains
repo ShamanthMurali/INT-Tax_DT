@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T06:14:02.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="VxbnC-_JYYo0Id21cHyy" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T07:43:58.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="o5SmL9g14S4nuZiNm2hT" version="17.4.0" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
     <mxGraphModel dx="5358" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1828,80 +1828,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-190" value="Absorbed basic &#xa;exemption limit" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1150" y="1320" width="120" height="40" as="geometry">
-            <mxRectangle x="1560" y="1590" width="400" height="470" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-191" value="&lt;div&gt;For Example, for an individual&lt;/div&gt;&lt;div&gt;Income from capital gain = 2,20,000&lt;/div&gt;&lt;div&gt;Income from HP and salaries = 3,00,000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Here the unabsorbed basic exemption limit = 2,00,000&lt;/div&gt;&lt;div&gt;since taxable income starts from 5,00,000. and this person is below that&lt;/div&gt;&lt;div&gt;He is also eligible for rebate exemption.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;His taxability for capital gains will be as follows&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Yu6CIILWX2otFXuLDAdN-190" vertex="1">
-          <mxGeometry y="40" width="400" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-192" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="Yu6CIILWX2otFXuLDAdN-190" vertex="1">
-          <mxGeometry y="190" width="400" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-193" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yu6CIILWX2otFXuLDAdN-192" vertex="1">
-          <mxGeometry width="400" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-194" value="Particulars" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-193" vertex="1">
-          <mxGeometry width="262" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-195" value="Amt" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-193" vertex="1">
-          <mxGeometry x="262" width="138" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-196" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yu6CIILWX2otFXuLDAdN-192" vertex="1">
-          <mxGeometry y="40" width="400" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-197" value="Income from capital gains" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-196" vertex="1">
-          <mxGeometry width="262" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-198" value="2,20,000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-196" vertex="1">
-          <mxGeometry x="262" width="138" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-199" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yu6CIILWX2otFXuLDAdN-192" vertex="1">
-          <mxGeometry y="80" width="400" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-200" value="(-) Unabsorbed Basic exemption" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-199" vertex="1">
-          <mxGeometry width="262" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-201" value="(2,00,000)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-199" vertex="1">
-          <mxGeometry x="262" width="138" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-205" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yu6CIILWX2otFXuLDAdN-192" vertex="1">
-          <mxGeometry y="120" width="400" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-206" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-205" vertex="1">
-          <mxGeometry width="262" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-207" value="20,000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-205" vertex="1">
-          <mxGeometry x="262" width="138" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-202" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yu6CIILWX2otFXuLDAdN-192" vertex="1">
-          <mxGeometry y="160" width="400" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-203" value="(-) Rebate exemption" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-202" vertex="1">
-          <mxGeometry width="262" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-204" value="(12,500)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-202" vertex="1">
-          <mxGeometry x="262" width="138" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-208" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yu6CIILWX2otFXuLDAdN-192" vertex="1">
-          <mxGeometry y="200" width="400" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-209" value="Taxable income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-208" vertex="1">
-          <mxGeometry width="262" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-210" value="7,500" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-208" vertex="1">
-          <mxGeometry x="262" width="138" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-211" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yu6CIILWX2otFXuLDAdN-192" vertex="1">
-          <mxGeometry y="240" width="400" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-212" value="&lt;b&gt;Tax @ 15%&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-211" vertex="1">
-          <mxGeometry width="262" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu6CIILWX2otFXuLDAdN-213" value="&lt;u&gt;&lt;b&gt;1,125&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-211" vertex="1">
-          <mxGeometry x="262" width="138" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yu6CIILWX2otFXuLDAdN-215" target="Yu6CIILWX2otFXuLDAdN-219" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2227,6 +2153,80 @@
         </mxCell>
         <mxCell id="m0lmL_lAnLofOSDCGBP6-2" value="FVOC =&lt;br&gt;&lt;br&gt;1.&amp;nbsp;fair market value of capital assets transferred by way of slump sale&lt;br&gt;or&lt;br&gt;2.&amp;nbsp;&lt;span&gt;fair market value of the consideration (monetary and non-monetary)&amp;nbsp;&lt;/span&gt;&lt;span&gt;received or accruing as a result of transfer by way of slump sale&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;[which ever is Higher]&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=zigzag;strokeColor=default;fillColor=default;gradientColor=none;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="3039.96" y="2795" width="280" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-190" value="Absorbed basic &#xa;exemption limit" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="1150" y="1320" width="120" height="40" as="geometry">
+            <mxRectangle x="1560" y="1590" width="400" height="470" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-191" value="&lt;div&gt;For Example, for an individual&lt;/div&gt;&lt;div&gt;Income from capital gain = 2,20,000&lt;/div&gt;&lt;div&gt;Income from HP and salaries = 3,00,000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Here the unabsorbed basic exemption limit = 2,00,000&lt;/div&gt;&lt;div&gt;since taxable income starts from 5,00,000. and this person is below that&lt;/div&gt;&lt;div&gt;He is also eligible for rebate exemption.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;His taxability for capital gains will be as follows&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Yu6CIILWX2otFXuLDAdN-190" vertex="1">
+          <mxGeometry y="40" width="400" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-192" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="Yu6CIILWX2otFXuLDAdN-190" vertex="1">
+          <mxGeometry y="190" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-193" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yu6CIILWX2otFXuLDAdN-192" vertex="1">
+          <mxGeometry width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-194" value="Particulars" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-193" vertex="1">
+          <mxGeometry width="262" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-195" value="Amt" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-193" vertex="1">
+          <mxGeometry x="262" width="138" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-196" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yu6CIILWX2otFXuLDAdN-192" vertex="1">
+          <mxGeometry y="40" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-197" value="Income from capital gains" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-196" vertex="1">
+          <mxGeometry width="262" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-198" value="2,20,000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-196" vertex="1">
+          <mxGeometry x="262" width="138" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-199" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yu6CIILWX2otFXuLDAdN-192" vertex="1">
+          <mxGeometry y="80" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-200" value="(-) Unabsorbed Basic exemption" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-199" vertex="1">
+          <mxGeometry width="262" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-201" value="(2,00,000)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-199" vertex="1">
+          <mxGeometry x="262" width="138" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-205" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yu6CIILWX2otFXuLDAdN-192" vertex="1">
+          <mxGeometry y="120" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-206" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-205" vertex="1">
+          <mxGeometry width="262" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-207" value="20,000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-205" vertex="1">
+          <mxGeometry x="262" width="138" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-202" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yu6CIILWX2otFXuLDAdN-192" vertex="1">
+          <mxGeometry y="160" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-203" value="(-) Rebate exemption" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-202" vertex="1">
+          <mxGeometry width="262" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-204" value="(12,500)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-202" vertex="1">
+          <mxGeometry x="262" width="138" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-208" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yu6CIILWX2otFXuLDAdN-192" vertex="1">
+          <mxGeometry y="200" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-209" value="Taxable income" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-208" vertex="1">
+          <mxGeometry width="262" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-210" value="7,500" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-208" vertex="1">
+          <mxGeometry x="262" width="138" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-211" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Yu6CIILWX2otFXuLDAdN-192" vertex="1">
+          <mxGeometry y="240" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-212" value="&lt;b&gt;Tax @ 15%&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-211" vertex="1">
+          <mxGeometry width="262" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu6CIILWX2otFXuLDAdN-213" value="&lt;u&gt;&lt;b&gt;1,125&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-211" vertex="1">
+          <mxGeometry x="262" width="138" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
