@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T23:59:50.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="e4pc6J52r9ErJGrtQ92b" version="17.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T00:01:01.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="YJCjfOmITtihgt41lm4S" version="17.1.4" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="8940" dy="3700" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4139" dy="1447" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4283,7 +4283,7 @@
         <mxCell id="4immbNIvvuiFmslvtRqF-29" value="&lt;div&gt;2. population &lt;b&gt;&amp;lt;= 10,00,000&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Value of accommodation = &lt;b&gt;7.5% of salary&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="-90" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4immbNIvvuiFmslvtRqF-30" value="&lt;div&gt;1. 10,00k&amp;lt; population &lt;b&gt;&amp;lt;= 25,00,000&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Value of accommodation = &lt;b&gt;10% of salary&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4immbNIvvuiFmslvtRqF-30" value="&lt;div&gt;1. &lt;b&gt;10,00,000 &amp;lt;&lt;/b&gt; population &lt;b&gt;&amp;lt;= 25,00,000&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Value of accommodation = &lt;b&gt;10% of salary&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="-130" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4immbNIvvuiFmslvtRqF-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4immbNIvvuiFmslvtRqF-31" target="4immbNIvvuiFmslvtRqF-8">
