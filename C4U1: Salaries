@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T00:01:01.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="YJCjfOmITtihgt41lm4S" version="17.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T00:42:47.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="iuLoIxBs-vY5uiBP9pZ6" version="17.1.4" type="github">
   <diagram id="lz2HaWWx_FQ_DOFBxpIi" name="Page-1">
-    <mxGraphModel dx="4139" dy="1447" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="10787" dy="4567" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3326,6 +3326,9 @@
         <mxCell id="Jd-gLuJi4j8HBSExbjtY-3" value="Note" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12720" y="-440" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jd-gLuJi4j8HBSExbjtY-4" target="4immbNIvvuiFmslvtRqF-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Jd-gLuJi4j8HBSExbjtY-4" value="Professional tax" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12400" y="-440" width="120" height="40" as="geometry" />
         </mxCell>
@@ -4387,6 +4390,9 @@
         </mxCell>
         <mxCell id="4immbNIvvuiFmslvtRqF-55" value="Value of accomodation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="-390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4immbNIvvuiFmslvtRqF-69" value="Max 2500 p.a" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12400" y="-380" width="120" height="38.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
