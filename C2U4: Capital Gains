@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T11:00:59.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="wCgOfSySMhG5A8K7N2m2" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T06:14:02.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="VxbnC-_JYYo0Id21cHyy" version="17.4.0" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="5635" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5358" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -575,7 +575,7 @@
         <mxCell id="4toc84XJHAsPXifJmLsm-72" value="&lt;div&gt;No insurance&lt;/div&gt;&lt;div&gt; created&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1660.62" y="2900" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4toc84XJHAsPXifJmLsm-74" value="no benefit" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4toc84XJHAsPXifJmLsm-74" value="no drama" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1660.62" y="2960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4toc84XJHAsPXifJmLsm-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4toc84XJHAsPXifJmLsm-77" target="4toc84XJHAsPXifJmLsm-78" edge="1">
@@ -1399,7 +1399,7 @@
         <mxCell id="Yu6CIILWX2otFXuLDAdN-61" value="&lt;div&gt;S50B &lt;br&gt;&lt;/div&gt;&lt;div&gt;Slump sale &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3119.959999999999" y="2630" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m0lmL_lAnLofOSDCGBP6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=default;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-62" target="Yu6CIILWX2otFXuLDAdN-64">
+        <mxCell id="m0lmL_lAnLofOSDCGBP6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=default;dashed=1;dashPattern=1 1;" parent="1" source="Yu6CIILWX2otFXuLDAdN-62" target="Yu6CIILWX2otFXuLDAdN-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3180" y="3050" />
@@ -1407,7 +1407,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0lmL_lAnLofOSDCGBP6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=default;" edge="1" parent="1" source="Yu6CIILWX2otFXuLDAdN-62" target="m0lmL_lAnLofOSDCGBP6-2">
+        <mxCell id="m0lmL_lAnLofOSDCGBP6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=default;" parent="1" source="Yu6CIILWX2otFXuLDAdN-62" target="m0lmL_lAnLofOSDCGBP6-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-62" value="&lt;div&gt;Transfer of 1 or more divisions / units for a lumpsum value. and individual value are not assigned to any asset or liability. in such case entire division / unit is treated as a single capital asset.&lt;/div&gt;&lt;div&gt;and such transfer is taxable as slump sale&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2225,7 +2225,7 @@
         <mxCell id="YaYx9c6rZ64ztRvZqCbM-1" value="Because Indexation is an option and not compulsory here" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2290" y="1210" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m0lmL_lAnLofOSDCGBP6-2" value="FVOC =&lt;br&gt;&lt;br&gt;1.&amp;nbsp;fair market value of capital assets transferred by way of slump sale&lt;br&gt;or&lt;br&gt;2.&amp;nbsp;&lt;span&gt;fair market value of the consideration (monetary and non-monetary)&amp;nbsp;&lt;/span&gt;&lt;span&gt;received or accruing as a result of transfer by way of slump sale&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;[which ever is Higher]&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=zigzag;strokeColor=default;fillColor=default;gradientColor=none;gradientDirection=east;" vertex="1" parent="1">
+        <mxCell id="m0lmL_lAnLofOSDCGBP6-2" value="FVOC =&lt;br&gt;&lt;br&gt;1.&amp;nbsp;fair market value of capital assets transferred by way of slump sale&lt;br&gt;or&lt;br&gt;2.&amp;nbsp;&lt;span&gt;fair market value of the consideration (monetary and non-monetary)&amp;nbsp;&lt;/span&gt;&lt;span&gt;received or accruing as a result of transfer by way of slump sale&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;[which ever is Higher]&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=zigzag;strokeColor=default;fillColor=default;gradientColor=none;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="3039.96" y="2795" width="280" height="165" as="geometry" />
         </mxCell>
       </root>
