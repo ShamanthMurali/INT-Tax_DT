@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T07:43:58.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="o5SmL9g14S4nuZiNm2hT" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T11:22:44.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="GDssyKGL3_pc5omn9UPr" version="20.0.1" type="github">
   <diagram id="mhBJFrGhHL3GC0A0NcPK" name="Page-1">
-    <mxGraphModel dx="5358" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5439" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2227,6 +2227,12 @@
         </mxCell>
         <mxCell id="Yu6CIILWX2otFXuLDAdN-213" value="&lt;u&gt;&lt;b&gt;1,125&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Yu6CIILWX2otFXuLDAdN-211" vertex="1">
           <mxGeometry x="262" width="138" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QYXL8rUZkKHgjb2-3yz_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.218;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QYXL8rUZkKHgjb2-3yz_-1" target="qMrhOpDwRkPrCX5FWaJR-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYXL8rUZkKHgjb2-3yz_-1" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;If any capital asset has been purchased or constructed before 01.04.2001, in that case cost shall be&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;considered to be the cost incurred or fair market value of the asset as on 01.04.2001 whichever is higher and&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;further index of 2001-02 shall be used instead of the index of the earlier year. Any cost of improvement&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;prior to 01-04-2001 shall not be taken into consideration.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;In case of land or building such market value cannot exceed stamp duty value as on 01.04.2001.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="1930" width="390" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
